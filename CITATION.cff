@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this resource in academic or professional work, please cite it as below."
+type: dataset
+title: "Sanctions and Export Controls — AI, Advanced Computing & Oil/Energy"
+abstract: >
+  A curated repository of primary regulatory sources, law-firm analysis, and
+  enforcement guidance covering US export controls (EAR/BIS) and OFAC sanctions
+  as applied to artificial intelligence, advanced computing, and the oil and
+  energy sector.
+authors:
+  - family-names: Villasuso Lago
+    given-names: Felipe
+    affiliation: "AIQ / London South Bank University (LSBU)"
+    email: fe_lago@yahoo.com.br
+    orcid: ""
+repository-code: "https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil"
+url: "https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil/"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-06-09"
+keywords:
+  - export-controls
+  - sanctions
+  - EAR
+  - OFAC
+  - BIS
+  - AI governance
+  - affiliates rule
+  - energy sector
+  - compliance

@@ -1,0 +1,135 @@
+name: Weekly Digest Update
+
+on:
+  schedule:
+    # Every Monday at 08:00 UTC
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Scrape sources and generate digest
+        env:
+          RUN_DATE: ${{ github.run_id }}
+        run: |
+          python - <<'PYEOF'
+          import datetime
+          import re
+          import requests
+          from bs4 import BeautifulSoup
+
+          today = datetime.date.today()
+          week_label = today.strftime("%Y-%m-%d")
+          items = []
+
+          HEADERS = {
+              "User-Agent": (
+                  "Mozilla/5.0 (compatible; sanctions-digest-bot/1.0; "
+                  "+https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil)"
+              )
+          }
+
+          def fetch_html(url, timeout=20):
+              try:
+                  r = requests.get(url, headers=HEADERS, timeout=timeout)
+                  r.raise_for_status()
+                  return r.text
+              except Exception as e:
+                  print(f"WARNING: could not fetch {url}: {e}")
+                  return ""
+
+          # --- OFAC Press Releases ---
+          html = fetch_html("https://ofac.treasury.gov/press-releases")
+          if html:
+              soup = BeautifulSoup(html, "lxml")
+              for a in soup.select("a[href*='/press-releases/']")[:5]:
+                  title = a.get_text(strip=True)
+                  href = a["href"]
+                  if title and href and title not in [i[0] for i in items]:
+                      full_url = href if href.startswith("http") else f"https://ofac.treasury.gov{href}"
+                      items.append((title, full_url, "OFAC"))
+
+          # --- Federal Register: BIS / OFAC rules published in last 7 days ---
+          fr_url = (
+              "https://www.federalregister.gov/api/v1/documents.json"
+              "?fields[]=title&fields[]=html_url&fields[]=publication_date"
+              "&order=newest&per_page=10"
+              "&agencies[]=bureau-of-industry-and-security"
+              "&agencies[]=office-of-foreign-assets-control"
+          )
+          try:
+              resp = requests.get(fr_url, headers=HEADERS, timeout=20)
+              resp.raise_for_status()
+              data = resp.json()
+              for doc in data.get("results", []):
+                  title = doc.get("title", "")
+                  url = doc.get("html_url", "")
+                  pub = doc.get("publication_date", "")
+                  if title and url:
+                      items.append((f"{title} ({pub})", url, "Federal Register"))
+          except Exception as e:
+              print(f"WARNING: Federal Register API error: {e}")
+
+          # --- DOJ NSD press releases ---
+          html = fetch_html("https://www.justice.gov/nsd/export-control-and-sanctions")
+          if html:
+              soup = BeautifulSoup(html, "lxml")
+              for a in soup.select("a[href*='press-release']")[:3]:
+                  title = a.get_text(strip=True)
+                  href = a.get("href", "")
+                  if title and href:
+                      full_url = href if href.startswith("http") else f"https://www.justice.gov{href}"
+                      items.append((title, full_url, "DOJ NSD"))
+
+          # --- Build digest markdown ---
+          digest_lines = [f"## Week of {week_label}\n"]
+          if items:
+              for title, url, source in items:
+                  digest_lines.append(f"- **[{source}]** [{title}]({url})")
+          else:
+              digest_lines.append("*No new items retrieved this week.*")
+
+          digest_block = "\n".join(digest_lines)
+
+          # --- Inject into news/digest.md between markers ---
+          with open("news/digest.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"<!-- DIGEST_START -->.*?<!-- DIGEST_END -->",
+              f"<!-- DIGEST_START -->\n{digest_block}\n<!-- DIGEST_END -->",
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("news/digest.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print("Digest written successfully.")
+          PYEOF
+
+      - name: Commit digest update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/digest.md
+          git diff --cached --quiet || git commit -m "chore: weekly digest update $(date -u +%Y-%m-%d)"
+
+      - name: Push changes
+        run: git push
