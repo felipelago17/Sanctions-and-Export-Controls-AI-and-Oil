@@ -1,0 +1,65 @@
+site_name: Sanctions & Export Controls — AI, Advanced Computing & Oil/Energy
+site_description: >
+  Curated resource on US export controls (EAR/BIS) and OFAC sanctions as applied
+  to artificial intelligence, advanced computing, and the oil/energy sector.
+site_author: Felipe Villasuso Lago
+site_url: https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil/
+
+repo_name: felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
+repo_url: https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
+edit_uri: edit/main/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.integrate
+    - content.action.edit
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: README.md
+  - Regulations:
+    - Primary Sources: regulations/primary-sources.md
+    - AI & Advanced Technology: regulations/ai-advanced-tech-export-controls.md
+    - Extraterritorial Enforcement: regulations/extraterritorial-enforcement.md
+    - Encryption & Open Source: regulations/encryption-open-source.md
+    - OFAC UBO & 50% Rule: regulations/ofac-ubo-50-percent-rule.md
+    - BIS Affiliates Rule: regulations/bis-affiliates-rule.md
+    - Sanctions — Oil & Energy: regulations/sanctions-oil-energy.md
+  - News:
+    - Weekly Digest: news/digest.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/felipelago17
