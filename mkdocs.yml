@@ -7,7 +7,7 @@ site_url: https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oi
 
 repo_name: felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
 repo_url: https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
-edit_uri: edit/main/
+edit_uri: edit/main/docs/
 
 docs_dir: docs
 
@@ -31,10 +31,13 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.indexes
     - search.highlight
     - search.suggest
-    - toc.integrate
+    - toc.follow
     - content.action.edit
+    - content.code.copy
+    - content.tabs.link
 
 plugins:
   - search
@@ -42,11 +45,23 @@ plugins:
 markdown_extensions:
   - tables
   - attr_list
+  - md_in_html
   - toc:
       permalink: true
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
   - Home: index.md
@@ -58,10 +73,15 @@ nav:
     - OFAC UBO & 50% Rule: regulations/ofac-ubo-50-percent-rule.md
     - BIS Affiliates Rule: regulations/bis-affiliates-rule.md
     - Sanctions — Oil & Energy: regulations/sanctions-oil-energy.md
+  - Visuals & Tools: visuals.md
+  - Sources & Literature: additional-sources.md
   - News:
-    - Weekly Digest: news/digest.md
+    - Daily Digest: news/digest.md
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/felipelago17
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js

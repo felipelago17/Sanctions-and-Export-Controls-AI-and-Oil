@@ -1,0 +1,264 @@
+name: Daily Digest Update
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Every day at 07:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  update-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml feedparser
+
+      - name: Run digest scraper
+        run: |
+          python - <<'PYEOF'
+          import datetime, re, sys
+          import requests
+          from bs4 import BeautifulSoup
+          import feedparser
+
+          TODAY = datetime.date.today()
+          CUTOFF = datetime.datetime.utcnow() - datetime.timedelta(hours=30)
+          HEADERS = {
+              "User-Agent": (
+                  "Mozilla/5.0 (compatible; sanctions-digest-bot/1.0; "
+                  "+https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil)"
+              )
+          }
+
+          # ── Relevance filter ────────────────────────────────────────────────
+          KEYWORDS = {
+              "sanction", "ofac", "sdn", "bis ", " bis\b", "export control",
+              "ear ", "entity list", "ai diffusion", "advanced computing",
+              "gpu", "chip", "semiconductor", "russia", "iran", "venezuela",
+              "oil", "energy", "designat", "50 percent", "affiliate rule",
+              "ecra", "ieepa", "artificial intelligence", "model weight",
+              "price cap", "entity list", "military end user", "fdpr",
+              "diffusion rule", "encryption", "dual-use", "arms export",
+              "itar", "ddtc", "treasury", "commerce department", "trade control",
+              "tariff", "embargo", "blocked", "compliance", "enforcement action",
+          }
+
+          def relevant(text):
+              t = text.lower()
+              return any(kw in t for kw in KEYWORDS)
+
+          def safe_get(url, timeout=20):
+              try:
+                  r = requests.get(url, headers=HEADERS, timeout=timeout)
+                  r.raise_for_status()
+                  return r.text
+              except Exception as e:
+                  print(f"  WARNING: {url} → {e}", file=sys.stderr)
+                  return ""
+
+          items = []   # list of (title, url, source_label, category)
+          seen_urls = set()
+
+          def add(title, url, source, category):
+              title = title.strip()
+              if not title or not url or url in seen_urls:
+                  return
+              seen_urls.add(url)
+              items.append((title, url, source, category))
+
+          # ── RSS Feeds ────────────────────────────────────────────────────────
+          RSS_SOURCES = [
+              # Official / near-official
+              ("Baker McKenzie Sanctions",      "https://sanctionsnews.bakermckenzie.com/feed/",           "Official & Regulatory"),
+              # Think tanks / academic
+              ("CNAS",                          "https://www.cnas.org/feed/",                              "Think Tanks & Academic"),
+              ("Lawfare",                       "https://www.lawfaremedia.org/feed",                       "Think Tanks & Academic"),
+              ("Just Security",                 "https://www.justsecurity.org/feed/",                      "Think Tanks & Academic"),
+              ("Atlantic Council",              "https://www.atlanticcouncil.org/feed/",                   "Think Tanks & Academic"),
+              ("RUSI",                          "https://rusi.org/feeds/all",                              "Think Tanks & Academic"),
+              ("Chatham House",                 "https://www.chathamhouse.org/rss.xml",                    "Think Tanks & Academic"),
+              ("Carnegie Endowment",            "https://carnegieendowment.org/rss/solr/articles",         "Think Tanks & Academic"),
+              ("Brookings",                     "https://www.brookings.edu/feed/",                         "Think Tanks & Academic"),
+              # Law firm blogs
+              ("Steptoe Int'l Compliance",      "https://www.steptoeinternationallawblog.com/feed/",       "Law Firm Analysis"),
+              ("Cleary Gottlieb",               "https://www.clearygottlieb.com/rss/",                     "Law Firm Analysis"),
+              ("Gibson Dunn",                   "https://www.gibsondunn.com/feed/",                        "Law Firm Analysis"),
+              ("WilmerHale",                    "https://www.wilmerhale.com/en/insights/rss",              "Law Firm Analysis"),
+              ("Covington",                     "https://www.cov.com/en/news-and-insights/rss",            "Law Firm Analysis"),
+              # Trade / industry
+              ("WorldECR",                      "https://www.worldecr.com/feed/",                          "Trade & Industry"),
+              ("Trade Compliance Corner",       "https://tradecompliancecorner.com/feed/",                 "Trade & Industry"),
+          ]
+
+          for label, feed_url, category in RSS_SOURCES:
+              try:
+                  feed = feedparser.parse(feed_url)
+                  for entry in feed.entries[:25]:
+                      title = entry.get("title", "").strip()
+                      url   = entry.get("link",  "").strip()
+                      pub   = entry.get("published_parsed") or entry.get("updated_parsed")
+                      if pub:
+                          try:
+                              pub_dt = datetime.datetime(*pub[:6])
+                              if pub_dt < CUTOFF:
+                                  continue
+                          except Exception:
+                              pass
+                      summary = entry.get("summary", "") or entry.get("content", [{}])[0].get("value", "")
+                      if title and url and relevant(title + " " + summary):
+                          add(title, url, label, category)
+              except Exception as e:
+                  print(f"  RSS error [{label}]: {e}", file=sys.stderr)
+
+          # ── OFAC Press Releases ──────────────────────────────────────────────
+          html = safe_get("https://ofac.treasury.gov/press-releases")
+          if html:
+              soup = BeautifulSoup(html, "lxml")
+              for a in soup.select("a[href*='/press-releases/']")[:10]:
+                  title = a.get_text(strip=True)
+                  href  = a.get("href", "")
+                  if title and href:
+                      full = href if href.startswith("http") else f"https://ofac.treasury.gov{href}"
+                      add(title, full, "OFAC", "Official & Regulatory")
+
+          # ── BIS Press Releases ───────────────────────────────────────────────
+          html = safe_get("https://www.bis.gov/press-release")
+          if html:
+              soup = BeautifulSoup(html, "lxml")
+              for a in soup.select("a[href*='press-release']")[:8]:
+                  title = a.get_text(strip=True)
+                  href  = a.get("href", "")
+                  if title and href and len(title) > 15:
+                      full = href if href.startswith("http") else f"https://www.bis.gov{href}"
+                      add(title, full, "BIS", "Official & Regulatory")
+
+          # ── Federal Register API (BIS + OFAC + Treasury) ─────────────────────
+          fr_url = (
+              "https://www.federalregister.gov/api/v1/documents.json"
+              "?fields[]=title&fields[]=html_url&fields[]=publication_date"
+              "&order=newest&per_page=15"
+              "&agencies[]=bureau-of-industry-and-security"
+              "&agencies[]=office-of-foreign-assets-control"
+              "&agencies[]=office-of-the-secretary-of-commerce"
+          )
+          try:
+              data = requests.get(fr_url, headers=HEADERS, timeout=20).json()
+              for doc in data.get("results", []):
+                  title = doc.get("title", "")
+                  url   = doc.get("html_url", "")
+                  pub   = doc.get("publication_date", "")
+                  if title and url:
+                      add(f"{title} ({pub})", url, "Federal Register", "Official & Regulatory")
+          except Exception as e:
+              print(f"  Federal Register API error: {e}", file=sys.stderr)
+
+          # ── DOJ NSD ──────────────────────────────────────────────────────────
+          html = safe_get("https://www.justice.gov/nsd/export-control-and-sanctions")
+          if html:
+              soup = BeautifulSoup(html, "lxml")
+              for a in soup.select("a[href*='press-release']")[:5]:
+                  title = a.get_text(strip=True)
+                  href  = a.get("href", "")
+                  if title and href:
+                      full = href if href.startswith("http") else f"https://www.justice.gov{href}"
+                      add(title, full, "DOJ NSD", "Official & Regulatory")
+
+          # ── Treasury Press Releases ──────────────────────────────────────────
+          html = safe_get("https://home.treasury.gov/news/press-releases")
+          if html:
+              soup = BeautifulSoup(html, "lxml")
+              for a in soup.select("a[href*='/news/press-releases/']")[:8]:
+                  title = a.get_text(strip=True)
+                  href  = a.get("href", "")
+                  if title and href and relevant(title):
+                      full = href if href.startswith("http") else f"https://home.treasury.gov{href}"
+                      add(title, full, "Treasury", "Official & Regulatory")
+
+          # ── Build markdown block ─────────────────────────────────────────────
+          by_cat = {}
+          for title, url, source, cat in items:
+              by_cat.setdefault(cat, []).append((title, url, source))
+
+          CAT_ORDER = [
+              "Official & Regulatory",
+              "Law Firm Analysis",
+              "Think Tanks & Academic",
+              "Trade & Industry",
+          ]
+
+          lines = [f"## {TODAY.strftime('%Y-%m-%d')}\n"]
+          if not items:
+              lines.append("*No new items retrieved today.*\n")
+          else:
+              for cat in CAT_ORDER:
+                  entries = by_cat.get(cat, [])
+                  if not entries:
+                      continue
+                  lines.append(f"### {cat}\n")
+                  for title, url, source in entries:
+                      lines.append(f"- **[{source}]** [{title}]({url})")
+                  lines.append("")
+
+          new_block = "\n".join(lines)
+
+          # ── Inject into digest files ─────────────────────────────────────────
+          PATHS = ["news/digest.md", "docs/news/digest.md"]
+          for path in PATHS:
+              try:
+                  with open(path, "r", encoding="utf-8") as f:
+                      content = f.read()
+
+                  # Prepend today's block after the opening header / intro
+                  marker = "<!-- DIGEST_START -->"
+                  end_marker = "<!-- DIGEST_END -->"
+
+                  # Extract existing entries and prepend new block
+                  m = re.search(r"<!-- DIGEST_START -->(.*?)<!-- DIGEST_END -->",
+                                content, flags=re.DOTALL)
+                  existing = m.group(1).strip() if m else ""
+
+                  # Build updated body: new block + blank line + existing entries
+                  # Keep roughly 60 days of history (trim at 3000 lines)
+                  combined_lines = new_block.splitlines() + ["", "---", ""] + existing.splitlines()
+                  if len(combined_lines) > 3000:
+                      combined_lines = combined_lines[:3000]
+                  body = "\n".join(combined_lines)
+
+                  new_content = re.sub(
+                      r"<!-- DIGEST_START -->.*?<!-- DIGEST_END -->",
+                      f"{marker}\n{body}\n{end_marker}",
+                      content,
+                      flags=re.DOTALL,
+                  )
+
+                  with open(path, "w", encoding="utf-8") as f:
+                      f.write(new_content)
+                  print(f"  Written: {path}")
+              except FileNotFoundError:
+                  print(f"  WARNING: {path} not found", file=sys.stderr)
+
+          print(f"Done. {len(items)} items collected.")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/digest.md docs/news/digest.md
+          git diff --cached --quiet && echo "No changes to commit" || \
+            git commit -m "chore: daily digest update $(date -u +%Y-%m-%d)"
+          git push

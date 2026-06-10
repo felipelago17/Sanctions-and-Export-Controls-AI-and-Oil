@@ -1,21 +1,20 @@
-# Weekly Digest — Sanctions & Export Controls
+# Daily Digest — Sanctions & Export Controls
 
-*Auto-updated every Monday at 08:00 UTC by [`.github/workflows/weekly-update.yml`](../.github/workflows/weekly-update.yml). Sources: BIS, OFAC, Federal Register, DOJ NSD.*
+*Auto-updated every day at 07:00 UTC by [`.github/workflows/daily-update.yml`](../../.github/workflows/daily-update.yml).*
+
+**Sources monitored:** OFAC · BIS · DOJ NSD · Treasury · Federal Register · Baker McKenzie Sanctions News · CNAS · Lawfare · Just Security · Atlantic Council · RUSI · Chatham House · Carnegie Endowment · Brookings · Steptoe · Cleary Gottlieb · Gibson Dunn · WilmerHale · Covington · WorldECR
+
+See [Additional Sources & Literature](../additional-sources.md) for the full source index.
 
 ---
 
 <!-- DIGEST_START -->
-## Week of 2026-06-09
+## 2026-06-10
 
-*No digest generated yet. The workflow will populate this file on the next scheduled run (Monday 08:00 UTC).*
+*Digest will populate on the next scheduled run (daily at 07:00 UTC).*
 
-Sources monitored:
-- **BIS** — <https://media.bis.gov/regulations/ear> and <https://media.bis.gov/enforcement>
-- **OFAC** — <https://ofac.treasury.gov/press-releases>
-- **Federal Register** — BIS and OFAC rule filings
-- **DOJ NSD** — <https://www.justice.gov/nsd/export-control-and-sanctions>
 <!-- DIGEST_END -->
 
 ---
 
-*Previous digests are preserved in git history.*
+*Entries are prepended daily; approximately 60 days of history is retained. Full history in git log.*
