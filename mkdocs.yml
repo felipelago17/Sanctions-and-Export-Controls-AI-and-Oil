@@ -9,7 +9,7 @@ repo_name: felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
 repo_url: https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
 edit_uri: edit/main/
 
-docs_dir: .
+docs_dir: docs
 
 theme:
   name: material
@@ -49,7 +49,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - Home: README.md
+  - Home: index.md
   - Regulations:
     - Primary Sources: regulations/primary-sources.md
     - AI & Advanced Technology: regulations/ai-advanced-tech-export-controls.md
