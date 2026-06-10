@@ -9,6 +9,8 @@ repo_name: felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
 repo_url: https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
 edit_uri: edit/main/
 
+docs_dir: .
+
 theme:
   name: material
   palette:
