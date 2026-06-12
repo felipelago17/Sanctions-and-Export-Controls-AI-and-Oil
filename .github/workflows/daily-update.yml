@@ -146,22 +146,22 @@ jobs:
                       full = href if href.startswith("http") else f"https://www.bis.gov{href}"
                       add(title, full, "BIS", "Official & Regulatory")
 
-          # ── Federal Register API (BIS + OFAC + Treasury) ─────────────────────
+          # ── Federal Register API (BIS + OFAC only — narrow agency scope) ───────
           fr_url = (
               "https://www.federalregister.gov/api/v1/documents.json"
-              "?fields[]=title&fields[]=html_url&fields[]=publication_date"
-              "&order=newest&per_page=15"
+              "?fields[]=title&fields[]=html_url&fields[]=publication_date&fields[]=abstract"
+              "&order=newest&per_page=20"
               "&agencies[]=bureau-of-industry-and-security"
               "&agencies[]=office-of-foreign-assets-control"
-              "&agencies[]=office-of-the-secretary-of-commerce"
           )
           try:
               data = requests.get(fr_url, headers=HEADERS, timeout=20).json()
               for doc in data.get("results", []):
-                  title = doc.get("title", "")
-                  url   = doc.get("html_url", "")
-                  pub   = doc.get("publication_date", "")
-                  if title and url:
+                  title    = doc.get("title", "")
+                  url      = doc.get("html_url", "")
+                  pub      = doc.get("publication_date", "")
+                  abstract = doc.get("abstract", "") or ""
+                  if title and url and relevant(title + " " + abstract):
                       add(f"{title} ({pub})", url, "Federal Register", "Official & Regulatory")
           except Exception as e:
               print(f"  Federal Register API error: {e}", file=sys.stderr)
