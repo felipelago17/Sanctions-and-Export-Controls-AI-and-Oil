@@ -46,7 +46,8 @@ CITATION.cff
 | Repository | Description |
 |---|---|
 | [felipelago17/AI-regulatory-monitor](https://github.com/felipelago17/AI-regulatory-monitor) | Broader AI regulatory landscape monitoring |
-| [felipelago17/Joint-ventures-and-Energy-Trilemma](https://github.com/felipelago17/Joint-ventures-and-Energy-Trilemma) | Joint venture structuring under the energy trilemma |
+| [felipelago17/Joint-ventures-and-Energy-Trilemma-](https://github.com/felipelago17/Joint-ventures-and-Energy-Trilemma-) | Joint venture structuring under the energy trilemma |
+| [felipelago17/Responsible-AI-evaluation](https://github.com/felipelago17/Responsible-AI-evaluation) | Framework for stress-testing AI systems: bias, toxicity, truthfulness, robustness, adversarial risk |
 
 ---
 
