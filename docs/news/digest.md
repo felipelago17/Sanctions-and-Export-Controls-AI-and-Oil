@@ -62,6 +62,45 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 - **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
 - **[OFAC]** [Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations](https://home.treasury.gov/news/press-releases/sb0503)
 - **[OFAC]** [Treasury Targets Flotilla Organizers and Muslim Brotherhood Networks Supporting Hamas](https://home.treasury.gov/news/press-releases/sb0501)
+- **[Federal Register]** [Large Vertical Shaft Engines From China; Scheduling of Expedited Five-Year Reviews (2026-06-12)](https://www.federalregister.gov/documents/2026/06/12/2026-11913/large-vertical-shaft-engines-from-china-scheduling-of-expedited-five-year-reviews)
+- **[Federal Register]** [60-Day Notice of Intent To Seek Extension of Approval of Collection: Recordations (Rail and Water Carrier Liens), Water Carrier Tariffs, and Agricultural Contract Summaries (2026-06-12)](https://www.federalregister.gov/documents/2026/06/12/2026-11901/60-day-notice-of-intent-to-seek-extension-of-approval-of-collection-recordations-rail-and-water)
+- **[Federal Register]** [Notice of OFAC Sanctions Action (2026-06-12)](https://www.federalregister.gov/documents/2026/06/12/2026-11896/notice-of-ofac-sanctions-action)
+- **[Federal Register]** [Notice Announcing Centers Aligned With Areas of National Need Program Competition (2026-06-12)](https://www.federalregister.gov/documents/2026/06/12/2026-11893/notice-announcing-centers-aligned-with-areas-of-national-need-program-competition)
+- **[Federal Register]** [Proposed Collection; 60-Day Comment Request; Specimen Resource Locator (National Cancer Institute) (2026-06-12)](https://www.federalregister.gov/documents/2026/06/12/2026-11892/proposed-collection-60-day-comment-request-specimen-resource-locator-national-cancer-institute)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Secretary Scott Bessent and First Lady Melania Trump Announce Access to Trump Accounts for Foster Youth, under Mrs. Trump’s Fostering the Future Initiative](https://home.treasury.gov/news/press-releases/sb0530)
+- **[Treasury]** [Treasury Previews Education Freedom Tax Credit Guidance](https://home.treasury.gov/news/press-releases/sb0527)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent at The Trump Accounts for Foster Youth Event](https://home.treasury.gov/news/press-releases/sb0529)
+- **[Treasury]** [Statement from Secretary of the Treasury Scott Bessent Before the United States House of Representatives Ways and Means Committee](https://home.treasury.gov/news/press-releases/sb0522)
+- **[Treasury]** [Statement from Secretary of the Treasury Scott Bessent Before the United States Senate Finance Committee](https://home.treasury.gov/news/press-releases/sb0521)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Thoughts for Judge Advocates in Challenging Times](https://www.justsecurity.org/141987/judge-advocates-working-group-guidiance/?utm_source=rss&utm_medium=rss&utm_campaign=judge-advocates-working-group-guidiance)
+- **[Just Security]** [It’s Not too Late to Fix the AI Exports Program](https://www.justsecurity.org/140041/fix-us-ai-exports-program/?utm_source=rss&utm_medium=rss&utm_campaign=fix-us-ai-exports-program)
+- **[Just Security]** [Early Edition: June 11, 2026](https://www.justsecurity.org/142084/early-edition-june-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-11-2026)
+- **[Atlantic Council]** [The Iran war is a game of liar’s poker](https://www.atlanticcouncil.org/blogs/menasource/the-iran-war-is-a-game-of-liars-poker/)
+- **[Atlantic Council]** [Putin can no longer shield ordinary Russians from the war he unleashed](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-can-no-longer-shield-ordinary-russians-from-the-war-he-unleashed/)
+- **[Atlantic Council]** [Is this the end of the Iran war?](https://www.atlanticcouncil.org/content-series/fastthinking/is-this-the-end-of-the-iran-war/)
+- **[Atlantic Council]** [To stop Chinese dual-use battery dominance, the United States and South Korea need to team up](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/to-stop-chinese-dual-use-battery-dominance-the-united-states-and-south-korea-need-to-team-up/)
+- **[Atlantic Council]** [Caribbean countries are feeling the squeeze from this energy crisis—and not just from gas prices](https://www.atlanticcouncil.org/blogs/energysource/caribbean-countries-are-feeling-the-squeeze-from-this-energy-crisis-and-not-just-from-gas-prices/)
+
+---
+
+## 2026-06-12
+
+### Official & Regulatory
+
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[OFAC]** [Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations](https://home.treasury.gov/news/press-releases/sb0503)
+- **[OFAC]** [Treasury Targets Flotilla Organizers and Muslim Brotherhood Networks Supporting Hamas](https://home.treasury.gov/news/press-releases/sb0501)
 - **[Federal Register]** [Submission for OMB Review; 30-Day Comment Request Regular Clearance for the National Institute of Mental Health Data Archive (NDA), (NIMH) (2026-06-12)](https://www.federalregister.gov/documents/2026/06/12/C1-2026-11045/submission-for-omb-review-30-day-comment-request-regular-clearance-for-the-national-institute-of)
 - **[Federal Register]** [Sunshine Act Meetings (2026-06-12)](https://www.federalregister.gov/documents/2026/06/12/2026-11921/sunshine-act-meetings)
 - **[Federal Register]** [Bluerock Private Real Estate Fund, et al. (2026-06-12)](https://www.federalregister.gov/documents/2026/06/12/2026-11914/bluerock-private-real-estate-fund-et-al)
