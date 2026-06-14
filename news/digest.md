@@ -9,6 +9,32 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-14
+
+### Official & Regulatory
+
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[OFAC]** [Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations](https://home.treasury.gov/news/press-releases/sb0503)
+- **[OFAC]** [Treasury Targets Flotilla Organizers and Muslim Brotherhood Networks Supporting Hamas](https://home.treasury.gov/news/press-releases/sb0501)
+- **[Federal Register]** [International Traffic in Arms Regulations (ITAR): Part 130 Changes To Reduce Reporting Burden (2026-06-15)](https://www.federalregister.gov/documents/2026/06/15/2026-12019/international-traffic-in-arms-regulations-itar-part-130-changes-to-reduce-reporting-burden)
+- **[Federal Register]** [Order Granting Temporary Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 and Rules 610(f) and 612(d) of Regulation NMS, from Compliance With Rule 600(b)(89)(i)(F), Rule 610(c) and Rule 612 of Regulation NMS, as Amended (2026-06-15)](https://www.federalregister.gov/documents/2026/06/15/2026-11997/order-granting-temporary-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of)
+- **[Federal Register]** [Security Zone; Santa Monica Bay, Los Angeles, CA (2026-06-15)](https://www.federalregister.gov/documents/2026/06/15/2026-11993/security-zone-santa-monica-bay-los-angeles-ca)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the Petroleum Club of Houston](https://home.treasury.gov/news/press-releases/sb0532)
+- **[Treasury]** [Treasury Secretary Scott Bessent and First Lady Melania Trump Announce Access to Trump Accounts for Foster Youth, under Mrs. Trump’s Fostering the Future Initiative](https://home.treasury.gov/news/press-releases/sb0530)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Texas Bankers in Houston](https://home.treasury.gov/news/press-releases/sb0533)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent at The Trump Accounts for Foster Youth Event](https://home.treasury.gov/news/press-releases/sb0529)
+- **[Treasury]** [Statement from Secretary of the Treasury Scott Bessent Before the United States House of Representatives Ways and Means Committee](https://home.treasury.gov/news/press-releases/sb0522)
+
+---
+
 ## 2026-06-13
 
 ### Official & Regulatory
