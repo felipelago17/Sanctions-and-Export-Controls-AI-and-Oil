@@ -24,13 +24,57 @@ A curated index of publications, trackers, academic literature, and monitoring s
 
 ### International
 
-| Source | URL | Notes |
+#### United Kingdom
+
+| Source | URL | What to monitor |
+|---|---|---|
+| UK OFSI — Financial Sanctions Guidance | https://www.gov.uk/government/collections/financial-sanctions-guidance | OFSI guidance, licences, enforcement |
+| UK Consolidated List (Sanctions List) | https://www.gov.uk/government/publications/the-uk-sanctions-list | Authoritative UK designation list — equivalent to OFAC SDN |
+| UK FCDO — Sanctions Collections | https://www.gov.uk/government/collections/uk-sanctions | All UK sanctions regimes by theme and country |
+| UK Russia Sanctions — Designations | https://www.gov.uk/government/collections/russia-sanctions | Russia-specific designation lists and press releases |
+| UK FCDO — Press Releases (Sanctions) | https://www.gov.uk/government/news/uk-government?keywords=sanctions | FCDO press releases on new sanctions packages |
+| OFSI Enforcement Cases | https://www.gov.uk/government/collections/ofsi-enforcement-cases | OFSI penalty decisions and enforcement notices |
+
+#### European Union
+
+| Source | URL | What to monitor |
 |---|---|---|
 | EU Sanctions Map | https://www.sanctionsmap.eu/ | Live EU sanctions programmes and measures |
-| EU Official Journal (sanctions) | https://eur-lex.europa.eu/oj/direct-access.html | EU restrictive measures — primary texts |
-| UK OFSI (HM Treasury) | https://www.gov.uk/government/collections/financial-sanctions-guidance | UK post-Brexit sanctions regime |
+| EU Official Journal (sanctions) | https://eur-lex.europa.eu/oj/direct-access.html | EU restrictive measures — primary legal texts |
+| EU Council — Sanctions Policy | https://www.consilium.europa.eu/en/policies/sanctions/ | Council decisions, press releases, sanctions packages |
+| EU Council Press Releases | https://www.consilium.europa.eu/en/press/press-releases/ | Filter by "restrictive measures" — designation announcements |
+| EU Consolidated Financial Sanctions List (CFSL) | https://eeas.europa.eu/headquarters/headquarters-homepage/8442/consolidated-list-sanctions_en | Machine-readable EU consolidated designations |
+| EUR-Lex — Russia Sanctions | https://eur-lex.europa.eu/search.html?qid=&text=restrictive+measures+russia | Russia-specific EU legal instruments |
+| EU High Representative Statements | https://www.consilium.europa.eu/en/press/press-releases/?filters=FilterPressRelease_Type:Statement | Third-country alignment statements; Iran, Russia, Syria |
+
+#### United Arab Emirates
+
+| Source | URL | What to monitor |
+|---|---|---|
+| CBUAE — Targeted Financial Sanctions | https://www.centralbank.ae/en/targeted-financial-sanctions | UAE local list additions; AML/CFT designations |
+| UAE NAMLCFTC | https://amlcft.ae/ | National Anti-Money Laundering & CFT Committee — policy and list updates |
+| WAM — UAE State News Agency | https://wam.ae/en | Official UAE government announcement channel for designation news |
+
+#### Australia
+
+| Source | URL | What to monitor |
+|---|---|---|
+| DFAT — Autonomous Sanctions | https://www.dfat.gov.au/international-relations/security/sanctions | DFAT sanctions portal — all regimes and instruments |
+| DFAT Consolidated List | https://www.dfat.gov.au/international-relations/security/sanctions/consolidated-list | Authoritative Australian consolidated designations list |
+| DFAT — Autonomous Sanctions Legislative Instruments | https://www.dfat.gov.au/international-relations/security/sanctions/autonomous-sanctions-legislative-instruments | Individual designation instruments (Iran, Russia, etc.) |
+| Australian Foreign Minister — Media Releases | https://www.foreignminister.gov.au/minister/penny-wong/media-releases | Sanctions announcements by the Minister for Foreign Affairs |
+
+#### Multilateral
+
+| Source | URL | Notes |
+|---|---|---|
 | UN Security Council Sanctions | https://www.un.org/securitycouncil/sanctions/information | UNSCR-based programmes |
 | FATF | https://www.fatf-gafi.org/en/publications.html | AML/CFT standards and grey/black lists |
+| OpenSanctions | https://www.opensanctions.org/ | Open-source aggregated sanctions data covering OFAC, EU, UK, UN, UAE, AU and others |
+
+#### Multi-Jurisdiction Designations Register (this repository)
+
+Structured entries for designation actions across UK, US, EU, UAE, and Australia are indexed at [Designations Register](./jurisdictions/index.md). Each entry captures: title, date, authority, legal instrument, target count, sector/theme, summary, and cross-references.
 
 ---
 
@@ -154,7 +198,7 @@ These firms publish regular, substantive alerts on export controls and sanctions
 
 | Tool | Purpose | URL |
 |---|---|---|
-| OpenSanctions | Open-source sanctions data / API | https://www.opensanctions.org/ |
+| OpenSanctions | Open-source sanctions data / API (see also §1 — Multilateral) | https://www.opensanctions.org/ |
 | OFAC SDN Search | Official list search | https://sanctionssearch.ofac.treas.gov/ |
 | Consolidated Screening List (CSL) | Cross-agency US list | https://www.trade.gov/consolidated-screening-list |
 | EU Financial Sanctions Files | Machine-readable EU sanctions | https://eeas.europa.eu/headquarters/headquarters-homepage/8442/consolidated-list-sanctions_en |
