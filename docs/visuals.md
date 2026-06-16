@@ -29,7 +29,13 @@ timeline
         Oct    : BIS Affiliates Rule enacted
                : 50% Rule extended to Entity List & MEU List
     section 2026
+        Apr 22 : SCALE Act introduced
+               : AI chip parity controls — 110% threshold, 5% cap
+        Jun 8  : H.R. 9087 Amendment
+               : PRC mining entities list — forced labour in Africa
         Jun    : Repository established — AIQ / LSBU
+        Jun 15 : Match Act coalition endorsement
+               : Allied semiconductor equipment export controls
         Nov 10 : ⚠️ BIS Affiliates Rule snap-back date
 ```
 

@@ -44,4 +44,40 @@ Covers BIS guidance on compliance programme expectations specifically for AI-rel
 
 ---
 
+## SCALE Act — AI Chip Export Parity Controls (April 2026)
+
+**Source:** Export Compliance Daily, 22 April 2026; H.R. introduced by Rep. John Moolenaar (R-Mich.), Chairman, House Select Committee on China
+
+The **Semiconductor Controls Adjusted to Limit Exports (SCALE) Act** would require the Commerce Department to set annual limits on exports of advanced AI chips to entities in China and other countries of concern, calibrated to prevent adversaries from achieving parity with US AI hardware capacity.
+
+Key provisions:
+
+- **Parity threshold:** Exports permitted only up to **110% of the performance** of chips adversaries can independently produce in significant quantities — permitting continued US competitiveness without enabling capability leapfrogging.
+- **5% hardware-base cap:** License applications subject to a **presumption of denial** if exports would cause adversary-controlled AI hardware to exceed **5% of total US AI hardware capacity**.
+- **Annual assessment:** Annual evaluation of adversary chipmaking capability sets dynamic export thresholds.
+- **Supply-chain certification:** Applicants must certify that exports would not disrupt US supply chains or domestic demand.
+
+The SCALE Act was referred to the House Foreign Affairs and Intelligence committees.
+
+---
+
+## Match Act — Allied Alignment on Semiconductor Equipment Export Controls (June 2026)
+
+**Source:** Export Compliance Daily, 15 June 2026; AI Policy Network coalition letter to Sens. Pete Ricketts (R-Neb.) and Andy Kim (D-N.J.), 11 June 2026
+
+A **14-member coalition** led by the AI Policy Network endorsed the **Match Act** (introduced April 2026, Ricketts/Kim), which would require US allies to match US export restrictions on semiconductor manufacturing equipment sales to China.
+
+Coalition argument: "American semiconductor equipment firms now comply with the strictest export controls in the world. However, our allies have not kept pace with these controls, putting our companies at a commercial disadvantage while accelerating China's capabilities."
+
+**Legislative status:**
+
+| Chamber | Action | Date |
+|---|---|---|
+| House | Foreign Affairs Committee approved, **36–8** | April 2026 |
+| Senate | Banking Committee markup urged by Ricketts, Kim, and Warren | June 2026 AI hearing |
+
+Notable co-signers include Saif Khan (former NSC Director for Technology & National Security), Chris McGuire (former NSC Deputy Senior Director), Nicholas Brown (former BIS Senior Adviser), Samuel Hammond (Foundation for American Innovation), and Eric Gastfriend (Americans for Responsible Innovation).
+
+---
+
 *Last reviewed: June 2026*
