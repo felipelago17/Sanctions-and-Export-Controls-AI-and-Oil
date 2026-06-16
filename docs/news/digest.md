@@ -9,6 +9,52 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-16
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [China Expands Export Controls on Precursor Chemicals for Specified Destinations](https://sanctionsnews.bakermckenzie.com/china-expands-export-controls-on-precursor-chemicals-for-specified-destinations/)
+- **[Baker McKenzie Sanctions]** [OFAC Expands Guidance on Strait of Hormuz “Safe Passage” Restrictions](https://sanctionsnews.bakermckenzie.com/ofac-expands-guidance-on-strait-of-hormuz-safe-passage-restrictions/)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[OFAC]** [Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations](https://home.treasury.gov/news/press-releases/sb0503)
+- **[OFAC]** [Treasury Targets Flotilla Organizers and Muslim Brotherhood Networks Supporting Hamas](https://home.treasury.gov/news/press-releases/sb0501)
+- **[Federal Register]** [Environmental Technologies Trade Advisory Committee (2026-06-16)](https://www.federalregister.gov/documents/2026/06/16/2026-12113/environmental-technologies-trade-advisory-committee)
+- **[Federal Register]** [Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to S50S/LNG and S499 Bulkheads Replacement Project at Naval Station Newport, Rhode Island (2026-06-16)](https://www.federalregister.gov/documents/2026/06/16/2026-12111/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to)
+- **[Federal Register]** [Nebraska Public Power District; Cooper Nuclear Station; Notice of Intent To Conduct Scoping Process and Prepare Supplemental Environmental Impact Statement (2026-06-16)](https://www.federalregister.gov/documents/2026/06/16/2026-12109/nebraska-public-power-district-cooper-nuclear-station-notice-of-intent-to-conduct-scoping-process)
+- **[Federal Register]** [Agency Information Collection Request; 30-Day Public Comment Request (2026-06-16)](https://www.federalregister.gov/documents/2026/06/16/2026-12107/agency-information-collection-request-30-day-public-comment-request)
+- **[Federal Register]** [Submission for OMB Review; 30-Day Comment Request; NIH Extramural Harassment Web Form (Office of the Director, Office of Extramural Research) (2026-06-16)](https://www.federalregister.gov/documents/2026/06/16/2026-12106/submission-for-omb-review-30-day-comment-request-nih-extramural-harassment-web-form-office-of-the)
+- **[Federal Register]** [Monosodium Glutamate From the People's Republic China: Final Results of Antidumping Duty Administrative Review; 2023-2024 (2026-06-16)](https://www.federalregister.gov/documents/2026/06/16/2026-12101/monosodium-glutamate-from-the-peoples-republic-china-final-results-of-antidumping-duty)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the Petroleum Club of Houston](https://home.treasury.gov/news/press-releases/sb0532)
+- **[Treasury]** [Treasury Secretary Scott Bessent and First Lady Melania Trump Announce Access to Trump Accounts for Foster Youth, under Mrs. Trump’s Fostering the Future Initiative](https://home.treasury.gov/news/press-releases/sb0530)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Texas Bankers in Houston](https://home.treasury.gov/news/press-releases/sb0533)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent at The Trump Accounts for Foster Youth Event](https://home.treasury.gov/news/press-releases/sb0529)
+- **[Treasury]** [Statement from Secretary of the Treasury Scott Bessent Before the United States House of Representatives Ways and Means Committee](https://home.treasury.gov/news/press-releases/sb0522)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Advised Natural Gas Services Group on Acquisition of Flatrock Compression Holdings](https://www.gibsondunn.com/gibson-dunn-advised-natural-gas-services-group-on-acquisition-of-flatrock-compression-holdings/)
+- **[Gibson Dunn]** [BRR Team Wins IFLR Europe Award for Restructuring Deal of the Year](https://www.gibsondunn.com/brr-team-wins-iflr-europe-award-for-restructuring-deal-of-the-year/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: June 16, 2026](https://www.justsecurity.org/142953/early-edition-june-16-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-16-2026)
+- **[Just Security]** [Key Questions on U.S. Killing Tren de Aragua Leader Inside Venezuela](https://www.justsecurity.org/142733/killing-tren-de-aragua-leaders-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=killing-tren-de-aragua-leaders-venezuela)
+- **[Just Security]** [Sudan Has Become a Transnational Marketplace of Violence: Effective Responses Require Targeting the Sources](https://www.justsecurity.org/140395/sudan-war-third-parties/?utm_source=rss&utm_medium=rss&utm_campaign=sudan-war-third-parties)
+- **[Just Security]** [Legal Considerations Related to the Anthropic “Export Controls Directive”](https://www.justsecurity.org/142745/law-anthropic-export-controls/?utm_source=rss&utm_medium=rss&utm_campaign=law-anthropic-export-controls)
+- **[Just Security]** [Early Edition: June 15, 2026](https://www.justsecurity.org/142788/early-edition-june-15-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-15-2026)
+- **[Atlantic Council]** [Updating the Democratic Transition Framework to chart a way forward in Venezuela](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/democratic-transition-framework-chart-forward-venezuela/)
+- **[Atlantic Council]** [Charai for the Jerusalem Strategic Tribune: Trump’s Iran Deal: A Strategic Opening](https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-jerusalem-strategic-tribune-trumps-iran-deal-a-strategic-opening/)
+
+---
+
 ## 2026-06-16 — Multi-Jurisdiction Sanctions Wave (UK · US · EU · UAE · AU) *(manual entry)*
 
 > **Source retrieval status:** All 16 URLs in this wave returned **HTTP 403 Forbidden** (government web infrastructure blocks automated/headless requests in this network environment). Entries are structured from prompt-supplied metadata; verify target identities, counts, and legal bases directly at each issuing authority's website before relying on them operationally. Structured register entries with full metadata schema: see `jurisdictions/`.
