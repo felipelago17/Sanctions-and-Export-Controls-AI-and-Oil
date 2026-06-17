@@ -9,6 +9,43 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-17
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [US Government Updates 1260H List of Chinese Military Companies](https://sanctionsnews.bakermckenzie.com/us-government-updates-1260h-list-of-chinese-military-companies/)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[OFAC]** [Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations](https://home.treasury.gov/news/press-releases/sb0503)
+- **[OFAC]** [Treasury Targets Flotilla Organizers and Muslim Brotherhood Networks Supporting Hamas](https://home.treasury.gov/news/press-releases/sb0501)
+- **[Federal Register]** [Agency Information Collection Activities; Proposed Collection; Comment Request; Fraud.gov Federal Program Waste, Fraud, and Abuse Tip Intake and Referral System (2026-06-17)](https://www.federalregister.gov/documents/2026/06/17/2026-12218/agency-information-collection-activities-proposed-collection-comment-request-fraudgov-federal)
+- **[Federal Register]** [Powertech USA, Inc.; Dewey-Burdock In Situ Uranium Recovery Project; Environmental Assessment, Finding of No Significant Impact, and Final Programmatic Agreement (2026-06-17)](https://www.federalregister.gov/documents/2026/06/17/2026-12215/powertech-usa-inc-dewey-burdock-in-situ-uranium-recovery-project-environmental-assessment-finding-of)
+- **[Federal Register]** [Phosphate Fertilizers From Morocco and Russia; Notice of Commission Determination To Conduct Full Five-Year Reviews (2026-06-17)](https://www.federalregister.gov/documents/2026/06/17/2026-12207/phosphate-fertilizers-from-morocco-and-russia-notice-of-commission-determination-to-conduct-full)
+- **[Federal Register]** [General Services Acquisition Regulation; Acquisition of Information and Communication Technology; Notice of Listening Sessions and Request for Comments (2026-06-17)](https://www.federalregister.gov/documents/2026/06/17/2026-12205/general-services-acquisition-regulation-acquisition-of-information-and-communication-technology)
+- **[Federal Register]** [Safety Zone; Ohio River Mile Marker 0-0.5, Allegheny River Mile Marker 0-0.5, Monongahela River Mile Marker 0-0.5, Pittsburgh, PA (2026-06-17)](https://www.federalregister.gov/documents/2026/06/17/2026-12203/safety-zone-ohio-river-mile-marker-0-05-allegheny-river-mile-marker-0-05-monongahela-river-mile)
+- **[Federal Register]** [Agency Information Collection Activities; Oil and Gas Production Measurement Surface Commingling, and Security (2026-06-17)](https://www.federalregister.gov/documents/2026/06/17/2026-12202/agency-information-collection-activities-oil-and-gas-production-measurement-surface-commingling-and)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the Petroleum Club of Houston](https://home.treasury.gov/news/press-releases/sb0532)
+- **[Treasury]** [Treasury Secretary Scott Bessent and First Lady Melania Trump Announce Access to Trump Accounts for Foster Youth, under Mrs. Trump’s Fostering the Future Initiative](https://home.treasury.gov/news/press-releases/sb0530)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Texas Bankers in Houston](https://home.treasury.gov/news/press-releases/sb0533)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent at The Trump Accounts for Foster Youth Event](https://home.treasury.gov/news/press-releases/sb0529)
+- **[Treasury]** [Statement from Secretary of the Treasury Scott Bessent Before the United States House of Representatives Ways and Means Committee](https://home.treasury.gov/news/press-releases/sb0522)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The Cynicism Behind the Administration’s Proposed Forced Labor Tariffs](https://www.justsecurity.org/142153/cynicism-proposed-forced-labor-tariffs/?utm_source=rss&utm_medium=rss&utm_campaign=cynicism-proposed-forced-labor-tariffs)
+- **[Just Security]** [Early Edition: June 16, 2026](https://www.justsecurity.org/142953/early-edition-june-16-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-16-2026)
+- **[Atlantic Council]** [Russia escalates war on Ukrainian heritage and national identity](https://www.atlanticcouncil.org/blogs/ukrainealert/russia-escalates-war-on-ukrainian-heritage-and-national-identity/)
+- **[Atlantic Council]** [New AI models are pushing open-source security to its limits. Their developers must step up.](https://www.atlanticcouncil.org/dispatches/new-ai-models-are-pushing-open-source-security-to-its-limits-their-developers-must-step-up/)
+
+---
+
 ## 2026-06-16
 
 ### Official & Regulatory
