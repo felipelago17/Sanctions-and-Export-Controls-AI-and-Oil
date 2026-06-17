@@ -13,8 +13,9 @@ authors:
     affiliation: "AIQ / London South Bank University (LSBU)"
     email: fe_lago@yahoo.com.br
     orcid: ""
-repository-code: "https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil"
-url: "https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil/"
+# Points to the public documentation repository (source repo is private)
+repository-code: "https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil-site"
+url: "https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil-site/"
 license: CC-BY-4.0
 version: "1.0.0"
 date-released: "2026-06-09"

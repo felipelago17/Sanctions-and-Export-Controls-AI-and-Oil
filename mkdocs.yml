@@ -3,11 +3,11 @@ site_description: >
   Curated resource on US export controls (EAR/BIS) and OFAC sanctions as applied
   to artificial intelligence, advanced computing, and the oil/energy sector.
 site_author: Felipe Villasuso Lago
-site_url: https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil/
+site_url: https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil-site/
 
-repo_name: felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
-repo_url: https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil
-edit_uri: edit/main/docs/
+repo_name: felipelago17/Sanctions-and-Export-Controls-AI-and-Oil-site
+repo_url: https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil-site
+edit_uri: ""
 
 docs_dir: docs
 
