@@ -4,7 +4,7 @@
 >
 > The BIS Affiliates Rule expansion is **suspended** for one year (**10 Nov 2025 – 9 Nov 2026**) under a US-China trade deal framework (FR 2025-19846, 90 FR 47201). The expansion will **automatically reimpose on 10 Nov 2026** (Phase 2) unless BIS issues a further extension or repeal before that date. The baseline EAR Entity List and MEU List controls remain fully in effect throughout the suspension window. Compliance programmes should complete affiliate-mapping and diligence exercises before the Phase 2 date.
 >
-> *The snap-back countdown and latest status updates are maintained automatically by the [BIS Affiliates Rule daily monitor](.github/workflows/bis-affiliates-monitor.yml) workflow.*
+> *The snap-back countdown and latest status updates are maintained automatically by the `bis-affiliates-monitor.yml` GitHub Actions workflow.*
 
 ---
 
