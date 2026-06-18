@@ -9,6 +9,47 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-18
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Updates Venezuela General Licenses and Issues New Venezuela FAQs](https://sanctionsnews.bakermckenzie.com/ofac-updates-venezuela-general-licenses-and-issues-new-venezuela-faqs/)
+- **[Baker McKenzie Sanctions]** [OFAC Publishes List of Medical Devices Excluded From the General License for Non-US Agricultural Commodities, Medicine, and Medical Devices Destined for North Korea](https://sanctionsnews.bakermckenzie.com/ofac-publishes-list-of-medical-devices-excluded-from-the-general-license-for-non-us-agricultural-commodities-medicine-and-medical-devices-destined-for-north-korea/)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[OFAC]** [Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations](https://home.treasury.gov/news/press-releases/sb0503)
+- **[OFAC]** [Treasury Targets Flotilla Organizers and Muslim Brotherhood Networks Supporting Hamas](https://home.treasury.gov/news/press-releases/sb0501)
+- **[Federal Register]** [Request for Information (RFI): Pharmacy Benefit Manager Compensation and Data Collection (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12344/request-for-information-rfi-pharmacy-benefit-manager-compensation-and-data-collection)
+- **[Federal Register]** [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Procedures for Submissions by Certain Steel and Aluminum Producers Committing to New U.S. Steel or Aluminum Production to Obtain Tariff Adjustments Under Proclamation 10984 (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12343/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for)
+- **[Federal Register]** [Domestic Dates Produced or Packed in Riverside County, California; Increased Assessment Rate (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12341/domestic-dates-produced-or-packed-in-riverside-county-california-increased-assessment-rate)
+- **[Federal Register]** [Southern Nuclear Operating Company, Inc.; Edwin I. Hatch Nuclear Plant, Units 1 and 2; Subsequent License Renewal (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12339/southern-nuclear-operating-company-inc-edwin-i-hatch-nuclear-plant-units-1-and-2-subsequent-license)
+- **[Federal Register]** [Request for Information: Identifying Regulations To Facilitate Innovation and Competition to Financial Products and Services for Fintech Firms (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12337/request-for-information-identifying-regulations-to-facilitate-innovation-and-competition-to)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the Petroleum Club of Houston](https://home.treasury.gov/news/press-releases/sb0532)
+- **[Treasury]** [Treasury Secretary Scott Bessent and First Lady Melania Trump Announce Access to Trump Accounts for Foster Youth, under Mrs. Trump’s Fostering the Future Initiative](https://home.treasury.gov/news/press-releases/sb0530)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Texas Bankers in Houston](https://home.treasury.gov/news/press-releases/sb0533)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent at The Trump Accounts for Foster Youth Event](https://home.treasury.gov/news/press-releases/sb0529)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Texas Lawyer Reports on Trey Cox’s Address to State Bar of Texas’ Annual Meeting on Greenpeace Trial](https://www.gibsondunn.com/texas-lawyer-reports-on-trey-coxs-address-to-state-bar-of-texas-annual-meeting-on-greenpeace-trial/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Could the United States Make a Difference in Mali?](https://www.justsecurity.org/140398/could-us-make-difference-mali/?utm_source=rss&utm_medium=rss&utm_campaign=could-us-make-difference-mali)
+- **[Just Security]** [Early Edition: June 17, 2026](https://www.justsecurity.org/143030/early-edition-june-17-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-17-2026)
+- **[Atlantic Council]** [The recent US-Venezuelan strike on Tren de Aragua’s leader will reverberate across Latin America](https://www.atlanticcouncil.org/dispatches/the-recent-us-venezuelan-strike-on-tren-de-araguas-leader-will-reverberate-across-latin-america/)
+- **[Atlantic Council]** [What the US-Iran deal means for the rest of the Middle East (and beyond)](https://www.atlanticcouncil.org/dispatches/what-the-us-iran-deal-means-for-the-rest-of-the-middle-east-and-beyond/)
+
+---
+
 ## 2026-06-17
 
 ### Official & Regulatory
