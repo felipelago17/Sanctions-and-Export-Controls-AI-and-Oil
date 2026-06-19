@@ -19,7 +19,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests lxml
 
       - name: Run refresh script
         run: python scripts/refresh_rules.py
