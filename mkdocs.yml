@@ -83,6 +83,8 @@ nav:
     - Australia (Iran 2026): jurisdictions/australia/2026/iran-autonomous-sanctions-2026.md
   - Cases:
     - BIS Deemed-Export — Anthropic Fable 5 / Mythos 5 (Jun 2026): cases/2026-06-anthropic-fable-mythos-deemed-export.md
+  - Tools:
+    - ECCN Classifier: tools/eccn-classifier/index.html
   - Visuals & Tools: visuals.md
   - Sources & Literature: additional-sources.md
   - News:

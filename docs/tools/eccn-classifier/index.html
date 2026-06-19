@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ECCN Classifier for AI Solutions — Indicative Triage Tool</title>
+  <meta name="description" content="Indicative, browser-only ECCN classification tool for AI and advanced computing items under the US Export Administration Regulations (EAR). Not legal advice." />
+  <meta name="robots" content="noindex" />
+  <link rel="stylesheet" href="classifier.css" />
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     STICKY DISCLAIMER BANNER
+     ══════════════════════════════════════════════════════════════════════════ -->
+<div class="disclaimer-banner" role="alert">
+  <strong>&#9888; Non-Binding Triage Tool — Not Legal Advice.</strong>
+  This tool provides an indicative, non-binding export-control assessment for triage purposes only.
+  It is not legal advice and does not constitute an official classification.
+  Definitive classification requires review under the EAR and, where appropriate, a BIS
+  <a href="https://www.bis.doc.gov/index.php/licensing/classification/classification-assistance" target="_blank" rel="noopener">CCATS determination</a>.
+  Screening data are point-in-time snapshots and are <strong>not</strong> live sanctions screens.
+  EAR, OFAC, and ITAR are distinct regulatory regimes — each requires separate analysis.
+</div>
+
+<!-- Staleness Warning (shown by app.js if data &gt; 30 days old) -->
+<div id="staleness-warning" class="staleness-warning" role="alert" style="display:none">
+  &#9888; Regulatory data snapshot is more than 30 days old. Run scripts/refresh_rules.py or trigger the refresh-rules workflow to update.
+</div>
+
+<!-- Status bar -->
+<div id="status-bar">Loading regulatory data…</div>
+
+<!-- Error banner -->
+<div id="error-banner" role="alert"></div>
+
+<!-- Loading indicator -->
+<div id="loading-indicator" aria-live="polite">Loading regulatory data files…</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     MAIN APPLICATION WRAPPER
+     ══════════════════════════════════════════════════════════════════════════ -->
+<div class="app-wrapper">
+
+  <div class="app-header">
+    <h1 class="app-title">ECCN Classifier for AI Solutions</h1>
+    <p class="app-subtitle">
+      Indicative triage tool — 15 CFR Parts 730–774 (EAR) &middot;
+      Data: <span id="data-as-of">loading…</span> &middot;
+      <a href="https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C" target="_blank" rel="noopener">Live eCFR ↗</a>
+    </p>
+  </div>
+
+  <!-- ── Tab navigation ── -->
+  <nav class="tab-nav" role="tablist" aria-label="Classifier sections">
+    <button class="tab-btn active" role="tab" aria-selected="true"  data-tab="form"    aria-controls="panel-form">Classification Form</button>
+    <button class="tab-btn"        role="tab" aria-selected="false" data-tab="results" aria-controls="panel-results" data-requires-result disabled>Results</button>
+    <button class="tab-btn"        role="tab" aria-selected="false" data-tab="risk"    aria-controls="panel-risk"    data-requires-result disabled>Risk Dashboard</button>
+    <button class="tab-btn"        role="tab" aria-selected="false" data-tab="idd"     aria-controls="panel-idd"     data-requires-result disabled>IDD Screening</button>
+    <button class="tab-btn"        role="tab" aria-selected="false" data-tab="audit"   aria-controls="panel-audit"   data-requires-result disabled>Audit Trail</button>
+  </nav>
+
+  <!-- ════════════════════════════════════════════════════════════════════════
+       TAB 1 — CLASSIFICATION FORM
+       ════════════════════════════════════════════════════════════════════════ -->
+  <div id="panel-form" class="tab-panel active" role="tabpanel" aria-labelledby="tab-form">
+
+    <form id="classifier-form" novalidate>
+
+      <!-- ── Core item attributes ── -->
+      <div class="result-card">
+        <h2 class="card-title">Item Information</h2>
+        <div class="form-grid">
+
+          <div class="form-group">
+            <label for="item-type">Item Type <span aria-hidden="true">*</span></label>
+            <select id="item-type" name="item_type" required>
+              <option value="software">Software</option>
+              <option value="model_weights">AI Model Weights</option>
+              <option value="hardware">Hardware</option>
+              <option value="SaaS_IaaS" selected>SaaS / IaaS (Cloud Service)</option>
+              <option value="technology">Technology (Technical Data / Know-How)</option>
+            </select>
+            <span class="form-hint">Select the primary form of the item being assessed.</span>
+          </div>
+
+          <div class="form-group">
+            <label for="industry">Industry / Sector</label>
+            <select id="industry" name="industry">
+              <option value="AI" selected>AI / Machine Learning</option>
+              <option value="semiconductor">Semiconductor / Advanced Computing</option>
+              <option value="oil_gas">Oil &amp; Gas</option>
+              <option value="energy">Energy (general)</option>
+              <option value="telecom">Telecommunications</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+
+          <div class="form-group full-width">
+            <label for="description">Item Description</label>
+            <textarea id="description" name="description" rows="4"
+              placeholder="Describe the item, its primary function, and intended use. Include technical details relevant to classification (e.g. cryptographic capabilities, computing performance, AI model characteristics)."></textarea>
+            <span class="form-hint">Plain-language description. More detail improves keyword matching for dual-use flags.</span>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ── AI Attributes (collapsible) ── -->
+      <div class="result-card">
+        <button type="button" class="collapsible-toggle" id="toggle-ai-attrs">&#9660; AI Attributes (expand)</button>
+        <div id="ai-attrs-section">
+          <p class="form-hint" style="margin-bottom:12px">Complete this section for AI models, AI SaaS platforms, or items incorporating AI capabilities. Leave blank if not applicable.</p>
+          <div class="form-grid">
+
+            <div class="form-group">
+              <label for="intended-use">Intended Use</label>
+              <select id="intended-use" name="intended_use">
+                <option value="general" selected>General purpose</option>
+                <option value="dual_use_concern">Dual-use concern (military, intelligence, surveillance potential)</option>
+              </select>
+              <span class="form-hint">Select "dual-use concern" if item could have military or intelligence applications.</span>
+            </div>
+
+            <div class="form-group">
+              <div class="checkbox-group">
+                <input type="checkbox" id="is-model-weights" name="is_model_weights" />
+                <label for="is-model-weights">Item is or includes AI model weights</label>
+              </div>
+              <span class="form-hint">
+                Model weights may be subject to EAR controls (90 FR 4544, Jan. 2025 IFR).
+                Thresholds are [TODO] — human review required.
+              </span>
+            </div>
+
+            <div class="form-group">
+              <label for="training-compute">Training Compute (FLOP)</label>
+              <input type="number" id="training-compute" name="training_compute_flop"
+                placeholder="e.g. 1e24 (leave blank if unknown)" min="0" step="any" />
+              <span class="form-hint">[TODO] Applicable threshold not yet populated. See eccn_rules.json MODEL_WEIGHTS_NOTE.</span>
+            </div>
+
+            <div class="form-group">
+              <label for="parameter-count">Parameter Count</label>
+              <input type="number" id="parameter-count" name="parameter_count"
+                placeholder="e.g. 70000000000 (leave blank if unknown)" min="0" step="any" />
+              <span class="form-hint">[TODO] Applicable threshold not yet populated from current CCL.</span>
+            </div>
+
+            <div class="form-group">
+              <div class="checkbox-group">
+                <input type="checkbox" id="fine-tuning" name="fine_tuning_offered" />
+                <label for="fine-tuning">Fine-tuning endpoint / capability offered to users</label>
+              </div>
+              <span class="form-hint">Fine-tuning access raises deemed-export concerns for foreign national users.</span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <!-- ── Technical Parameters ── -->
+      <div class="result-card">
+        <h2 class="card-title">Technical Parameters</h2>
+        <div class="form-grid">
+
+          <div class="form-group">
+            <label for="encryption">Encryption (if any)</label>
+            <input type="text" id="encryption" name="encryption"
+              placeholder="e.g. AES-256 at rest, TLS 1.3 in transit" />
+            <span class="form-hint">Presence of encryption triggers 5x002 / 5x992 analysis. Leave blank if no encryption.</span>
+          </div>
+
+          <div class="form-group">
+            <label for="chip-perf-density">Chip Performance Density (bit-ops/s/mm²)</label>
+            <input type="number" id="chip-perf-density" name="chip_perf_density"
+              placeholder="Hardware only — leave blank if not applicable" min="0" step="any" />
+            <span class="form-hint">[TODO] 3A090 threshold not yet populated from current CCL. Leave blank if unknown.</span>
+          </div>
+
+          <div class="form-group">
+            <label for="chip-node-nm">Chip Node (nm)</label>
+            <input type="number" id="chip-node-nm" name="chip_node_nm"
+              placeholder="e.g. 5 (hardware only)" min="0" step="any" />
+            <span class="form-hint">Manufacturing process node. Relevant for semiconductor equipment controls.</span>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ── Export Control Attributes ── -->
+      <div class="result-card">
+        <h2 class="card-title">Export Control Attributes</h2>
+        <div class="form-grid">
+
+          <div class="form-group">
+            <label for="origin">Country of Origin</label>
+            <select id="origin" name="origin">
+              <option value="US" selected>United States (US-origin)</option>
+              <option value="non-US">Non-US (foreign-produced)</option>
+            </select>
+            <span class="form-hint">US-origin items are always subject to the EAR (§ 734.3(a)(1)).</span>
+          </div>
+
+          <div class="form-group">
+            <label for="deployment-model">Deployment Model</label>
+            <select id="deployment-model" name="deployment_model">
+              <option value="cloud_IaaS" selected>Cloud / IaaS (hosted, multi-tenant)</option>
+              <option value="on_prem">On-premises (customer-deployed)</option>
+              <option value="hybrid">Hybrid (cloud + on-prem)</option>
+            </select>
+            <span class="form-hint">Cloud deployments with foreign user access create deemed-export exposure (§ 734.13).</span>
+          </div>
+
+          <div class="form-group">
+            <div class="checkbox-group">
+              <input type="checkbox" id="contains-us-tech" name="contains_us_tech" checked />
+              <label for="contains-us-tech">Contains or is produced using US-origin technology / software</label>
+            </div>
+            <span class="form-hint">Triggers FDPR analysis (§ 734.9). Default: checked for US-origin items.</span>
+          </div>
+
+          <div class="form-group">
+            <div class="checkbox-group">
+              <input type="checkbox" id="foreign-national-access" name="foreign_national_access" />
+              <label for="foreign-national-access">Foreign nationals will access the item / service</label>
+            </div>
+            <span class="form-hint">Triggers deemed-export analysis (§§ 734.13–734.16). Check if any non-US nationals have access.</span>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ── End-Users & Destinations ── -->
+      <div class="result-card">
+        <h2 class="card-title">End-Users &amp; Destination Countries</h2>
+        <div class="form-grid">
+
+          <div class="form-group full-width">
+            <label for="end-users">End-User Names (comma-separated)</label>
+            <textarea id="end-users" name="end_users" rows="3"
+              placeholder="e.g. Shenzhen TechCo Ltd, Beijing State AI Institute"></textarea>
+            <span class="form-hint">
+              Names will be screened against the point-in-time entity snapshot (Entity List, MEU, SDN, State-owned energy).
+              <strong>This is NOT a live sanctions screen.</strong> Always verify against current official lists.
+            </span>
+          </div>
+
+          <div class="form-group full-width">
+            <label for="destination-countries">Destination Countries (ISO 2-letter codes, comma-separated)</label>
+            <input type="text" id="destination-countries" name="destination_countries"
+              placeholder="e.g. CN, AE, IN" />
+            <span class="form-hint">
+              Country codes for BIS Country Chart lookup and Part 746 embargo check.
+              Examples: CN (China), RU (Russia), AE (UAE), IN (India), DE (Germany).
+            </span>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- ── Action buttons ── -->
+      <div class="form-actions">
+        <button type="button" class="btn btn-primary" id="btn-classify">&#9654; Classify</button>
+        <button type="button" class="btn btn-secondary" id="btn-demo">Load Demo (AI SaaS &rarr; China)</button>
+      </div>
+
+    </form>
+
+    <!-- Info box about the tool -->
+    <div class="result-card" style="margin-top:24px; background:#f0f4ff; border-color:#c7d2fe;">
+      <h3 class="card-title" style="color:#3730a3;">About This Tool</h3>
+      <ul style="font-size:13px; line-height:1.8; margin-left:16px;">
+        <li>Runs entirely in your browser — no data is sent to any server.</li>
+        <li>Applies a 5-step EAR classification pipeline: Subject to EAR &rarr; ECCN mapping &rarr; End-use/user &rarr; Country controls &rarr; Licence indication.</li>
+        <li>All outputs are <strong>indicative</strong> and <strong>non-binding</strong>. Confidence is reduced where data files contain [TODO] thresholds.</li>
+        <li>Data files are snapshots — run <code>scripts/refresh_rules.py</code> or trigger <code>refresh-rules.yml</code> to update.</li>
+        <li>ECCN thresholds for advanced computing (3A090, 4A090) and AI model weights are marked [TODO] and must be populated manually from the current CCL.</li>
+        <li>Covers EAR only. OFAC sanctions and ITAR require separate analysis.</li>
+      </ul>
+    </div>
+
+  </div><!-- /panel-form -->
+
+  <!-- ════════════════════════════════════════════════════════════════════════
+       TAB 2 — RESULTS
+       ════════════════════════════════════════════════════════════════════════ -->
+  <div id="panel-results" class="tab-panel" role="tabpanel" aria-labelledby="tab-results">
+    <div class="result-card" style="color: var(--color-muted); text-align: center; padding: 40px;">
+      Run a classification to see results here.
+    </div>
+  </div>
+
+  <!-- ════════════════════════════════════════════════════════════════════════
+       TAB 3 — RISK DASHBOARD
+       ════════════════════════════════════════════════════════════════════════ -->
+  <div id="panel-risk" class="tab-panel" role="tabpanel" aria-labelledby="tab-risk">
+    <div class="result-card" style="color: var(--color-muted); text-align: center; padding: 40px;">
+      Run a classification to see the risk dashboard here.
+    </div>
+  </div>
+
+  <!-- ════════════════════════════════════════════════════════════════════════
+       TAB 4 — IDD SCREENING
+       ════════════════════════════════════════════════════════════════════════ -->
+  <div id="panel-idd" class="tab-panel" role="tabpanel" aria-labelledby="tab-idd">
+    <div class="result-card" style="color: var(--color-muted); text-align: center; padding: 40px;">
+      Run a classification to see IDD screening results here.
+    </div>
+  </div>
+
+  <!-- ════════════════════════════════════════════════════════════════════════
+       TAB 5 — AUDIT TRAIL
+       ════════════════════════════════════════════════════════════════════════ -->
+  <div id="panel-audit" class="tab-panel" role="tabpanel" aria-labelledby="tab-audit">
+    <div class="result-card" style="color: var(--color-muted); text-align: center; padding: 40px;">
+      Run a classification to generate an audit record.
+    </div>
+  </div>
+
+</div><!-- /app-wrapper -->
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     FOOTER
+     ══════════════════════════════════════════════════════════════════════════ -->
+<footer style="text-align:center; padding:20px; font-size:12px; color:#9ca3af; border-top:1px solid #e5e7eb; margin-top:40px;">
+  ECCN Classifier v1.0 &mdash;
+  Data: <span id="footer-data-date">see status bar</span> &mdash;
+  <a href="https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C" target="_blank" rel="noopener">eCFR EAR ↗</a> &mdash;
+  <a href="https://www.bis.doc.gov" target="_blank" rel="noopener">BIS ↗</a> &mdash;
+  <a href="https://ofac.treasury.gov" target="_blank" rel="noopener">OFAC ↗</a>
+  <br />
+  <span style="color:#d1d5db;">Not legal advice. Not a live sanctions screen. Not an official BIS determination.</span>
+</footer>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     SCRIPTS — ES modules, no build step
+     ══════════════════════════════════════════════════════════════════════════ -->
+<script type="module" src="src/app.js"></script>
+
+<!-- Inline script to update footer date after data loads (resilient fallback) -->
+<script type="module">
+  // Update footer date display once data is loaded
+  // app.js sets status-bar text; we mirror the data date in the footer too
+  document.addEventListener('DOMContentLoaded', () => {
+    // Try to reflect the data date in footer once app.js loads data
+    const observer = new MutationObserver(() => {
+      const statusText = document.getElementById('status-bar')?.textContent || '';
+      // The app.js sets status to 'Data loaded. Ready to classify.' when done
+      // We update the footer placeholder; app.js can also call this directly
+    });
+    const statusBar = document.getElementById('status-bar');
+    if (statusBar) observer.observe(statusBar, { childList: true, characterData: true, subtree: true });
+  });
+</script>
+
+</body>
+</html>
