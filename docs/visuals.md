@@ -33,9 +33,12 @@ timeline
                : AI chip parity controls — 110% threshold, 5% cap
         Jun 8  : H.R. 9087 Amendment
                : PRC mining entities list — forced labour in Africa
-        Jun    : Repository established — AIQ / LSBU
+        Jun 9  : Anthropic Fable 5 / Mythos 5 launched
+        Jun 12 : BIS deemed-export directive
+               : Global access suspension — SaaS AI first
         Jun 15 : Match Act coalition endorsement
                : Allied semiconductor equipment export controls
+        Jun    : Repository established — AIQ / LSBU
         Nov 10 : ⚠️ BIS Affiliates Rule snap-back date
 ```
 

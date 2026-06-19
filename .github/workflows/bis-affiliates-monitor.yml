@@ -1,0 +1,438 @@
+name: BIS Affiliates Rule — Daily Monitor & Weekly Synthesis
+
+on:
+  push:
+    branches:
+      - main                 # satisfies GitHub event matching; jobs skip via if-condition below
+  schedule:
+    - cron: '0 6 * * 1-5'   # 06:00 UTC weekdays; Monday run triggers both jobs
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bis-affiliates
+  cancel-in-progress: false
+
+jobs:
+  # ─────────────────────────────────────────────────────────────────────────────
+  # JOB 1: Daily monitor
+  # Fetches Federal Register + BIS items, calls Claude to analyse for Affiliates
+  # Rule developments, prepends Section A to the digest, posts Section B to Slack.
+  # Runs every weekday at 06:00 UTC (lookback widened to 72h Mon to cover weekend).
+  # Requires secret: ANTHROPIC_API_KEY
+  # Optional secret: SLACK_WEBHOOK_URL
+  # ─────────────────────────────────────────────────────────────────────────────
+  daily-monitor:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests anthropic
+
+      - name: Fetch sources and analyse
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          python - <<'PYEOF'
+          import datetime, json, os, re, sys
+          import requests
+
+          REPO   = "felipelago17/Sanctions-and-Export-Controls-AI-and-Oil"
+          TODAY  = datetime.date.today()
+          IS_MON = TODAY.weekday() == 0   # widen lookback on Monday
+          LOOKBACK_H = 72 if IS_MON else 30
+          CUTOFF = datetime.datetime.utcnow() - datetime.timedelta(hours=LOOKBACK_H)
+          SNAP_BACK = datetime.date(2026, 11, 10)
+          DAYS_TO_PHASE2 = (SNAP_BACK - TODAY).days
+
+          ANTHROPIC_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
+          SLACK_WEBHOOK  = os.environ.get("SLACK_WEBHOOK_URL", "")
+
+          HEADERS = {
+              "User-Agent": (
+                  "Mozilla/5.0 (compatible; bis-affiliates-bot/1.0; "
+                  "+https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil)"
+              )
+          }
+
+          def safe_get(url, timeout=20):
+              try:
+                  r = requests.get(url, headers=HEADERS, timeout=timeout)
+                  r.raise_for_status()
+                  return r.text
+              except Exception as e:
+                  print(f"  WARNING: {url} → {e}", file=sys.stderr)
+                  return ""
+
+          # ── 1. Fetch Federal Register — BIS + OFAC documents ─────────────────
+          fr_url = (
+              "https://www.federalregister.gov/api/v1/documents.json"
+              "?fields[]=title&fields[]=html_url&fields[]=publication_date&fields[]=abstract"
+              "&order=newest&per_page=20"
+              "&agencies[]=bureau-of-industry-and-security"
+              "&agencies[]=office-of-foreign-assets-control"
+          )
+          fr_items = []
+          try:
+              data = requests.get(fr_url, headers=HEADERS, timeout=20).json()
+              for doc in data.get("results", []):
+                  title    = doc.get("title", "")
+                  url      = doc.get("html_url", "")
+                  pub      = doc.get("publication_date", "")
+                  abstract = doc.get("abstract", "") or ""
+                  if title and url:
+                      fr_items.append(
+                          f"[Federal Register / {pub}] {title}\n  URL: {url}\n  Abstract: {abstract[:300]}"
+                      )
+          except Exception as e:
+              print(f"  FR API error: {e}", file=sys.stderr)
+
+          # ── 2. Build de-dup URL set from existing digest ──────────────────────
+          existing_urls: set[str] = set()
+          for path in ("news/digest.md", "docs/news/digest.md"):
+              try:
+                  with open(path, encoding="utf-8") as f:
+                      for line in f:
+                          for m in re.finditer(r'https?://[^\s\)\"]+', line):
+                              existing_urls.add(m.group(0).rstrip(".,)"))
+              except FileNotFoundError:
+                  pass
+
+          sources_block = "\n\n".join(fr_items) if fr_items else "(No Federal Register items retrieved)"
+
+          # ── 3. Build monitoring prompt (Section 2 of the BIS Affiliates Kit) ──
+          MONITOR_PROMPT = f"""ROLE
+You are an export-controls and sanctions monitoring analyst maintaining the
+"{REPO}" repository. Today is {TODAY}. Produce a precise, citable daily update.
+
+TASK
+1. Scan the following sources published or materially updated in the last {LOOKBACK_H}h:
+
+{sources_block}
+
+   Priority topics, in order:
+     a. BIS Affiliates Rule / "50 Percent Rule" (EAR §744.8, §744.21; IFR 90 FR 47201;
+        suspension FR 2025-19846). Track ANY movement toward or away from the
+        10 Nov 2026 Phase 2 reimposition: extensions, early designations, FAQs,
+        advisory opinions, enforcement actions, or Federal Register notices.
+     b. Entity List / MEU List / SDN additions, removals, modifications relevant to
+        listed-party ownership chains.
+     c. OFAC 50% Rule developments and any divergence/convergence with the BIS rule.
+     d. Advanced-computing / IC controls, beneficial-ownership and front-company
+        red-flag guidance (BIS/FinCEN joint alerts).
+
+2. De-duplicate against existing repository entries. Treat an item as new only if
+   its URL is NOT in this set:
+   {json.dumps(sorted(existing_urls)[:200])}
+
+3. For each genuinely new item output a record in this exact schema:
+   - date_detected: (ISO 8601)
+   - source: (firm/agency)
+   - title:
+   - url:
+   - rule_or_authority: (e.g., "EAR §744.21 / Affiliates Rule")
+   - summary: (<=3 sentences, your own words, no verbatim quoting beyond 15 words)
+   - so_what: (1 sentence: operational/compliance implication)
+   - snapback_relevance: ("high" | "medium" | "low")
+   - confidence: ("primary-source" | "law-firm-analysis" | "secondary")
+
+4. Maintain this snap-back countdown line (include it in all three output sections):
+   "Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: suspended"
+
+OUTPUT — use these exact section markers:
+=== SECTION A ===
+Markdown table of new records, newest first, ready to prepend to the digest.
+If no new items: output exactly one line: *No new Affiliates Rule developments detected.*
+=== SECTION B ===
+Slack-ready digest — one bullet per record prefixed 🔴/🟠/🟢. Lead with any "high" item.
+Include the snap-back countdown line at the top.
+If nothing new: "No material developments in {REPO} in the last {LOOKBACK_H}h."
+=== SECTION C ===
+Open questions or items needing human review. If none: "(none)"
+
+CONSTRAINTS
+- Cite primary sources over secondary where both exist.
+- Never reproduce more than 15 words verbatim from any source.
+- Do not infer the rule is in force during the suspension window; it is suspended
+  until 9 Nov 2026. Flag, do not assume.
+- Flag low-confidence/unverified reports rather than logging them as fact.
+"""
+
+          section_a = section_b = section_c = ""
+
+          if ANTHROPIC_KEY:
+              import anthropic
+              client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
+              try:
+                  msg = client.messages.create(
+                      model="claude-haiku-4-5-20251001",
+                      max_tokens=2048,
+                      messages=[{"role": "user", "content": MONITOR_PROMPT}],
+                  )
+                  response_text = msg.content[0].text
+                  # Parse sections
+                  def extract_section(text, tag):
+                      m = re.search(rf"=== {tag} ===\n(.*?)(?:=== \w+ ===|$)", text, re.DOTALL)
+                      return m.group(1).strip() if m else ""
+                  section_a = extract_section(response_text, "SECTION A")
+                  section_b = extract_section(response_text, "SECTION B")
+                  section_c = extract_section(response_text, "SECTION C")
+                  print(f"  Claude analysis complete. Section A chars: {len(section_a)}")
+              except Exception as e:
+                  print(f"  Anthropic API error: {e}", file=sys.stderr)
+                  section_a = "*Anthropic API error — raw Federal Register items logged below.*\n"
+                  section_b = f"⚠️ Monitor error on {TODAY}. Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: suspended"
+          else:
+              print("  ANTHROPIC_API_KEY not set — skipping AI analysis; logging raw FR items.")
+              if fr_items:
+                  rows = "\n".join(f"| {TODAY} | Federal Register | (raw) | | |" for _ in fr_items)
+                  section_a = (
+                      f"*ANTHROPIC_API_KEY not configured — raw items listed for manual review.*\n\n"
+                      f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: suspended\n\n"
+                      + "\n".join(f"- {item.splitlines()[0]}" for item in fr_items)
+                  )
+              else:
+                  section_a = f"*No new Affiliates Rule developments detected.*\n\nDays to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: suspended"
+              section_b = f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: suspended\n(AI analysis disabled — ANTHROPIC_API_KEY not set)"
+
+          # ── 4. Prepend Section A to both digest files ─────────────────────────
+          block = f"## {TODAY} — BIS Affiliates Rule Monitor *(auto)*\n\n{section_a}\n"
+          if section_c and section_c.lower() not in ("(none)", "none"):
+              block += f"\n**Open questions:** {section_c}\n"
+
+          for path in ("news/digest.md", "docs/news/digest.md"):
+              try:
+                  with open(path, encoding="utf-8") as f:
+                      content = f.read()
+                  m = re.search(r"<!-- DIGEST_START -->(.*?)<!-- DIGEST_END -->", content, re.DOTALL)
+                  existing_body = m.group(1).strip() if m else ""
+                  combined = block + "\n\n---\n\n" + existing_body
+                  # Trim history at 3000 lines
+                  lines = combined.splitlines()
+                  if len(lines) > 3000:
+                      lines = lines[:3000]
+                  new_content = re.sub(
+                      r"<!-- DIGEST_START -->.*?<!-- DIGEST_END -->",
+                      f"<!-- DIGEST_START -->\n{chr(10).join(lines)}\n<!-- DIGEST_END -->",
+                      content,
+                      flags=re.DOTALL,
+                  )
+                  with open(path, "w", encoding="utf-8") as f:
+                      f.write(new_content)
+                  print(f"  Digest updated: {path}")
+              except FileNotFoundError:
+                  print(f"  WARNING: {path} not found", file=sys.stderr)
+
+          # ── 5. Post Section B to Slack ────────────────────────────────────────
+          if SLACK_WEBHOOK and section_b:
+              payload = {"text": f"*BIS Affiliates Rule Monitor — {TODAY}*\n{section_b}"}
+              try:
+                  r = requests.post(SLACK_WEBHOOK, json=payload, timeout=15)
+                  r.raise_for_status()
+                  print("  Slack notification sent.")
+              except Exception as e:
+                  print(f"  WARNING: Slack post failed: {e}", file=sys.stderr)
+          elif not SLACK_WEBHOOK:
+              print("  SLACK_WEBHOOK_URL not set — skipping Slack notification.")
+
+          print("Daily monitor done.")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/digest.md docs/news/digest.md
+          git diff --cached --quiet && echo "No changes to commit" || \
+            git commit -m "chore: BIS affiliates monitor $(date -u +%Y-%m-%d)"
+          git push
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # JOB 2: Weekly synthesis (Monday only)
+  # Reads the last 7 days of digest entries, calls Claude to synthesise into a
+  # 150-word leadership brief + watch-list, appends to the digest.
+  # Runs only on Monday (checked at runtime); skipped silently on other weekdays.
+  # Requires secret: ANTHROPIC_API_KEY
+  # Optional secret: SLACK_WEBHOOK_URL
+  # ─────────────────────────────────────────────────────────────────────────────
+  weekly-synthesis:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    needs: daily-monitor
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main       # pull the commit daily-monitor just pushed
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests anthropic
+
+      - name: Weekly synthesis (Monday only)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          python - <<'PYEOF'
+          import datetime, os, re, sys
+          import requests
+
+          TODAY = datetime.date.today()
+
+          # Only run on Monday
+          if TODAY.weekday() != 0 and os.environ.get("GITHUB_EVENT_NAME") != "workflow_dispatch":
+              print("Not Monday — weekly synthesis skipped.")
+              sys.exit(0)
+
+          REPO           = "felipelago17/Sanctions-and-Export-Controls-AI-and-Oil"
+          ANTHROPIC_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
+          SLACK_WEBHOOK  = os.environ.get("SLACK_WEBHOOK_URL", "")
+          SNAP_BACK      = datetime.date(2026, 11, 10)
+          DAYS_TO_PHASE2 = (SNAP_BACK - TODAY).days
+
+          if not ANTHROPIC_KEY:
+              print("ANTHROPIC_API_KEY not set — weekly synthesis skipped.")
+              sys.exit(0)
+
+          # ── Extract last 7 days of digest entries ────────────────────────────
+          cutoff = TODAY - datetime.timedelta(days=7)
+          digest_excerpt = ""
+          try:
+              with open("news/digest.md", encoding="utf-8") as f:
+                  content = f.read()
+              m = re.search(r"<!-- DIGEST_START -->(.*?)<!-- DIGEST_END -->", content, re.DOTALL)
+              body = m.group(1) if m else ""
+              # Keep only sections whose date header is within the last 7 days
+              lines_out = []
+              include = False
+              for line in body.splitlines():
+                  date_m = re.match(r"^## (\d{4}-\d{2}-\d{2})", line)
+                  if date_m:
+                      try:
+                          entry_date = datetime.date.fromisoformat(date_m.group(1))
+                          include = entry_date >= cutoff
+                      except ValueError:
+                          include = False
+                  if include:
+                      lines_out.append(line)
+              digest_excerpt = "\n".join(lines_out).strip()
+          except FileNotFoundError:
+              pass
+
+          if not digest_excerpt:
+              digest_excerpt = "(No entries logged in the last 7 days.)"
+
+          # ── Weekly synthesis prompt ───────────────────────────────────────────
+          SYNTHESIS_PROMPT = f"""ROLE
+You are an export-controls analyst maintaining "{REPO}". Today is {TODAY}.
+Synthesise, do not re-monitor.
+
+INPUT
+The records the daily job logged in the last 7 days (do NOT fetch or scan new
+sources — work only from existing repository entries):
+
+{digest_excerpt}
+
+TASK
+1. Cluster the week's logged items into 2–4 themes (e.g., snapback trajectory,
+   Entity List/SDN ownership chains, BIS–OFAC divergence, diligence/red-flag guidance).
+2. State the net change for the week: did the probability, timing, or scope of the
+   10 Nov 2026 Phase 2 reimposition move? In which direction, and on what evidence?
+3. Surface contradictions or unresolved items carried over from daily "open questions".
+4. Flag staleness: any priority topic with zero entries in 7 days that warrants a
+   manual check.
+
+Snap-back countdown: Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: suspended
+
+OUTPUT
+- A <=150-word weekly brief (prose, leadership-ready).
+- "Watch next week": up to 3 bullets, each a concrete trigger to monitor.
+- If the week had no logged items: "No logged developments this week — monitor live."
+
+CONSTRAINTS
+- No verbatim quoting beyond 15 words; paraphrase.
+- Do not introduce facts absent from the logged entries.
+- Suspension holds until 9 Nov 2026 unless an entry says otherwise.
+"""
+
+          import anthropic
+          client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
+          try:
+              msg = client.messages.create(
+                  model="claude-haiku-4-5-20251001",
+                  max_tokens=1024,
+                  messages=[{"role": "user", "content": SYNTHESIS_PROMPT}],
+              )
+              synthesis = msg.content[0].text.strip()
+              print(f"  Weekly synthesis complete ({len(synthesis)} chars).")
+          except Exception as e:
+              print(f"  Anthropic API error: {e}", file=sys.stderr)
+              sys.exit(0)
+
+          # ── Append synthesis block to digest ─────────────────────────────────
+          week_label = TODAY.strftime("%Y-%W")
+          block = (
+              f"## Week of {TODAY} — BIS Affiliates Rule Weekly Brief *(auto)*\n\n"
+              f"{synthesis}\n"
+          )
+
+          for path in ("news/digest.md", "docs/news/digest.md"):
+              try:
+                  with open(path, encoding="utf-8") as f:
+                      content = f.read()
+                  m = re.search(r"<!-- DIGEST_START -->(.*?)<!-- DIGEST_END -->", content, re.DOTALL)
+                  existing_body = m.group(1).strip() if m else ""
+                  # Prepend the weekly brief (it's the freshest summary)
+                  combined = block + "\n\n---\n\n" + existing_body
+                  lines = combined.splitlines()
+                  if len(lines) > 3000:
+                      lines = lines[:3000]
+                  new_content = re.sub(
+                      r"<!-- DIGEST_START -->.*?<!-- DIGEST_END -->",
+                      f"<!-- DIGEST_START -->\n{chr(10).join(lines)}\n<!-- DIGEST_END -->",
+                      content,
+                      flags=re.DOTALL,
+                  )
+                  with open(path, "w", encoding="utf-8") as f:
+                      f.write(new_content)
+                  print(f"  Weekly brief written: {path}")
+              except FileNotFoundError:
+                  print(f"  WARNING: {path} not found", file=sys.stderr)
+
+          # ── Post synthesis to Slack ───────────────────────────────────────────
+          if SLACK_WEBHOOK:
+              payload = {"text": f"*BIS Affiliates Rule — Weekly Brief ({TODAY})*\n{synthesis}"}
+              try:
+                  r = requests.post(SLACK_WEBHOOK, json=payload, timeout=15)
+                  r.raise_for_status()
+                  print("  Slack weekly brief sent.")
+              except Exception as e:
+                  print(f"  WARNING: Slack post failed: {e}", file=sys.stderr)
+
+          print("Weekly synthesis done.")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/digest.md docs/news/digest.md
+          git diff --cached --quiet && echo "No changes to commit" || \
+            git commit -m "chore: BIS affiliates weekly brief $(date -u +%Y-%m-%d)"
+          git push

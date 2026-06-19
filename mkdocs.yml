@@ -81,6 +81,10 @@ nav:
     - EU (May 2026): jurisdictions/eu/2026/may-2026-wave.md
     - UAE (2026): jurisdictions/uae/2026/local-designations-2026.md
     - Australia (Iran 2026): jurisdictions/australia/2026/iran-autonomous-sanctions-2026.md
+  - Cases:
+    - BIS Deemed-Export — Anthropic Fable 5 / Mythos 5 (Jun 2026): cases/2026-06-anthropic-fable-mythos-deemed-export.md
+  - Tools:
+    - ECCN Classifier: tools/eccn-classifier/index.html
   - Visuals & Tools: visuals.md
   - Sources & Literature: additional-sources.md
   - News:
