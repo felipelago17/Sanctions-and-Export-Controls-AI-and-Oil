@@ -18,7 +18,7 @@ const ECCN_SEVERITY = {
   '4D002': 20,
   '3A090': 30,
   '4A090': 30,
-  'MODEL_WEIGHTS_NOTE': 25,
+  '4E091': 0,       // rescinded 13 May 2025 — no active control; severity 0
   'UNDETERMINED': 20
 };
 
@@ -46,16 +46,22 @@ export function computeRiskScore(classificationOutput, inputs, countryData) {
   const country_heat = {};
 
   // ── Dimension 1: ECCN Severity (0–30) ──────────────────────────────────────
-  const primaryECCN = (classificationOutput.summary && classificationOutput.summary.primary_ECCN) || 'EAR99';
-  const eccnScore = ECCN_SEVERITY[primaryECCN] !== undefined ? ECCN_SEVERITY[primaryECCN] : ECCN_SEVERITY['UNDETERMINED'];
+  // primary_ECCN is null when no CCL rule matched (no_rule_matched / flagged_for_review)
+  const primaryECCN = (classificationOutput.summary && classificationOutput.summary.primary_ECCN) || null;
+  const matchStatus = (classificationOutput.summary && classificationOutput.summary.match_status) || 'no_rule_matched';
+  const eccnLookup = primaryECCN ? (ECCN_SEVERITY[primaryECCN] !== undefined ? ECCN_SEVERITY[primaryECCN] : ECCN_SEVERITY['UNDETERMINED']) : 0;
+  // flagged_for_review (e.g. model weights with rescinded 4E091) gets partial severity for risk scoring
+  const eccnScore = matchStatus === 'flagged_for_review' && !primaryECCN ? 15 : eccnLookup;
   drivers.push({
     dimension: 'ECCN Severity',
     score: eccnScore,
     max: 30,
     eccn: primaryECCN,
-    rationale: eccnScore === 0
-      ? `${primaryECCN}: No CCL control — lowest ECCN risk tier. Note: Part 744 and Part 746 controls still apply.`
-      : `${primaryECCN}: Carries ${eccnScore}/30 severity weight based on NS/AT control level and dual-use potential.`,
+    rationale: !primaryECCN && matchStatus === 'flagged_for_review'
+      ? `No primary ECCN (flagged_for_review — e.g. model weights, 4E091 rescinded). Partial severity applied for risk scoring. Human review required.`
+      : eccnScore === 0
+        ? `${primaryECCN || 'no_rule_matched'}: No active CCL control — lowest ECCN risk tier. Part 744 and Part 746 controls still apply.`
+        : `${primaryECCN}: Carries ${eccnScore}/30 severity weight based on NS/AT control level and dual-use potential.`,
     citation: '15 CFR Part 774 Supplement No. 1 (CCL)'
   });
 
