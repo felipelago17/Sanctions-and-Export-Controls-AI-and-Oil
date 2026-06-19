@@ -9,6 +9,49 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-19
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [UK Expands Russia Sanctions to Further Target Shadow Fleet, Military Procurement, and Financial Networks](https://sanctionsnews.bakermckenzie.com/uk-expands-russia-sanctions-to-further-target-shadow-fleet-military-procurement-and-financial-networks/)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[OFAC]** [Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations](https://home.treasury.gov/news/press-releases/sb0503)
+- **[OFAC]** [Treasury Targets Flotilla Organizers and Muslim Brotherhood Networks Supporting Hamas](https://home.treasury.gov/news/press-releases/sb0501)
+- **[Federal Register]** [Request for Information (RFI): Pharmacy Benefit Manager Compensation and Data Collection (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12344/request-for-information-rfi-pharmacy-benefit-manager-compensation-and-data-collection)
+- **[Federal Register]** [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Procedures for Submissions by Certain Steel and Aluminum Producers Committing to New U.S. Steel or Aluminum Production to Obtain Tariff Adjustments Under Proclamation 10984 (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12343/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for)
+- **[Federal Register]** [Domestic Dates Produced or Packed in Riverside County, California; Increased Assessment Rate (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12341/domestic-dates-produced-or-packed-in-riverside-county-california-increased-assessment-rate)
+- **[Federal Register]** [Southern Nuclear Operating Company, Inc.; Edwin I. Hatch Nuclear Plant, Units 1 and 2; Subsequent License Renewal (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12339/southern-nuclear-operating-company-inc-edwin-i-hatch-nuclear-plant-units-1-and-2-subsequent-license)
+- **[Federal Register]** [Request for Information: Identifying Regulations To Facilitate Innovation and Competition to Financial Products and Services for Fintech Firms (2026-06-18)](https://www.federalregister.gov/documents/2026/06/18/2026-12337/request-for-information-identifying-regulations-to-facilitate-innovation-and-competition-to)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury International Capital Data for April](https://home.treasury.gov/news/press-releases/sb0536)
+- **[Treasury]** [Treasury Targets Hizballah-Aligned Officials and Intensifies Pressure on Global Financial Network](https://home.treasury.gov/news/press-releases/sb0535)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Texas Bankers in Houston](https://home.treasury.gov/news/press-releases/sb0533)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent at The Trump Accounts for Foster Youth Event](https://home.treasury.gov/news/press-releases/sb0529)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Lawyers Serve as Contributing Editor and Co-Authors of Globe Law and Business’s “Energy in the Middle East: From Black Gold to Green Horizons”](https://www.gibsondunn.com/gibson-dunn-lawyers-serve-as-contributing-editor-and-co-authors-of-globe-law-and-businesss-energy-in-the-middle-east-from-black-gold-to-green-horizons/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Time to Repeal INARA and Move Forward with the Iran MoU](https://www.justsecurity.org/143274/repeal-inara-iran-move-mou/?utm_source=rss&utm_medium=rss&utm_campaign=repeal-inara-iran-move-mou)
+- **[Just Security]** [Early Edition: June 18, 2026](https://www.justsecurity.org/143343/early-edition-june-18-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-18-2026)
+- **[Atlantic Council]** [The case for a US Northeast Asia Command](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-case-for-a-us-northeast-asia-command/)
+- **[Atlantic Council]** [Putin’s obsession with ‘denazifying’ Ukraine makes peace impossible](https://www.atlanticcouncil.org/blogs/ukrainealert/putins-obsession-with-denazifying-ukraine-makes-peace-impossible/)
+- **[Atlantic Council]** [“Shoot everybody”: US contractors in San Diego court](https://www.atlanticcouncil.org/commentary/podcast/shoot-everybody-us-contractors-in-san-diego-court/)
+- **[Atlantic Council]** [Ukrainian drones are cutting Russian logistics and reshaping the battlefield](https://www.atlanticcouncil.org/blogs/ukrainealert/ukrainian-drones-are-cutting-russian-logistics-and-reshaping-the-battlefield/)
+- **[Atlantic Council]** [Ukraine begins EU membership talks amid skepticism over associate option](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-begins-eu-membership-talks-amid-skepticism-over-associate-option/)
+
+---
+
 ## 2026-06-18
 
 ### Official & Regulatory
