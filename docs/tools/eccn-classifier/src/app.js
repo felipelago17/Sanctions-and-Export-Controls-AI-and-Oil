@@ -1,8 +1,9 @@
 /**
  * @module app
- * @description Main application controller for the ECCN Classifier.
+ * @description Main application controller for the ECCN Classification Demonstrator.
  * Wires up UI tabs, form handling, classification pipeline, and result rendering.
  * All classification outputs are indicative and non-binding.
+ * Client-side only: no input data is transmitted, logged, or stored on any server.
  * @see docs/tools/eccn-classifier/index.html
  */
 
@@ -71,7 +72,16 @@ document.addEventListener('DOMContentLoaded', async () => {
     initForm();
     initButtons();
 
-    setStatus('Data loaded. Ready to classify.');
+    // Update footer data date
+    const dataDate = allData.eccnRules && allData.eccnRules._meta && allData.eccnRules._meta.data_current_as_of;
+    if (dataDate) {
+      const footerDate = document.getElementById('footer-data-date');
+      if (footerDate) footerDate.textContent = dataDate;
+      const headerDate = document.getElementById('data-as-of');
+      if (headerDate) headerDate.textContent = dataDate;
+    }
+
+    setStatus('Data loaded. Ready to run demonstrator.');
   } catch (err) {
     showLoadingState(false);
     showError(`Failed to load regulatory data: ${err.message}. Ensure data files are present in ./data/.`);
@@ -126,6 +136,9 @@ function collectInputs() {
   const destRaw = getVal('destination-countries') || '';
   const destinations = destRaw.split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
 
+  const lastReviewedBy = getVal('last-reviewed-by') || null;
+  const lastReviewedOn = getVal('last-reviewed-on') || null;
+
   return {
     item_type: getVal('item-type') || 'software',
     description: getVal('description') || '',
@@ -138,6 +151,7 @@ function collectInputs() {
       fine_tuning_offered: getCheck('fine-tuning')
     },
     technical_parameters: {
+      chip_tpp: getNum('chip-tpp'),
       chip_perf_density: getNum('chip-perf-density'),
       chip_node_nm: getNum('chip-node-nm'),
       encryption: getVal('encryption') || null
@@ -147,7 +161,11 @@ function collectInputs() {
     contains_us_tech: getCheck('contains-us-tech'),
     foreign_national_access: getCheck('foreign-national-access'),
     end_users: endUsers,
-    destination_countries: destinations
+    destination_countries: destinations,
+    _review_meta: {
+      last_reviewed_by: lastReviewedBy,
+      last_reviewed_on: lastReviewedOn
+    }
   };
 }
 
@@ -178,6 +196,10 @@ function populateForm(inputs) {
   setVal('end-users', (inputs.end_users || []).join(', '));
   setVal('destination-countries', (inputs.destination_countries || []).join(', '));
 
+  if (inputs.technical_parameters) {
+    setVal('chip-tpp', inputs.technical_parameters.chip_tpp);
+  }
+
   // Show AI attrs section
   const aiSection = document.getElementById('ai-attrs-section');
   const toggleAI = document.getElementById('toggle-ai-attrs');
@@ -205,7 +227,7 @@ function initButtons() {
 
 function loadDemo() {
   populateForm(DEMO_INPUTS);
-  setStatus('Demo inputs loaded. Click "Classify" to run.');
+  setStatus('Demo inputs loaded. Click "Run Demonstrator" to proceed.');
 }
 
 async function runClassification() {
@@ -217,9 +239,9 @@ async function runClassification() {
   const inputs = collectInputs();
 
   try {
-    setStatus('Running classification…');
+    setStatus('Running demonstrator…');
     const classifyBtn = document.getElementById('btn-classify');
-    if (classifyBtn) { classifyBtn.disabled = true; classifyBtn.textContent = 'Classifying…'; }
+    if (classifyBtn) { classifyBtn.disabled = true; classifyBtn.textContent = 'Running…'; }
 
     // Run pipeline
     const classificationOutput = classify(inputs, allData);
@@ -242,13 +264,13 @@ async function runClassification() {
 
     // Auto-advance to Results tab
     activateTab('results');
-    setStatus('Classification complete.');
+    setStatus('Demonstrator complete.');
 
-    if (classifyBtn) { classifyBtn.disabled = false; classifyBtn.textContent = 'Classify'; }
+    if (classifyBtn) { classifyBtn.disabled = false; classifyBtn.textContent = 'Run Demonstrator'; }
   } catch (err) {
     const classifyBtn = document.getElementById('btn-classify');
-    if (classifyBtn) { classifyBtn.disabled = false; classifyBtn.textContent = 'Classify'; }
-    showError(`Classification error: ${err.message}`);
+    if (classifyBtn) { classifyBtn.disabled = false; classifyBtn.textContent = 'Run Demonstrator'; }
+    showError(`Demonstrator error: ${err.message}`);
     console.error(err);
   }
 }
@@ -274,9 +296,21 @@ function renderResults(output) {
   if (!panel) return;
 
   const s = output.summary || {};
-  const confidenceClass = { high: 'badge-green', medium: 'badge-yellow', low: 'badge-red' }[s.confidence] || 'badge-grey';
+  const matchStatusClass = {
+    rule_matched: 'badge-green',
+    flagged_for_review: 'badge-orange',
+    no_rule_matched: 'badge-grey'
+  }[s.match_status] || 'badge-grey';
+  const matchStatusLabel = {
+    rule_matched: 'Rule Matched',
+    flagged_for_review: 'Flagged for Review',
+    no_rule_matched: 'No Rule Matched'
+  }[s.match_status] || (s.match_status || '—');
   const licenceClass = s.licence_indication && s.licence_indication.includes('NLR') ? 'badge-green'
     : s.licence_indication && s.licence_indication.includes('Prohibited') ? 'badge-red' : 'badge-orange';
+
+  // Governance fields
+  const gov = output.governance || {};
 
   let html = `
     <div class="result-card result-summary">
@@ -288,11 +322,11 @@ function renderResults(output) {
         ${s.fdpr_flag ? `<div class="result-field"><span class="field-label">FDPR Flag</span><span class="badge badge-orange">Review Required</span></div>` : ''}
         <div class="result-field">
           <span class="field-label">Candidate ECCN</span>
-          <span class="badge badge-eccn">${esc(s.primary_ECCN || 'UNDETERMINED')}</span>
+          <span class="badge badge-eccn">${esc(s.primary_ECCN || 'None matched')}</span>
         </div>
         <div class="result-field">
-          <span class="field-label">Confidence</span>
-          <span class="badge ${confidenceClass}">${esc(s.confidence || '—')}</span>
+          <span class="field-label">Match Status</span>
+          <span class="badge ${matchStatusClass}">${esc(matchStatusLabel)}</span>
         </div>
       </div>
       <div class="result-row">
@@ -301,8 +335,15 @@ function renderResults(output) {
           <span class="badge ${licenceClass} badge-large">${esc(s.licence_indication || '—')}</span>
         </div>
       </div>
+      ${gov.last_reviewed_by || gov.last_reviewed_on ? `
+      <div class="result-row">
+        <div class="result-field"><span class="field-label">Last Reviewed By</span> ${esc(gov.last_reviewed_by || '—')}</div>
+        <div class="result-field"><span class="field-label">Last Reviewed On</span> ${esc(gov.last_reviewed_on || '—')}</div>
+      </div>` : ''}
+      ${s.match_status === 'no_rule_matched' ? `<div class="alert alert-amber"><strong>No CCL rule matched.</strong> This does NOT confirm EAR99 status. Review the full Commerce Control List (15 CFR Part 774, Supplement No. 1) before making any EAR99 determination. Human review required.</div>` : ''}
+      ${s.match_status === 'flagged_for_review' ? `<div class="alert alert-amber"><strong>Flagged for review.</strong> One or more items require human review before any export determination. See AI flags below.</div>` : ''}
       ${s.embargoed_destination ? `<div class="alert alert-red"><strong>Embargoed destination identified.</strong> Licence required — presumption of denial. OFAC review also required independently.</div>` : ''}
-      ${s.has_unverified_rules ? `<div class="alert alert-amber"><strong>Unverified rules triggered.</strong> One or more classification rules contain [TODO] thresholds not yet populated from the live CCL. Confidence is limited. Human review required.</div>` : ''}
+      ${s.has_unverified_rules ? `<div class="alert alert-amber"><strong>Unverified rules triggered.</strong> One or more rules contain heuristic triggers. Human review required.</div>` : ''}
     </div>
 
     <div class="regime-note">
@@ -493,7 +534,21 @@ function renderIDD(iddOutput) {
   const flagColors = { high_risk: '#dc2626', elevated: '#d97706', clear: '#16a34a' };
   const flagColor = flagColors[iddOutput.overall_idd_flag] || '#6b7280';
 
-  let html = `
+  let html = '';
+
+  // DEMO banner — shown whenever demo_mode is true (any synthetic entry in dataset)
+  if (iddOutput.demo_mode) {
+    html += `
+    <div class="alert alert-demo" style="background:#fef3c7;border:2px solid #d97706;border-radius:6px;padding:12px 16px;margin-bottom:16px;">
+      <strong>&#9888; DEMO — Illustrative Data Only</strong><br/>
+      This IDD panel is <strong>not connected to live MEU or SDN lists</strong>.
+      MEU and SDN entries in this dataset are <strong>fully synthetic illustrative entries</strong> — they do not correspond to any real party, name, address, or identifier.
+      Entity List entries (Huawei, CXMT, YMTC, SMIC, SenseTime) and state-owned energy entries reflect publicly documented designations but are <strong>not verified</strong> against current official lists.
+      <strong>Always verify against current official government lists before any transaction.</strong>
+    </div>`;
+  }
+
+  html += `
     <div class="result-card">
       <div class="idd-header">
         <div class="idd-overall" style="color: ${flagColor}">
@@ -505,6 +560,25 @@ function renderIDD(iddOutput) {
         <strong>Disclaimer:</strong> ${esc(iddOutput.disclaimer || '')}
       </div>
     </div>`;
+
+  // OFAC Sanctions flags (separate from EAR verdict)
+  if (iddOutput.ofac_flags && iddOutput.ofac_flags.length > 0) {
+    html += `
+      <div class="result-card" style="border-left: 4px solid #7f1d1d;">
+        <h3 class="card-title" style="color:#7f1d1d;">OFAC Sanctions Flags (Separate from EAR)</h3>
+        <p class="muted" style="font-size:12px;margin-bottom:8px;">OFAC sanctions are a distinct legal regime from the EAR. An OFAC flag is an independent prohibition — it does not affect the EAR ECCN verdict, and a clean EAR result does not clear an OFAC concern.</p>
+        ${iddOutput.demo_mode ? `<div class="badge badge-yellow" style="margin-bottom:8px;">DEMO — SDN entries below are synthetic illustrative entries, not real parties</div>` : ''}
+        <ul class="flag-list">
+          ${iddOutput.ofac_flags.map(f => `
+            <li class="flag-item flag-red">
+              <strong>${esc(f.input_name)}</strong> matched: <em>${esc(f.matched_entry)}</em> (${esc(f.country || '?')})
+              — confidence: ${esc(f.match_confidence)}
+              ${f.synthetic ? `<span class="badge badge-yellow" style="margin-left:4px;">Synthetic/Demo entry</span>` : ''}
+              <br/><small>${esc(f.note || '')}</small>
+            </li>`).join('')}
+        </ul>
+      </div>`;
+  }
 
   // High-risk countries
   if (iddOutput.high_risk_countries && iddOutput.high_risk_countries.length > 0) {
@@ -580,7 +654,11 @@ function renderAuditTrail(auditRecord) {
     <div class="audit-meta result-card">
       <div class="audit-row"><span class="field-label">Session ID</span> <code>${esc(auditRecord.session_id)}</code></div>
       <div class="audit-row"><span class="field-label">Timestamp</span> ${esc(auditRecord.timestamp)}</div>
+      <div class="audit-row"><span class="field-label">Tool</span> ${esc(auditRecord._label || 'EAR export-control triage demonstrator')}</div>
       <div class="audit-row"><span class="field-label">Tool Version</span> ${esc(auditRecord.tool_version)}</div>
+      ${auditRecord.governance ? `
+      <div class="audit-row"><span class="field-label">Last Reviewed By</span> ${esc(auditRecord.governance.last_reviewed_by || '—')}</div>
+      <div class="audit-row"><span class="field-label">Last Reviewed On</span> ${esc(auditRecord.governance.last_reviewed_on || '—')}</div>` : ''}
     </div>
     <div class="result-card">
       <h3 class="card-title">Disclaimer</h3>

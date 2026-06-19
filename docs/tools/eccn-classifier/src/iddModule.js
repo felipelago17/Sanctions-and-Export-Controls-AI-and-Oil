@@ -18,17 +18,25 @@ const DISCLAIMER = 'Screening against point-in-time snapshot — NOT a live sanc
  * @param {object} entityScreening - The entity_screening.json object
  * @param {string[]} endUsers - Array of end-user names to screen
  * @param {string[]} destinationCountries - Array of ISO2 country codes
- * @returns {{entities: Array, high_risk_countries: string[], overall_idd_flag: string, snapshot_date: string, disclaimer: string}}
+ * @returns {{entities: Array, ofac_flags: Array, high_risk_countries: string[], overall_idd_flag: string, snapshot_date: string, disclaimer: string, demo_mode: boolean}}
  * @see 15 CFR § 744.21 (military end-use)
  * @see 15 CFR Part 764 (Enforcement — prohibited parties)
  */
 export function screenEntities(entityScreening, endUsers, destinationCountries) {
   const entities = [];
+  const ofac_flags = [];
   const high_risk_countries = [];
   let hasHighRisk = false;
   let hasElevated = false;
 
   const snapshotDate = (entityScreening && entityScreening._meta && entityScreening._meta.data_current_as_of) || 'unknown';
+
+  // DEMO gate: set demo_mode if any entity entry has synthetic: true
+  const demo_mode = !!(
+    entityScreening &&
+    Array.isArray(entityScreening.entities) &&
+    entityScreening.entities.some(e => e.synthetic === true)
+  );
 
   // Embargoed / high-risk country codes (E:1 / E:2 from country controls)
   const embargoedCodes = new Set(['IR', 'KP', 'CU', 'SY']);
@@ -101,7 +109,20 @@ export function screenEntities(entityScreening, endUsers, destinationCountries) 
       userResult.list_types_hit = listTypes;
 
       if (listTypes.includes('sdn')) {
-        userResult.notes.push('SDN match: Transaction potentially prohibited under OFAC regulations. Seek legal counsel immediately.');
+        // OFAC SDN hits are a separate sanctions flag — not merged into EAR verdict
+        const sdnMatches = allMatches.filter(m => m.entry.list_type === 'sdn');
+        for (const sdnHit of sdnMatches) {
+          ofac_flags.push({
+            input_name: userName,
+            matched_entry: sdnHit.entry.name,
+            country: sdnHit.entry.country,
+            match_confidence: sdnHit.confidence,
+            synthetic: sdnHit.entry.synthetic || false,
+            note: 'OFAC SDN match: Transaction potentially prohibited under OFAC regulations independently of EAR classification. Seek legal counsel immediately.',
+            source_url: sdnHit.entry.source_url
+          });
+        }
+        userResult.notes.push('OFAC SDN flag raised (see OFAC Sanctions section). OFAC and EAR are distinct regimes — an SDN match is an independent prohibition separate from the EAR ECCN verdict.');
         hasHighRisk = true;
       }
       if (listTypes.includes('entity_list')) {
@@ -135,9 +156,11 @@ export function screenEntities(entityScreening, endUsers, destinationCountries) 
 
   return {
     entities,
+    ofac_flags,
     high_risk_countries,
     overall_idd_flag,
     snapshot_date: snapshotDate,
+    demo_mode,
     disclaimer: `Screening against point-in-time snapshot dated ${snapshotDate}. ${DISCLAIMER}`
   };
 }

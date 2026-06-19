@@ -6,7 +6,7 @@
  * @see 15 CFR Parts 730–774 (Export Administration Regulations)
  */
 
-import { evaluateTrigger, getCountryRisk, screenEntity } from './rulesEngine.js';
+import { evaluateTrigger, evaluateRuleWithAltLogic, getCountryRisk, screenEntity } from './rulesEngine.js';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // STEP 1 — Is the item subject to the EAR?
@@ -73,7 +73,7 @@ export function isSubjectToEAR(inputs) {
  * Map inputs to candidate ECCNs using rules from eccn_rules.json.
  * @param {object} inputs - User-supplied classification inputs
  * @param {object} rulesData - The eccn_rules.json data object
- * @returns {{primary_ECCN: string|null, candidates: Array, unverified_rules: string[], confidence: string, rules_fired: string[], citations: string[], ai_flags: string[]}}
+ * @returns {{primary_ECCN: string|null, candidates: Array, unverified_rules: string[], match_status: string, rules_fired: string[], citations: string[], ai_flags: string[]}}
  * @see 15 CFR Part 774 Supplement No. 1 (Commerce Control List)
  */
 export function mapECCN(inputs, rulesData) {
@@ -82,13 +82,14 @@ export function mapECCN(inputs, rulesData) {
   const rules_fired = [];
   const citations = [];
   const ai_flags = [];
+  let flagged_for_review = false;
 
   if (!rulesData || !Array.isArray(rulesData.eccn_rules)) {
     return {
       primary_ECCN: 'UNDETERMINED',
       candidates: [],
       unverified_rules: ['Rules data not loaded'],
-      confidence: 'low',
+      match_status: 'no_rule_matched',
       rules_fired: [],
       citations: [],
       ai_flags: []
@@ -97,16 +98,14 @@ export function mapECCN(inputs, rulesData) {
 
   // ── AI-specific branch checks (always evaluate these) ───────────────────────
 
-  // Model weights flag
-  // EAR: 90 FR 4544 (Jan. 15, 2025) — AI Diffusion Rule IFR
+  // 4E091 model weights — RESCINDED 13 May 2025. Flag for review; never assert licence requirement.
   if (inputs.ai_attributes && inputs.ai_attributes.is_model_weights === true) {
-    ai_flags.push('MODEL_WEIGHTS_FLAG: Item is or includes AI model weights. Thresholds for EAR control are [TODO] — human review required. See 90 FR 4544 (Jan. 2025).');
-    unverified_rules.push('MODEL_WEIGHTS_NOTE — thresholds not populated from current CCL');
-    citations.push('90 FR 4544 (Jan. 15, 2025) — AI Diffusion Rule IFR');
+    ai_flags.push('MODEL_WEIGHTS_FLAG: Item is or includes AI model weights. ECCN 4E091 (AI Diffusion Rule IFR) was rescinded 13 May 2025 before its compliance date — no active model-weight ECCN applies. However, model weights may still be subject to other EAR controls. Human review required. See 90 FR 4544 (Jan. 2025, rescinded).');
+    flagged_for_review = true;
+    citations.push('90 FR 4544 (Jan. 15, 2025) — AI Diffusion Rule IFR (rescinded 13 May 2025)');
   }
 
-  // SaaS/IaaS deemed-export concern
-  // EAR § 734.13 — deemed export
+  // SaaS/IaaS deemed-export concern — EAR § 734.13
   if (inputs.deployment_model && (inputs.deployment_model.includes('cloud') || inputs.deployment_model === 'cloud_IaaS')) {
     ai_flags.push('SAAS_IAAS_FLAG: Cloud/IaaS deployment — deemed-export analysis required for foreign national users. See 15 CFR §§ 734.13–734.16.');
     citations.push('15 CFR § 734.13 (deemed export)');
@@ -118,8 +117,7 @@ export function mapECCN(inputs, rulesData) {
     citations.push('15 CFR § 734.13–734.16 (deemed export)');
   }
 
-  // Dual-use catch-all
-  // EAR § 744.22 — emerging/foundational tech
+  // Dual-use catch-all — EAR § 744.22
   if (inputs.ai_attributes && inputs.ai_attributes.intended_use === 'dual_use_concern') {
     ai_flags.push('DUAL_USE_FLAG: Intended use flagged as dual_use_concern — Part 744.22 (emerging/foundational tech) review warranted.');
     citations.push('15 CFR § 744.22 (emerging and foundational technologies)');
@@ -129,51 +127,79 @@ export function mapECCN(inputs, rulesData) {
   for (const rule of rulesData.eccn_rules) {
     if (!Array.isArray(rule.triggers)) continue;
 
-    // Skip fallback rules for now — apply at end
+    // Skip fallback (EAR99) rules — engine returns no_rule_matched instead
     if (rule.logic === 'FALLBACK' || (rule.triggers.length === 1 && rule.triggers[0].operator === 'fallback')) continue;
 
-    let matchScore = 0;
-    let totalTriggers = rule.triggers.filter(t => t.operator !== 'fallback' && !t.field.startsWith('_fallback')).length;
-    let hasUnverified = !!rule.unverified;
-    const triggersMatched = [];
+    const hasUnverifiedRule = !!rule.unverified;
     const triggersUnverified = [];
 
-    for (const trigger of rule.triggers) {
-      if (trigger.operator === 'fallback' || trigger.field.startsWith('_fallback')) continue;
-      const result = evaluateTrigger(trigger, inputs);
-      if (result.matched) {
-        matchScore++;
-        triggersMatched.push(trigger.label || trigger.field);
+    // STANDALONE rules: match if any trigger fires
+    if (rule.logic === 'STANDALONE') {
+      let anyMatch = false;
+      const triggersMatched = [];
+      for (const trigger of rule.triggers) {
+        const result = evaluateTrigger(trigger, inputs);
+        if (result.matched) { anyMatch = true; triggersMatched.push(trigger.label || trigger.field); }
+        if (result.unverified && result.note) triggersUnverified.push(result.note);
       }
-      if (result.unverified) {
-        hasUnverified = true;
-        if (result.note) triggersUnverified.push(result.note);
+      if (anyMatch) {
+        // 4E091 is rescinded — override to flagged_for_review, never rule_matched
+        if (rule.match_status_override === 'flagged_for_review' || rule.status === 'rescinded') {
+          flagged_for_review = true;
+          rules_fired.push(`${rule.eccn}: STANDALONE match (RESCINDED — flagged_for_review) — ${triggersMatched.join(', ')}`);
+          if (rule.citations) citations.push(...rule.citations);
+        } else {
+          candidates.push({
+            eccn: rule.eccn,
+            short_name: rule.short_name,
+            severity: rule.severity || 0,
+            unverified: hasUnverifiedRule,
+            triggers_matched: triggersMatched,
+            control_reason: rule.control_reason,
+            citations: rule.citations || []
+          });
+          rules_fired.push(`${rule.eccn}: STANDALONE match — ${triggersMatched.join(', ')}`);
+          if (rule.citations) citations.push(...rule.citations);
+          if (hasUnverifiedRule) unverified_rules.push(...triggersUnverified, `${rule.eccn} — ${rule.notes || 'unverified'}`);
+        }
       }
+      continue;
     }
 
-    // STANDALONE rules (like MODEL_WEIGHTS_NOTE): match if any trigger fires
-    if (rule.logic === 'STANDALONE') {
-      if (matchScore > 0) {
+    // primary_OR_alt logic: use evaluateRuleWithAltLogic
+    if (rule.trigger_logic === 'primary_OR_alt') {
+      const evalResult = evaluateRuleWithAltLogic(rule, inputs);
+      if (evalResult.matched) {
         candidates.push({
           eccn: rule.eccn,
           short_name: rule.short_name,
           severity: rule.severity || 0,
-          unverified: hasUnverified,
-          triggers_matched: triggersMatched,
-          confidence_override: rule.confidence_override || null,
+          unverified: evalResult.hasUnverified || hasUnverifiedRule,
+          triggers_matched: evalResult.triggersMatched,
+          trigger_set_used: evalResult.setUsed,
           control_reason: rule.control_reason,
           citations: rule.citations || []
         });
-        rules_fired.push(`${rule.eccn}: STANDALONE match — ${triggersMatched.join(', ')}`);
+        rules_fired.push(`${rule.eccn}: primary_OR_alt match (set: ${evalResult.setUsed}) — ${evalResult.triggersMatched.join(', ')}`);
         if (rule.citations) citations.push(...rule.citations);
-        if (hasUnverified) unverified_rules.push(...triggersUnverified, `${rule.eccn} — ${rule.notes || 'unverified threshold'}`);
+        if (evalResult.hasUnverified) unverified_rules.push(`${rule.eccn} — unverified threshold in alt trigger set`);
       }
       continue;
     }
 
     // AND logic: all non-meta triggers must match
     if (rule.logic === 'AND') {
-      if (totalTriggers > 0 && matchScore === totalTriggers) {
+      const validTriggers = rule.triggers.filter(t => t.operator !== 'fallback' && !t.field.startsWith('_fallback'));
+      if (validTriggers.length === 0) continue;
+      let matchScore = 0;
+      let hasUnverified = hasUnverifiedRule;
+      const triggersMatched = [];
+      for (const trigger of validTriggers) {
+        const result = evaluateTrigger(trigger, inputs);
+        if (result.matched) { matchScore++; triggersMatched.push(trigger.label || trigger.field); }
+        if (result.unverified) { hasUnverified = true; if (result.note) triggersUnverified.push(result.note); }
+      }
+      if (matchScore === validTriggers.length) {
         candidates.push({
           eccn: rule.eccn,
           short_name: rule.short_name,
@@ -190,45 +216,37 @@ export function mapECCN(inputs, rulesData) {
     }
   }
 
-  // Apply EAR99 fallback if no other non-fallback rules matched
-  const nonFallbackCandidates = candidates.filter(c => c.eccn !== 'EAR99' && c.eccn !== 'MODEL_WEIGHTS_NOTE');
-  if (nonFallbackCandidates.length === 0 && ai_flags.length === 0) {
-    const ear99Rule = rulesData.eccn_rules.find(r => r.eccn === 'EAR99');
-    if (ear99Rule) {
-      candidates.push({
-        eccn: 'EAR99',
-        short_name: ear99Rule.short_name,
-        severity: 0,
-        unverified: false,
-        triggers_matched: ['No other CCL rule triggered (fallback)'],
-        control_reason: 'None',
-        citations: ear99Rule.citations || []
-      });
-      rules_fired.push('EAR99: Fallback — no other CCL rule triggered');
-      if (ear99Rule.citations) citations.push(...ear99Rule.citations);
-    }
-  }
-
   // Determine primary ECCN (highest severity)
   const sorted = [...candidates].sort((a, b) => (b.severity || 0) - (a.severity || 0));
   const primary = sorted[0] || null;
 
-  // Confidence calculation
-  let confidence = 'high';
-  if (unverified_rules.length > 0) confidence = 'medium';
-  if (
-    ai_flags.some(f => f.includes('MODEL_WEIGHTS')) ||
-    inputs.fdpr_flag ||
-    (inputs.ai_attributes && inputs.ai_attributes.is_model_weights)
-  ) confidence = 'low';
-  if (primary && primary.confidence_override) confidence = primary.confidence_override;
+  // match_status: rule_matched > flagged_for_review > no_rule_matched
+  // NOTE: EAR99 is NOT returned as a fallback — engine returns no_rule_matched
+  let match_status;
+  if (primary) {
+    match_status = 'rule_matched';
+  } else if (flagged_for_review) {
+    match_status = 'flagged_for_review';
+  } else {
+    match_status = 'no_rule_matched';
+  }
+
+  // If primary was matched but model weights are also flagged, escalate to flagged_for_review
+  if (match_status === 'rule_matched' && flagged_for_review) {
+    match_status = 'flagged_for_review';
+  }
+
+  // When no rule matched, provide caveat about the full CCL
+  if (match_status === 'no_rule_matched') {
+    unverified_rules.push('No CCL rule matched in this demonstrator snapshot. This does NOT confirm EAR99 status — review against the full Commerce Control List (15 CFR Part 774, Supplement No. 1) is required before any EAR99 determination can be made.');
+  }
 
   return {
-    primary_ECCN: primary ? primary.eccn : 'EAR99',
+    primary_ECCN: primary ? primary.eccn : null,
     primary_details: primary || null,
     candidates: sorted,
     unverified_rules,
-    confidence,
+    match_status,
     rules_fired,
     citations: [...new Set(citations)],
     ai_flags
@@ -448,8 +466,8 @@ export function determineLicenseIndication(step1, step2, step3, step4, rulesData
   }
 
   // NS1 or AT1 item to D:1/E:1/E:2 country
-  const eccn = step2.primary_ECCN || 'EAR99';
-  const isControlled = eccn !== 'EAR99' && eccn !== 'MODEL_WEIGHTS_NOTE';
+  const eccn = step2.primary_ECCN || null;
+  const isControlled = eccn && eccn !== 'EAR99' && step2.match_status === 'rule_matched';
   const hasCountryFlags = step4.country_flags && step4.country_flags.some(cf => cf.flags && cf.flags.length > 0);
 
   if (isControlled && hasCountryFlags && !step4.embargoed) {
@@ -467,13 +485,13 @@ export function determineLicenseIndication(step1, step2, step3, step4, rulesData
     citations.push('15 CFR § 740.17 (ENC)');
   }
 
-  // Model weights / AI diffusion — low confidence
+  // Model weights / 4E091 rescission — flagged_for_review; never assert licence requirement under 4E091
   if (step2.ai_flags && step2.ai_flags.some(f => f.includes('MODEL_WEIGHTS'))) {
     if (indication === 'NLR (No Licence Required — indicative)') {
-      indication = 'Licence Status Unclear — AI Model Weights (indicative, confidence: low)';
+      indication = 'Review Required — AI Model Weights (4E091 rescinded 13 May 2025)';
     }
-    explanation.push('Item is flagged as AI model weights. Applicable EAR thresholds are [TODO] and regulatory status is unsettled. Human review and counsel review required before any export. Do not rely on this indicative output.');
-    citations.push('90 FR 4544 (Jan. 15, 2025) — AI Diffusion Rule IFR');
+    explanation.push('Item is flagged as AI model weights. ECCN 4E091 (AI Diffusion Rule IFR, 90 FR 4544) was rescinded 13 May 2025 before its compliance date. No active ECCN specifically controls AI model weights as of the rescission date. However, other EAR controls may apply (e.g., 5D002 if encryption is involved; § 744 end-use/user controls). Human review and counsel review required before any export. Do not rely on this indicative output.');
+    citations.push('90 FR 4544 (Jan. 15, 2025) — AI Diffusion Rule IFR (rescinded 13 May 2025)');
   }
 
   // Deemed export flag
@@ -489,7 +507,7 @@ export function determineLicenseIndication(step1, step2, step3, step4, rulesData
   }
 
   // Add licence exceptions from candidate ECCNs
-  const primaryRule = rulesData && rulesData.eccn_rules ? rulesData.eccn_rules.find(r => r.eccn === eccn) : null;
+  const primaryRule = rulesData && rulesData.eccn_rules && eccn ? rulesData.eccn_rules.find(r => r.eccn === eccn) : null;
   if (primaryRule && Array.isArray(primaryRule.license_exceptions)) {
     licence_exceptions_to_review = [...new Set([...licence_exceptions_to_review, ...primaryRule.license_exceptions])];
   }
@@ -520,12 +538,11 @@ export function classify(inputs, allData) {
   const step5 = determineLicenseIndication(step1, step2, step3, step4, eccnRules);
 
   const hasUnverified = step2.unverified_rules.length > 0;
-  let overallConfidence = step2.confidence;
-  if (step1.fdpr_flag && overallConfidence === 'high') overallConfidence = 'medium';
-  if (hasUnverified && overallConfidence === 'high') overallConfidence = 'medium';
+  const match_status = step2.match_status || 'no_rule_matched';
 
   return {
-    _output_version: '1.0',
+    _output_version: '2.0',
+    _label: 'EAR export-control triage demonstrator (educational/research)',
     _disclaimer: 'This output is indicative and non-binding. It is not legal advice and does not constitute an official BIS classification determination. Always verify with qualified export counsel and official BIS/OFAC resources.',
     inputs_summary: {
       item_type: inputs.item_type,
@@ -544,12 +561,17 @@ export function classify(inputs, allData) {
       subject_to_EAR: step1.subject_to_EAR,
       fdpr_flag: step1.fdpr_flag,
       primary_ECCN: step2.primary_ECCN,
-      confidence: overallConfidence,
+      match_status,
       licence_indication: step5.indication,
       has_unverified_rules: hasUnverified,
       ai_flags: step2.ai_flags,
       entity_hits: step3.entity_hits.filter(e => e.matches.length > 0).map(e => e.input_name),
       embargoed_destination: step4.embargoed
+    },
+    governance: {
+      last_reviewed_by: inputs._review_meta ? (inputs._review_meta.last_reviewed_by || null) : null,
+      last_reviewed_on: inputs._review_meta ? (inputs._review_meta.last_reviewed_on || null) : null,
+      demonstrator_label: 'EAR export-control triage (educational/research)'
     },
     all_citations: [...new Set([
       ...(step1.citations || []),

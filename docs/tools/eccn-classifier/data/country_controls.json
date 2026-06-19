@@ -49,7 +49,26 @@
       "advanced_computing_citation": "15 CFR § 746.9; BIS Final Rule Oct. 7, 2022 and subsequent amendments",
       "notes": "China is in Country Groups D:1 and D:5, but not E:1. However, § 746.9 imposes chip-specific controls comparable to embargo-level restrictions for 3A090 and 4A090 items. OFAC does not maintain a comprehensive China embargo but has SDN designations for specific entities. Deemed-export concerns are acute for Chinese nationals accessing advanced computing or AI items.",
       "ofac_program": "None (comprehensive); targeted SDN/Entity List entries apply",
-      "entity_list_concentration": "High — numerous Chinese semiconductor, AI, and telecom firms are on BIS Entity List"
+      "entity_list_concentration": "High — numerous Chinese semiconductor, AI, and telecom firms are on BIS Entity List",
+      "license_review_policy": "case_by_case",
+      "license_review_policy_citation": "FR Docket 260112-0028, effective Jan. 15, 2026",
+      "license_review_policy_note": "Final rule effective 15 Jan 2026 moved certain advanced AI chip transactions from presumption of denial to case-by-case review, subject to supply security and end-use testing conditions. Consult BIS and qualified counsel before relying on this change for any specific transaction."
+    },
+    "MO": {
+      "name": "Macau (Special Administrative Region of China)",
+      "iso2": "MO",
+      "iso3": "MAC",
+      "group": ["B", "D:1", "D:5"],
+      "risk_tier": 2,
+      "part746_restrictions": ["§ 746.9 (Advanced Computing — Macau treated as PRC for chip controls)", "§ 742.6 (NS controls — Country Chart column NS1)"],
+      "advanced_computing_restriction": true,
+      "advanced_computing_citation": "15 CFR § 746.9; BIS treats Macau as equivalent to PRC for advanced computing chip controls",
+      "notes": "Macau SAR is treated as equivalent to mainland China for the purposes of § 746.9 advanced computing and semiconductor controls. Items classified 3A090 or 4A090 require a licence for Macau destinations. Transshipment risk: Macau is a known re-export/transshipment route for items destined for mainland China. Enhanced due diligence required.",
+      "ofac_program": "None (comprehensive); targeted designations may apply",
+      "entity_list_concentration": "Moderate — verify transshipment parties against current BIS and OFAC lists",
+      "license_review_policy": "case_by_case",
+      "license_review_policy_citation": "FR Docket 260112-0028, effective Jan. 15, 2026 (applied on equivalent basis to PRC)",
+      "license_review_policy_note": "Macau treated equivalently to PRC under § 746.9 controls. Case-by-case review policy applies on the same basis as PRC following Jan. 2026 final rule."
     },
     "RU": {
       "name": "Russia (Russian Federation)",

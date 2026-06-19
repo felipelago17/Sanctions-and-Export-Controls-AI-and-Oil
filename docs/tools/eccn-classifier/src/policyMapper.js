@@ -1,7 +1,9 @@
 /**
  * @module policyMapper
  * @description Maps classification and risk output to relevant policy framework controls.
- * Frameworks: EAR, NIST AI RMF, ISO/IEC 27001, ISO/IEC 42001, ADNOC/G42-style governance.
+ * Frameworks: EAR, NIST AI RMF 1.0, ISO/IEC 27001:2022, ISO/IEC 42001:2023.
+ * Internal/employer-specific framework mapping is out of scope for this public demonstrator.
+ * Map only to publicly published frameworks.
  * @see policy_frameworks.json for control definitions
  */
 
@@ -104,20 +106,8 @@ export function mapToFrameworks(classificationOutput, riskOutput, policyFramewor
       }
     }
 
-    if (framework.id === 'ADNOC_G42_GOVERNANCE' && isHighRisk) {
-      include = true;
-      for (const control of (framework.relevant_controls || [])) {
-        triggeredControls.push({
-          id: control.id,
-          title: control.title,
-          description: control.description,
-          triggered_by: control.triggered_by,
-          relevance: 'contextual',
-          citation: control.citation
-        });
-      }
-      mapping_notes.push('G42/ADNOC framework included due to high/critical risk score. This is an illustrative framework, not an official standard.');
-    }
+    // Internal/employer-specific and private-sector frameworks (e.g. ADNOC/G42) are not mapped.
+    // Only publicly published frameworks are in scope for this demonstrator.
 
     if (include) {
       frameworks.push({

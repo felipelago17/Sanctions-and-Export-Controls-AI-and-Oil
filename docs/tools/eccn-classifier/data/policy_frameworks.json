@@ -1,7 +1,8 @@
 {
   "_meta": {
-    "source": "EAR (15 CFR Parts 730–774); NIST AI RMF 1.0 (2023); ISO/IEC 27001:2022; ISO/IEC 42001:2023; ADNOC/G42-style AI governance frameworks",
-    "citation": "EAR: 15 CFR Parts 730–774 (BIS); NIST AI Risk Management Framework 1.0 (Jan. 2023), NIST AI 100-1; ISO/IEC 27001:2022 Information Security Management; ISO/IEC 42001:2023 AI Management Systems; G42 AI Governance Framework (public statements)",
+    "source": "EAR (15 CFR Parts 730–774); NIST AI RMF 1.0 (2023); ISO/IEC 27001:2022; ISO/IEC 42001:2023",
+    "citation": "EAR: 15 CFR Parts 730–774 (BIS); NIST AI Risk Management Framework 1.0 (Jan. 2023), NIST AI 100-1; ISO/IEC 27001:2022 Information Security Management; ISO/IEC 42001:2023 AI Management Systems",
+    "note": "Internal, employer-specific, and private-sector AI governance frameworks (e.g. G42/ADNOC-style) are out of scope for this public demonstrator. Only publicly published frameworks are mapped here.",
     "data_current_as_of": "2026-06-19",
     "retrieved_by": "Manual seed — run scripts/refresh_rules.py to update",
     "notes": "PLACEHOLDER — Framework versions and control IDs should be verified against current published standards. ISO standards require purchase for full text. NIST AI RMF is freely available at https://airc.nist.gov/. EAR controls verified at https://www.ecfr.gov/.",
@@ -188,45 +189,6 @@
           "description": "AI systems designed or capable of dual-use applications (civilian and military/intelligence) require specific controls and documentation. Export to state-owned entities in controlled countries raises dual-use concerns requiring enhanced due diligence.",
           "triggered_by": ["dual_use_concern", "state_owned_energy", "military_end_use_flag"],
           "citation": "ISO/IEC 42001:2023, Annex A, A.6.2"
-        }
-      ]
-    },
-    {
-      "id": "ADNOC_G42_GOVERNANCE",
-      "name": "ADNOC/G42-Style AI Governance (UAE Context)",
-      "version": "Illustrative framework based on public G42/UAE AI Office governance statements — not an official standard",
-      "issuing_authority": "UAE Artificial Intelligence Office; G42 public governance disclosures",
-      "description": "Illustrative governance framework reflecting UAE-context AI governance considerations, particularly relevant for energy-sector AI deployments and the intersection of AI technology transfers with US export controls. G42's 2024 partnership adjustments with Microsoft and US government technology access considerations are illustrative precedents.",
-      "note": "This is an illustrative framework, not an official published standard. It reflects publicly available governance principles and the policy context of UAE-US technology cooperation agreements.",
-      "url": "https://ai.gov.ae/",
-      "relevant_controls": [
-        {
-          "id": "G42-GOV-1",
-          "title": "Technology Provenance and Export Control Review",
-          "description": "AI technology originating from US sources should be assessed for EAR classification before deployment. UAE-based deployments of US-origin AI (including cloud services) may require BIS licences or licence exception review, particularly for advanced AI capabilities.",
-          "triggered_by": ["uae_destination", "us_origin_ai", "advanced_computing"],
-          "citation": "15 CFR Part 734 (subject to EAR); 15 CFR § 740 (licence exceptions); UAE-US Strategic Technology Partnership discussions"
-        },
-        {
-          "id": "G42-GOV-2",
-          "title": "Third-Country Re-Transfer Controls",
-          "description": "UAE-based AI deployments must implement controls preventing re-transfer of controlled US-origin AI technology to embargoed or controlled countries. This is particularly acute for energy-sector AI used in oil operations spanning multiple jurisdictions.",
-          "triggered_by": ["uae_destination", "multi_jurisdiction_deployment", "oil_energy_sector"],
-          "citation": "15 CFR § 736.2(b)(9) (General Prohibition 9 — transshipment); 15 CFR § 740 (licence exceptions)"
-        },
-        {
-          "id": "G42-GOV-3",
-          "title": "State-Owned Enterprise (SOE) Enhanced Due Diligence",
-          "description": "Transfers of advanced AI technology to state-affiliated entities (including national oil companies and sovereign wealth fund-linked entities) require enhanced due diligence for end-use and end-user concerns, including military-civil fusion risk.",
-          "triggered_by": ["state_owned_energy", "soe_end_user", "military_civil_fusion_risk"],
-          "citation": "15 CFR § 744.21 (military end-use); BIS guidance on military-civil fusion"
-        },
-        {
-          "id": "G42-GOV-4",
-          "title": "AI Model Access Controls for Cross-Border Deployments",
-          "description": "Cross-border access to AI models and fine-tuning capabilities must be governed by access control policies consistent with EAR deemed-export obligations. Foreign national access to controlled AI software requires the same analysis as a physical export.",
-          "triggered_by": ["fine_tuning_offered", "model_weights", "foreign_national_access"],
-          "citation": "15 CFR §§ 734.13–734.16 (deemed export)"
         }
       ]
     }

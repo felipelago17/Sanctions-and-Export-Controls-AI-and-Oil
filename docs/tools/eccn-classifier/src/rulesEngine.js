@@ -51,6 +51,43 @@ export function getRulesForItemType(rules, itemType) {
 }
 
 /**
+ * Evaluate a rule that uses trigger_logic: "primary_OR_alt".
+ * Returns matched if ALL primary triggers pass OR if ALL alt triggers pass.
+ * @param {object} rule - An ECCN rule object with triggers and optional triggers_alt
+ * @param {object} inputs - User-supplied classification inputs
+ * @returns {{matched: boolean, setUsed: 'primary'|'alt'|null, hasUnverified: boolean, triggersMatched: string[]}}
+ */
+export function evaluateRuleWithAltLogic(rule, inputs) {
+  const evalSet = (triggers) => {
+    const validTriggers = triggers.filter(t => t.operator !== 'fallback' && !t.field.startsWith('_fallback'));
+    if (validTriggers.length === 0) return { allMatch: false, unverified: false, matched: [] };
+    let unverified = false;
+    const matched = [];
+    const allMatch = validTriggers.every(t => {
+      const result = evaluateTrigger(t, inputs);
+      if (result.unverified) unverified = true;
+      if (result.matched) matched.push(t.label || t.field);
+      return result.matched;
+    });
+    return { allMatch, unverified, matched };
+  };
+
+  const primary = evalSet(rule.triggers || []);
+  if (primary.allMatch) {
+    return { matched: true, setUsed: 'primary', hasUnverified: primary.unverified, triggersMatched: primary.matched };
+  }
+
+  if (Array.isArray(rule.triggers_alt) && rule.triggers_alt.length > 0) {
+    const alt = evalSet(rule.triggers_alt);
+    if (alt.allMatch) {
+      return { matched: true, setUsed: 'alt', hasUnverified: alt.unverified, triggersMatched: alt.matched };
+    }
+  }
+
+  return { matched: false, setUsed: null, hasUnverified: false, triggersMatched: [] };
+}
+
+/**
  * Evaluate a single rule trigger against the inputs object.
  * Returns match result with optional unverified flag.
  * @param {object} trigger - A trigger object from eccn_rules.json

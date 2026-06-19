@@ -55,7 +55,7 @@ export function buildAuditRecord(inputs, classificationOutput, riskOutput, iddOu
       rules: (classificationOutput.step2_eccn_mapping && classificationOutput.step2_eccn_mapping.rules_fired) || [],
       outcome: {
         primary_ECCN: classificationOutput.step2_eccn_mapping && classificationOutput.step2_eccn_mapping.primary_ECCN,
-        confidence: classificationOutput.step2_eccn_mapping && classificationOutput.step2_eccn_mapping.confidence,
+        match_status: classificationOutput.step2_eccn_mapping && classificationOutput.step2_eccn_mapping.match_status,
         candidates: classificationOutput.step2_eccn_mapping && classificationOutput.step2_eccn_mapping.candidates
       },
       unverified_rules: (classificationOutput.step2_eccn_mapping && classificationOutput.step2_eccn_mapping.unverified_rules) || [],
@@ -101,10 +101,17 @@ export function buildAuditRecord(inputs, classificationOutput, riskOutput, iddOu
 
   return {
     _record_type: 'ECCN_CLASSIFICATION_AUDIT',
+    _label: 'EAR export-control triage demonstrator (educational/research)',
     session_id,
     timestamp,
-    tool_version: '1.0.0',
+    tool_version: '2.0.0',
     tool_url: window.location.href,
+
+    governance: {
+      last_reviewed_by: inputs._review_meta ? (inputs._review_meta.last_reviewed_by || null) : null,
+      last_reviewed_on: inputs._review_meta ? (inputs._review_meta.last_reviewed_on || null) : null,
+      demonstrator_label: 'EAR export-control triage (educational/research)'
+    },
 
     inputs: JSON.parse(JSON.stringify(inputs || {})), // deep copy
 
@@ -114,7 +121,7 @@ export function buildAuditRecord(inputs, classificationOutput, riskOutput, iddOu
       subject_to_EAR: classificationOutput.summary && classificationOutput.summary.subject_to_EAR,
       fdpr_flag: classificationOutput.summary && classificationOutput.summary.fdpr_flag,
       primary_ECCN: classificationOutput.summary && classificationOutput.summary.primary_ECCN,
-      confidence: classificationOutput.summary && classificationOutput.summary.confidence,
+      match_status: classificationOutput.summary && classificationOutput.summary.match_status,
       licence_indication: classificationOutput.summary && classificationOutput.summary.licence_indication,
       ai_flags: classificationOutput.summary && classificationOutput.summary.ai_flags,
       entity_hits: classificationOutput.summary && classificationOutput.summary.entity_hits,
