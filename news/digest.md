@@ -9,6 +9,29 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-21
+
+### Official & Regulatory
+
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[OFAC]** [Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations](https://home.treasury.gov/news/press-releases/sb0503)
+- **[OFAC]** [Treasury Targets Flotilla Organizers and Muslim Brotherhood Networks Supporting Hamas](https://home.treasury.gov/news/press-releases/sb0501)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury International Capital Data for April](https://home.treasury.gov/news/press-releases/sb0536)
+- **[Treasury]** [Treasury Targets Hizballah-Aligned Officials and Intensifies Pressure on Global Financial Network](https://home.treasury.gov/news/press-releases/sb0535)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Texas Bankers in Houston](https://home.treasury.gov/news/press-releases/sb0533)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent at The Trump Accounts for Foster Youth Event](https://home.treasury.gov/news/press-releases/sb0529)
+
+---
+
 ## 2026-06-20
 
 ### Official & Regulatory
