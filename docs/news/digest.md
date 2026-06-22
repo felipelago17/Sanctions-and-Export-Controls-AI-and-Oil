@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-22 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 141 - status: suspended
+
+- [Federal Register / 2026-06-22] Establishment of Class E Airspace; Belmont, MS
+- [Federal Register / 2026-06-22] Sunshine Act Meetings
+- [Federal Register / 2026-06-22] Sunshine Act Meetings
+- [Federal Register / 2026-06-22] Deletion of Obsolete Regulations
+- [Federal Register / 2026-06-22] Agency Information Collection Activities; New Information Collection: Techniques for Preventing and Enforcing Controlled Substance and Alcohol Violations Among Non-Commercial Driver's License Commercial Motor Vehicle Drivers
+- [Federal Register / 2026-06-22] Foreign-Trade Zone (FTZ) 18, Notification of Proposed Production Activity; Super Micro Computer, Inc.; (High-Performance Computing Systems); San Jose, Fremont, and Milpitas, California
+- [Federal Register / 2026-06-22] Revisions to User Fees for Export and Investment Promotion Services/Events
+- [Federal Register / 2026-06-22] 1,1,1,2- Tetrafluoroethane (R-134a) From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025
+- [Federal Register / 2026-06-22] Pipeline Safety: Advisory Bulletin on Preventing Excavation Damage During National Safe Digging Month and Beyond; Correction
+- [Federal Register / 2026-06-22] Agency Information Collection Activities; Proposed Collection; Comment Request; Extension
+- [Federal Register / 2026-06-22] Agency Information Collection Activities; Proposed OMB Generic Clearance; Comment Request; Generic Clearance for Information Collection Using Voluntary Surveys for Studies Conducted by the Federal Trade Commission Bureau of Economics To Support the FTC's Missions To Protect Consumers and Competition
+- [Federal Register / 2026-06-22] Foreign-Trade Zone (FTZ) 193; Authorization of Production Activity; Lithionics Battery, LLC; (Lithium-Ion Battery Systems and Accessories); Clearwater, Florida
+- [Federal Register / 2026-06-22] Prestressed Concrete Steel Wire Strand From Spain: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025
+- [Federal Register / 2026-06-22] Sunshine Act Meetings
+- [Federal Register / 2026-06-22] Agency Information Collection Activities; Proposed eCollection eComments Requested; Extension of a Previously Approved Collection; Title-Reporting Portal for Civil Rights Violations
+- [Federal Register / 2026-06-22] Formations of, Acquisitions by, and Mergers of Bank Holding Companies
+- [Federal Register / 2026-06-22] Establishment of Class E Airspace; Rosenberg, TX
+- [Federal Register / 2026-06-22] Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Coeur Alaska, Inc.'s Kensington Dock Repair Project in Berners Bay, Alaska
+- [Federal Register / 2026-06-22] Notification of Comparability Findings for Suriname Under the Import Provisions of the Marine Mammal Protection Act
+- [Federal Register / 2026-06-22] Board of Directors; Request for Nomination
+
+
+---
+
 ## 2026-06-21
 
 ### Official & Regulatory
