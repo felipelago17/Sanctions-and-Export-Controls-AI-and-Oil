@@ -2,8 +2,8 @@
   "_meta": {
     "source": "Bureau of Industry and Security (BIS) Commerce Control List (CCL), 15 CFR Part 774, Supplement No. 1",
     "citation": "15 CFR Part 774 Supp. No. 1 (CCL); BIS Final Rules Oct. 7 2022 and subsequent amendments (3A090/4A090); AI Diffusion Rule IFR 90 FR 4544 (Jan. 15, 2025) — RESCINDED 13 May 2025",
-    "data_current_as_of": "2026-06-19",
-    "retrieved_by": "Manual seed — run scripts/refresh_rules.py to update",
+    "data_current_as_of": "2026-06-11",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.278482Z (eCFR Title 15 issue date: 2026-06-11)",
     "notes": "3A090 and 4A090 thresholds are populated from the CCL effective post-October 2022 BIS rulemaking and remain in effect. 4E091 (AI model weights) was introduced by the Jan. 2025 AI Diffusion Rule IFR and rescinded 13 May 2025 before its compliance date — it is marked as a rescission marker only. EAR99 is documentation only; the engine returns no_rule_matched when no CCL rule fires.",
     "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774",
     "federal_register_ai_diffusion_rescinded": "https://www.federalregister.gov/documents/2025/01/15/2024-31373/export-controls-on-artificial-intelligence-systems"
@@ -55,7 +55,10 @@
       ],
       "logic": "AND",
       "severity": 30,
-      "license_exceptions": ["License Exception GOV (§ 740.11) — limited", "License Exception CIV (§ 740.7) — country restrictions apply"],
+      "license_exceptions": [
+        "License Exception GOV (§ 740.11) — limited",
+        "License Exception CIV (§ 740.7) — country restrictions apply"
+      ],
       "part_746_note": "China: § 746.9 advanced computing controls and § 742.6 NS1 controls apply; presumption of denial. Russia/Belarus: § 746.7/746.8 restrictions apply. D:1 countries generally require licence.",
       "citations": [
         "15 CFR Part 774, Supp. No. 1, ECCN 3A090",
@@ -86,13 +89,32 @@
         {
           "field": "description",
           "operator": "keyword_match",
-          "value": ["AI accelerator", "GPU cluster", "TPU", "inference accelerator", "training cluster", "neural network accelerator", "H100", "H800", "A100", "B100", "B200", "GB200", "AI chip", "accelerator card", "accelerator module", "computing assembly"],
+          "value": [
+            "AI accelerator",
+            "GPU cluster",
+            "TPU",
+            "inference accelerator",
+            "training cluster",
+            "neural network accelerator",
+            "H100",
+            "H800",
+            "A100",
+            "B100",
+            "B200",
+            "GB200",
+            "AI chip",
+            "accelerator card",
+            "accelerator module",
+            "computing assembly"
+          ],
           "label": "Description contains AI accelerator assembly keywords"
         }
       ],
       "logic": "AND",
       "severity": 30,
-      "license_exceptions": ["License Exception GOV (§ 740.11)"],
+      "license_exceptions": [
+        "License Exception GOV (§ 740.11)"
+      ],
       "part_746_note": "§ 746.9 (China advanced computing), § 746.7/746.8 (Russia/Belarus), § 742.6 (NS1 controls). D:1 countries require licence.",
       "citations": [
         "15 CFR Part 774, Supp. No. 1, ECCN 4A090",
@@ -128,7 +150,10 @@
       ],
       "logic": "AND",
       "severity": 15,
-      "license_exceptions": ["License Exception ENC (§ 740.17)", "License Exception GOV (§ 740.11)"],
+      "license_exceptions": [
+        "License Exception ENC (§ 740.17)",
+        "License Exception GOV (§ 740.11)"
+      ],
       "part_746_note": "E:1 and E:2 countries: no licence exception available",
       "citations": [
         "15 CFR Part 774 Supp. 1, ECCN 5A002",
@@ -150,7 +175,11 @@
         {
           "field": "item_type",
           "operator": "in",
-          "value": ["software", "model_weights", "SaaS_IaaS"],
+          "value": [
+            "software",
+            "model_weights",
+            "SaaS_IaaS"
+          ],
           "label": "Item is software, model weights, or SaaS/IaaS"
         },
         {
@@ -162,7 +191,9 @@
       ],
       "logic": "AND",
       "severity": 20,
-      "license_exceptions": ["License Exception ENC (§ 740.17)"],
+      "license_exceptions": [
+        "License Exception ENC (§ 740.17)"
+      ],
       "part_746_note": "E:1, E:2 countries: ENC licence exception not available",
       "citations": [
         "15 CFR Part 774 Supp. 1, ECCN 5D002",
@@ -197,7 +228,10 @@
       ],
       "logic": "AND",
       "severity": 15,
-      "license_exceptions": ["License Exception ENC (§ 740.17)", "License Exception TMP (§ 740.9) — limited"],
+      "license_exceptions": [
+        "License Exception ENC (§ 740.17)",
+        "License Exception TMP (§ 740.9) — limited"
+      ],
       "citations": [
         "15 CFR Part 774 Supp. 1, ECCN 5E002",
         "15 CFR § 740.17"
@@ -237,7 +271,10 @@
       "logic": "FALLBACK",
       "fallback_from": "5A002",
       "severity": 5,
-      "license_exceptions": ["NLR (No Licence Required) for most destinations under AT controls if mass-market criteria met", "E:1/E:2 countries may still require licence"],
+      "license_exceptions": [
+        "NLR (No Licence Required) for most destinations under AT controls if mass-market criteria met",
+        "E:1/E:2 countries may still require licence"
+      ],
       "citations": [
         "15 CFR Part 774 Supp. 1, ECCN 5A992",
         "15 CFR § 740.17(b)(3)"
@@ -258,7 +295,10 @@
         {
           "field": "item_type",
           "operator": "in",
-          "value": ["software", "SaaS_IaaS"],
+          "value": [
+            "software",
+            "SaaS_IaaS"
+          ],
           "label": "Item is software or SaaS/IaaS"
         },
         {
@@ -277,7 +317,9 @@
       "logic": "FALLBACK",
       "fallback_from": "5D002",
       "severity": 5,
-      "license_exceptions": ["NLR for most AT-only destinations if mass-market criteria met"],
+      "license_exceptions": [
+        "NLR for most AT-only destinations if mass-market criteria met"
+      ],
       "citations": [
         "15 CFR Part 774 Supp. 1, ECCN 5D992",
         "15 CFR § 740.17(b)(3)"
@@ -298,7 +340,9 @@
         {
           "field": "item_type",
           "operator": "in",
-          "value": ["software"],
+          "value": [
+            "software"
+          ],
           "label": "Item is software"
         },
         {
@@ -310,7 +354,10 @@
       ],
       "logic": "AND",
       "severity": 20,
-      "license_exceptions": ["License Exception GOV (§ 740.11)", "License Exception TSR (§ 740.6) — limited"],
+      "license_exceptions": [
+        "License Exception GOV (§ 740.11)",
+        "License Exception TSR (§ 740.6) — limited"
+      ],
       "citations": [
         "15 CFR Part 774 Supp. 1, ECCN 4D002",
         "15 CFR § 742.6"
@@ -343,7 +390,9 @@
       "severity": 0,
       "federal_register_reference": "90 FR 4544 (Jan. 15, 2025) — AI Diffusion Rule IFR, rescinded 13 May 2025",
       "rescission_note": "The AI Diffusion Rule IFR (90 FR 4544, Jan. 15, 2025) was rescinded by BIS effective 13 May 2025, before the 15 May 2025 compliance date. ECCN 4E091 was included in that rule. It is not an active EAR control. The engine MUST return match_status: 'flagged_for_review' when this rule fires — never a licence requirement.",
-      "license_exceptions": ["N/A — rule rescinded; no active licence framework"],
+      "license_exceptions": [
+        "N/A — rule rescinded; no active licence framework"
+      ],
       "citations": [
         "90 FR 4544 (Jan. 15, 2025) — AI Diffusion Rule IFR (rescinded before compliance date)",
         "BIS rescission effective 13 May 2025",
@@ -372,7 +421,11 @@
       "logic": "FALLBACK",
       "fallback_from": null,
       "severity": 0,
-      "license_exceptions": ["NLR for most destinations", "Licence required for embargoed countries (E:1, E:2)", "Entity List/MEU/SDN end-user controls still apply"],
+      "license_exceptions": [
+        "NLR for most destinations",
+        "Licence required for embargoed countries (E:1, E:2)",
+        "Entity List/MEU/SDN end-user controls still apply"
+      ],
       "citations": [
         "15 CFR § 736.2 (general prohibitions)",
         "15 CFR § 744 (end-user/end-use controls)",

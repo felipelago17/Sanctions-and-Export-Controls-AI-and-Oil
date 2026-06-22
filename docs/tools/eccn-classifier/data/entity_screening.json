@@ -2,8 +2,8 @@
   "_meta": {
     "source": "BIS Entity List (15 CFR Part 744, Supp. 4); OFAC SDN List; BIS Military End-User (MEU) List (15 CFR Part 744, Supp. 7)",
     "citation": "15 CFR Part 744, Supplement No. 4 (Entity List); 15 CFR Part 744, Supplement No. 7 (MEU List); 31 CFR Part 594 (OFAC SDN)",
-    "data_current_as_of": "2026-06-19",
-    "retrieved_by": "Manual seed — run scripts/refresh_rules.py to update",
+    "data_current_as_of": "2026-06-11",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.280231Z (eCFR Title 15 issue date: 2026-06-11)",
     "notes": "DEMONSTRATOR DATA — Entity List entries (Huawei, CXMT, YMTC, SMIC, SenseTime) and state-owned energy entries reflect publicly documented designations but are NOT verified against the current official lists. MEU and SDN entries are fully synthetic (synthetic: true) — they represent illustrative list types and trigger the DEMO banner; they do not correspond to any real party. All users must verify against current official government lists before any transaction.",
     "contains_synthetic_entries": true,
     "synthetic_entry_notice": "MEU List and SDN List entries in this file are synthetic illustrative entries (synthetic: true). They are present to demonstrate IDD panel functionality. DEMO banner is required whenever any synthetic entry is present. No real party name, address, or identifier should be inferred from these entries.",
@@ -15,7 +15,11 @@
   "entities": [
     {
       "name": "Huawei Technologies Co., Ltd.",
-      "aliases": ["Huawei", "Huawei Tech", "Huawei Technologies"],
+      "aliases": [
+        "Huawei",
+        "Huawei Tech",
+        "Huawei Technologies"
+      ],
       "country": "CN",
       "list_type": "entity_list",
       "synthetic": false,
@@ -28,7 +32,10 @@
     },
     {
       "name": "ChangXin Memory Technologies, Inc.",
-      "aliases": ["CXMT", "ChangXin Memory"],
+      "aliases": [
+        "CXMT",
+        "ChangXin Memory"
+      ],
       "country": "CN",
       "list_type": "entity_list",
       "synthetic": false,
@@ -40,7 +47,10 @@
     },
     {
       "name": "Yangtze Memory Technologies Co., Ltd.",
-      "aliases": ["YMTC", "Yangtze Memory"],
+      "aliases": [
+        "YMTC",
+        "Yangtze Memory"
+      ],
       "country": "CN",
       "list_type": "entity_list",
       "synthetic": false,
@@ -53,7 +63,10 @@
     },
     {
       "name": "Semiconductor Manufacturing International Corporation",
-      "aliases": ["SMIC", "SMIC International"],
+      "aliases": [
+        "SMIC",
+        "SMIC International"
+      ],
       "country": "CN",
       "list_type": "entity_list",
       "synthetic": false,
@@ -65,7 +78,10 @@
     },
     {
       "name": "SenseTime Group Inc.",
-      "aliases": ["SenseTime", "SenseTime Technology"],
+      "aliases": [
+        "SenseTime",
+        "SenseTime Technology"
+      ],
       "country": "CN",
       "list_type": "entity_list",
       "synthetic": false,
@@ -77,7 +93,9 @@
     },
     {
       "name": "SYNTHETIC-MEU-ALPHA — [Illustrative MEU entry — not a real party]",
-      "aliases": ["SYNTHETIC-MEU-ALPHA"],
+      "aliases": [
+        "SYNTHETIC-MEU-ALPHA"
+      ],
       "country": "CN",
       "list_type": "meu",
       "synthetic": true,
@@ -89,7 +107,9 @@
     },
     {
       "name": "SYNTHETIC-MEU-BETA — [Illustrative MEU entry — not a real party]",
-      "aliases": ["SYNTHETIC-MEU-BETA"],
+      "aliases": [
+        "SYNTHETIC-MEU-BETA"
+      ],
       "country": "RU",
       "list_type": "meu",
       "synthetic": true,
@@ -101,7 +121,9 @@
     },
     {
       "name": "SYNTHETIC-MEU-GAMMA — [Illustrative MEU entry — not a real party]",
-      "aliases": ["SYNTHETIC-MEU-GAMMA"],
+      "aliases": [
+        "SYNTHETIC-MEU-GAMMA"
+      ],
       "country": "MM",
       "list_type": "meu",
       "synthetic": true,
@@ -113,7 +135,9 @@
     },
     {
       "name": "SYNTHETIC-SDN-ALPHA — [Illustrative SDN entry — not a real party]",
-      "aliases": ["SYNTHETIC-SDN-ALPHA"],
+      "aliases": [
+        "SYNTHETIC-SDN-ALPHA"
+      ],
       "country": "RU",
       "list_type": "sdn",
       "synthetic": true,
@@ -126,7 +150,9 @@
     },
     {
       "name": "SYNTHETIC-SDN-BETA — [Illustrative SDN entry — not a real party]",
-      "aliases": ["SYNTHETIC-SDN-BETA"],
+      "aliases": [
+        "SYNTHETIC-SDN-BETA"
+      ],
       "country": "RU",
       "list_type": "sdn",
       "synthetic": true,
@@ -139,7 +165,9 @@
     },
     {
       "name": "SYNTHETIC-SDN-GAMMA — [Illustrative SDN entry — not a real party]",
-      "aliases": ["SYNTHETIC-SDN-GAMMA"],
+      "aliases": [
+        "SYNTHETIC-SDN-GAMMA"
+      ],
       "country": "IR",
       "list_type": "sdn",
       "synthetic": true,
@@ -152,7 +180,10 @@
     },
     {
       "name": "China National Petroleum Corporation",
-      "aliases": ["CNPC", "PetroChina"],
+      "aliases": [
+        "CNPC",
+        "PetroChina"
+      ],
       "country": "CN",
       "list_type": "state_owned_energy",
       "synthetic": false,
@@ -165,7 +196,10 @@
     },
     {
       "name": "China National Offshore Oil Corporation",
-      "aliases": ["CNOOC", "CNOOC Limited"],
+      "aliases": [
+        "CNOOC",
+        "CNOOC Limited"
+      ],
       "country": "CN",
       "list_type": "state_owned_energy",
       "synthetic": false,
@@ -178,7 +212,11 @@
     },
     {
       "name": "China Petrochemical Corporation",
-      "aliases": ["Sinopec", "Sinopec Group", "SINOPEC Corp"],
+      "aliases": [
+        "Sinopec",
+        "Sinopec Group",
+        "SINOPEC Corp"
+      ],
       "country": "CN",
       "list_type": "state_owned_energy",
       "synthetic": false,
@@ -191,7 +229,10 @@
     },
     {
       "name": "National Iranian Oil Company",
-      "aliases": ["NIOC", "Iranian Oil"],
+      "aliases": [
+        "NIOC",
+        "Iranian Oil"
+      ],
       "country": "IR",
       "list_type": "state_owned_energy",
       "synthetic": false,
@@ -204,7 +245,10 @@
     },
     {
       "name": "Rosneft Oil Company",
-      "aliases": ["Rosneft", "PJSC Rosneft"],
+      "aliases": [
+        "Rosneft",
+        "PJSC Rosneft"
+      ],
       "country": "RU",
       "list_type": "state_owned_energy",
       "synthetic": false,
