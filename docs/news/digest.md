@@ -9,6 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-23
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[OFAC]** [Treasury Disrupts Sinaloa Cartel Narco-Terrorist Fentanyl Trafficking Operations](https://home.treasury.gov/news/press-releases/sb0503)
+- **[Federal Register]** [Commercial Leasing for Outer Continental Shelf Minerals Offshore the Commonwealth of Virginia-Request for Information and Interest (2026-06-23)](https://www.federalregister.gov/documents/2026/06/23/2026-12600/commercial-leasing-for-outer-continental-shelf-minerals-offshore-the-commonwealth-of)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury International Capital Data for April](https://home.treasury.gov/news/press-releases/sb0536)
+- **[Treasury]** [Treasury Targets Hizballah-Aligned Officials and Intensifies Pressure on Global Financial Network](https://home.treasury.gov/news/press-releases/sb0535)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Texas Bankers in Houston](https://home.treasury.gov/news/press-releases/sb0533)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent at The Trump Accounts for Foster Youth Event](https://home.treasury.gov/news/press-releases/sb0529)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The Law of Armed Conflict and the Attack on Kyiv’s Monastery of the Caves and Dormition Cathedral](https://www.justsecurity.org/143438/attack-kyiv-monastery-caves-loac/?utm_source=rss&utm_medium=rss&utm_campaign=attack-kyiv-monastery-caves-loac)
+- **[Just Security]** [Early Edition: June 22, 2026](https://www.justsecurity.org/143836/early-edition-june-22-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-22-2026)
+- **[Atlantic Council]** [Energy security is back—and other top takeaways from the Atlantic Council’s biggest-ever energy forum](https://www.atlanticcouncil.org/dispatches/energy-security-is-back-and-other-top-takeaways-from-the-atlantic-councils-biggest-ever-energy-forum/)
+- **[Atlantic Council]** [Turkey has survived the energy crisis. It still needs a more deliberate economic strategy.](https://www.atlanticcouncil.org/blogs/turkeysource/turkey-has-survived-the-energy-crisis-it-still-needs-a-more-deliberate-economic-strategy/)
+
+---
+
 ## 2026-06-23 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
