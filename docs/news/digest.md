@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-23 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 140 - status: suspended
+
+- [Federal Register / 2026-06-23] Notice of Intent To Extend and Revise a Previously Approved Information Collection
+- [Federal Register / 2026-06-23] Rescission of Affirmative Outreach Requirements for Recipients of WIOA Title I Financial Assistance
+- [Federal Register / 2026-06-23] Longshore and Harbor Workers' Compensation Act: Quality Standards for Hearing Loss Testing
+- [Federal Register / 2026-06-23] Center for Scientific Review; Notice of Closed Meetings
+- [Federal Register / 2026-06-23] Order Granting Conditional Exemptive Relief, Pursuant to Sections 17A and 36(a) of the Securities Exchange Act of 1934, From the Definition of an “Eligible Secondary Market Transaction” in Rule 17ad-22(a)
+- [Federal Register / 2026-06-23] Aurobindo and Lannett; Analysis of Proposed Agreement Containing Consent Orders To Aid Public Comment
+- [Federal Register / 2026-06-23] Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest
+- [Federal Register / 2026-06-23] Alpha Summit Strategic Alternatives Fund and SteelPeak Wealth, LLC
+- [Federal Register / 2026-06-23] Steel Propane Cylinders From Thailand: Final Results of Antidumping Duty Administrative Review; 2023-2024
+- [Federal Register / 2026-06-23] Silicon Metal From Malaysia: Final Results of Antidumping Duty Administrative Review; 2023-2024
+- [Federal Register / 2026-06-23] The RBB Fund Trust and Seven Post Investment Office LP
+- [Federal Register / 2026-06-23] Agency Information Collection Activities: Requests for Comments; Clearance of a New Approval of Information Collection: Global Aircraft Maintenance Safety Improvements
+- [Federal Register / 2026-06-23] Request for Information: Shaping the Future of the Bureau of Transportation Statistics; Extension of Comment Period
+- [Federal Register / 2026-06-23] Notice of Submission Deadline for Schedule Information for Chicago O'Hare International Airport, John F. Kennedy International Airport, Los Angeles International Airport, Newark Liberty International Airport, and San Francisco International Airport for the Winter 2026/2027 Scheduling Season
+- [Federal Register / 2026-06-23] Agency Information Collection Activities; Comment Request; William D. Ford Federal Direct Loan Program, Federal Direct PLUS Loan Request for Supplemental Information
+- [Federal Register / 2026-06-23] Draft FY 2026-2030 Strategic Plan for the U.S. AbilityOne Commission
+- [Federal Register / 2026-06-23] Commercial Leasing for Outer Continental Shelf Minerals Offshore the Commonwealth of Virginia-Request for Information and Interest
+- [Federal Register / 2026-06-23] Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Amendment 22 to the Coastal Pelagic Species Fishery Management Plan
+- [Federal Register / 2026-06-23] Privacy Act of 1974; System of Records
+- [Federal Register / 2026-06-23] Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
+
+
+---
+
 ## Week of 2026-06-22
 
 - **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
