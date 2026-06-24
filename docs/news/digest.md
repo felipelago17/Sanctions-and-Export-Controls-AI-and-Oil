@@ -9,6 +9,46 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-24
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Begins to Relax US Sanctions to Implement US-Iran Memorandum of Understanding](https://sanctionsnews.bakermckenzie.com/ofac-begins-to-relax-us-sanctions-to-implement-us-iran-memorandum-of-understanding/)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[Federal Register]** [Television Broadcasting Services Alamogordo, New Mexico (2026-06-24)](https://www.federalregister.gov/documents/2026/06/24/2026-12745/television-broadcasting-services-alamogordo-new-mexico)
+- **[Federal Register]** [Joint Request for Comment on Further Definition of “Swap” and “Security-Based Swap” and on Alternative Compliance (2026-06-24)](https://www.federalregister.gov/documents/2026/06/24/2026-12743/joint-request-for-comment-on-further-definition-of-swap-and-security-based-swap-and-on-alternative)
+- **[Federal Register]** [Proposed Collection; Comment Request (2026-06-24)](https://www.federalregister.gov/documents/2026/06/24/2026-12741/proposed-collection-comment-request)
+- **[Federal Register]** [Proposed Collection; Comment Request (2026-06-24)](https://www.federalregister.gov/documents/2026/06/24/2026-12740/proposed-collection-comment-request)
+- **[Federal Register]** [Royalty for Oil and Gas Lost From Onshore Federal and Indian Leases (2026-06-24)](https://www.federalregister.gov/documents/2026/06/24/2026-12738/royalty-for-oil-and-gas-lost-from-onshore-federal-and-indian-leases)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury International Capital Data for April](https://home.treasury.gov/news/press-releases/sb0536)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Texas Bankers in Houston](https://home.treasury.gov/news/press-releases/sb0533)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Michael Diamant Quoted in Lexology PRO’s “Five U.S. Laws Non-U.S. Companies Can’t Afford to Ignore”](https://www.gibsondunn.com/michael-diamant-quoted-in-lexology-pros-five-u-s-laws-non-u-s-companies-cant-afford-to-ignore/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Beyond the Vanishing Point? What the Destruction of Civilian Infrastructure in Armed Conflicts Reveals about the State and the Role of IHL Today](https://www.justsecurity.org/141981/destruction-civilian-infrastructure-ihl/?utm_source=rss&utm_medium=rss&utm_campaign=destruction-civilian-infrastructure-ihl)
+- **[Just Security]** [Early Edition: June 23, 2026](https://www.justsecurity.org/143950/early-edition-june-23-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-23-2026)
+- **[Atlantic Council]** [Putin vowed to demilitarize Ukraine. Instead, he created a major military power.](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-vowed-to-demilitarize-ukraine-instead-he-created-a-major-military-power/)
+- **[Atlantic Council]** [Ukraine tightens drone blockade of Russian-occupied Crimea](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-tightens-drone-blockade-of-russian-occupied-crimea/)
+- **[Atlantic Council]** [Russia intensifies shadow war to undermine support for Ukraine](https://www.atlanticcouncil.org/blogs/ukrainealert/russia-intensifies-shadow-war-to-undermine-support-for-ukraine/)
+
+---
+
 ## 2026-06-24 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
