@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-24 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 139 - status: suspended
+
+- [Federal Register / 2026-06-24] Continuation of the National Emergency With Respect to the Western Balkans
+- [Federal Register / 2026-06-24] Continuation of the National Emergency With Respect to North Korea
+- [Federal Register / 2026-06-24] Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete
+- [Federal Register / 2026-06-24] Establishing the Digital Opportunity Data Collection; Modernizing the FCC Form 477 Data Program; Delete, Delete, Delete
+- [Federal Register / 2026-06-24] Sunshine Act Meetings
+- [Federal Register / 2026-06-24] Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; West Coast Region Permit Family of Forms
+- [Federal Register / 2026-06-24] Enterprise Duty To Serve Underserved Markets
+- [Federal Register / 2026-06-24] Safety Standard for Lithium-Ion Batteries Used in Micromobility Products and Electrical Systems of Micromobility Products Containing Such Batteries
+- [Federal Register / 2026-06-24] Wood Mouldings and Millwork Products From China
+- [Federal Register / 2026-06-24] Submission for OMB Review; Comment Request
+- [Federal Register / 2026-06-24] Television Broadcasting Services Alamogordo, New Mexico
+- [Federal Register / 2026-06-24] Notice of Determinations; Culturally Significant Object Being Imported for Exhibition-Determinations: “Carlo Saraceni and the Early Baroque Period in Rome” Exhibition
+- [Federal Register / 2026-06-24] Joint Request for Comment on Further Definition of “Swap” and “Security-Based Swap” and on Alternative Compliance
+- [Federal Register / 2026-06-24] Joint Request for Comment on Swap and Security-Based Swap Data Reporting
+- [Federal Register / 2026-06-24] Proposed Collection; Comment Request
+- [Federal Register / 2026-06-24] Proposed Collection; Comment Request
+- [Federal Register / 2026-06-24] Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Roy Lichtenstein: Like New” Exhibition
+- [Federal Register / 2026-06-24] Royalty for Oil and Gas Lost From Onshore Federal and Indian Leases
+- [Federal Register / 2026-06-24] Submission for OMB Review; Comment Request
+- [Federal Register / 2026-06-24] Submission for OMB Review; Comment Request
+
+
+---
+
 ## 2026-06-23
 
 ### Official & Regulatory
