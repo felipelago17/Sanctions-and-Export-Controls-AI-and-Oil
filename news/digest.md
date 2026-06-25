@@ -9,6 +9,35 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-25
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [Canada Expands Russia Sanctions at G7 Summit](https://sanctionsnews.bakermckenzie.com/canada-expands-russia-sanctions-at-g7-summit/)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[OFAC]** [Treasury Targets Hizballah-Aligned Officials Obstructing Peace and Disarmament](https://home.treasury.gov/news/press-releases/sb0505)
+- **[Federal Register]** [Update of Procedures for Implementing the National Environmental Policy Act and Assessing the Environmental Effects Abroad of EPA Actions (2026-06-25)](https://www.federalregister.gov/documents/2026/06/25/2026-12862/update-of-procedures-for-implementing-the-national-environmental-policy-act-and-assessing-the)
+- **[Federal Register]** [Notice of Petition for Extension of Waiver of Compliance (2026-06-25)](https://www.federalregister.gov/documents/2026/06/25/2026-12852/notice-of-petition-for-extension-of-waiver-of-compliance)
+- **[Federal Register]** [Notice of Petition for Waiver of Compliance (2026-06-25)](https://www.federalregister.gov/documents/2026/06/25/2026-12849/notice-of-petition-for-waiver-of-compliance)
+- **[Federal Register]** [Commission Information Collection Activities (FERC-516); Comment Request; Merger; Extension (2026-06-25)](https://www.federalregister.gov/documents/2026/06/25/2026-12848/commission-information-collection-activities-ferc-516-comment-request-merger-extension)
+- **[Federal Register]** [Change In Control: NFE Altamira FLNG, S. de R.L. de C.V. (2026-06-25)](https://www.federalregister.gov/documents/2026/06/25/2026-12845/change-in-control-nfe-altamira-flng-s-de-rl-de-cv)
+- **[Federal Register]** [Fisheries of the Exclusive Economic Zone off Alaska; Modify the Timing of Haul Designation for Trawl Catcher Processors in the Gulf of Alaska and Bering Sea and Aleutian Islands Groundfish Fisheries (2026-06-25)](https://www.federalregister.gov/documents/2026/06/25/2026-12839/fisheries-of-the-exclusive-economic-zone-off-alaska-modify-the-timing-of-haul-designation-for-trawl)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Concludes the Artificial Intelligence Innovation Series](https://home.treasury.gov/news/press-releases/sb0540)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+---
+
 ## 2026-06-25 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
