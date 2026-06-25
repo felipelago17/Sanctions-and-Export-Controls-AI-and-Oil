@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-25 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 138 - status: suspended
+
+- [Federal Register / 2026-06-25] Ushering in the Next Frontier of Quantum Innovation
+- [Federal Register / 2026-06-25] Securing the Nation Against Advanced Cryptographic Attacks
+- [Federal Register / 2026-06-25] Update of Procedures for Implementing the National Environmental Policy Act and Assessing the Environmental Effects Abroad of EPA Actions
+- [Federal Register / 2026-06-25] Rescinding the Equity Assistance Center Program Regulations
+- [Federal Register / 2026-06-25] Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Grant Application Form for Project Objectives and Performance Measures Information
+- [Federal Register / 2026-06-25] Prohibition on the Use of Reputation Risk
+- [Federal Register / 2026-06-25] Sterigenics U.S., LLC; Filing of Food Additive Petition
+- [Federal Register / 2026-06-25] Columbia Gulf Transmission, LLC; Notice of Availability of the Environmental Assessment for the Proposed Pulaski Project
+- [Federal Register / 2026-06-25] Notice of Petition for Extension of Waiver of Compliance
+- [Federal Register / 2026-06-25] Consolidated Water Power Company; Notice of Application for a Non-Capacity Amendment of License Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests
+- [Federal Register / 2026-06-25] Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest
+- [Federal Register / 2026-06-25] Notice of Petition for Waiver of Compliance
+- [Federal Register / 2026-06-25] Commission Information Collection Activities (FERC-516); Comment Request; Merger; Extension
+- [Federal Register / 2026-06-25] Double E Pipeline, LLC; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline
+- [Federal Register / 2026-06-25] United States Standards for Grades of Orange Juice
+- [Federal Register / 2026-06-25] Change In Control: NFE Altamira FLNG, S. de R.L. de C.V.
+- [Federal Register / 2026-06-25] Center for Scientific Review; Notice of Closed Meetings
+- [Federal Register / 2026-06-25] Government Owned Inventions Available for License: C8166-45 Cell Line
+- [Federal Register / 2026-06-25] Government Owned Inventions Available for License: Compositions and Methods for Producing Dendritic Cell-based Vaccines With Enhanced Efficacy
+- [Federal Register / 2026-06-25] Fisheries of the Exclusive Economic Zone off Alaska; Modify the Timing of Haul Designation for Trawl Catcher Processors in the Gulf of Alaska and Bering Sea and Aleutian Islands Groundfish Fisheries
+
+
+---
+
 ## 2026-06-24
 
 ### Official & Regulatory
