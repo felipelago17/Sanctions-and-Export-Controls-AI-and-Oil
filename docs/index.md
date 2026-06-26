@@ -70,7 +70,7 @@ https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil/
 
 ## Citation
 
-See [CITATION.cff](./CITATION.cff) for formal citation metadata.
+See `CITATION.cff` in the repository root for formal citation metadata.
 
 ---
 

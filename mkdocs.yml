@@ -68,6 +68,7 @@ nav:
   - Regulations:
     - Primary Sources: regulations/primary-sources.md
     - AI & Advanced Technology: regulations/ai-advanced-tech-export-controls.md
+    - EAR Interaction Risk Matrix (Physical & Logical): regulations/ear-interaction-risk-matrix.md
     - Extraterritorial Enforcement: regulations/extraterritorial-enforcement.md
     - Encryption & Open Source: regulations/encryption-open-source.md
     - OFAC UBO & 50% Rule: regulations/ofac-ubo-50-percent-rule.md

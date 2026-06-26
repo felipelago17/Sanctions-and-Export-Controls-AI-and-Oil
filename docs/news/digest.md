@@ -1,6 +1,6 @@
 # Daily Digest — Sanctions & Export Controls
 
-*Auto-updated every day at 07:00 UTC by [`.github/workflows/daily-update.yml`](../../.github/workflows/daily-update.yml).*
+*Auto-updated every day at 07:00 UTC by `.github/workflows/daily-update.yml`.*
 
 **Sources monitored:** OFAC · BIS · DOJ NSD · Treasury · Federal Register · Baker McKenzie Sanctions News · CNAS · Lawfare · Just Security · Atlantic Council · RUSI · Chatham House · Carnegie Endowment · Brookings · Steptoe · Cleary Gottlieb · Gibson Dunn · WilmerHale · Covington · WorldECR
 
