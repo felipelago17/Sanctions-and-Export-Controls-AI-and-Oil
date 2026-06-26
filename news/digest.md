@@ -9,6 +9,44 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-26
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Issues General License for Earthquake Relief Efforts in Venezuela](https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-for-earthquake-relief-efforts-in-venezuela/)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[OFAC]** [Treasury Begins Sanctions Modernization Effort by Removing Outdated Entries](https://home.treasury.gov/news/press-releases/sb0509)
+- **[Federal Register]** [Modernizing Security Requirements (2026-06-26)](https://www.federalregister.gov/documents/2026/06/26/2026-12989/modernizing-security-requirements)
+- **[Federal Register]** [Meeting of the Regional Energy Resource Council (2026-06-26)](https://www.federalregister.gov/documents/2026/06/26/2026-12978/meeting-of-the-regional-energy-resource-council)
+- **[Federal Register]** [Reopening or Extension of Application Deadline Dates; Applications for New Awards (2026-06-26)](https://www.federalregister.gov/documents/2026/06/26/2026-12972/reopening-or-extension-of-application-deadline-dates-applications-for-new-awards)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Concludes the Artificial Intelligence Innovation Series](https://home.treasury.gov/news/press-releases/sb0540)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Advised Veritas Capital’s Wood Mackenzie on Acquisition of LandGate](https://www.gibsondunn.com/gibson-dunn-advised-veritas-capitals-wood-mackenzie-on-acquisition-of-landgate/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [When Warning Loses to Permission: Iran, Trump, and the Misapplied Label of “Intelligence Failure”](https://www.justsecurity.org/144029/trump-iran-not-intelligence-failure/?utm_source=rss&utm_medium=rss&utm_campaign=trump-iran-not-intelligence-failure)
+- **[Just Security]** [Early Edition: June 25, 2026](https://www.justsecurity.org/144241/early-edition-june-25-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-25-2026)
+- **[Atlantic Council]** [Chalecki quoted in Straits Times article on the expiration of Section 122 tariffs](https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-straits-times-article-on-the-expiration-of-section-122-tariffs/)
+- **[Atlantic Council]** [Belarus is quietly preparing to play a larger role in Russia’s Ukraine war](https://www.atlanticcouncil.org/blogs/ukrainealert/belarus-is-quietly-preparing-to-play-a-larger-role-in-russias-ukraine-war/)
+- **[Atlantic Council]** [Radiological and nuclear threats are no longer hypothetical. Europe needs to respond.](https://www.atlanticcouncil.org/dispatches/radiological-and-nuclear-threats-are-no-longer-hypothetical-europe-needs-to-respond/)
+
+---
+
 ## 2026-06-26 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
