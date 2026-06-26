@@ -30,7 +30,9 @@ Maintained by **Felipe Villasuso Lago** (AIQ / London South Bank University — 
 > **publicly available sources** — official government publications, regulatory
 > texts, legislative materials, press releases, and open-access analysis.
 > No proprietary, confidential, subscription-only, or privileged material is
-> reproduced. Always consult qualified export-control and sanctions counsel
+> reproduced. Entries in the designations register that could not be retrieved
+> at the time of indexing are flagged accordingly and based solely on publicly
+> stated metadata. Always consult qualified export-control and sanctions counsel
 > before taking any compliance decision.
 
 ---
@@ -58,6 +60,7 @@ news/
 .github/workflows/
   daily-update.yml               — daily digest scraper (07:00 UTC)
   weekly-update.yml              — weekly digest scraper (Mon 08:00 UTC)
+  bis-affiliates-monitor.yml     — weekday 06:00 UTC BIS Affiliates Rule AI monitor + Monday synthesis
   deploy-docs.yml                — builds site → pushes to public docs repo
 mkdocs.yml                       — MkDocs Material configuration
 CITATION.cff                     — citation metadata
@@ -68,11 +71,13 @@ LICENSE                          — proprietary licence
 
 ## Related Repositories
 
-| Repository | Description |
-|---|---|
-| [AI-regulatory-monitor](https://github.com/felipelago17/AI-regulatory-monitor) | Broader AI regulatory landscape monitoring |
-| [Joint-ventures-and-Energy-Trilemma-](https://github.com/felipelago17/Joint-ventures-and-Energy-Trilemma-) | Joint venture structuring under the energy trilemma |
-| [Responsible-AI-evaluation](https://github.com/felipelago17/Responsible-AI-evaluation) | Framework for stress-testing AI systems |
+Part of a connected research and monitoring stack on AI governance, export controls, and joint-venture / energy-transition governance:
+
+- **[AI Regulatory Monitor](https://github.com/felipelago17/AI-regulatory-monitor)** — automated tracking of AI, export-control, and sanctions rulemaking (Federal Register triage loop, Anthropic API, Slack alerting).
+- **[Responsible-AI-evaluation](https://github.com/felipelago17/Responsible-AI-evaluation)** — evaluation methods and governance frameworks for responsible AI deployment.
+- **[Joint Ventures and Energy Trilemma](https://github.com/felipelago17/Joint-ventures-and-Energy-Trilemma-)** — comparative JV governance research (UAE / Norway), CCUS source registers, and the "computational sovereignty" thesis linking compute infrastructure to national energy autonomy.
+
+> Built on MkDocs Material with GitHub Actions for continuous, auditable updates.
 
 ---
 

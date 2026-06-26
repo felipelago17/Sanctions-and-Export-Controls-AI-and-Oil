@@ -1,0 +1,97 @@
+name: BIS Affiliates Rule — Daily Monitor & Weekly Synthesis
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 6 * * 1-5'   # 06:00 UTC weekdays; Monday run triggers both jobs
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bis-affiliates
+  cancel-in-progress: false
+
+jobs:
+  # ─────────────────────────────────────────────────────────────────────────────
+  # JOB 1: Daily monitor
+  # Fetches Federal Register + BIS items, calls Claude to analyse for Affiliates
+  # Rule developments, prepends Section A to the digest, posts Section B to Slack.
+  # Runs every weekday at 06:00 UTC (lookback widened to 72h Mon to cover weekend).
+  # Requires secret: ANTHROPIC_API_KEY
+  # Optional secret: SLACK_WEBHOOK_URL
+  # ─────────────────────────────────────────────────────────────────────────────
+  daily-monitor:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests anthropic
+
+      - name: Fetch sources and analyse
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python .github/scripts/bis_affiliates_daily.py
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/digest.md docs/news/digest.md
+          git diff --cached --quiet && echo "No changes to commit" || \
+            git commit -m "chore: BIS affiliates monitor $(date -u +%Y-%m-%d)"
+          git push
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  # JOB 2: Weekly synthesis (Monday only)
+  # Reads the last 7 days of digest entries, calls Claude to synthesise into a
+  # 150-word leadership brief + watch-list, appends to the digest.
+  # Runs only on Monday (checked at runtime); skipped silently on other weekdays.
+  # Requires secret: ANTHROPIC_API_KEY
+  # Optional secret: SLACK_WEBHOOK_URL
+  # ─────────────────────────────────────────────────────────────────────────────
+  weekly-synthesis:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    needs: daily-monitor
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests anthropic
+
+      - name: Weekly synthesis (Monday only)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: python .github/scripts/bis_affiliates_weekly.py
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news/digest.md docs/news/digest.md
+          git diff --cached --quiet && echo "No changes to commit" || \
+            git commit -m "chore: BIS affiliates weekly brief $(date -u +%Y-%m-%d)"
+          git push

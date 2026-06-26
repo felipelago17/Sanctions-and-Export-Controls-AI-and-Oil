@@ -1,0 +1,464 @@
+{
+  "_meta": {
+    "source": "Bureau of Industry and Security (BIS) Commerce Control List (CCL), 15 CFR Part 774, Supplement No. 1",
+    "citation": "15 CFR Part 774 Supp. No. 1 (CCL); BIS Final Rules Oct. 7 2022 and subsequent amendments (3A090/4A090); AI Diffusion Rule IFR 90 FR 4544 (Jan. 15, 2025) — RESCINDED 13 May 2025",
+    "data_current_as_of": "2026-06-11",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.278482Z (eCFR Title 15 issue date: 2026-06-11)",
+    "notes": "3A090 and 4A090 thresholds are populated from the CCL effective post-October 2022 BIS rulemaking and remain in effect. 4E091 (AI model weights) was introduced by the Jan. 2025 AI Diffusion Rule IFR and rescinded 13 May 2025 before its compliance date — it is marked as a rescission marker only. EAR99 is documentation only; the engine returns no_rule_matched when no CCL rule fires.",
+    "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774",
+    "federal_register_ai_diffusion_rescinded": "https://www.federalregister.gov/documents/2025/01/15/2024-31373/export-controls-on-artificial-intelligence-systems"
+  },
+  "eccn_rules": [
+    {
+      "eccn": "3A090",
+      "short_name": "Advanced Computing Integrated Circuits",
+      "category": "Electronics",
+      "ccl_category": "3",
+      "product_group": "A",
+      "control_reason": "NS1, AT1",
+      "unverified": false,
+      "trigger_logic": "primary_OR_alt",
+      "description": "Integrated circuits for advanced computing applications, including AI accelerators, GPUs, and other high-performance computing ICs meeting performance thresholds. 3A090.a controls ICs meeting either: (i) Total Processing Performance (TPP) ≥ 4800 T bit-ops/s; or (ii) TPP ≥ 1600 T bit-ops/s AND performance density ≥ 5.92 T bit-ops/s/mm². 3A090.z is a catch-all cross-reference for items controlled under 3A090 not described elsewhere. Unaffected by the May 2025 AI Diffusion Rule rescission — chip controls remain in effect.",
+      "triggers": [
+        {
+          "field": "item_type",
+          "operator": "equals",
+          "value": "hardware",
+          "label": "Item is hardware"
+        },
+        {
+          "field": "technical_parameters.chip_tpp",
+          "operator": "above_threshold",
+          "value": 4800,
+          "label": "Chip TPP ≥ 4800 T bit-ops/s (3A090.a primary threshold)"
+        }
+      ],
+      "triggers_alt": [
+        {
+          "field": "item_type",
+          "operator": "equals",
+          "value": "hardware",
+          "label": "Item is hardware"
+        },
+        {
+          "field": "technical_parameters.chip_tpp",
+          "operator": "above_threshold",
+          "value": 1600,
+          "label": "Chip TPP ≥ 1600 T bit-ops/s (3A090.a combined threshold)"
+        },
+        {
+          "field": "technical_parameters.chip_perf_density",
+          "operator": "above_threshold",
+          "value": 5.92,
+          "label": "Performance density ≥ 5.92 T bit-ops/s/mm² (3A090.a combined threshold)"
+        }
+      ],
+      "logic": "AND",
+      "severity": 30,
+      "license_exceptions": [
+        "License Exception GOV (§ 740.11) — limited",
+        "License Exception CIV (§ 740.7) — country restrictions apply"
+      ],
+      "part_746_note": "China: § 746.9 advanced computing controls and § 742.6 NS1 controls apply; presumption of denial. Russia/Belarus: § 746.7/746.8 restrictions apply. D:1 countries generally require licence.",
+      "citations": [
+        "15 CFR Part 774, Supp. No. 1, ECCN 3A090",
+        "15 CFR § 742.6 (NS controls)",
+        "15 CFR § 746.9 (China advanced computing)",
+        "BIS Final Rule, 87 FR 62186 (Oct. 13, 2022)"
+      ],
+      "ccl_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774/appendix-Supplement%20No.%201%20to%20Part%20774",
+      "notes": "3A090.a: TPP ≥ 4800 T bit-ops/s (primary) OR (TPP ≥ 1600 AND density ≥ 5.92). 3A090.z: items not elsewhere specified under 3A090 controls. Unaffected by May 2025 AI Diffusion Rule rescission — 3A090 chip controls remain in force.",
+      "z_item_crossref": "3A090.z items are controlled at same level; flag for review if described item falls outside .a parameters but is referenced as 3A090"
+    },
+    {
+      "eccn": "4A090",
+      "short_name": "Advanced Computing Assemblies",
+      "category": "Computers",
+      "ccl_category": "4",
+      "product_group": "A",
+      "control_reason": "NS1, AT1",
+      "unverified": false,
+      "description": "Electronic assemblies, including AI accelerator cards, multi-chip modules, and servers incorporating ICs meeting 3A090.a thresholds (TPP ≥ 4800 T bit-ops/s, or TPP ≥ 1600 AND density ≥ 5.92). Controls parallel 3A090 at the assembly level. Unaffected by the May 2025 AI Diffusion Rule rescission.",
+      "triggers": [
+        {
+          "field": "item_type",
+          "operator": "equals",
+          "value": "hardware",
+          "label": "Item is hardware"
+        },
+        {
+          "field": "description",
+          "operator": "keyword_match",
+          "value": [
+            "AI accelerator",
+            "GPU cluster",
+            "TPU",
+            "inference accelerator",
+            "training cluster",
+            "neural network accelerator",
+            "H100",
+            "H800",
+            "A100",
+            "B100",
+            "B200",
+            "GB200",
+            "AI chip",
+            "accelerator card",
+            "accelerator module",
+            "computing assembly"
+          ],
+          "label": "Description contains AI accelerator assembly keywords"
+        }
+      ],
+      "logic": "AND",
+      "severity": 30,
+      "license_exceptions": [
+        "License Exception GOV (§ 740.11)"
+      ],
+      "part_746_note": "§ 746.9 (China advanced computing), § 746.7/746.8 (Russia/Belarus), § 742.6 (NS1 controls). D:1 countries require licence.",
+      "citations": [
+        "15 CFR Part 774, Supp. No. 1, ECCN 4A090",
+        "15 CFR § 742.6",
+        "15 CFR § 746.9 (China advanced computing)",
+        "BIS Final Rule, 87 FR 62186 (Oct. 13, 2022)"
+      ],
+      "ccl_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774/appendix-Supplement%20No.%201%20to%20Part%20774",
+      "notes": "4A090 controls assemblies incorporating 3A090.a-controlled ICs. If the underlying IC meets 3A090.a thresholds, the assembly is controlled at 4A090. Unaffected by May 2025 rescission of the AI Diffusion Rule."
+    },
+    {
+      "eccn": "5A002",
+      "short_name": "Cryptographic Equipment (NS1/AT1)",
+      "category": "Telecommunications",
+      "ccl_category": "5",
+      "product_group": "A",
+      "control_reason": "NS1, AT1",
+      "unverified": false,
+      "description": "Information security equipment, including hardware implementing cryptographic functions (encryption, decryption, key management). Controlled at NS1 and AT1 levels.",
+      "triggers": [
+        {
+          "field": "item_type",
+          "operator": "equals",
+          "value": "hardware",
+          "label": "Item is hardware"
+        },
+        {
+          "field": "technical_parameters.encryption",
+          "operator": "not_null",
+          "value": null,
+          "label": "Item implements encryption"
+        }
+      ],
+      "logic": "AND",
+      "severity": 15,
+      "license_exceptions": [
+        "License Exception ENC (§ 740.17)",
+        "License Exception GOV (§ 740.11)"
+      ],
+      "part_746_note": "E:1 and E:2 countries: no licence exception available",
+      "citations": [
+        "15 CFR Part 774 Supp. 1, ECCN 5A002",
+        "15 CFR § 740.17 (Encryption, ENC)"
+      ],
+      "ccl_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774/appendix-Supplement%20No.%201%20to%20Part%20774",
+      "notes": "Mass-market exception may downgrade to 5A992 if encryption meets mass-market criteria (§ 740.17(b)(3)). Evaluate ENC licence exception eligibility."
+    },
+    {
+      "eccn": "5D002",
+      "short_name": "Cryptographic Software (NS1/AT1)",
+      "category": "Telecommunications",
+      "ccl_category": "5",
+      "product_group": "D",
+      "control_reason": "NS1, AT1",
+      "unverified": false,
+      "description": "Software that implements cryptographic functions. Includes SaaS/IaaS platforms where encryption is a feature. Deemed-export concerns apply where foreign nationals access the software.",
+      "triggers": [
+        {
+          "field": "item_type",
+          "operator": "in",
+          "value": [
+            "software",
+            "model_weights",
+            "SaaS_IaaS"
+          ],
+          "label": "Item is software, model weights, or SaaS/IaaS"
+        },
+        {
+          "field": "technical_parameters.encryption",
+          "operator": "not_null",
+          "value": null,
+          "label": "Item uses or implements encryption"
+        }
+      ],
+      "logic": "AND",
+      "severity": 20,
+      "license_exceptions": [
+        "License Exception ENC (§ 740.17)"
+      ],
+      "part_746_note": "E:1, E:2 countries: ENC licence exception not available",
+      "citations": [
+        "15 CFR Part 774 Supp. 1, ECCN 5D002",
+        "15 CFR § 740.17 (Encryption, ENC)",
+        "15 CFR § 734.13 (deemed export via software access)"
+      ],
+      "ccl_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774/appendix-Supplement%20No.%201%20to%20Part%20774",
+      "notes": "SaaS/IaaS platforms with foreign national access may trigger deemed-export under § 734.13. Assess KYC/identity verification procedures."
+    },
+    {
+      "eccn": "5E002",
+      "short_name": "Cryptographic Technology (NS1/AT1)",
+      "category": "Telecommunications",
+      "ccl_category": "5",
+      "product_group": "E",
+      "control_reason": "NS1, AT1",
+      "unverified": false,
+      "description": "Technology (know-how, technical data) for the development, production, or use of 5A002 / 5D002 items.",
+      "triggers": [
+        {
+          "field": "item_type",
+          "operator": "equals",
+          "value": "technology",
+          "label": "Item is technology (technical data/know-how)"
+        },
+        {
+          "field": "technical_parameters.encryption",
+          "operator": "not_null",
+          "value": null,
+          "label": "Technology relates to encryption"
+        }
+      ],
+      "logic": "AND",
+      "severity": 15,
+      "license_exceptions": [
+        "License Exception ENC (§ 740.17)",
+        "License Exception TMP (§ 740.9) — limited"
+      ],
+      "citations": [
+        "15 CFR Part 774 Supp. 1, ECCN 5E002",
+        "15 CFR § 740.17"
+      ],
+      "ccl_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774/appendix-Supplement%20No.%201%20to%20Part%20774",
+      "notes": "Applies to technical data including training materials and manuals for cryptographic systems."
+    },
+    {
+      "eccn": "5A992",
+      "short_name": "Mass-Market Cryptographic Equipment (AT only)",
+      "category": "Telecommunications",
+      "ccl_category": "5",
+      "product_group": "A",
+      "control_reason": "AT1",
+      "unverified": false,
+      "description": "Mass-market information security equipment. Fallback classification from 5A002 where item meets mass-market criteria under § 740.17(b)(3).",
+      "triggers": [
+        {
+          "field": "item_type",
+          "operator": "equals",
+          "value": "hardware",
+          "label": "Item is hardware"
+        },
+        {
+          "field": "technical_parameters.encryption",
+          "operator": "not_null",
+          "value": null,
+          "label": "Item implements encryption"
+        },
+        {
+          "field": "_fallback_from",
+          "operator": "equals",
+          "value": "5A002",
+          "label": "Mass-market criteria met — fallback from 5A002"
+        }
+      ],
+      "logic": "FALLBACK",
+      "fallback_from": "5A002",
+      "severity": 5,
+      "license_exceptions": [
+        "NLR (No Licence Required) for most destinations under AT controls if mass-market criteria met",
+        "E:1/E:2 countries may still require licence"
+      ],
+      "citations": [
+        "15 CFR Part 774 Supp. 1, ECCN 5A992",
+        "15 CFR § 740.17(b)(3)"
+      ],
+      "ccl_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774/appendix-Supplement%20No.%201%20to%20Part%20774",
+      "notes": "Confirm mass-market eligibility under ENC § 740.17(b)(3) before applying 5A992."
+    },
+    {
+      "eccn": "5D992",
+      "short_name": "Mass-Market Cryptographic Software (AT only)",
+      "category": "Telecommunications",
+      "ccl_category": "5",
+      "product_group": "D",
+      "control_reason": "AT1",
+      "unverified": false,
+      "description": "Mass-market information security software. Fallback from 5D002 where mass-market criteria are met.",
+      "triggers": [
+        {
+          "field": "item_type",
+          "operator": "in",
+          "value": [
+            "software",
+            "SaaS_IaaS"
+          ],
+          "label": "Item is software or SaaS/IaaS"
+        },
+        {
+          "field": "technical_parameters.encryption",
+          "operator": "not_null",
+          "value": null,
+          "label": "Item implements encryption"
+        },
+        {
+          "field": "_fallback_from",
+          "operator": "equals",
+          "value": "5D002",
+          "label": "Mass-market criteria met — fallback from 5D002"
+        }
+      ],
+      "logic": "FALLBACK",
+      "fallback_from": "5D002",
+      "severity": 5,
+      "license_exceptions": [
+        "NLR for most AT-only destinations if mass-market criteria met"
+      ],
+      "citations": [
+        "15 CFR Part 774 Supp. 1, ECCN 5D992",
+        "15 CFR § 740.17(b)(3)"
+      ],
+      "ccl_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774/appendix-Supplement%20No.%201%20to%20Part%20774",
+      "notes": "Confirm mass-market eligibility. SaaS platforms that widely distribute software may qualify, but deemed-export issues remain."
+    },
+    {
+      "eccn": "4D002",
+      "short_name": "Software for Advanced Computing Equipment",
+      "category": "Computers",
+      "ccl_category": "4",
+      "product_group": "D",
+      "control_reason": "NS1, AT1",
+      "unverified": true,
+      "description": "Software specifically designed for advanced computing equipment controlled under 4A090 / 3A090. Includes operating systems, drivers, firmware, and optimised ML frameworks.",
+      "triggers": [
+        {
+          "field": "item_type",
+          "operator": "in",
+          "value": [
+            "software"
+          ],
+          "label": "Item is software"
+        },
+        {
+          "field": "ai_attributes.intended_use",
+          "operator": "equals",
+          "value": "dual_use_concern",
+          "label": "Software has dual-use concern classification"
+        }
+      ],
+      "logic": "AND",
+      "severity": 20,
+      "license_exceptions": [
+        "License Exception GOV (§ 740.11)",
+        "License Exception TSR (§ 740.6) — limited"
+      ],
+      "citations": [
+        "15 CFR Part 774 Supp. 1, ECCN 4D002",
+        "15 CFR § 742.6"
+      ],
+      "ccl_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774/appendix-Supplement%20No.%201%20to%20Part%20774",
+      "notes": "Verify specific software parameters from current CCL 4D002. This entry uses a heuristic trigger (dual_use_concern flag) — confirm against actual CCL parameters."
+    },
+    {
+      "eccn": "4E091",
+      "short_name": "AI Model Weights — 4E091 RESCINDED 13 May 2025",
+      "category": "AI-Specific",
+      "ccl_category": "4",
+      "product_group": "E",
+      "status": "rescinded",
+      "effective": false,
+      "rescission_date": "2025-05-13",
+      "control_reason": "RESCINDED — control never took effect",
+      "unverified": false,
+      "description": "ECCN 4E091 was introduced by the January 2025 AI Diffusion Rule IFR (90 FR 4544, Jan. 15, 2025) to control technology for the development, production, or use of AI models meeting specified compute thresholds. BIS rescinded the AI Diffusion Rule on 13 May 2025 — before the scheduled 15 May 2025 compliance date. 4E091 never entered into force. No licence requirement can be asserted under this ECCN. A replacement AI model export control framework may be issued; monitor BIS Federal Register notices.",
+      "triggers": [
+        {
+          "field": "ai_attributes.is_model_weights",
+          "operator": "equals",
+          "value": true,
+          "label": "Item is or includes AI model weights"
+        }
+      ],
+      "logic": "STANDALONE",
+      "match_status_override": "flagged_for_review",
+      "severity": 0,
+      "federal_register_reference": "90 FR 4544 (Jan. 15, 2025) — AI Diffusion Rule IFR, rescinded 13 May 2025",
+      "rescission_note": "The AI Diffusion Rule IFR (90 FR 4544, Jan. 15, 2025) was rescinded by BIS effective 13 May 2025, before the 15 May 2025 compliance date. ECCN 4E091 was included in that rule. It is not an active EAR control. The engine MUST return match_status: 'flagged_for_review' when this rule fires — never a licence requirement.",
+      "license_exceptions": [
+        "N/A — rule rescinded; no active licence framework"
+      ],
+      "citations": [
+        "90 FR 4544 (Jan. 15, 2025) — AI Diffusion Rule IFR (rescinded before compliance date)",
+        "BIS rescission effective 13 May 2025",
+        "15 CFR Part 774 Supp. 1 (CCL) — no active 4E091 entry as of rescission"
+      ],
+      "ccl_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774/appendix-Supplement%20No.%201%20to%20Part%20774",
+      "notes": "RESCISSION MARKER ONLY — not an active export control. Engine returns flagged_for_review, never a licence requirement. Human review required for any AI model weight export. Seek counsel on current BIS guidance and any replacement framework. AI model weights may still be subject to the EAR under other applicable controls (e.g., 5D002 if encryption is involved, or § 744 end-use/end-user controls)."
+    },
+    {
+      "eccn": "EAR99",
+      "short_name": "EAR99 — Documentation Reference Only",
+      "category": "Default",
+      "ccl_category": "N/A",
+      "product_group": "N/A",
+      "control_reason": "None (default)",
+      "unverified": false,
+      "description": "Items subject to the EAR but not specified anywhere on the CCL. No ECCN, but still subject to end-use/end-user controls, country controls on embargoed destinations, and Entity List restrictions. NOTE: The engine does NOT return EAR99 as an automatic fallback — it returns 'no_rule_matched' with a caveat about the full CCL. Human review is required to confirm EAR99 status.",
+      "triggers": [
+        {
+          "field": "_fallback",
+          "operator": "fallback",
+          "value": true,
+          "label": "No other ECCN rule triggered"
+        }
+      ],
+      "logic": "FALLBACK",
+      "fallback_from": null,
+      "severity": 0,
+      "license_exceptions": [
+        "NLR for most destinations",
+        "Licence required for embargoed countries (E:1, E:2)",
+        "Entity List/MEU/SDN end-user controls still apply"
+      ],
+      "citations": [
+        "15 CFR § 736.2 (general prohibitions)",
+        "15 CFR § 744 (end-user/end-use controls)",
+        "15 CFR § 764 (prohibited parties)"
+      ],
+      "notes": "EAR99 does not mean freely exportable. Part 744 end-user controls, entity list restrictions, and country embargoes all apply regardless of ECCN. Engine returns no_rule_matched (not EAR99) as a fallback — a no_rule_matched result requires human review against the full CCL before any EAR99 determination can be made."
+    }
+  ],
+  "ai_specific_flags": {
+    "_description": "AI-specific classification flags that supplement ECCN determination. These are heuristics that should trigger human review.",
+    "model_weights": {
+      "description": "AI model weights may be subject to EAR controls. ECCN 4E091 (AI Diffusion Rule IFR) was rescinded 13 May 2025 before its compliance date. No active ECCN applies specifically to AI model weights as of the rescission date. However, model weights may still be covered by other EAR controls (e.g., 5D002 for encryption, § 744 end-use/user controls). Monitor BIS for replacement framework.",
+      "status": "rescinded",
+      "rescission_date": "2025-05-13",
+      "rescission_note": "4E091 rescinded by BIS effective 13 May 2025 before 15 May 2025 compliance date. AI Diffusion Rule IFR (90 FR 4544) rescinded.",
+      "open_weight_note": "Open-weight models published publicly may be treated differently; consult current BIS guidance on replacement framework once issued.",
+      "match_status_when_triggered": "flagged_for_review",
+      "citation": "90 FR 4544 (Jan. 15, 2025) — rescinded 13 May 2025"
+    },
+    "saas_iaas": {
+      "description": "Cloud-hosted AI services (SaaS/IaaS) accessible by foreign nationals create deemed-export exposure. KYC procedures and access controls are critical.",
+      "kyc_note": "SaaS/IaaS providers should implement nationality/location verification to prevent deemed exports to restricted destinations.",
+      "deemed_export_citation": "15 CFR §§ 734.13–734.16",
+      "part744_note": "Foreign national access to EAR-controlled software constitutes a deemed export requiring the same licence as a physical export to that national's home country."
+    },
+    "training_compute": {
+      "description": "Training compute thresholds for AI systems are an evolving area of EAR controls. The 4E091 ECCN (AI Diffusion Rule IFR) was rescinded 13 May 2025. A replacement framework may be issued — monitor BIS Federal Register notices.",
+      "citation": "90 FR 4544 (Jan. 15, 2025) — rescinded; monitor https://www.federalregister.gov for replacement rule",
+      "match_status_when_triggered": "flagged_for_review"
+    },
+    "dual_use_concern": {
+      "description": "AI systems with dual-use potential (military, intelligence, surveillance applications) may trigger additional controls under § 744.22 or § 744.21.",
+      "citation": "15 CFR § 744.22; 15 CFR § 744.21"
+    }
+  }
+}

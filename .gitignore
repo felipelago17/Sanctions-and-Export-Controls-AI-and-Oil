@@ -26,6 +26,9 @@ venv/
 *.egg-info/
 .Python
 
+# Claude Code session files
+.claude/
+
 # macOS
 .DS_Store
 .AppleDouble

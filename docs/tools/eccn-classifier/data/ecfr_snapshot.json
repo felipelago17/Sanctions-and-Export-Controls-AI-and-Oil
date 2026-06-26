@@ -1,0 +1,98 @@
+{
+  "_meta": {
+    "source": "Electronic Code of Federal Regulations (eCFR), Title 15, Subtitle B, Chapter VII, Subchapter C; Federal Register",
+    "citation": "15 CFR Parts 730–774 (Export Administration Regulations); eCFR at https://www.ecfr.gov/",
+    "data_current_as_of": "2026-06-11",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.146490Z (eCFR Title 15 issue date: 2026-06-11)",
+    "notes": "These are paraphrased summaries of CFR text, not verbatim reproductions. Summaries are provided for orientation purposes only. Always consult the current official eCFR text at https://www.ecfr.gov/ for authoritative regulatory language. The EAR is amended frequently; this snapshot may be outdated.",
+    "ecfr_base_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C"
+  },
+  "sections": [
+    {
+      "section": "15 CFR § 730",
+      "title": "General Information — Scope of the EAR",
+      "summary": "PART 730—GENERAL INFORMATION Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 10 U.S.C. 8720; 10 U.S.C. 8730(e); 22 U.S.C. 287c; 22 U.S.C. 2151 note; 22 U.S.C. 3201 et seq.; 22 U.S.C. 6004; 42 U.S.C. 2139a; 15 U.S.C. 1824; 50 U.S.C. 4305; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 11912, 41 FR 15825, 3 CFR, 1976 Comp., p. 114; E.O. 12002, 42 FR 35623, 3 CFR, 1977 Comp., p. 133; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12214, 45 FR 29783, 3 CFR, 1980 Comp., p. 256; E.O. [...] [Extracted from eCFR XML (title-15, part-730). Updated 2026-06-11. Authoritative text: https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-730]",
+      "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-730",
+      "as_of_date": "2026-06-11",
+      "notes": "Extracted from eCFR versioner API XML (lxml). Not verbatim — consult eCFR for authoritative text. "
+    },
+    {
+      "section": "15 CFR § 734",
+      "title": "Scope of the EAR — Subject to EAR; De Minimis; FDPR; Deemed Export",
+      "summary": "PART 734—SCOPE OF THE EXPORT ADMINISTRATION REGULATIONS Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., p. 223; Notice of November 7, 2024, 89 FR 88867 (November 8, 2024). Source: 61 FR 12746, Mar. 25, 1996, unless otherwise noted. § 734.1 Introduction. (a) In this part, references to the Export Administration Regulations [...] [Extracted from eCFR XML (title-15, part-734). Updated 2026-06-11. Authoritative text: https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-734]",
+      "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-734",
+      "as_of_date": "2026-06-11",
+      "notes": "Extracted from eCFR versioner API XML (lxml). Not verbatim — consult eCFR for authoritative text. "
+    },
+    {
+      "section": "15 CFR § 734.13",
+      "title": "Deemed Export — Release of Technology to Foreign Nationals",
+      "summary": "§ 734.13 Export. (a) Except as set forth in § 734.17 or § 734.18, Export means: (1) An actual shipment or transmission out of the United States, including the sending or taking of an item out of the United States, in any manner; (2) Releasing or otherwise transferring “technology” or source code (but not object code) to a foreign person in the United States (a “deemed export”); (3) Transferring by a person in the United States of registration, control, or ownership of: (i) A spacecraft subject to the EAR that is not eligible for export under License Exception STA ( [...] [Extracted from eCFR XML (title-15, part-734). Updated 2026-06-11. Authoritative text: https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-734/section-734-13]",
+      "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-734/section-734-13",
+      "as_of_date": "2026-06-11",
+      "notes": "Extracted from eCFR versioner API XML (lxml). Not verbatim — consult eCFR for authoritative text. "
+    },
+    {
+      "section": "15 CFR § 744.21",
+      "title": "Restrictions on Certain Military End-Uses and End-Users",
+      "summary": "§ 744.21 Restrictions on certain 'military end uses' or 'military end users'. (a) General prohibition. In addition to the license requirements for items specified on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR), you may not export, reexport, or transfer (in-country): (1) Any item subject to the EAR listed in supplement no. 2 to this part without a license if, at the time of the export, reexport, or transfer (in-country), you have “knowledge,” as defined in § 772.1 of the EAR, that the item is intended, entirely or in part, for a 'military end [...] [Extracted from eCFR XML (title-15, part-744). Updated 2026-06-11. Authoritative text: https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744/section-744-21]",
+      "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744/section-744-21",
+      "as_of_date": "2026-06-11",
+      "notes": "Extracted from eCFR versioner API XML (lxml). Not verbatim — consult eCFR for authoritative text. "
+    },
+    {
+      "section": "15 CFR § 744.22",
+      "title": "Restrictions Related to Certain Emerging and Foundational Technologies",
+      "summary": "§ 744.22 Restrictions on exports, reexports, and transfers (in-country) to certain military-intelligence end uses or end users. (a) General prohibition. In addition to the license requirements for items specified on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR), you may not export, reexport, or transfer (in-country) any item subject to the EAR without a license from BIS if, at the time of the export, reexport, or transfer (in-country), you have “knowledge” that the item is intended, entirely or in part, for a 'military-intelligence end use' in Belarus, Burma, Cambodia, the People's Republic of China [...] [Extracted from eCFR XML (title-15, part-744). Updated 2026-06-11. Authoritative text: https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744/section-744-22]",
+      "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744/section-744-22",
+      "as_of_date": "2026-06-11",
+      "notes": "Extracted from eCFR versioner API XML (lxml). Not verbatim — consult eCFR for authoritative text. "
+    },
+    {
+      "section": "15 CFR § 744.23",
+      "title": "Restrictions on Certain Military-Intelligence End-Uses and End-Users",
+      "summary": "§ 744.23 “Supercomputer,” “advanced-node integrated circuits,” and semiconductor manufacturing equipment end use controls. (a) General prohibition. In addition to the license requirements for items specified on the CCL, you may not export, reexport, or transfer (in-country) without a license any item subject to the EAR described in paragraphs (a)(1) through (4) of this section when you have “knowledge” at the time of export, reexport, or transfer (in-country) that the item is destined for a destination, end use, or type of end user described in paragraphs (a)(1) through (4) of this section, unless excluded by paragraph (a)(5) of this section. (1) [...] [Extracted from eCFR XML (title-15, part-744). Updated 2026-06-11. Authoritative text: https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744/section-744-23]",
+      "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-744/section-744-23",
+      "as_of_date": "2026-06-11",
+      "notes": "Extracted from eCFR versioner API XML (lxml). Not verbatim — consult eCFR for authoritative text. "
+    },
+    {
+      "section": "15 CFR § 746",
+      "title": "Embargoes and Other Special Controls",
+      "summary": "PART 746—EMBARGOES AND OTHER SPECIAL CONTROLS Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 U.S.C. 287c; Sec 1503, Pub. L. 108-11, 117 Stat. 559; 22 U.S.C. 2151 note; 22 U.S.C. 6004; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12854, 58 FR 36587, 3 CFR, 1993 Comp., p. 614; E.O. 12918, 59 FR 28205, 3 CFR, 1994 Comp., p. 899; Presidential Determination 2003-23, 68 FR 26459, 3 CFR, 2004 Comp., p. 320; Presidential Determination 2007-7, 72 FR 1899, 3 CFR, 2006 Comp., p. 325; Pub. L. 118-50; E.O. 14312. Source: 61 FR [...] [Extracted from eCFR XML (title-15, part-746). Updated 2026-06-11. Authoritative text: https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-746]",
+      "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-746",
+      "as_of_date": "2026-06-11",
+      "notes": "Extracted from eCFR versioner API XML (lxml). Not verbatim — consult eCFR for authoritative text. "
+    },
+    {
+      "section": "15 CFR § 740.17",
+      "title": "Licence Exception ENC — Encryption Items",
+      "summary": "§ 740.17 Encryption commodities, software, and technology (ENC). License Exception ENC authorizes export, reexport, and transfer (in-country) of systems, equipment, commodities, and components therefor that are classified under ECCN 5A002, 5B002, equivalent or related software and technology therefor classified under 5D002 or 5E002, and “cryptanalytic items” and digital forensics items (investigative tools) classified under ECCN 5A004, 5D002 or 5E002. This License Exception ENC does not authorize export or reexport to, transfer (in-country) in, or provision of any service in any country listed in Country Groups E:1 or E:2 in supplement no. 1 to part 740 of the EAR, or release [...] [Extracted from eCFR XML (title-15, part-740). Updated 2026-06-11. Authoritative text: https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/section-740-17]",
+      "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/section-740-17",
+      "as_of_date": "2026-06-11",
+      "notes": "Extracted from eCFR versioner API XML (lxml). Not verbatim — consult eCFR for authoritative text. "
+    },
+    {
+      "section": "15 CFR § 774",
+      "title": "Commerce Control List (CCL) — Part 774 Supplement No. 1",
+      "summary": "PART 774—THE COMMERCE CONTROL LIST Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 10 U.S.C. 8720; 10 U.S.C. 8730(e); 22 U.S.C. 287c, 22 U.S.C. 3201 et seq.; 22 U.S.C. 6004; 42 U.S.C. 2139a; 15 U.S.C. 1824; 50 U.S.C. 4305; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228. Source: 61 FR 12937, Mar. 25, 1996, unless otherwise noted. § 774.1 Introduction. (a) Scope of the control list. In this part, references to the EAR are references to 15 CFR chapter VII, subchapter C. The [...] [Extracted from eCFR XML (title-15, part-774). Updated 2026-06-11. Authoritative text: https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774]",
+      "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774",
+      "as_of_date": "2026-06-11",
+      "notes": "Extracted from eCFR versioner API XML (lxml). Not verbatim — consult eCFR for authoritative text. "
+    }
+  ],
+  "regwatch": {
+    "as_of_date": "2026-06-11",
+    "watch_terms": [
+      "4E091",
+      "model weight export control",
+      "AI model weight",
+      "artificial intelligence diffusion",
+      "AI diffusion rule"
+    ],
+    "watch_rationale": "4E091 (AI Diffusion Rule IFR, 90 FR 4544) was rescinded 13 May 2025 before its compliance date. A replacement AI model export control framework may be issued. This regwatch monitors BIS Federal Register notices for replacement-rule activity.",
+    "hit_count": 0,
+    "hits": [],
+    "note": "No hits means no matching BIS notices in the lookback window — not a guarantee that no replacement rule exists. Monitor https://www.federalregister.gov/agencies/industry-and-security-bureau for BIS rulemaking."
+  }
+}

@@ -1,6 +1,6 @@
 # Additional Sources & Literature
 
-A curated index of publications, trackers, academic literature, and monitoring services relevant to US export controls, sanctions, AI governance, and the energy sector. These sources are monitored by the [daily digest workflow](../news/digest.md).
+A curated index of publications, trackers, academic literature, and monitoring services relevant to US export controls, sanctions, AI governance, and the energy sector. These sources are monitored by the [daily digest workflow](news/digest.md).
 
 ---
 

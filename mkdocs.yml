@@ -68,12 +68,14 @@ nav:
   - Regulations:
     - Primary Sources: regulations/primary-sources.md
     - AI & Advanced Technology: regulations/ai-advanced-tech-export-controls.md
+    - EAR Interaction Risk Matrix (Physical & Logical): regulations/ear-interaction-risk-matrix.md
     - Extraterritorial Enforcement: regulations/extraterritorial-enforcement.md
     - Encryption & Open Source: regulations/encryption-open-source.md
     - OFAC UBO & 50% Rule: regulations/ofac-ubo-50-percent-rule.md
     - BIS Affiliates Rule: regulations/bis-affiliates-rule.md
     - Sanctions — Oil & Energy: regulations/sanctions-oil-energy.md
     - PRC Critical Minerals (Africa): regulations/prc-critical-minerals-africa.md
+    - Chip Security Act (PBLV): regulations/chip-security-act.md
   - Designations Register:
     - Index: jurisdictions/index.md
     - UK (Russia 2026): jurisdictions/uk/2026/russia-shadow-fleet-june-2026.md
@@ -81,6 +83,10 @@ nav:
     - EU (May 2026): jurisdictions/eu/2026/may-2026-wave.md
     - UAE (2026): jurisdictions/uae/2026/local-designations-2026.md
     - Australia (Iran 2026): jurisdictions/australia/2026/iran-autonomous-sanctions-2026.md
+  - Cases:
+    - BIS Deemed-Export — Anthropic Fable 5 / Mythos 5 (Jun 2026): cases/2026-06-anthropic-fable-mythos-deemed-export.md
+  - Tools:
+    - ECCN Classifier: tools/eccn-classifier/index.html
   - Visuals & Tools: visuals.md
   - Sources & Literature: additional-sources.md
   - News:

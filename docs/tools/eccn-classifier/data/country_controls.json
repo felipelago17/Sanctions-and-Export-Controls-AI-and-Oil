@@ -1,0 +1,238 @@
+{
+  "_meta": {
+    "source": "15 CFR Part 740 (Country Groups), 15 CFR Part 746 (Embargoes), 15 CFR Part 742 (Control Policy), BIS Country Chart",
+    "citation": "15 CFR Part 740 Supp. 1 (Country Groups); 15 CFR § 746.2 (Cuba); § 746.3 (Iraq); § 746.4 (Iran); § 746.5 (North Korea); § 746.6 (Syria); § 746.7 (Russia/Belarus); § 746.9 (China advanced computing)",
+    "data_current_as_of": "2026-06-11",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.279509Z (eCFR Title 15 issue date: 2026-06-11)",
+    "notes": "PLACEHOLDER — country group membership and restriction details must be verified from the current BIS country chart and CFR. This file covers only a policy-relevant subset of countries; it is not an exhaustive list.",
+    "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740",
+    "bis_country_chart_url": "https://www.bis.doc.gov/index.php/documents/regulations-docs/2253-supplement-no-1-to-part-738/file"
+  },
+  "country_groups": {
+    "A": {
+      "description": "Allied and partner nations — generally favoured treatment under many EAR provisions.",
+      "note": "Full list in Supplement No. 1 to Part 740. Subgroups A:1 through A:6 have specific meanings."
+    },
+    "B": {
+      "description": "Most countries in the world — standard EAR treatment applies.",
+      "note": "Default group. Items controlled AT1 may require licence for some Country B destinations."
+    },
+    "D:1": {
+      "description": "National Security (NS) controlled countries — heightened scrutiny for NS1-controlled items.",
+      "members_subset": [
+        "CN",
+        "RU",
+        "BY",
+        "KP",
+        "IR",
+        "CU",
+        "SY",
+        "VE"
+      ],
+      "note": "NS1 column on BIS Country Chart. Exporting 5D002, 5A002, 3A090, 4A090 to D:1 countries generally requires a licence."
+    },
+    "D:5": {
+      "description": "US arms-embargoed countries — most items controlled MT, NS, AT, or CC require licence.",
+      "members_subset": [
+        "CN",
+        "RU",
+        "BY",
+        "KP",
+        "IR",
+        "CU",
+        "SY"
+      ]
+    },
+    "E:1": {
+      "description": "Terrorist-supporting countries — comprehensive restrictions; most EAR licence exceptions unavailable.",
+      "members": [
+        "IR",
+        "SY",
+        "KP",
+        "CU"
+      ],
+      "note": "Iran, Syria, North Korea, Cuba. OFAC also maintains comprehensive or targeted sanctions on these countries."
+    },
+    "E:2": {
+      "description": "Unilaterally controlled countries for additional EAR restrictions.",
+      "members": [
+        "RU",
+        "BY"
+      ],
+      "note": "Russia and Belarus added under § 746.8 restrictions effective March 2022."
+    }
+  },
+  "countries": {
+    "CN": {
+      "name": "China (People's Republic of China)",
+      "iso2": "CN",
+      "iso3": "CHN",
+      "group": [
+        "B",
+        "D:1",
+        "D:5"
+      ],
+      "risk_tier": 2,
+      "part746_restrictions": [
+        "§ 746.9 (Advanced Computing and Semiconductor Controls)",
+        "§ 742.6 (NS controls — Country Chart column NS1)"
+      ],
+      "advanced_computing_restriction": true,
+      "advanced_computing_citation": "15 CFR § 746.9; BIS Final Rule Oct. 7, 2022 and subsequent amendments",
+      "notes": "China is in Country Groups D:1 and D:5, but not E:1. However, § 746.9 imposes chip-specific controls comparable to embargo-level restrictions for 3A090 and 4A090 items. OFAC does not maintain a comprehensive China embargo but has SDN designations for specific entities. Deemed-export concerns are acute for Chinese nationals accessing advanced computing or AI items.",
+      "ofac_program": "None (comprehensive); targeted SDN/Entity List entries apply",
+      "entity_list_concentration": "High — numerous Chinese semiconductor, AI, and telecom firms are on BIS Entity List",
+      "license_review_policy": "case_by_case",
+      "license_review_policy_citation": "FR Docket 260112-0028, effective Jan. 15, 2026",
+      "license_review_policy_note": "Final rule effective 15 Jan 2026 moved certain advanced AI chip transactions from presumption of denial to case-by-case review, subject to supply security and end-use testing conditions. Consult BIS and qualified counsel before relying on this change for any specific transaction."
+    },
+    "MO": {
+      "name": "Macau (Special Administrative Region of China)",
+      "iso2": "MO",
+      "iso3": "MAC",
+      "group": [
+        "B",
+        "D:1",
+        "D:5"
+      ],
+      "risk_tier": 2,
+      "part746_restrictions": [
+        "§ 746.9 (Advanced Computing — Macau treated as PRC for chip controls)",
+        "§ 742.6 (NS controls — Country Chart column NS1)"
+      ],
+      "advanced_computing_restriction": true,
+      "advanced_computing_citation": "15 CFR § 746.9; BIS treats Macau as equivalent to PRC for advanced computing chip controls",
+      "notes": "Macau SAR is treated as equivalent to mainland China for the purposes of § 746.9 advanced computing and semiconductor controls. Items classified 3A090 or 4A090 require a licence for Macau destinations. Transshipment risk: Macau is a known re-export/transshipment route for items destined for mainland China. Enhanced due diligence required.",
+      "ofac_program": "None (comprehensive); targeted designations may apply",
+      "entity_list_concentration": "Moderate — verify transshipment parties against current BIS and OFAC lists",
+      "license_review_policy": "case_by_case",
+      "license_review_policy_citation": "FR Docket 260112-0028, effective Jan. 15, 2026 (applied on equivalent basis to PRC)",
+      "license_review_policy_note": "Macau treated equivalently to PRC under § 746.9 controls. Case-by-case review policy applies on the same basis as PRC following Jan. 2026 final rule."
+    },
+    "RU": {
+      "name": "Russia (Russian Federation)",
+      "iso2": "RU",
+      "iso3": "RUS",
+      "group": [
+        "B",
+        "D:1",
+        "D:5",
+        "E:2"
+      ],
+      "risk_tier": 2,
+      "part746_restrictions": [
+        "§ 746.7 (Russia Sanctions)",
+        "§ 746.8 (Belarus — applies to Russia by cross-reference for dual export)",
+        "§ 742.6 (NS1)"
+      ],
+      "sanctions_in_effect": true,
+      "notes": "Russia: extensive BIS export controls under § 746.7 following Feb. 2022 invasion of Ukraine. Most dual-use items require a licence, and most exceptions are suspended. OFAC maintains broad sectoral sanctions on Russian financial, energy, and defence sectors.",
+      "ofac_program": "RUSSIA, UKRAINE-EO13685, UKRAINE-EO13694 and others",
+      "oil_energy_restriction": true,
+      "oil_energy_notes": "OFAC energy-sector sanctions under Directive 4 (post-Feb 2022) restrict engagement with Russian energy sector entities. EAR energy sector controls under § 746.7(a)(3)."
+    },
+    "BY": {
+      "name": "Belarus",
+      "iso2": "BY",
+      "iso3": "BLR",
+      "group": [
+        "B",
+        "D:1",
+        "D:5",
+        "E:2"
+      ],
+      "risk_tier": 2,
+      "part746_restrictions": [
+        "§ 746.8 (Belarus Sanctions)",
+        "§ 742.6 (NS1)"
+      ],
+      "sanctions_in_effect": true,
+      "notes": "Belarus: BIS controls under § 746.8, mirroring § 746.7 Russia controls. OFAC sanctions on Belarusian government and oligarchs. Re-export via Belarus to Russia is a key enforcement concern.",
+      "ofac_program": "BELARUS"
+    },
+    "IR": {
+      "name": "Iran (Islamic Republic of Iran)",
+      "iso2": "IR",
+      "iso3": "IRN",
+      "group": [
+        "D:1",
+        "D:5",
+        "E:1"
+      ],
+      "risk_tier": 1,
+      "part746_restrictions": [
+        "§ 746.4 (Iran)"
+      ],
+      "comprehensive_embargo": true,
+      "notes": "Iran: comprehensive OFAC embargo (ITSR — Iranian Transactions and Sanctions Regulations, 31 CFR Part 560). BIS controls under § 746.4. Virtually all exports/reexports require a licence, with very limited exceptions. High enforcement priority.",
+      "ofac_program": "IRAN (ITSR — 31 CFR Part 560), ISA, NSR, NPWMD and others"
+    },
+    "KP": {
+      "name": "North Korea (Democratic People's Republic of Korea)",
+      "iso2": "KP",
+      "iso3": "PRK",
+      "group": [
+        "D:1",
+        "D:5",
+        "E:1"
+      ],
+      "risk_tier": 1,
+      "part746_restrictions": [
+        "§ 746.5 (North Korea)"
+      ],
+      "comprehensive_embargo": true,
+      "notes": "North Korea: comprehensive embargo. BIS § 746.5 restricts virtually all exports. OFAC North Korea Sanctions Regulations (31 CFR Part 510). UN Security Council resolutions impose multilateral restrictions.",
+      "ofac_program": "DPRK (31 CFR Part 510)"
+    },
+    "CU": {
+      "name": "Cuba",
+      "iso2": "CU",
+      "iso3": "CUB",
+      "group": [
+        "D:1",
+        "D:5",
+        "E:1"
+      ],
+      "risk_tier": 1,
+      "part746_restrictions": [
+        "§ 746.2 (Cuba)"
+      ],
+      "comprehensive_embargo": true,
+      "notes": "Cuba: comprehensive embargo under BIS § 746.2 and OFAC Cuban Assets Control Regulations (31 CFR Part 515). Note: US policy on Cuba has been subject to executive-level adjustments; verify current status.",
+      "ofac_program": "CUBA (31 CFR Part 515)"
+    },
+    "SY": {
+      "name": "Syria (Syrian Arab Republic)",
+      "iso2": "SY",
+      "iso3": "SYR",
+      "group": [
+        "D:1",
+        "D:5",
+        "E:1"
+      ],
+      "risk_tier": 1,
+      "part746_restrictions": [
+        "§ 746.6 (Syria)"
+      ],
+      "comprehensive_embargo": true,
+      "notes": "Syria: comprehensive BIS restrictions under § 746.6. OFAC Syrian Sanctions Regulations (31 CFR Part 542). Note: political situation evolving post-2024; verify current OFAC/BIS status for any specific engagement.",
+      "ofac_program": "SYRIA (31 CFR Part 542)"
+    },
+    "VE": {
+      "name": "Venezuela",
+      "iso2": "VE",
+      "iso3": "VEN",
+      "group": [
+        "D:1"
+      ],
+      "risk_tier": 3,
+      "part746_restrictions": [
+        "§ 742.6 (NS1 column — D:1 membership)",
+        "OFAC Executive Orders — see notes"
+      ],
+      "comprehensive_embargo": false,
+      "notes": "Venezuela: targeted (not comprehensive) US sanctions. OFAC EO 13808, 13827, 13835, 13850 targeting Venezuelan government, oil sector (PDVSA), and gold sector. BIS Entity List entries for some Venezuelan entities. Not a BIS § 746 comprehensive embargo country, but high-risk due to OFAC oil-sector restrictions.",
+      "ofac_program": "VENEZUELA (EO 13808, EO 13850 — PDVSA oil sector)"
+    }
+  }
+}

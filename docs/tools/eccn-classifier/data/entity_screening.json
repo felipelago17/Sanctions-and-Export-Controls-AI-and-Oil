@@ -1,0 +1,263 @@
+{
+  "_meta": {
+    "source": "BIS Entity List (15 CFR Part 744, Supp. 4); OFAC SDN List; BIS Military End-User (MEU) List (15 CFR Part 744, Supp. 7)",
+    "citation": "15 CFR Part 744, Supplement No. 4 (Entity List); 15 CFR Part 744, Supplement No. 7 (MEU List); 31 CFR Part 594 (OFAC SDN)",
+    "data_current_as_of": "2026-06-11",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.280231Z (eCFR Title 15 issue date: 2026-06-11)",
+    "notes": "DEMONSTRATOR DATA — Entity List entries (Huawei, CXMT, YMTC, SMIC, SenseTime) and state-owned energy entries reflect publicly documented designations but are NOT verified against the current official lists. MEU and SDN entries are fully synthetic (synthetic: true) — they represent illustrative list types and trigger the DEMO banner; they do not correspond to any real party. All users must verify against current official government lists before any transaction.",
+    "contains_synthetic_entries": true,
+    "synthetic_entry_notice": "MEU List and SDN List entries in this file are synthetic illustrative entries (synthetic: true). They are present to demonstrate IDD panel functionality. DEMO banner is required whenever any synthetic entry is present. No real party name, address, or identifier should be inferred from these entries.",
+    "disclaimer": "This screening snapshot is for demonstrator/triage purposes only. It does not constitute a compliance determination. Exporters must conduct due diligence against current official government lists: BIS Entity List (https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list), OFAC SDN List (https://ofac.treasury.gov/sanctions-list/specially-designated-nationals-and-blocked-persons-list-sdn-list), and MEU List (https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/military-end-user-meu-list). Use of a licensed screening provider is strongly recommended for ongoing compliance.",
+    "entity_list_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list",
+    "sdn_list_url": "https://ofac.treasury.gov/sanctions-list/specially-designated-nationals-and-blocked-persons-list-sdn-list",
+    "meu_list_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/military-end-user-meu-list"
+  },
+  "entities": [
+    {
+      "name": "Huawei Technologies Co., Ltd.",
+      "aliases": [
+        "Huawei",
+        "Huawei Tech",
+        "Huawei Technologies"
+      ],
+      "country": "CN",
+      "list_type": "entity_list",
+      "synthetic": false,
+      "eccn_impact": "Licence required for all items subject to EAR (no licence exception available for most items); presumption of denial policy applies",
+      "notes": "Huawei and its affiliates were added to the BIS Entity List in May 2019 and subsequently expanded. The Foreign Direct Product Rule (FDPR) extends EAR jurisdiction to certain foreign-produced items intended for Huawei. Verify current list of Huawei affiliated entities — the list is extensive and frequently updated.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list",
+      "as_of_date": "2026-06-19",
+      "verified": false,
+      "fdpr_applies": true
+    },
+    {
+      "name": "ChangXin Memory Technologies, Inc.",
+      "aliases": [
+        "CXMT",
+        "ChangXin Memory"
+      ],
+      "country": "CN",
+      "list_type": "entity_list",
+      "synthetic": false,
+      "eccn_impact": "Licence required for all items subject to EAR; no licence exception available",
+      "notes": "Chinese DRAM manufacturer. Added to Entity List due to national security and foreign policy concerns related to semiconductor manufacturing for military end-use. Verify current status and associated entities.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "Yangtze Memory Technologies Co., Ltd.",
+      "aliases": [
+        "YMTC",
+        "Yangtze Memory"
+      ],
+      "country": "CN",
+      "list_type": "entity_list",
+      "synthetic": false,
+      "eccn_impact": "Licence required for all items subject to EAR; no licence exception available; FDPR may apply to certain semiconductor manufacturing equipment",
+      "notes": "Chinese NAND flash memory manufacturer. Added to BIS Entity List in December 2022. Semiconductor manufacturing equipment, software, and technology destined for YMTC require a licence with a policy of denial.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list",
+      "as_of_date": "2026-06-19",
+      "verified": false,
+      "fdpr_applies": true
+    },
+    {
+      "name": "Semiconductor Manufacturing International Corporation",
+      "aliases": [
+        "SMIC",
+        "SMIC International"
+      ],
+      "country": "CN",
+      "list_type": "entity_list",
+      "synthetic": false,
+      "eccn_impact": "Licence required for items meeting certain performance parameters; presumption of denial for advanced node capabilities",
+      "notes": "China's largest semiconductor foundry. SMIC was added to the Entity List in December 2020. Controls focus on preventing acquisition of equipment enabling sub-10nm manufacturing. Verify current scope of listing and any amendments.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "SenseTime Group Inc.",
+      "aliases": [
+        "SenseTime",
+        "SenseTime Technology"
+      ],
+      "country": "CN",
+      "list_type": "entity_list",
+      "synthetic": false,
+      "eccn_impact": "Licence required for all EAR-controlled items; AI-specific controls apply; no licence exception available",
+      "notes": "Chinese AI company specialising in facial recognition and surveillance technology. Added to BIS Entity List and OFAC SDN List (Non-SDN Chinese Military-Industrial Complex Companies List — NS-CMIC). Concerns relate to surveillance of Uyghur population and military-civil fusion. Verify current designation status.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/entity-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "SYNTHETIC-MEU-ALPHA — [Illustrative MEU entry — not a real party]",
+      "aliases": [
+        "SYNTHETIC-MEU-ALPHA"
+      ],
+      "country": "CN",
+      "list_type": "meu",
+      "synthetic": true,
+      "eccn_impact": "ILLUSTRATIVE: MEU listing would trigger licence requirement under § 744.21 for items subject to EAR intended for military end-use; no licence exception available",
+      "notes": "SYNTHETIC ENTRY — This is an illustrative placeholder representing the MEU List list type. It does not correspond to any real party. The DEMO banner must be displayed whenever this entry is present in the dataset. Verify real MEU entries against the current BIS MEU List at https://www.bis.doc.gov.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/military-end-user-meu-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "SYNTHETIC-MEU-BETA — [Illustrative MEU entry — not a real party]",
+      "aliases": [
+        "SYNTHETIC-MEU-BETA"
+      ],
+      "country": "RU",
+      "list_type": "meu",
+      "synthetic": true,
+      "eccn_impact": "ILLUSTRATIVE: MEU listing would trigger § 744.21 licence requirement; presumption of denial for dual-use and advanced technology items",
+      "notes": "SYNTHETIC ENTRY — This is an illustrative placeholder representing the MEU List list type for a Russia-destination entity. It does not correspond to any real party. Verify real MEU entries at https://www.bis.doc.gov.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/military-end-user-meu-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "SYNTHETIC-MEU-GAMMA — [Illustrative MEU entry — not a real party]",
+      "aliases": [
+        "SYNTHETIC-MEU-GAMMA"
+      ],
+      "country": "MM",
+      "list_type": "meu",
+      "synthetic": true,
+      "eccn_impact": "ILLUSTRATIVE: MEU listing would trigger § 744.21 licence requirement; presumption of denial",
+      "notes": "SYNTHETIC ENTRY — Illustrative placeholder for a Burma-destination MEU entry. Burma was added as an MEU destination following the February 2021 military coup. It does not correspond to any real party. Verify real entries at https://www.bis.doc.gov.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern/military-end-user-meu-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "SYNTHETIC-SDN-ALPHA — [Illustrative SDN entry — not a real party]",
+      "aliases": [
+        "SYNTHETIC-SDN-ALPHA"
+      ],
+      "country": "RU",
+      "list_type": "sdn",
+      "synthetic": true,
+      "ofac_flag": true,
+      "eccn_impact": "ILLUSTRATIVE: SDN listing would block all transactions under OFAC regulations; separate and independent from EAR",
+      "notes": "SYNTHETIC ENTRY — Illustrative placeholder representing a Russia-affiliated SDN entry in the oil/trading sector. Does not correspond to any real party. 50% Rule: entities 50% or more owned by an SDN are also blocked even if not separately listed. Verify real SDN entries at https://ofac.treasury.gov.",
+      "source_url": "https://ofac.treasury.gov/sanctions-list/specially-designated-nationals-and-blocked-persons-list-sdn-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "SYNTHETIC-SDN-BETA — [Illustrative SDN entry — not a real party]",
+      "aliases": [
+        "SYNTHETIC-SDN-BETA"
+      ],
+      "country": "RU",
+      "list_type": "sdn",
+      "synthetic": true,
+      "ofac_flag": true,
+      "eccn_impact": "ILLUSTRATIVE: SDN listing would block all transactions; 50% ownership rule applies to subsidiaries",
+      "notes": "SYNTHETIC ENTRY — Illustrative placeholder for a Russia energy-sector SDN entry. Does not correspond to any real party. Verify real entries at https://ofac.treasury.gov.",
+      "source_url": "https://ofac.treasury.gov/sanctions-list/specially-designated-nationals-and-blocked-persons-list-sdn-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "SYNTHETIC-SDN-GAMMA — [Illustrative SDN entry — not a real party]",
+      "aliases": [
+        "SYNTHETIC-SDN-GAMMA"
+      ],
+      "country": "IR",
+      "list_type": "sdn",
+      "synthetic": true,
+      "ofac_flag": true,
+      "eccn_impact": "ILLUSTRATIVE: SDN listing would block all transactions under OFAC ITSR (31 CFR Part 560); separate OFAC licence required (rarely granted)",
+      "notes": "SYNTHETIC ENTRY — Illustrative placeholder for an Iran oil-sector SDN entry. Does not correspond to any real party. Verify real SDN entries at https://ofac.treasury.gov.",
+      "source_url": "https://ofac.treasury.gov/sanctions-list/specially-designated-nationals-and-blocked-persons-list-sdn-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "China National Petroleum Corporation",
+      "aliases": [
+        "CNPC",
+        "PetroChina"
+      ],
+      "country": "CN",
+      "list_type": "state_owned_energy",
+      "synthetic": false,
+      "eccn_impact": "Not per se blocked; however, state-owned entity (SOE) status and oil/energy sector raises enhanced due diligence obligations. Check for current SDN/Entity List designations for subsidiaries.",
+      "notes": "CNPC is China's largest state-owned oil and gas corporation. Not currently on BIS Entity List or OFAC SDN List as of this snapshot date, but SOE affiliation means any export of advanced technology should undergo enhanced due diligence for military end-use concerns under § 744.21 and military-civil fusion policy. PetroChina is the publicly-listed subsidiary. Verify current status.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern",
+      "as_of_date": "2026-06-19",
+      "verified": false,
+      "enhanced_due_diligence": true
+    },
+    {
+      "name": "China National Offshore Oil Corporation",
+      "aliases": [
+        "CNOOC",
+        "CNOOC Limited"
+      ],
+      "country": "CN",
+      "list_type": "state_owned_energy",
+      "synthetic": false,
+      "eccn_impact": "Previously on DOD Section 1260H list (Chinese military company) — verify current status. Enhanced due diligence required. EAR controls on advanced computing items apply to any China destination.",
+      "notes": "CNOOC is a Chinese state-owned offshore oil and gas company. It was listed on the DOD list of Chinese military companies under Section 1260H of the National Defence Authorisation Act. The Section 1260H listing does not by itself create EAR/OFAC prohibitions but triggers enhanced due diligence. Verify current Entity List and SDN status.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern",
+      "as_of_date": "2026-06-19",
+      "verified": false,
+      "enhanced_due_diligence": true
+    },
+    {
+      "name": "China Petrochemical Corporation",
+      "aliases": [
+        "Sinopec",
+        "Sinopec Group",
+        "SINOPEC Corp"
+      ],
+      "country": "CN",
+      "list_type": "state_owned_energy",
+      "synthetic": false,
+      "eccn_impact": "State-owned entity — enhanced due diligence. Not per se blocked as of this snapshot. Check for subsidiary-level Entity List/SDN entries.",
+      "notes": "Sinopec is one of the world's largest oil and gas companies and is wholly state-owned. Not currently on BIS Entity List or OFAC SDN List at the corporate level as of this snapshot. SOE affiliation triggers military-civil fusion due diligence for technology exports. Verify subsidiary and affiliate status against current lists.",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/lists-of-parties-of-concern",
+      "as_of_date": "2026-06-19",
+      "verified": false,
+      "enhanced_due_diligence": true
+    },
+    {
+      "name": "National Iranian Oil Company",
+      "aliases": [
+        "NIOC",
+        "Iranian Oil"
+      ],
+      "country": "IR",
+      "list_type": "state_owned_energy",
+      "synthetic": false,
+      "ofac_flag": true,
+      "eccn_impact": "OFAC SDN-listed. All transactions involving NIOC are prohibited under US Iran sanctions (ITSR). Separate and additional to EAR controls on Iran.",
+      "notes": "NIOC is Iran's national oil company and is designated on OFAC's SDN List. Any engagement with NIOC or its subsidiaries/affiliates violates OFAC's ITSR. 50% Rule means all NIOC subsidiaries are also blocked. This is a blocked party, not just enhanced due diligence.",
+      "source_url": "https://ofac.treasury.gov/sanctions-list/specially-designated-nationals-and-blocked-persons-list-sdn-list",
+      "as_of_date": "2026-06-19",
+      "verified": false
+    },
+    {
+      "name": "Rosneft Oil Company",
+      "aliases": [
+        "Rosneft",
+        "PJSC Rosneft"
+      ],
+      "country": "RU",
+      "list_type": "state_owned_energy",
+      "synthetic": false,
+      "eccn_impact": "Subject to OFAC sectoral sanctions (Directive 4 under EO 13662 — energy sector; post-Feb 2022 restrictions); BIS § 746.7 energy-sector controls apply. Not comprehensively blocked as corporate entity, but transaction restrictions apply. Verify current SDN/OFAC status.",
+      "notes": "Rosneft is Russia's largest state-owned oil company. Subject to OFAC Directive 4 sectoral sanctions restricting new debt/equity. Post-Feb 2022 OFAC designations may cover certain Rosneft subsidiaries — verify current status. BIS § 746.7 restricts export of energy-sector items to Russia. Dealings with Rosneft carry high compliance risk.",
+      "source_url": "https://ofac.treasury.gov/sanctions-list/specially-designated-nationals-and-blocked-persons-list-sdn-list",
+      "as_of_date": "2026-06-19",
+      "verified": false,
+      "enhanced_due_diligence": true
+    }
+  ]
+}
