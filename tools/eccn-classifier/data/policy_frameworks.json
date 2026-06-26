@@ -3,8 +3,8 @@
     "source": "EAR (15 CFR Parts 730–774); NIST AI RMF 1.0 (2023); ISO/IEC 27001:2022; ISO/IEC 42001:2023",
     "citation": "EAR: 15 CFR Parts 730–774 (BIS); NIST AI Risk Management Framework 1.0 (Jan. 2023), NIST AI 100-1; ISO/IEC 27001:2022 Information Security Management; ISO/IEC 42001:2023 AI Management Systems",
     "note": "Internal, employer-specific, and private-sector AI governance frameworks (e.g. G42/ADNOC-style) are out of scope for this public demonstrator. Only publicly published frameworks are mapped here.",
-    "data_current_as_of": "2026-06-19",
-    "retrieved_by": "Manual seed — run scripts/refresh_rules.py to update",
+    "data_current_as_of": "2026-06-11",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.280923Z (eCFR Title 15 issue date: 2026-06-11)",
     "notes": "PLACEHOLDER — Framework versions and control IDs should be verified against current published standards. ISO standards require purchase for full text. NIST AI RMF is freely available at https://airc.nist.gov/. EAR controls verified at https://www.ecfr.gov/.",
     "nist_url": "https://airc.nist.gov/RMF/about",
     "iso42001_url": "https://www.iso.org/standard/81230.html",
@@ -23,7 +23,11 @@
           "section": "15 CFR § 734",
           "title": "Scope of the EAR — Subject to EAR determination",
           "description": "Determines whether an item is 'subject to the EAR'. All US-origin items are subject to EAR. Foreign-produced items incorporating controlled US-origin content above de minimis thresholds may also be subject (FDPR analysis required).",
-          "triggered_by": ["origin_US", "fdpr_analysis", "us_content_above_de_minimis"],
+          "triggered_by": [
+            "origin_US",
+            "fdpr_analysis",
+            "us_content_above_de_minimis"
+          ],
           "citation": "15 CFR §§ 734.1–734.20"
         },
         {
@@ -31,7 +35,11 @@
           "section": "15 CFR § 742",
           "title": "Control Policy — NS, AT, and other multilateral controls",
           "description": "Sets out control policies for NS (national security), AT (anti-terrorism), and other control reasons. NS1 and AT1 columns on the BIS Country Chart trigger licence requirements for controlled items to listed countries.",
-          "triggered_by": ["eccn_with_ns1_or_at1_control", "d1_destination", "e1_destination"],
+          "triggered_by": [
+            "eccn_with_ns1_or_at1_control",
+            "d1_destination",
+            "e1_destination"
+          ],
           "citation": "15 CFR §§ 742.1–742.25"
         },
         {
@@ -39,7 +47,12 @@
           "section": "15 CFR § 744",
           "title": "End-Use/End-User Controls (Part 744)",
           "description": "Prohibits exports/reexports to specific prohibited end-uses (military end-use, WMD activities) and end-users (Entity List, MEU List, unverified parties). Applies regardless of ECCN classification.",
-          "triggered_by": ["entity_list_hit", "meu_list_hit", "military_end_use_flag", "wmd_concern"],
+          "triggered_by": [
+            "entity_list_hit",
+            "meu_list_hit",
+            "military_end_use_flag",
+            "wmd_concern"
+          ],
           "citation": "15 CFR §§ 744.1–744.24; Supplement No. 4 (Entity List); Supplement No. 7 (MEU List)"
         },
         {
@@ -47,7 +60,11 @@
           "section": "15 CFR § 746",
           "title": "Embargoes and Other Special Controls",
           "description": "Country-specific restrictions implementing comprehensive or targeted embargoes. Russia/Belarus (§ 746.7/746.8), Iran (§ 746.4), North Korea (§ 746.5), Cuba (§ 746.2), Syria (§ 746.6), China advanced computing (§ 746.9).",
-          "triggered_by": ["embargoed_country", "russia_belarus_destination", "china_advanced_computing"],
+          "triggered_by": [
+            "embargoed_country",
+            "russia_belarus_destination",
+            "china_advanced_computing"
+          ],
           "citation": "15 CFR §§ 746.1–746.9"
         },
         {
@@ -55,7 +72,10 @@
           "section": "15 CFR § 740.17",
           "title": "Licence Exception ENC — Encryption",
           "description": "Authorises export of certain encryption items without a licence, subject to eligibility requirements (mass-market, key length, authorised use). Not available for E:1/E:2 destinations or Entity List parties.",
-          "triggered_by": ["encryption_item", "5a002_or_5d002_classification"],
+          "triggered_by": [
+            "encryption_item",
+            "5a002_or_5d002_classification"
+          ],
           "citation": "15 CFR § 740.17; Supplement No. 1 to Part 740 (Country Groups)"
         },
         {
@@ -63,7 +83,12 @@
           "section": "15 CFR § 734.9",
           "title": "Foreign Direct Product Rule (FDPR)",
           "description": "Extends EAR jurisdiction to foreign-produced items that are the direct product of US-origin technology or software, or produced using US equipment or software, where the item meets certain criteria and is destined for certain parties or countries.",
-          "triggered_by": ["fdpr_flag", "foreign_product_us_tech_content", "huawei_fdpr", "china_advanced_computing_fdpr"],
+          "triggered_by": [
+            "fdpr_flag",
+            "foreign_product_us_tech_content",
+            "huawei_fdpr",
+            "china_advanced_computing_fdpr"
+          ],
           "citation": "15 CFR § 734.9; 86 FR 54811 (Oct. 7, 2022 — China-specific FDPR)"
         }
       ]
@@ -81,7 +106,11 @@
           "function": "GOVERN",
           "title": "Policies, processes, procedures, and practices across the organisation related to the mapping, measuring, and managing of AI risks",
           "description": "Organisations should establish policies for AI risk governance, including export control compliance for AI systems deployed internationally. AI systems with dual-use potential require documented risk governance.",
-          "triggered_by": ["ai_item", "dual_use_concern", "international_deployment"],
+          "triggered_by": [
+            "ai_item",
+            "dual_use_concern",
+            "international_deployment"
+          ],
           "citation": "NIST AI RMF 1.0, GOVERN 1.1–1.7"
         },
         {
@@ -89,7 +118,11 @@
           "function": "MAP",
           "title": "Organisational risk and benefits are understood with regard to external deployments",
           "description": "AI systems intended for international deployment (including cloud/SaaS) should be mapped for export control exposure — including deemed-export risks, end-user screening requirements, and ECCN classification.",
-          "triggered_by": ["saas_iaas_deployment", "international_users", "foreign_national_access"],
+          "triggered_by": [
+            "saas_iaas_deployment",
+            "international_users",
+            "foreign_national_access"
+          ],
           "citation": "NIST AI RMF 1.0, MAP 5.1–5.2"
         },
         {
@@ -97,7 +130,11 @@
           "function": "MEASURE",
           "title": "AI risks and benefits are evaluated for impact and likelihood",
           "description": "Risk measurement should include regulatory/legal dimensions including export control compliance risk. High-performance AI systems face heightened classification risk under 3A090/4A090 controls.",
-          "triggered_by": ["high_performance_ai", "dual_use_concern", "military_end_use_flag"],
+          "triggered_by": [
+            "high_performance_ai",
+            "dual_use_concern",
+            "military_end_use_flag"
+          ],
           "citation": "NIST AI RMF 1.0, MEASURE 2.1–2.13"
         },
         {
@@ -105,7 +142,11 @@
           "function": "MANAGE",
           "title": "Risk treatments are prioritised and implemented",
           "description": "Export control compliance actions (licence applications, end-user screening, access controls) should be integrated into AI risk management plans. Fine-tuning capabilities and model weight access require specific access controls.",
-          "triggered_by": ["fine_tuning_offered", "model_weights", "high_risk_score"],
+          "triggered_by": [
+            "fine_tuning_offered",
+            "model_weights",
+            "high_risk_score"
+          ],
           "citation": "NIST AI RMF 1.0, MANAGE 4.1–4.2"
         }
       ]
@@ -122,7 +163,11 @@
           "annex": "A.8.24",
           "title": "Use of Cryptography",
           "description": "Organisations must implement a policy on the use of cryptographic controls. Export control review of cryptographic algorithms and key lengths is required under EAR 5A002/5D002. ENC licence exception eligibility depends on the specific cryptographic implementation.",
-          "triggered_by": ["encryption_item", "5a002_or_5d002_classification", "5e002_classification"],
+          "triggered_by": [
+            "encryption_item",
+            "5a002_or_5d002_classification",
+            "5e002_classification"
+          ],
           "citation": "ISO/IEC 27001:2022 Annex A, Control 8.24; 15 CFR § 740.17"
         },
         {
@@ -130,7 +175,11 @@
           "annex": "A.5.19",
           "title": "Information Security in Supplier Relationships",
           "description": "Security controls in supplier relationships should include export control due diligence — particularly where suppliers or their sub-processors are located in controlled countries or are state-affiliated entities.",
-          "triggered_by": ["entity_list_hit", "state_owned_energy", "d1_destination"],
+          "triggered_by": [
+            "entity_list_hit",
+            "state_owned_energy",
+            "d1_destination"
+          ],
           "citation": "ISO/IEC 27001:2022 Annex A, Control 5.19"
         },
         {
@@ -138,7 +187,11 @@
           "annex": "A.5.15",
           "title": "Access Control",
           "description": "Access controls must include nationality/country-of-origin verification for users of EAR-controlled software/platforms. SaaS/IaaS providers must implement controls preventing deemed exports to restricted nationals.",
-          "triggered_by": ["foreign_national_access", "saas_iaas_deployment", "deemed_export_flag"],
+          "triggered_by": [
+            "foreign_national_access",
+            "saas_iaas_deployment",
+            "deemed_export_flag"
+          ],
           "citation": "ISO/IEC 27001:2022 Annex A, Control 5.15; 15 CFR § 734.13"
         },
         {
@@ -146,7 +199,11 @@
           "annex": "A.8.9",
           "title": "Configuration Management",
           "description": "Configuration management for AI systems includes maintaining records of model versions, training data provenance, and deployment configurations — supporting audit trail requirements for EAR compliance.",
-          "triggered_by": ["ai_item", "model_weights", "audit_trail_required"],
+          "triggered_by": [
+            "ai_item",
+            "model_weights",
+            "audit_trail_required"
+          ],
           "citation": "ISO/IEC 27001:2022 Annex A, Control 8.9"
         }
       ]
@@ -163,7 +220,11 @@
           "clause": "6.1",
           "title": "Actions to Address Risks and Opportunities",
           "description": "Risk assessment for AI systems should include export control exposure: ECCN classification risk, deemed-export risk, end-user screening obligations. AI systems with dual-use potential require heightened risk assessment documentation.",
-          "triggered_by": ["ai_item", "dual_use_concern", "international_deployment"],
+          "triggered_by": [
+            "ai_item",
+            "dual_use_concern",
+            "international_deployment"
+          ],
           "citation": "ISO/IEC 42001:2023, Clause 6.1"
         },
         {
@@ -171,7 +232,11 @@
           "clause": "8.4",
           "title": "AI System Impact Assessment",
           "description": "AI impact assessments should include export control compliance dimensions — particularly for AI systems intended for international deployment. Systems involving advanced computing capabilities or model weights warrant ECCN classification review.",
-          "triggered_by": ["ai_item", "saas_iaas_deployment", "high_performance_ai"],
+          "triggered_by": [
+            "ai_item",
+            "saas_iaas_deployment",
+            "high_performance_ai"
+          ],
           "citation": "ISO/IEC 42001:2023, Clause 8.4"
         },
         {
@@ -179,7 +244,11 @@
           "clause": "9.1",
           "title": "Monitoring, Measurement, Analysis, and Evaluation",
           "description": "AI management systems should monitor regulatory developments affecting AI governance, including BIS/OFAC regulatory changes that affect ECCN classification of AI items. Staleness of export control data snapshots should be tracked.",
-          "triggered_by": ["ai_item", "ongoing_monitoring_needed", "regulatory_change_risk"],
+          "triggered_by": [
+            "ai_item",
+            "ongoing_monitoring_needed",
+            "regulatory_change_risk"
+          ],
           "citation": "ISO/IEC 42001:2023, Clause 9.1"
         },
         {
@@ -187,7 +256,11 @@
           "clause": "Annex A, A.6.2",
           "title": "Responsible Use of AI — Dual-Use Considerations",
           "description": "AI systems designed or capable of dual-use applications (civilian and military/intelligence) require specific controls and documentation. Export to state-owned entities in controlled countries raises dual-use concerns requiring enhanced due diligence.",
-          "triggered_by": ["dual_use_concern", "state_owned_energy", "military_end_use_flag"],
+          "triggered_by": [
+            "dual_use_concern",
+            "state_owned_energy",
+            "military_end_use_flag"
+          ],
           "citation": "ISO/IEC 42001:2023, Annex A, A.6.2"
         }
       ]
