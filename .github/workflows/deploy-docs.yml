@@ -1,0 +1,73 @@
+name: Deploy Documentation to Public Site
+
+# Runs on every push to main (catches digest commits too) and on manual trigger.
+# Requires secret DOCS_DEPLOY_TOKEN: a Fine-grained PAT scoped to
+# felipelago17/Sanctions-and-Export-Controls-AI-and-Oil-site with
+# Contents: Read and write.
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - "Daily Digest Update"
+      - "Weekly Digest Update"
+    types:
+      - completed
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source (private repo)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install MkDocs and plugins
+        run: |
+          pip install \
+            mkdocs-material \
+            pymdown-extensions
+
+      - name: Build MkDocs site
+        run: mkdocs build --strict --site-dir _site
+
+      - name: Checkout public docs repo
+        uses: actions/checkout@v4
+        with:
+          repository: felipelago17/Sanctions-and-Export-Controls-AI-and-Oil-site
+          token: ${{ secrets.DOCS_DEPLOY_TOKEN }}
+          path: _docs_repo
+
+      - name: Sync built site to docs repo
+        run: |
+          find _docs_repo -mindepth 1 -maxdepth 1 -not -name '.git' -exec rm -rf {} +
+          cp -r _site/. _docs_repo/
+
+      - name: Commit and push to public docs repo
+        run: |
+          cd _docs_repo
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to deploy."
+          else
+            git commit -m "docs: deploy $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
+            git push origin main
+          fi

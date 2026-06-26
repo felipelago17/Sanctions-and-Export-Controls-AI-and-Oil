@@ -1,5 +1,46 @@
+# Secrets and credentials
+.env
+.env.*
+*.env
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+api_keys.json
+tokens.json
+*_token.txt
+service-account*.json
+config/secrets.yml
+
+# MkDocs build output — deployed to the public docs repo, not committed here
+_site/
 site/
+
+# Python
 __pycache__/
 *.pyc
-.env
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.Python
+
+# Claude Code session files
 .claude/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
