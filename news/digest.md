@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-26 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 137 - status: suspended
+
+- [Federal Register / 2026-06-26] Removing Obsolete References to Twentieth-Century Airman Certificates
+- [Federal Register / 2026-06-26] Commission Meeting-Sunshine Act Notice
+- [Federal Register / 2026-06-26] Modernizing Security Requirements
+- [Federal Register / 2026-06-26] Sunshine Act Meetings
+- [Federal Register / 2026-06-26] Notice of Determinations; Culturally Significant Object Being Imported for Exhibition-Determinations: “Georgia O'Keeffe Architecture” Exhibition
+- [Federal Register / 2026-06-26] Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 135 To Accommodate ADS-Equipped Vehicles
+- [Federal Register / 2026-06-26] ADS-Equipped Vehicle Safety, Transparency, and Evaluation Program; Withdrawal
+- [Federal Register / 2026-06-26] Agency Information Collection Activities: Request for Comments for a New Information Collection
+- [Federal Register / 2026-06-26] Meeting of the Regional Energy Resource Council
+- [Federal Register / 2026-06-26] Agency Information Collection Activities: Proposed Collection; Comment Request Proposed Project: Request To Publish the 30-Day Notices in the Federal Register To Solicit Public Comment on Information Collection for the Continued Approval and Updates for the Protection and Advocacy for Individuals With Mental Illness (PAIMI)-Revised Annual Program Performance Report (PPR)-OMB No. 0930-0169- DECISION
+- [Federal Register / 2026-06-26] Uniform Allowances
+- [Federal Register / 2026-06-26] Agency Information Collection Activities: Submission for Office of Management and Budget Review (OMB); Comment Request
+- [Federal Register / 2026-06-26] Privacy Act of 1974; System of Records
+- [Federal Register / 2026-06-26] Submission for OMB Review; Comment Request
+- [Federal Register / 2026-06-26] Reopening or Extension of Application Deadline Dates; Applications for New Awards
+- [Federal Register / 2026-06-26] Proposed Information Collection Activity; TANF Contingency Fund Application
+- [Federal Register / 2026-06-26] Aman Kaushik, Complainant v. SFL Worldwide LLC, Respondent; Notice of Filing of Complaint and Assignment
+- [Federal Register / 2026-06-26] HEARTH Act Approval of Caddo Nation of Oklahoma Leasing Ordinance
+- [Federal Register / 2026-06-26] HEARTH Act Approval of Cachil DeHe Band of Wintun Indians of the Colusa Indian Community of the Colusa Rancheria, California, Leasing Ordinance
+- [Federal Register / 2026-06-26] Proposed Data Collection Submitted for Public Comment and Recommendations
+
+
+---
+
 ## 2026-06-25
 
 ### Official & Regulatory
