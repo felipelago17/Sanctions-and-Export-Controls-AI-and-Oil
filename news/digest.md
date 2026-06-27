@@ -9,6 +9,42 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-27
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Venezuela Developments: New Conviasa Aircraft General License, Reissued Venezuela Telecom/Mail and PdVSA Bond Authorizations, and Updated FAQ 595](https://sanctionsnews.bakermckenzie.com/ofac-venezuela-developments-new-conviasa-aircraft-general-license-reissued-venezuela-telecom-mail-and-pdvsa-bond-authorizations-and-updated-faq-595/)
+- **[Baker McKenzie Sanctions]** [UK Introduces New Open General Export Licence for Dual-Use Items](https://sanctionsnews.bakermckenzie.com/uk-introduces-new-open-general-export-licence-for-dual-use-items/)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[Federal Register]** [WBI Energy Transmission, Inc.; Notice of Schedule for the Preparation of an Environmental Assessment for the Line Section 32 Expansion Project (2026-06-29)](https://www.federalregister.gov/documents/2026/06/29/2026-13086/wbi-energy-transmission-inc-notice-of-schedule-for-the-preparation-of-an-environmental-assessment)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Concludes the Artificial Intelligence Innovation Series](https://home.treasury.gov/news/press-releases/sb0540)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Lawdragon Names 20 Gibson Dunn Lawyers to List of 500 Global Leaders in Energy](https://www.gibsondunn.com/lawdragon-names-20-gibson-dunn-lawyers-to-list-of-500-global-leaders-in-energy/)
+- **[Gibson Dunn]** [Kahlil Yearwood Interviewed by The Recorder After Being Named Office Managing Partner of the Year Finalist](https://www.gibsondunn.com/kahlil-yearwood-interviewed-by-the-recorder-after-being-named-office-managing-partner-of-the-year-finalist/)
+- **[Gibson Dunn]** [The U.S.-Iran Memorandum of Understanding: Prospective Sanctions Relief, Commercial Opportunities, and Legal Risks](https://www.gibsondunn.com/us-iran-memorandum-of-understanding-prospective-sanctions-relief-commercial-opportunities-and-legal-risks/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [A Dangerous Legal Loophole: Consent is Not Enough for U.S. Military Activities in Latin America](https://www.justsecurity.org/143860/consent-us-military-activities-latin-america/?utm_source=rss&utm_medium=rss&utm_campaign=consent-us-military-activities-latin-america)
+- **[Just Security]** [Early Edition: June 26, 2026](https://www.justsecurity.org/144422/early-edition-june-26-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-26-2026)
+
+---
+
 ## 2026-06-26
 
 ### Official & Regulatory
