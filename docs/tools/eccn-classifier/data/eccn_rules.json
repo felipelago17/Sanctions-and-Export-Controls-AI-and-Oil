@@ -3,7 +3,7 @@
     "source": "Bureau of Industry and Security (BIS) Commerce Control List (CCL), 15 CFR Part 774, Supplement No. 1",
     "citation": "15 CFR Part 774 Supp. No. 1 (CCL); BIS Final Rules Oct. 7 2022 and subsequent amendments (3A090/4A090); AI Diffusion Rule IFR 90 FR 4544 (Jan. 15, 2025) — RESCINDED 13 May 2025",
     "data_current_as_of": "2026-06-11",
-    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.278482Z (eCFR Title 15 issue date: 2026-06-11)",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-29T09:52:17.548651Z (eCFR Title 15 issue date: 2026-06-11)",
     "notes": "3A090 and 4A090 thresholds are populated from the CCL effective post-October 2022 BIS rulemaking and remain in effect. 4E091 (AI model weights) was introduced by the Jan. 2025 AI Diffusion Rule IFR and rescinded 13 May 2025 before its compliance date — it is marked as a rescission marker only. EAR99 is documentation only; the engine returns no_rule_matched when no CCL rule fires.",
     "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-774",
     "federal_register_ai_diffusion_rescinded": "https://www.federalregister.gov/documents/2025/01/15/2024-31373/export-controls-on-artificial-intelligence-systems"

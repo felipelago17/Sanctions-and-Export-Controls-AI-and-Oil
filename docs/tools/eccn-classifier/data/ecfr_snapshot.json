@@ -3,7 +3,7 @@
     "source": "Electronic Code of Federal Regulations (eCFR), Title 15, Subtitle B, Chapter VII, Subchapter C; Federal Register",
     "citation": "15 CFR Parts 730–774 (Export Administration Regulations); eCFR at https://www.ecfr.gov/",
     "data_current_as_of": "2026-06-11",
-    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.146490Z (eCFR Title 15 issue date: 2026-06-11)",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-29T09:52:17.238847Z (eCFR Title 15 issue date: 2026-06-11)",
     "notes": "These are paraphrased summaries of CFR text, not verbatim reproductions. Summaries are provided for orientation purposes only. Always consult the current official eCFR text at https://www.ecfr.gov/ for authoritative regulatory language. The EAR is amended frequently; this snapshot may be outdated.",
     "ecfr_base_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C"
   },

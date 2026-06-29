@@ -4,7 +4,7 @@
     "citation": "EAR: 15 CFR Parts 730–774 (BIS); NIST AI Risk Management Framework 1.0 (Jan. 2023), NIST AI 100-1; ISO/IEC 27001:2022 Information Security Management; ISO/IEC 42001:2023 AI Management Systems",
     "note": "Internal, employer-specific, and private-sector AI governance frameworks (e.g. G42/ADNOC-style) are out of scope for this public demonstrator. Only publicly published frameworks are mapped here.",
     "data_current_as_of": "2026-06-11",
-    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.280923Z (eCFR Title 15 issue date: 2026-06-11)",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-29T09:52:17.550871Z (eCFR Title 15 issue date: 2026-06-11)",
     "notes": "PLACEHOLDER — Framework versions and control IDs should be verified against current published standards. ISO standards require purchase for full text. NIST AI RMF is freely available at https://airc.nist.gov/. EAR controls verified at https://www.ecfr.gov/.",
     "nist_url": "https://airc.nist.gov/RMF/about",
     "iso42001_url": "https://www.iso.org/standard/81230.html",

@@ -3,7 +3,7 @@
     "source": "BIS Entity List (15 CFR Part 744, Supp. 4); OFAC SDN List; BIS Military End-User (MEU) List (15 CFR Part 744, Supp. 7)",
     "citation": "15 CFR Part 744, Supplement No. 4 (Entity List); 15 CFR Part 744, Supplement No. 7 (MEU List); 31 CFR Part 594 (OFAC SDN)",
     "data_current_as_of": "2026-06-11",
-    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.280231Z (eCFR Title 15 issue date: 2026-06-11)",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-29T09:52:17.550232Z (eCFR Title 15 issue date: 2026-06-11)",
     "notes": "DEMONSTRATOR DATA — Entity List entries (Huawei, CXMT, YMTC, SMIC, SenseTime) and state-owned energy entries reflect publicly documented designations but are NOT verified against the current official lists. MEU and SDN entries are fully synthetic (synthetic: true) — they represent illustrative list types and trigger the DEMO banner; they do not correspond to any real party. All users must verify against current official government lists before any transaction.",
     "contains_synthetic_entries": true,
     "synthetic_entry_notice": "MEU List and SDN List entries in this file are synthetic illustrative entries (synthetic: true). They are present to demonstrate IDD panel functionality. DEMO banner is required whenever any synthetic entry is present. No real party name, address, or identifier should be inferred from these entries.",

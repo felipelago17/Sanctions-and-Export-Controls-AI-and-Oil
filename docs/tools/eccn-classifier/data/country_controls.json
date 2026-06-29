@@ -3,7 +3,7 @@
     "source": "15 CFR Part 740 (Country Groups), 15 CFR Part 746 (Embargoes), 15 CFR Part 742 (Control Policy), BIS Country Chart",
     "citation": "15 CFR Part 740 Supp. 1 (Country Groups); 15 CFR § 746.2 (Cuba); § 746.3 (Iraq); § 746.4 (Iran); § 746.5 (North Korea); § 746.6 (Syria); § 746.7 (Russia/Belarus); § 746.9 (China advanced computing)",
     "data_current_as_of": "2026-06-11",
-    "retrieved_by": "refresh_rules.py automated update 2026-06-22T10:44:30.279509Z (eCFR Title 15 issue date: 2026-06-11)",
+    "retrieved_by": "refresh_rules.py automated update 2026-06-29T09:52:17.549601Z (eCFR Title 15 issue date: 2026-06-11)",
     "notes": "PLACEHOLDER — country group membership and restriction details must be verified from the current BIS country chart and CFR. This file covers only a policy-relevant subset of countries; it is not an exhaustive list.",
     "ecfr_url": "https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-740/appendix-Supplement%20No.%201%20to%20Part%20740",
     "bis_country_chart_url": "https://www.bis.doc.gov/index.php/documents/regulations-docs/2253-supplement-no-1-to-part-738/file"
