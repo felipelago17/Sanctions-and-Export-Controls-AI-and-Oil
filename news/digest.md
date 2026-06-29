@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-29 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 134 - status: suspended
+
+- [Federal Register / 2026-06-29] Medicaid Program; Community Engagement Requirement for Certain Individuals
+- [Federal Register / 2026-06-29] Real Estate Lending Escrow Accounts
+- [Federal Register / 2026-06-29] Sunshine Act Meetings: Notice of Meeting Held With Less Than Seven Days' Advance Notice
+- [Federal Register / 2026-06-29] Sunshine Act Meetings
+- [Federal Register / 2026-06-29] Medical Devices; Orthopedic Devices; Classification of the Medial Knee Implanted Shock Absorber
+- [Federal Register / 2026-06-29] Cellular, Tissue, and Gene Therapies Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments-Biologics License Application (BLA) 125842 From Capricor, Inc. for Deramiocel (Human Allogeneic Cardiosphere-Derived Cells)
+- [Federal Register / 2026-06-29] Notice of Public Comments on Section 133 of the Expanding Public Lands Outdoor Recreation Experiences (EXPLORE) Act
+- [Federal Register / 2026-06-29] Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Survey of Postgraduate Employment for the Foreign Language and Area Studies (FLAS) Fellowship Program
+- [Federal Register / 2026-06-29] Center for Scientific Review; Notice of Closed Meetings
+- [Federal Register / 2026-06-29] Technical Guidelines for the Production of Regenerative Agricultural Biofuel Feedstocks
+- [Federal Register / 2026-06-29] Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Type-Approval Requirements for Vessel Monitoring Systems (VMS)
+- [Federal Register / 2026-06-29] Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15g-9
+- [Federal Register / 2026-06-29] 30-Day Notice of Proposed Information Collection: Ginnie Mae Digital Collateral Program
+- [Federal Register / 2026-06-29] Constitution Pipeline Company, LLC; Iroquois Gas Transmission System, L.P.: Notice of Schedule for the Preparation of an Environmental Assessment for the Constitution Pipeline and Wright Interconnect Projects
+- [Federal Register / 2026-06-29] Northern Natural Gas Company; Notice of Schedule for the Preparation of an Environmental Assessment for the Central Mainline Corridor Expansion Project
+- [Federal Register / 2026-06-29] WBI Energy Transmission, Inc.; Notice of Schedule for the Preparation of an Environmental Assessment for the Line Section 32 Expansion Project
+- [Federal Register / 2026-06-29] 30-Day Notice of Proposed Information Collection: Economic Development Initiative Community Project Funding Grants
+- [Federal Register / 2026-06-29] Combined Notice of Filings
+- [Federal Register / 2026-06-29] Submission for OMB Review; Comment Request
+- [Federal Register / 2026-06-29] Sunshine Act Meetings
+
+
+---
+
 ## 2026-06-28
 
 ### Official & Regulatory
