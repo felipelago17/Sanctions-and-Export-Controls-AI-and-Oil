@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-30 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 133 - status: suspended
+
+- [Federal Register / 2026-06-30] Signatures on Immigration Benefit Requests
+- [Federal Register / 2026-06-30] Advancing Regenerative Agriculture and Strengthening American Farm Resilience
+- [Federal Register / 2026-06-30] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-06-30] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-06-30] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-06-30] Radar Data Pilot Program
+- [Federal Register / 2026-06-30] Notice of Petition for Extension of Waiver of Compliance
+- [Federal Register / 2026-06-30] Notice of Petition for Extension of Waiver of Compliance
+- [Federal Register / 2026-06-30] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-06-30] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-06-30] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-06-30] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-06-30] Proposed Collection; 30-Day Comment Request; NIH Information Collection Forms to Support the Genetic Testing Registry (OD)
+- [Federal Register / 2026-06-30] Notice of Petition for Extension of Waiver of Compliance
+- [Federal Register / 2026-06-30] Notice of Petition for Extension of Waiver of Compliance
+- [Federal Register / 2026-06-30] Agency Information Collection Activities; Submission for OMB Review; Comment Request; Multiple Departmental Offices Information Collection Requests
+- [Federal Register / 2026-06-30] Funding Opportunities: Small Dollar Loan Program: FY 2026 Funding Round
+- [Federal Register / 2026-06-30] Funding Opportunities: Bank Enterprise Award Program (BEA) Program: FY 2026 Funding Round
+- [Federal Register / 2026-06-30] Fluoxapiprolin; Pesticide Tolerances
+- [Federal Register / 2026-06-30] Deregistration Under Section 8(f) of the Investment Company Act of 1940
+
+
+---
+
 ## Week of 2026-06-29
 
 - **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
