@@ -9,6 +9,43 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-06-30
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [U.S. House Passes Ukraine Support Act, Advancing Additional Russia-Related Sanctions and Trade Measures](https://sanctionsnews.bakermckenzie.com/u-s-house-passes-ukraine-support-act-advancing-additional-russia-related-sanctions-and-trade-measures/)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[OFAC]** [Economic Fury Targets Illicit Oil Revenue Fueling Iran’s Military](https://home.treasury.gov/news/press-releases/sb0510)
+- **[Federal Register]** [Notice of Petition for Extension of Waiver of Compliance (2026-06-30)](https://www.federalregister.gov/documents/2026/06/30/2026-13210/notice-of-petition-for-extension-of-waiver-of-compliance)
+- **[Federal Register]** [Notice of Petition for Extension of Waiver of Compliance (2026-06-30)](https://www.federalregister.gov/documents/2026/06/30/2026-13209/notice-of-petition-for-extension-of-waiver-of-compliance)
+- **[Federal Register]** [Airworthiness Directives; The Boeing Company Airplanes (2026-06-30)](https://www.federalregister.gov/documents/2026/06/30/2026-13208/airworthiness-directives-the-boeing-company-airplanes)
+- **[Federal Register]** [Proposed Collection; 30-Day Comment Request; NIH Information Collection Forms to Support the Genetic Testing Registry (OD) (2026-06-30)](https://www.federalregister.gov/documents/2026/06/30/2026-13204/proposed-collection-30-day-comment-request-nih-information-collection-forms-to-support-the-genetic)
+- **[Federal Register]** [Notice of Petition for Extension of Waiver of Compliance (2026-06-30)](https://www.federalregister.gov/documents/2026/06/30/2026-13203/notice-of-petition-for-extension-of-waiver-of-compliance)
+- **[Federal Register]** [Notice of Petition for Extension of Waiver of Compliance (2026-06-30)](https://www.federalregister.gov/documents/2026/06/30/2026-13202/notice-of-petition-for-extension-of-waiver-of-compliance)
+- **[Federal Register]** [Agency Information Collection Activities; Submission for OMB Review; Comment Request; Multiple Departmental Offices Information Collection Requests (2026-06-30)](https://www.federalregister.gov/documents/2026/06/30/2026-13201/agency-information-collection-activities-submission-for-omb-review-comment-request-multiple)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Concludes the Artificial Intelligence Innovation Series](https://home.treasury.gov/news/press-releases/sb0540)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Where Did All These Passports Come From? Russia’s Manipulation of Citizenship as Hybrid Warfare in Ukraine](https://www.justsecurity.org/139482/russia-ukraine-passports-hybrid-warfare/?utm_source=rss&utm_medium=rss&utm_campaign=russia-ukraine-passports-hybrid-warfare)
+- **[Just Security]** [Combat Experience as a Strategic Resource: Lessons of the Red Army Purges](https://www.justsecurity.org/144739/combat-experience-strategic-soviet-army/?utm_source=rss&utm_medium=rss&utm_campaign=combat-experience-strategic-soviet-army)
+- **[Just Security]** [Early Edition: June 29, 2026](https://www.justsecurity.org/144806/early-edition-june-29-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-29-2026)
+- **[Atlantic Council]** [European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence](https://www.atlanticcouncil.org/dispatches/european-allies-can-boost-nato-unity-at-the-ankara-summit-by-accelerating-eastern-flank-deterrence/)
+
+---
+
 ## 2026-06-30 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
