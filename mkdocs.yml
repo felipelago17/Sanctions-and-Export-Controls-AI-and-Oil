@@ -89,8 +89,14 @@ nav:
     - ECCN Classifier: tools/eccn-classifier/index.html
   - Visuals & Tools: visuals.md
   - Sources & Literature: additional-sources.md
+  - Compliance Clinics:
+    - Overview: scenarios/index.md
+    - "01 — UAE affiliate + deemed exports": scenarios/2026-uae-affiliate-deemed-export.md
   - News:
     - Daily Digest: news/digest.md
+
+not_in_nav: |
+  scenarios/scenario-template.md
 
 extra:
   social:
