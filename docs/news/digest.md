@@ -9,6 +9,49 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-01
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [U.S. House Passes Ukraine Support Act, Advancing Additional Russia-Related Sanctions and Trade Measures](https://sanctionsnews.bakermckenzie.com/u-s-house-passes-ukraine-support-act-advancing-additional-russia-related-sanctions-and-trade-measures/)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[OFAC]** [Economic Fury Targets Iranian Network Defrauding U.S. Firms to Supply Tehran’s Military](https://home.treasury.gov/news/press-releases/sb0515)
+- **[Federal Register]** [Schedules of Controlled Substances: Temporary Placement of 5,6- Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act (2026-07-01)](https://www.federalregister.gov/documents/2026/07/01/2026-13364/schedules-of-controlled-substances-temporary-placement-of-56--dichloro-brorphine-56-dichloro)
+- **[Federal Register]** [Rescinding New Construction Requirements Related to Nondiscrimination in Federally Assisted Programs or Activities (2026-07-01)](https://www.federalregister.gov/documents/2026/07/01/2026-13347/rescinding-new-construction-requirements-related-to-nondiscrimination-in-federally-assisted-programs)
+- **[Federal Register]** [Public Hearing (2026-07-01)](https://www.federalregister.gov/documents/2026/07/01/2026-13340/public-hearing)
+- **[Federal Register]** [Lists of Designated Primary Medical Care, Mental Health, and Dental Health Professional Shortage Areas (2026-07-01)](https://www.federalregister.gov/documents/2026/07/01/2026-13309/lists-of-designated-primary-medical-care-mental-health-and-dental-health-professional-shortage-areas)
+- **[Federal Register]** [Rescinding Regulations Related to Nondiscrimination in Federally Assisted Programs or Activities (General Provisions) (2026-07-01)](https://www.federalregister.gov/documents/2026/07/01/2026-13305/rescinding-regulations-related-to-nondiscrimination-in-federally-assisted-programs-or-activities)
+- **[Federal Register]** [Rescinding Regulations Related to Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance (2026-07-01)](https://www.federalregister.gov/documents/2026/07/01/2026-13304/rescinding-regulations-related-to-nondiscrimination-on-the-basis-of-sex-in-education-programs-or)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Terrorist Financing Targeting Center Jointly Designates Hizballah Financial Institutions and Senior Officials](https://home.treasury.gov/news/press-releases/sb0546)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Named International Law Firm of the Year by TrustLaw](https://www.gibsondunn.com/gibson-dunn-named-international-law-firm-of-the-year-by-trustlaw/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: June 30, 2026](https://www.justsecurity.org/144991/early-edition-june-30-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-june-30-2026)
+- **[Atlantic Council]** [Ukraine’s blockade of Crimea puts Putin’s greatest victory under threat](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-blockade-of-crimea-puts-putins-greatest-victory-under-threat/)
+- **[Atlantic Council]** [Banning Russian soldiers from the EU is a common sense security measure](https://www.atlanticcouncil.org/blogs/ukrainealert/banning-russian-soldiers-from-the-eu-is-a-common-sense-security-measure/)
+- **[Atlantic Council]** [Looking to a decade of delivery: The Three Seas Initiative charts its course forward](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/looking-to-a-decade-of-delivery-the-three-seas-initiative-charts-its-course-forward/)
+- **[Atlantic Council]** [What’s at stake in the USMCA review is a stronger, safer, and more prosperous North America](https://www.atlanticcouncil.org/dispatches/whats-at-stake-in-the-usmca-review-is-a-stronger-safer-and-more-prosperous-north-america/)
+- **[Atlantic Council]** [The five stages of a USMCA shakeup](https://www.atlanticcouncil.org/blogs/econographics/the-five-stages-of-a-usmca-shakeup/)
+- **[Atlantic Council]** [A network of corridors is the only reliable hedge against Middle East chokepoint disruptions](https://www.atlanticcouncil.org/in-depth-research-reports/report/a-network-of-corridors-is-the-only-reliable-hedge-against-middle-east-chokepoint-disruptions/)
+
+---
+
 ## 2026-07-01 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
