@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-01 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 132 - status: suspended
+
+- [Federal Register / 2026-07-01] Presidential Determination Concerning the Department of the Air Force's Rehabilitation and Revitalization of the Joint Base Andrews Golf Course
+- [Federal Register / 2026-07-01] Airworthiness Directives; MD Helicopters, LLC Helicopters
+- [Federal Register / 2026-07-01] Schedules of Controlled Substances: Temporary Placement of 5,6- Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act
+- [Federal Register / 2026-07-01] Rescinding New Construction Requirements Related to Nondiscrimination in Federally Assisted Programs or Activities
+- [Federal Register / 2026-07-01] Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Medication Guides for Prescription Drug Products
+- [Federal Register / 2026-07-01] Steel Concrete Reinforcing Bar From the Republic of T[uuml]rkiye: Final Results of Countervailing Duty Administrative Review; 2023
+- [Federal Register / 2026-07-01] Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Advance Notification of Sunset Review
+- [Federal Register / 2026-07-01] Standard Steel Welded Wire Mesh From Mexico: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order
+- [Federal Register / 2026-07-01] Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests
+- [Federal Register / 2026-07-01] Public Hearing
+- [Federal Register / 2026-07-01] Agency Information Collection Activities; Comment Request on Probable or Prospective Reserves Safe Harbor
+- [Federal Register / 2026-07-01] Agency Information Collection Activities; Comment Request on Statement of Payments Received
+- [Federal Register / 2026-07-01] Center for Scientific Review; Notice of Closed Meetings
+- [Federal Register / 2026-07-01] Center for Scientific Review; Notice of Closed Meetings
+- [Federal Register / 2026-07-01] Lists of Designated Primary Medical Care, Mental Health, and Dental Health Professional Shortage Areas
+- [Federal Register / 2026-07-01] Foreign-Trade Zone (FTZ) 230, Notification of Proposed Production Activity; Corning Optical Communications LLC; (Fiber Optic Cables); Winston-Salem, North Carolina
+- [Federal Register / 2026-07-01] Foreign-Trade Zone (FTZ) 57, Notification of Proposed Production Activity; Corning Optical Communications LLC; (Fiber Optic Cables); Newton and Hickory, North Carolina
+- [Federal Register / 2026-07-01] Notice of Intent To Rule on a Land Release Request at North Platte Regional Airport (LBF), North Platte, NE
+- [Federal Register / 2026-07-01] Rescinding Regulations Related to Nondiscrimination in Federally Assisted Programs or Activities (General Provisions)
+- [Federal Register / 2026-07-01] Rescinding Regulations Related to Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance
+
+
+---
+
 ## 2026-06-30
 
 ### Official & Regulatory
