@@ -9,6 +9,43 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-02
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[Federal Register]** [Safety Zone; San Pedro Channel, Newport Beach, CA (2026-07-02)](https://www.federalregister.gov/documents/2026/07/02/2026-13487/safety-zone-san-pedro-channel-newport-beach-ca)
+- **[Federal Register]** [Safety Zone; Isthmus Cove, Santa Catalina Island, CA (2026-07-02)](https://www.federalregister.gov/documents/2026/07/02/2026-13484/safety-zone-isthmus-cove-santa-catalina-island-ca)
+- **[Federal Register]** [Safety Zone; San Pedro Bay, Los Angeles, CA (2026-07-02)](https://www.federalregister.gov/documents/2026/07/02/2026-13483/safety-zone-san-pedro-bay-los-angeles-ca)
+- **[Federal Register]** [Safety Zone; San Pedro Bay, Long Beach, CA (2026-07-02)](https://www.federalregister.gov/documents/2026/07/02/2026-13482/safety-zone-san-pedro-bay-long-beach-ca)
+- **[Federal Register]** [Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines (2026-07-02)](https://www.federalregister.gov/documents/2026/07/02/2026-13481/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines)
+- **[Federal Register]** [Agency Information Collection Activities; Proposed Collection; Comment Request; Regulation Agency Protests (2026-07-02)](https://www.federalregister.gov/documents/2026/07/02/2026-13468/agency-information-collection-activities-proposed-collection-comment-request-regulation-agency)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Announces Investment Lineup for Trump Accounts](https://home.treasury.gov/news/press-releases/sb0551)
+- **[Treasury]** [Treasury Opens the New Designation Cycle for Opportunity Zones](https://home.treasury.gov/news/press-releases/sb0550)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [U.S. Export Control Unpredictability Is Testing the Limits of U.S.-India Tech Cooperation](https://www.justsecurity.org/143257/us-india-export-control-unpredictability/?utm_source=rss&utm_medium=rss&utm_campaign=us-india-export-control-unpredictability)
+- **[Just Security]** [Early Edition: July 1, 2026](https://www.justsecurity.org/145333/early-edition-july-1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-1-2026)
+- **[Atlantic Council]** [US nuclear power in state energy planning: A policy roadmap](https://www.atlanticcouncil.org/blogs/energysource/us-nuclear-power-in-state-energy-planning-a-policy-roadmap/)
+- **[Atlantic Council]** [At 250 years old, the US must continue to refine the message it sends abroad—including to Africa](https://www.atlanticcouncil.org/blogs/africasource/at-250-years-old-the-us-must-continue-to-refine-the-message-it-sends-abroad-including-to-africa/)
+- **[Atlantic Council]** [When innovation becomes security: Finland’s innovation ecosystem in transition](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/when-innovation-becomes-security-finlands-innovation-ecosystem-in-transition/)
+
+---
+
 ## 2026-07-02 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
