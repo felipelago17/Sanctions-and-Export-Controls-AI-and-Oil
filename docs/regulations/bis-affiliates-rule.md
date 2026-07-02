@@ -4,7 +4,66 @@
 >
 > The BIS Affiliates Rule expansion is **suspended** for one year (**10 Nov 2025 – 9 Nov 2026**) under a US-China trade deal framework (FR 2025-19846, 90 FR 47201). The expansion will **automatically reimpose on 10 Nov 2026** (Phase 2) unless BIS issues a further extension or repeal before that date. The baseline EAR Entity List and MEU List controls remain fully in effect throughout the suspension window. Compliance programmes should complete affiliate-mapping and diligence exercises before the Phase 2 date.
 >
+> **July 2026 update:** Credible reporting indicates the US and China are working to extend the truce framework, making a second delay beyond 10 Nov 2026 likely — but not confirmed. See the [H2 2026 delay-signal section](#h2-2026-delay-signal-exporter-readiness) below. Preparation work should continue regardless.
+>
 > *The snap-back countdown and latest status updates are maintained automatically by the `bis-affiliates-monitor.yml` GitHub Actions workflow.*
+
+---
+
+## H2 2026 — Delay Signal & Exporter Readiness
+
+!!! warning "Intelligence update — 2 July 2026"
+    **Source:** Max Fillion, "U.S. Could Delay 50% Rule Again. Exporters Are Preparing for It Anyhow," *Dow Jones Risk Journal*, 2 Jul 2026.
+
+    Businesses anticipate the US will further delay the BIS Affiliates Rule beyond the 10 November 2026 snap-back date. Washington and Beijing appear to be working on extending the October 2025 truce framework. The rule remains suspended and the snap-back is not confirmed; however, leading practitioners advise treating reimposition as inevitable and continuing preparation regardless of the political timeline.
+
+### How the First Delay Arose
+
+When BIS abruptly enacted the Affiliates Rule in autumn 2025, China responded with tighter export restrictions on rare earth magnets vital to US technology manufacturing. The two sides agreed to mutually lower the measures: BIS pushed back the effective date of the Affiliates Rule by one year as part of the US-China trade package reached at Busan (October 2025). Some experts criticised this as the Trump administration using a national-security programme as a negotiating lever.
+
+A Chinese trade official stated in May 2026 that both sides were working to extend the truce. A further escalatory signal followed on 22 June 2026, when the Chinese government blacklisted 10 US defence firms — a direct response to the Pentagon's decision earlier in June to add Alibaba Group and Baidu to the Chinese military-company list.
+
+### Why a Second Delay Is Anticipated
+
+The principal constraint is US rare earth dependency. Treasury Secretary Scott Bessent said in January 2026 that the US could achieve independent rare earth refining capabilities within eighteen months; by April 2026 he had adjusted that estimate to four years. China retains dominant global rare earth processing capacity, and analysts expect BIS to weigh that leverage before reimposing the rule.
+
+> *"The need for US companies to obtain those rare earth materials hasn't gone away and so I think it will be difficult for BIS to reactivate the 50% rule without seriously risking that China will reactivate its rare earth restrictions."*
+> — Matt Axelrod, Gibson Dunn; former BIS export controls official
+
+> *"This tactical stabilisation is temporary. This period of escalation followed by stabilisation in US-China is cyclical, we've seen it at least half a dozen times in the past decade."*
+> — Daniel Rechtschaffen, Control Risks
+
+### Why Exporters Are Preparing Anyhow
+
+!!! tip "Compliance posture: prepare regardless of delay"
+    Leading practitioners consistently advise that preparation work should not be deferred even if a second delay materialises. The rule is structurally likely to reimpose at some point; the question is when, not whether.
+
+The sudden introduction of the rule in autumn 2025 caused significant disruption before the delay was announced:
+
+- Companies were required to identify ownership structures for thousands of counterparties in jurisdictions with weak corporate-transparency regimes, in a very short window
+- Existing transaction-screening tools required labour-intensive updates: rather than flagging listed parties on a contract, the rule forces identification of affiliates of any party to a transaction, even those not named in the contract
+- Companies unprepared for the scope found their existing KYC and screening workflows materially inadequate
+
+> *"It was such a shock to the internal controls systems. Most companies weren't ready to start vetting or identifying the affiliates of all of the companies that they deal with."*
+> — Kevin Wolf, Akin Gump
+
+> *"You should be doing this stuff already. Whether you're doing this stuff already is a bigger question."*
+> — Jim Needham, FTI Consulting; former compliance executive, RTX
+
+### Compliance Preparation Checklist (Phase 1 Window)
+
+The following tasks should be completed before any Phase 2 reimposition, whether on 10 Nov 2026 or later:
+
+| Task | Notes |
+|---|---|
+| Affiliate mapping | Identify all counterparties' ownership structures ≥ 50% (direct and indirect) |
+| Ownership-chain verification | Source UBO data for high-risk jurisdictions with limited corporate transparency |
+| Screening-tool update | Configure transaction screening to flag affiliates, not only listed parties |
+| Contract review | Audit supply-chain representations and warranties for affiliate-control language |
+| Internal training | Ensure procurement, sales, and logistics teams understand the affiliate concept |
+
+!!! note "Enforcement exposure independent of delay"
+    The underlying obligation to avoid diverting goods to blacklisted parties exists independently of the Affiliates Rule — it is already prohibited under the EAR. The Affiliates Rule's effect is to increase the *likelihood* of an enforcement action by making affiliate relationships explicit legal triggers. Preparation therefore reduces exposure under existing rules, not just under the snap-back.
 
 ---
 
@@ -139,4 +198,6 @@ Primary regulatory source for the suspension. Contains the full regulatory text 
 
 ---
 
-*Last reviewed: June 2026*
+*Last reviewed: 2 July 2026 — delay-signal update added (Dow Jones Risk Journal, Max Fillion)*
+
+*Informational and academic use only; not legal advice. Compiled from publicly available sources. Confirm current rule text and snap-back status before any compliance decision.*

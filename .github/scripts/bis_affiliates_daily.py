@@ -8,6 +8,26 @@ LOOKBACK_H = 72 if IS_MON else 30
 SNAP_BACK  = datetime.date(2026, 11, 10)
 DAYS_TO_PHASE2 = (SNAP_BACK - TODAY).days
 
+# ── Delay-scenario flags ──────────────────────────────────────────────
+# Set DELAY_SIGNAL=True when credible reporting indicates a further delay
+# is likely. Update the source citation below whenever the flag changes.
+# Source: Dow Jones Risk Journal, Max Fillion, 2 Jul 2026 —
+#   "U.S. Could Delay 50% Rule Again. Exporters Are Preparing for It Anyhow"
+#   US–China truce-extension talks ongoing; rare-earth leverage persists;
+#   Chinese trade official confirmed extension discussions in May 2026.
+DELAY_SIGNAL       = True
+PREPARATION_PERIOD = DAYS_TO_PHASE2 > 0  # True while Phase 1 suspension is active
+
+if not PREPARATION_PERIOD:
+    SNAP_BACK_STATUS = "IN FORCE — Phase 2 reimposed"
+elif DELAY_SIGNAL:
+    SNAP_BACK_STATUS = (
+        "suspended — second delay signal active "
+        "(US–China truce-extension talks; rare-earth leverage; DJ Risk Journal 2 Jul 2026)"
+    )
+else:
+    SNAP_BACK_STATUS = "suspended — preparation period"
+
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 SLACK_WEBHOOK = os.environ.get("SLACK_WEBHOOK_URL", "")
 
@@ -104,7 +124,12 @@ MONITOR_PROMPT = (
     "   - confidence: ('primary-source' | 'law-firm-analysis' | 'secondary')\n"
     "\n"
     "4. Maintain this snap-back countdown line (include it in all three output sections):\n"
-    f'   "Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} - status: suspended"\n'
+    f'   "Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: {SNAP_BACK_STATUS}"\n'
+    "\n"
+    "   DELAY SCENARIO: A second delay is considered likely as at today based on credible\n"
+    "   reporting (DJ Risk Journal, 2 Jul 2026). When scanning sources, flag ANY signals\n"
+    "   confirming, denying, or updating this delay scenario with snapback_relevance: 'high'.\n"
+    "   Do not treat the delay as confirmed; it is reported as anticipated but not official.\n"
     "\n"
     "OUTPUT - use these exact section markers:\n"
     "=== SECTION A ===\n"
@@ -151,23 +176,23 @@ if ANTHROPIC_KEY:
         section_a = "*Anthropic API error - raw Federal Register items logged below.*\n"
         section_b = (
             f"Monitor error on {TODAY}. "
-            f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} - status: suspended"
+            f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: {SNAP_BACK_STATUS}"
         )
 else:
     print("  ANTHROPIC_API_KEY not set - skipping AI analysis; logging raw FR items.")
     if fr_items:
         section_a = (
             f"*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*\n\n"
-            f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} - status: suspended\n\n"
+            f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: {SNAP_BACK_STATUS}\n\n"
             + "\n".join(f"- {item.splitlines()[0]}" for item in fr_items)
         )
     else:
         section_a = (
             f"*No new Affiliates Rule developments detected.*\n\n"
-            f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} - status: suspended"
+            f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: {SNAP_BACK_STATUS}"
         )
     section_b = (
-        f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} - status: suspended\n"
+        f"Days to Phase 2 (10 Nov 2026): {DAYS_TO_PHASE2} — status: {SNAP_BACK_STATUS}\n"
         "(AI analysis disabled - ANTHROPIC_API_KEY not set)"
     )
 
