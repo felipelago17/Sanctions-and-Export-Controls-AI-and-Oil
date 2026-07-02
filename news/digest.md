@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-02 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 131 - status: suspended
+
+- [Federal Register / 2026-07-02] Declaration of Emergency and Authorization for Temporary Duty-Free Importation of Phosphate Fertilizer From Morocco
+- [Federal Register / 2026-07-02] Safety Zones; Northern California and Lake Tahoe Area Annual Fireworks Events
+- [Federal Register / 2026-07-02] Safety Zone; San Pedro Channel, Newport Beach, CA
+- [Federal Register / 2026-07-02] Federal Plan Requirements for Other Solid Waste Incineration Units That Commenced Construction on or Before August 31, 2020, and Have Not Been Modified or Reconstructed After August 29, 2025
+- [Federal Register / 2026-07-02] Safety Zone; Isthmus Cove, Santa Catalina Island, CA
+- [Federal Register / 2026-07-02] Safety Zone; San Pedro Bay, Los Angeles, CA
+- [Federal Register / 2026-07-02] Safety Zone; San Pedro Bay, Long Beach, CA
+- [Federal Register / 2026-07-02] Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines
+- [Federal Register / 2026-07-02] Government Owned Invention Available for License: A Conserved Viral Peptide for Use in Cancer Immunotherapy
+- [Federal Register / 2026-07-02] Government Owned Invention Available for License: Chimeric VLP Vaccines To Prevent HTLV-1 Infection
+- [Federal Register / 2026-07-02] Agency Information Collection Activities: Request for Comments; Revision of Currently Approved Information Collection(s): U.S. Department of Transportation, Individual Complaint of Employment Discrimination Form
+- [Federal Register / 2026-07-02] Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Maintenance, Preventive Maintenance, Rebuilding, and Alteration
+- [Federal Register / 2026-07-02] Airworthiness Directives; Gulfstream Aerospace Corporation Airplanes
+- [Federal Register / 2026-07-02] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-07-02] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-07-02] Establishment of Class E Airspace; Jewett, TX
+- [Federal Register / 2026-07-02] Call for Nominations for the Glen Canyon Dam Adaptive Management Work Group
+- [Federal Register / 2026-07-02] Notice of Public Meeting of the Oregon Advisory Committee to the U.S. Commission on Civil Rights
+- [Federal Register / 2026-07-02] Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Research, Monitoring, and Management Activities on the South Farallon Islands, Farallon Islands National Wildlife Refuge, California
+- [Federal Register / 2026-07-02] Agency Information Collection Activities; Proposed Collection; Comment Request; Regulation Agency Protests
+
+
+---
+
 ## 2026-07-01
 
 ### Official & Regulatory
