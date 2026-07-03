@@ -9,6 +9,41 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-03
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[Federal Register]** [Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000 (2026-07-06)](https://www.federalregister.gov/documents/2026/07/06/2026-13631/presidential-determination-on-assistance-to-venezuela-consistent-with-the-trafficking-victims)
+- **[Federal Register]** [Amendment of Using Agency and Controlling Agency for Restricted Areas R-5301, R-5302A, R-5302B, and R-5302C; NC (2026-07-06)](https://www.federalregister.gov/documents/2026/07/06/2026-13620/amendment-of-using-agency-and-controlling-agency-for-restricted-areas-r-5301-r-5302a-r-5302b-and)
+- **[Federal Register]** [Safety Zone; Savannah River, Savannah, GA (2026-07-06)](https://www.federalregister.gov/documents/2026/07/06/2026-13614/safety-zone-savannah-river-savannah-ga)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [A Look at the First-Year Results of the Working Families Tax Cuts](https://home.treasury.gov/news/press-releases/sb0553)
+- **[Treasury]** [Treasury and IRS to Accept Philanthropic Stock Contributions for Trump Accounts](https://home.treasury.gov/news/press-releases/sb0552)
+- **[Treasury]** [Treasury Announces Investment Lineup for Trump Accounts](https://home.treasury.gov/news/press-releases/sb0551)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [How Congress Can Regulate Military Promotions After Trump v. Slaughter](https://www.justsecurity.org/145245/congress-hegseth-military-promotions/?utm_source=rss&utm_medium=rss&utm_campaign=congress-hegseth-military-promotions)
+- **[Just Security]** [Early Edition: July 2, 2026](https://www.justsecurity.org/145491/early-edition-july-2-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-2-2026)
+- **[Atlantic Council]** [A misguided war, a flawed deal, and a dangerous future. Here’s what to do next on Iran.](https://www.atlanticcouncil.org/content-series/the-big-story/a-misguided-war-a-flawed-deal-and-a-dangerous-future-heres-what-to-do-next-on-iran/)
+- **[Atlantic Council]** [The West can learn from Ukraine’s success against Russian propaganda](https://www.atlanticcouncil.org/blogs/ukrainealert/the-west-can-learn-from-ukraines-success-against-russian-propaganda/)
+- **[Atlantic Council]** [With US sanctions temporarily lifted, is Iranian crude back on the menu?](https://www.atlanticcouncil.org/blogs/energysource/with-us-sanctions-temporarily-lifted-is-iranian-crude-back-on-the-menu/)
+
+---
+
 ## 2026-07-03 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
