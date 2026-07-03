@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-03 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 130 - status: suspended
+
+- [Federal Register / 2026-07-06] Improvements to Rules on Recoupment of Benefit Overpayments
+- [Federal Register / 2026-07-06] Rescission of Guidelines on Affirmative Action Appropriate Under Title VII of the Civil Rights Act of 1964, as Amended
+- [Federal Register / 2026-07-06] Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000
+- [Federal Register / 2026-07-06] Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Southern New England Area Trophy Fishery for 2026
+- [Federal Register / 2026-07-06] Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Request for Duty-Free Entry of Scientific Instrument or Apparatus
+- [Federal Register / 2026-07-06] Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Wage Mariner Hiring Portal
+- [Federal Register / 2026-07-06] Nondiscrimination in Federally Assisted Programs of NASA-Effectuation of Title VI of the Civil Rights Act of 1964
+- [Federal Register / 2026-07-06] United States et al. v. Live Nation Entertainment, Inc.; Proposed Final Judgment and Competitive Impact Statement
+- [Federal Register / 2026-07-06] 60-Day Notice of Request for Revision of a Currently Approved Information Collection: OneRD Loan Guarantee Program
+- [Federal Register / 2026-07-06] Agency Information Collection Activities: Submission for OMB Review; Comment Request
+- [Federal Register / 2026-07-06] Amendment of Using Agency and Controlling Agency for Restricted Areas R-5301, R-5302A, R-5302B, and R-5302C; NC
+- [Federal Register / 2026-07-06] Safety Zone; Lake Michigan, Chicago, IL
+- [Federal Register / 2026-07-06] Submission for OMB Review; Comment Request
+- [Federal Register / 2026-07-06] New Postal Products
+- [Federal Register / 2026-07-06] Endo Operations Limited, et al.; Withdrawal of Approval of 34 New Drug Applications
+- [Federal Register / 2026-07-06] Draft Guidance for Reducing Risk From Perfluorooctanoic Acid (PFOA) and Perfluorooctane Sulfonic Acid (PFOS) in Biosolids; Establishment of a Public Docket; Request for Feedback
+- [Federal Register / 2026-07-06] Safety Zone; Savannah River, Savannah, GA
+- [Federal Register / 2026-07-06] Arts Advisory Panel Meetings
+- [Federal Register / 2026-07-06] Center for Scientific Review; Notice of Closed Meetings
+- [Federal Register / 2026-07-06] Petition for Reconsideration of Action in Rulemaking Proceeding
+
+
+---
+
 ## 2026-07-02
 
 ### Official & Regulatory
