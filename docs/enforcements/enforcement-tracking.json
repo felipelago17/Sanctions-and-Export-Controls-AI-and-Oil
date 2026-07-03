@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "description": "Enforcement action tracking index for BIS, DOJ-NSD, and OFAC export control and sanctions cases",
+    "schema_version": "1.0",
+    "last_updated": "2026-07-03",
+    "sources": "BIS charging letters (bis.gov/enforcement); DOJ-NSD press releases (justice.gov/nsd); OFAC enforcement releases (ofac.treasury.gov)"
+  },
+  "_schema": {
+    "case_id": "Unique identifier: {regulator}-{year}-{sequence}",
+    "regulator": "BIS | DOJ-NSD | OFAC | BIS+DOJ",
+    "respondent": "Entity or individual name as published",
+    "date": "ISO 8601 date of charging letter / indictment / settlement",
+    "category": "gpu-smuggling | semiconductor-manufacturing | subsidiary-entity-shifting | other",
+    "controlled_items": "ECCN or description of controlled items",
+    "destination": "Destination country/end-user",
+    "charges": "Array of 15 CFR § 764.2 provisions or criminal statutes",
+    "knowledge_standard": "positive | high-probability | willful-blindness | willful (criminal)",
+    "resolution": "charging-letter | civil-penalty | plea | tdo | denial-order | compliance-order",
+    "penalty_usd": "Civil penalty amount in USD (null if not applicable)",
+    "notes": "Free-text notes on significant legal issues"
+  },
+  "cases": []
+}

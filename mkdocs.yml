@@ -88,8 +88,27 @@ nav:
     - EU (May 2026): jurisdictions/eu/2026/may-2026-wave.md
     - UAE (2026): jurisdictions/uae/2026/local-designations-2026.md
     - Australia (Iran 2026): jurisdictions/australia/2026/iran-autonomous-sanctions-2026.md
+  - Enforcements:
+    - Overview: enforcements/index.md
+    - Case Summaries:
+      - enforcements/case-summaries/index.md
+      - GPU Smuggling: enforcements/case-summaries/gpu-smuggling/index.md
+      - Semiconductor Manufacturing: enforcements/case-summaries/semiconductor-manufacturing/index.md
+      - Subsidiary & Entity Shifting: enforcements/case-summaries/subsidiary-entity-shifting/index.md
+    - Analysis Frameworks:
+      - enforcements/analysis-frameworks/index.md
+      - High-Probability Standard: enforcements/analysis-frameworks/high-probability-standard.md
+      - Knowledge Inference Pathways: enforcements/analysis-frameworks/knowledge-inference-pathways.md
+      - De Minimis & FDPR Disputes: enforcements/analysis-frameworks/de-minimis-fdr-disputes.md
+      - Inchoate Provisions: enforcements/analysis-frameworks/inchoate-provisions-application.md
   - Cases:
     - BIS Deemed-Export — Anthropic Fable 5 / Mythos 5 (Jun 2026): cases/2026-06-anthropic-fable-mythos-deemed-export.md
+  - AI Frontier:
+    - ai-frontier/index.md
+  - Energy Sector:
+    - energy-sector/index.md
+  - Regulatory Intelligence:
+    - regulatory-intelligence/index.md
   - Tools:
     - ECCN Classifier: tools/eccn-classifier/index.html
   - Visuals & Tools: visuals.md
