@@ -1,0 +1,41 @@
+name: Monthly Enforcement Scanner
+
+on:
+  schedule:
+    - cron: '0 8 1 * *'  # 1st of every month at 08:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: enforcement-scan
+  cancel-in-progress: false
+
+jobs:
+  scan-enforcement:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml feedparser
+
+      - name: Run enforcement scanner
+        run: python scripts/regwatch.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/enforcements/enforcement-tracking.json
+          git add docs/enforcements/monthly-digests/
+          git diff --cached --quiet && echo "No enforcement changes to commit" || \
+            git commit -m "chore: monthly enforcement scan $(date -u +%Y-%m)"
+          git push

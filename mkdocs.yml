@@ -101,6 +101,8 @@ nav:
       - Knowledge Inference Pathways: enforcements/analysis-frameworks/knowledge-inference-pathways.md
       - De Minimis & FDPR Disputes: enforcements/analysis-frameworks/de-minimis-fdr-disputes.md
       - Inchoate Provisions: enforcements/analysis-frameworks/inchoate-provisions-application.md
+    - Ingestion Workflow: enforcements/enforcement-ingestion-workflow.md
+    - Monthly Digests: enforcements/monthly-digests/index.md
   - Cases:
     - BIS Deemed-Export — Anthropic Fable 5 / Mythos 5 (Jun 2026): cases/2026-06-anthropic-fable-mythos-deemed-export.md
   - AI Frontier:
@@ -122,6 +124,7 @@ nav:
 
 not_in_nav: |
   scenarios/scenario-template.md
+  enforcements/monthly-digests/digest-*.md
 
 extra:
   social:
