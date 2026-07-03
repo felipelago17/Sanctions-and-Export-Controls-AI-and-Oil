@@ -84,7 +84,7 @@ If this theory is sustained, the compliance implications are structural:
 
 This structural point connects directly to the **computational sovereignty** thesis — developed in the [Joint Ventures and Energy Trilemma repository](https://github.com/felipelago17/Joint-ventures-and-Energy-Trilemma-) — that AI model dependencies, like energy infrastructure dependencies, embed geopolitical exposure that can be activated unilaterally by the regulating state. A BIS "is informed" letter functions as a kill switch: it can be delivered at 17:21 on any evening and take effect immediately, regardless of the commercial relationships or technical architectures it disrupts.
 
-See also [BIS Affiliates Rule](../regulations/bis-affiliates-rule.md) (parallel expansion of EAR controls through ownership-chain attribution); [Extraterritorial Enforcement](../regulations/extraterritorial-enforcement.md) (FDPR and other mechanisms BIS uses beyond the US border).
+See also [BIS Affiliates Rule](../regulations/uae/bis-affiliates-rule.md) (parallel expansion of EAR controls through ownership-chain attribution); [Extraterritorial Enforcement](../regulations/extraterritorial-enforcement.md) (FDPR and other mechanisms BIS uses beyond the US border).
 
 ---
 
@@ -268,7 +268,7 @@ The following clause categories are directly implicated by the Fable 5 / Mythos 
 | **Multi-model / redundancy architecture** | Technical and contractual obligation to maintain at least one alternative inference pathway at all times; tested quarterly |
 | **Export-control representations** | Provider represents ongoing EAR compliance; customer represents it will not use the API in breach of EAR end-use / end-user restrictions; mutual obligation to notify on receipt of BIS correspondence |
 
-Cross-reference: [BIS Affiliates Rule](../regulations/bis-affiliates-rule.md) (ownership-chain diligence that may apply to AI supply-chain counterparties); [AI & Advanced Technology Export Controls](../regulations/ai-advanced-tech-export-controls.md) (AI Diffusion Rule model-weight and capability-threshold framework).
+Cross-reference: [BIS Affiliates Rule](../regulations/uae/bis-affiliates-rule.md) (ownership-chain diligence that may apply to AI supply-chain counterparties); [AI & Advanced Technology Export Controls](../regulations/ai-advanced-tech-export-controls.md) (AI Diffusion Rule model-weight and capability-threshold framework).
 
 ---
 

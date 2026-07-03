@@ -106,7 +106,7 @@ export function mapToFrameworks(classificationOutput, riskOutput, policyFramewor
       }
     }
 
-    // Internal/employer-specific and private-sector frameworks (e.g. ADNOC/G42) are not mapped.
+    // Internal/employer-specific and private-sector frameworks are not mapped.
     // Only publicly published frameworks are in scope for this demonstrator.
 
     if (include) {

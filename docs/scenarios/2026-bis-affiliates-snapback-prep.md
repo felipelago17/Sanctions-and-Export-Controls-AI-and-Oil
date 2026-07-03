@@ -288,7 +288,7 @@ Records must be accessible to BIS on demand.
 - **EAR § 744.11 — Entity List licence requirement**
   — <https://www.ecfr.gov/current/title-15/chapter-VII/subchapter-C/part-744/section-744.11>
 
-- **[BIS Affiliates Rule](../regulations/bis-affiliates-rule.md)** — this repository's
+- **[BIS Affiliates Rule](../regulations/uae/bis-affiliates-rule.md)** — this repository's
   monitoring page with snap-back countdown
 
 - **[OFAC UBO & 50% Rule](../regulations/ofac-ubo-50-percent-rule.md)** — companion OFAC

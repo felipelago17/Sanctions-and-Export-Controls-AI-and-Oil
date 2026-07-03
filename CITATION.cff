@@ -10,7 +10,7 @@ abstract: >
 authors:
   - family-names: Villasuso Lago
     given-names: Felipe
-    affiliation: "AIQ / London South Bank University (LSBU)"
+    affiliation: "London South Bank University (LSBU)"
     email: fe_lago@yahoo.com.br
     orcid: ""
 # Points to the public documentation repository (source repo is private)

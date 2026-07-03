@@ -178,6 +178,7 @@ These firms publish regular, substantive alerts on export controls and sanctions
 | Electronic Frontier Foundation | Encryption, open source, EAR | https://www.eff.org/ |
 | Semiconductor Industry Association | Chip trade, export controls | https://www.semiconductors.org/news/ |
 | Georgetown CSET | AI, semiconductors, China | https://cset.georgetown.edu/ |
+| AI for Developing Countries Forum (af.net) | US–China AI chip war; developing-nation access to advanced computing; policy opinion | https://af.net/ |
 
 ---
 

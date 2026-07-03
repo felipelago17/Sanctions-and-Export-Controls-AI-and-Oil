@@ -19,9 +19,9 @@ description: >
 
 !!! info "Cross-references"
     For US controls and extraterritorial reach (FDPR, de minimis), see
-    [Extraterritorial Jurisdiction & Enforcement](extraterritorial-enforcement.md).
+    [Extraterritorial Jurisdiction & Enforcement](../extraterritorial-enforcement.md).
     For AI chip ECCN classifications and the AI Diffusion Rule history, see
-    [AI & Advanced Technology Export Controls](ai-advanced-tech-export-controls.md).
+    [AI & Advanced Technology Export Controls](../ai-advanced-tech-export-controls.md).
     For the PRC entities and critical minerals (Africa-specific), see
     [PRC Critical Minerals (Africa)](prc-critical-minerals-africa.md).
 
@@ -109,7 +109,7 @@ end-user may face Chinese enforcement action regardless of where the transfer oc
     similar extraterritorial logic to Chinese-origin controlled items. Unlike the FDPR, which
     operates automatically when jurisdiction conditions are met, Article 49 application
     appears to depend on MOFCOM licensing decisions and has limited published enforcement
-    precedent. See [Extraterritorial Enforcement](extraterritorial-enforcement.md) for the
+    precedent. See [Extraterritorial Enforcement](../extraterritorial-enforcement.md) for the
     FDPR framework.
 
 ### D. Implementation Challenges and Opacity
@@ -401,6 +401,7 @@ If Chinese controls on critical materials tighten or the suspension lapses:
 
 - Xinhua (official announcements); Reuters China tech/trade desk; *South China Morning Post*
 - *Export Control Watch* newsletter
+- AI for Developing Countries Forum, *AI Capital Wire* (opinion) — "US-China AI Chip War 2026: New Tariffs, Export Controls, and Implications for Global AI Leadership" (3 Jul 2026): analysis of 25% advanced-semiconductor tariffs, export-control refinements, and developing-nation supply-chain fragmentation; counter-argument that US controls accelerate Chinese chip-independence efforts. **Note: opinion piece with a developing-world-access perspective — separate factual claims from editorial positions.** — <https://af.net/realtime/us-china-ai-chip-war-2026-new-tariffs-export-controls-and-implications-for-global-ai-leadership/>
 
 ---
 

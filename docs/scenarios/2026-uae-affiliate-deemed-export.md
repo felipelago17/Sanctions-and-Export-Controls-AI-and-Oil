@@ -167,7 +167,7 @@ Since 55% ≥ 50%, **NovaCortex Gulf FZ-LLC is itself a covered entity** under t
 !!! warning "The NovaCortex majority-shareholder result is not a shield"
     NovaCortex AI, Inc. holds the largest single block (45%) and is itself clean. This does not protect Gulf. The Affiliates Rule aggregates the listed/covered stakes *against each other*, not against the clean shareholder. The fact that no single listed party holds ≥50% is irrelevant once the aggregate crosses the threshold.
 
-**Contrast with OFAC 50% Rule:** The OFAC 50% Rule (August 2014 guidance) applies the same aggregation logic for SDN ownership and reaches the same mathematical conclusion for Gulf. However, there is a significant difference in scope: the OFAC 50% Rule applies to SDN-listed parties, whereas the BIS Affiliates Rule applies to Entity List and MEU List parties. In this scenario, Zenith's Entity List designation triggers the BIS analysis. Whether Zenith is also SDN-listed must be verified separately; if so, Gulf may also be blocked property under OFAC. See [OFAC UBO & 50% Rule](../regulations/ofac-ubo-50-percent-rule.md) for the aggregation methodology comparison and the [BIS Affiliates Rule](../regulations/bis-affiliates-rule.md) page for the *Affiliate Trap* analysis.
+**Contrast with OFAC 50% Rule:** The OFAC 50% Rule (August 2014 guidance) applies the same aggregation logic for SDN ownership and reaches the same mathematical conclusion for Gulf. However, there is a significant difference in scope: the OFAC 50% Rule applies to SDN-listed parties, whereas the BIS Affiliates Rule applies to Entity List and MEU List parties. In this scenario, Zenith's Entity List designation triggers the BIS analysis. Whether Zenith is also SDN-listed must be verified separately; if so, Gulf may also be blocked property under OFAC. See [OFAC UBO & 50% Rule](../regulations/ofac-ubo-50-percent-rule.md) for the aggregation methodology comparison and the [BIS Affiliates Rule](../regulations/uae/bis-affiliates-rule.md) page for the *Affiliate Trap* analysis.
 
 **Tier 3 — What does "covered" mean for the transaction?**
 
@@ -306,7 +306,7 @@ Applying the BIS red-flag indicators (15 CFR § 732, Supp. No. 3):
 
 **This repository**
 
-- [BIS Affiliates Rule & 50% Ownership Expansion](../regulations/bis-affiliates-rule.md) — mechanics, snap-back, and the *Affiliate Trap* analysis
+- [BIS Affiliates Rule & 50% Ownership Expansion](../regulations/uae/bis-affiliates-rule.md) — mechanics, snap-back, and the *Affiliate Trap* analysis
 - [OFAC UBO & 50% Rule](../regulations/ofac-ubo-50-percent-rule.md) — aggregation methodology and comparison with BIS rule
 - [Anthropic Fable 5 / Mythos 5 — BIS Deemed-Export Directive (Jun 2026)](../cases/2026-06-anthropic-fable-mythos-deemed-export.md) — a live case study on deemed-export controls applied to frontier AI model access
 
