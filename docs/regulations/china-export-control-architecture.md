@@ -401,6 +401,7 @@ If Chinese controls on critical materials tighten or the suspension lapses:
 
 - Xinhua (official announcements); Reuters China tech/trade desk; *South China Morning Post*
 - *Export Control Watch* newsletter
+- AI for Developing Countries Forum, *AI Capital Wire* (opinion) — "US-China AI Chip War 2026: New Tariffs, Export Controls, and Implications for Global AI Leadership" (3 Jul 2026): analysis of 25% advanced-semiconductor tariffs, export-control refinements, and developing-nation supply-chain fragmentation; counter-argument that US controls accelerate Chinese chip-independence efforts. **Note: opinion piece with a developing-world-access perspective — separate factual claims from editorial positions.** — <https://af.net/realtime/us-china-ai-chip-war-2026-new-tariffs-export-controls-and-implications-for-global-ai-leadership/>
 
 ---
 
