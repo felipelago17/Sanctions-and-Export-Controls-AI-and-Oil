@@ -50,6 +50,7 @@ Every clinic works through these steps in sequence. The workflow integrates EAR,
 | # | Title | Difficulty | Key issues |
 |---|---|---|---|
 | [01](2026-uae-affiliate-deemed-export.md) | UAE affiliate + PRC / Iran deemed exports | Advanced | Affiliates Rule cascade; deemed-export bifurcation; OFAC Iran screening |
+| [02](2026-bis-affiliates-snapback-prep.md) | BIS Affiliates Rule snap-back — distributor with mixed UAE customer portfolio | Intermediate | Two-party aggregation to 50%+; snap-back is automatic; licence lead time; Phase 2 applies to EAR99 items |
 | — | *[Contribute a scenario](scenario-template.md)* | — | Copy the template; follow the house style |
 
 ---

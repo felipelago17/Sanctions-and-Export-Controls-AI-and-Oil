@@ -92,6 +92,7 @@ nav:
   - Compliance Clinics:
     - Overview: scenarios/index.md
     - "01 — UAE affiliate + deemed exports": scenarios/2026-uae-affiliate-deemed-export.md
+    - "02 — BIS snap-back: mixed UAE portfolio": scenarios/2026-bis-affiliates-snapback-prep.md
   - News:
     - Daily Digest: news/digest.md
 
