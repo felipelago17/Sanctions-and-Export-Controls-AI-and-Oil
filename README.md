@@ -23,7 +23,7 @@ GitHub Actions. No source code or proprietary logic is exposed.
 A curated resource on **US export controls and sanctions** as applied to
 artificial intelligence, advanced computing, and the oil/energy sector.
 
-Maintained by **Felipe Villasuso Lago** (AIQ / London South Bank University — LSBU).
+Maintained by **Felipe Villasuso Lago** (London South Bank University — LSBU).
 
 > **Disclaimer:** This resource is for informational and academic purposes only
 > and does not constitute legal advice. All content is compiled exclusively from

@@ -38,7 +38,7 @@ timeline
                : Global access suspension — SaaS AI first
         Jun 15 : Match Act coalition endorsement
                : Allied semiconductor equipment export controls
-        Jun    : Repository established — AIQ / LSBU
+        Jun    : Repository established — LSBU
         Nov 10 : ⚠️ BIS Affiliates Rule snap-back date
 ```
 

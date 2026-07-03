@@ -444,7 +444,7 @@ the public documentation site above.
 This repository hosts the **public documentation site** for [Project Name].
 
 - **Live site:** [https://felipelago17.github.io/[repo-name]-site/](https://felipelago17.github.io/[repo-name]-site/)
-- **Author:** Felipe Villasuso Lago (AIQ / London South Bank University)
+- **Author:** Felipe Villasuso Lago (London South Bank University)
 
 ## About
 
@@ -486,7 +486,7 @@ abstract: >
 authors:
   - family-names: Villasuso Lago
     given-names: Felipe
-    affiliation: "AIQ / London South Bank University (LSBU)"
+    affiliation: "London South Bank University (LSBU)"
     email: fe_lago@yahoo.com.br
     orcid: ""
 # Point to the public docs repo (the private source repo is not public)
