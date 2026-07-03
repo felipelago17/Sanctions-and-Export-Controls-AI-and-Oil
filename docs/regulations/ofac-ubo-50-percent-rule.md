@@ -102,7 +102,7 @@ threshold but differ in structure, scope, and the compliance action they require
 
 !!! info "Cross-reference"
     For the BIS Affiliates Rule suspension, Phase 2 snap-back timeline, and monitoring
-    workflow, see [BIS Affiliates Rule](bis-affiliates-rule.md).
+    workflow, see [BIS Affiliates Rule](uae/bis-affiliates-rule.md).
     For the full EAR interaction surface and deemed-export framework, see
     [EAR Interaction Risk Matrix](ear-interaction-risk-matrix.md).
 

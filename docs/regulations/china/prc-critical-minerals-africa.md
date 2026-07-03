@@ -27,7 +27,7 @@ The list must be publicly available, including online, in unclassified form. The
 | Majority-owned/controlled | Entities majority-owned, controlled, or financed by any PRC entity |
 | Affiliates & JVs | Parents, subsidiaries, affiliates, contractors, and **joint ventures in which a PRC entity holds a controlling interest** |
 
-This broad definition mirrors the affiliate-aggregation logic of the BIS Affiliates Rule (see [BIS Affiliates Rule](./bis-affiliates-rule.md)) and OFAC's 50% Rule (see [OFAC UBO & 50% Rule](./ofac-ubo-50-percent-rule.md)).
+This broad definition mirrors the affiliate-aggregation logic of the BIS Affiliates Rule (see [BIS Affiliates Rule](../uae/bis-affiliates-rule.md)) and OFAC's 50% Rule (see [OFAC UBO & 50% Rule](../ofac-ubo-50-percent-rule.md)).
 
 ### Other Key Definitions
 

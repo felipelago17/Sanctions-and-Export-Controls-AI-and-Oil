@@ -70,13 +70,17 @@ nav:
     - AI & Advanced Technology: regulations/ai-advanced-tech-export-controls.md
     - EAR Interaction Risk Matrix (Physical & Logical): regulations/ear-interaction-risk-matrix.md
     - Extraterritorial Enforcement: regulations/extraterritorial-enforcement.md
-    - China Export Control Architecture: regulations/china-export-control-architecture.md
     - Encryption & Open Source: regulations/encryption-open-source.md
     - OFAC UBO & 50% Rule: regulations/ofac-ubo-50-percent-rule.md
-    - BIS Affiliates Rule: regulations/bis-affiliates-rule.md
     - Sanctions — Oil & Energy: regulations/sanctions-oil-energy.md
-    - PRC Critical Minerals (Africa): regulations/prc-critical-minerals-africa.md
     - Chip Security Act (PBLV): regulations/chip-security-act.md
+    - China:
+      - regulations/china/index.md
+      - Export Control Architecture: regulations/china/china-export-control-architecture.md
+      - PRC Critical Minerals (Africa): regulations/china/prc-critical-minerals-africa.md
+    - UAE:
+      - regulations/uae/index.md
+      - BIS Affiliates Rule: regulations/uae/bis-affiliates-rule.md
   - Designations Register:
     - Index: jurisdictions/index.md
     - UK (Russia 2026): jurisdictions/uk/2026/russia-shadow-fleet-june-2026.md

@@ -31,8 +31,14 @@ regulations/
   extraterritorial-enforcement.md
   encryption-open-source.md
   ofac-ubo-50-percent-rule.md
-  bis-affiliates-rule.md
   sanctions-oil-energy.md
+  china/
+    index.md                     — China regulatory overview
+    china-export-control-architecture.md
+    prc-critical-minerals-africa.md
+  uae/
+    index.md                     — UAE regulatory overview
+    bis-affiliates-rule.md
 news/
   digest.md                      — weekly auto-updated digest
 .github/workflows/
