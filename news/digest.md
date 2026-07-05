@@ -9,6 +9,38 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-05
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[Federal Register]** [Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000 (2026-07-06)](https://www.federalregister.gov/documents/2026/07/06/2026-13631/presidential-determination-on-assistance-to-venezuela-consistent-with-the-trafficking-victims)
+- **[Federal Register]** [Amendment of Using Agency and Controlling Agency for Restricted Areas R-5301, R-5302A, R-5302B, and R-5302C; NC (2026-07-06)](https://www.federalregister.gov/documents/2026/07/06/2026-13620/amendment-of-using-agency-and-controlling-agency-for-restricted-areas-r-5301-r-5302a-r-5302b-and)
+- **[Federal Register]** [Safety Zone; Savannah River, Savannah, GA (2026-07-06)](https://www.federalregister.gov/documents/2026/07/06/2026-13614/safety-zone-savannah-river-savannah-ga)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [U.S. Treasury Announces the Official Launch of Trump Accounts and Full Scope of the App](https://home.treasury.gov/news/press-releases/sb0554)
+- **[Treasury]** [A Look at the First-Year Results of the Working Families Tax Cuts](https://home.treasury.gov/news/press-releases/sb0553)
+- **[Treasury]** [Treasury and IRS to Accept Philanthropic Stock Contributions for Trump Accounts](https://home.treasury.gov/news/press-releases/sb0552)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+### Think Tanks & Academic
+
+- **[Atlantic Council]** [Putin may gamble on mobilization to rescue Russia’s Ukraine invasion](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-may-gamble-on-mobilization-to-rescue-russias-ukraine-invasion/)
+- **[Atlantic Council]** [Ukraine is showing NATO the future of warfare](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-is-showing-nato-the-future-of-warfare/)
+
+---
+
 ## 2026-07-04
 
 ### Official & Regulatory
