@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-07 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 126 - status: suspended
+
+- [Federal Register / 2026-07-07] Revisions to Financial Forms Reporting and Filing Requirements; Correction
+- [Federal Register / 2026-07-07] Notice of Lodging of Proposed Consent Decree Under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA)
+- [Federal Register / 2026-07-07] Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Kern Canyon Slender Salamander and Endangered Species Status for the Relictual Slender Salamander; Designation of Critical Habitat
+- [Federal Register / 2026-07-07] Agency Information Collection Activities; Tribal Revenue Allocation Plans
+- [Federal Register / 2026-07-07] General Conference Committee of the National Poultry Improvement Plan and 47th Biennial Conference
+- [Federal Register / 2026-07-07] New Animal Drugs; Approval of New Animal Drug Applications; Withdrawal of Approval of New Animal Drug Application; Change of Sponsor
+- [Federal Register / 2026-07-07] Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees
+- [Federal Register / 2026-07-07] Office of the Secretary; Notice of Meeting
+- [Federal Register / 2026-07-07] Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Partial Amendment No. 1 to Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)
+- [Federal Register / 2026-07-07] Self-Regulatory Organizations; Chicago Mercantile Exchange Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating To Adoption of Chicago Mercantile Exchange's Rules Governing Security Futures Product Listing Standards, Adoption of Chicago Mercantile Exchange Inc.'s Rules Governing Security Futures Adjustments, and Adoption of Chicago Mercantile Exchange Inc.'s Rules Governing Cash-Settled Single Stock Security Futures
+- [Federal Register / 2026-07-07] Recission of the National Cancer Institute Clinical Cancer Education Program Regulation
+- [Federal Register / 2026-07-07] Muzinich Aviation Income Fund (mAIR) and Muzinich & Co., Inc.
+- [Federal Register / 2026-07-07] Prestressed Concrete Steel Wire Strand From Argentina, Colombia, Egypt, Indonesia, Italy, Malaysia, Netherlands, Saudi Arabia, South Africa, Spain, Taiwan, Tunisia, Turkey, Ukraine, and the United Arab Emirates; Notice of Commission Determination To Conduct Full Five-Year Reviews
+- [Federal Register / 2026-07-07] Sunshine Act Meetings
+- [Federal Register / 2026-07-07] Marine Mammal Protection Act; Permit Applications and Issuances
+- [Federal Register / 2026-07-07] Endangered Species Act; Taking of Endangered and Threatened Species; Permit Modification; Permit No. 23861
+- [Federal Register / 2026-07-07] Importer of Controlled Substances Application: Benuvia Operations, LLC.
+- [Federal Register / 2026-07-07] Certain Flash-Spun Nonwoven Materials and Products Containing Same; Notice of Request for Submissions on the Public Interest
+- [Federal Register / 2026-07-07] Passenger Vehicle and Light Truck Tires From China
+- [Federal Register / 2026-07-07] New Postal Products
+
+
+---
+
 ## Week of 2026-07-06
 
 - **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
