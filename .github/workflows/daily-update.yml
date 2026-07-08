@@ -55,6 +55,17 @@ jobs:
               "diffusion rule", "encryption", "dual-use", "arms export",
               "itar", "ddtc", "treasury", "commerce department", "trade control",
               "tariff", "embargo", "blocked", "compliance", "enforcement action",
+              # Enforcement doctrine
+              "charging letter", "civil penalty", "denial order", "voluntary self-disclosure",
+              "vsd", "willfully", "aiding and abetting", "evasion", "transshipment",
+              "high probability", "knowledge standard", "de minimis", "entity-shifting",
+              "inchoate", "catch-all", "red flag", "15 cfr", "50 u.s.c.", "plea agreement",
+              "deferred prosecution", "settlement agreement", "temporary denial order",
+              # AI / compute / energy specifics
+              "rare earth", "gallium", "germanium", "graphite", "h100", "a100", "h800",
+              "nvidia", "huawei", "smic", "asml", "3a090", "4a090", "wafer fabrication",
+              "eda software", "lithography", "model weight", "accelerator", "data center",
+              "lng", "nuclear", "ccus", "military end user", "meu list",
           }
 
           def relevant(text):
@@ -99,6 +110,9 @@ jobs:
               ("Gibson Dunn",                   "https://www.gibsondunn.com/feed/",                        "Law Firm Analysis"),
               ("WilmerHale",                    "https://www.wilmerhale.com/en/insights/rss",              "Law Firm Analysis"),
               ("Covington",                     "https://www.cov.com/en/news-and-insights/rss",            "Law Firm Analysis"),
+              # Trade / industry
+              ("White & Case",                  "https://www.whitecase.com/feed/",                         "Law Firm Analysis"),
+              ("Paul Hastings",                 "https://www.paulhastings.com/feed/",                      "Law Firm Analysis"),
               # Trade / industry
               ("WorldECR",                      "https://www.worldecr.com/feed/",                          "Trade & Industry"),
               ("Trade Compliance Corner",       "https://tradecompliancecorner.com/feed/",                 "Trade & Industry"),
