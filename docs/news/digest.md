@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-08 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 125 - status: suspended
+
+- [Federal Register / 2026-07-08] Naturalization Application Fee Adjustments
+- [Federal Register / 2026-07-08] 250th Anniversary of the Adoption of the Declaration of Independence
+- [Federal Register / 2026-07-08] Schedules of Controlled Substances: Placement of Tianeptine in Schedule I
+- [Federal Register / 2026-07-08] Certain Mobile Electronic Devices; Notice of Request for Submissions on the Public Interest
+- [Federal Register / 2026-07-08] Cellular, Tissue, and Gene Therapies Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments-Biologics License Application (BLA) 125827, From Replimune, Inc. for Vusolimogene Oderparepvec
+- [Federal Register / 2026-07-08] Fisheries of the Northeastern United States; Omnibus Management Flexibility Amendment to New England Fishery Management Council Fishery Management Plans
+- [Federal Register / 2026-07-08] Fisheries of the Caribbean, Gulf of America, and South Atlantic; Puerto Rico Fishery Management Plan; Amendment 4
+- [Federal Register / 2026-07-08] Proposed Collection; 60-Day Comment Request: Generic Clearance for the Collection of Customer Participation and Performance Management With NIH Programs, Products, and Services (Office of the Director)
+- [Federal Register / 2026-07-08] Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines
+- [Federal Register / 2026-07-08] Submission for Review: 3206-NEW, Request for Reduction or Cancellation of Federal Employees Group Life Insurance (FEGLI), RI 76-30
+- [Federal Register / 2026-07-08] Government Owned Invention Available for License: Method of Detecting Circulating Cell-Free HPV 6 and 11 DNA in Patients Afflicted With Diseases Caused by Chronic HPV 6 or 11 Infection and Use Thereof
+- [Federal Register / 2026-07-08] Government Owned Invention Available for License: Generating Conditional and Reverse Conditional Loss-of-Function Alleles in Mouse Casq2
+- [Federal Register / 2026-07-08] Age Search Fee Structure
+- [Federal Register / 2026-07-08] Environmental Technologies Trade Advisory Committee
+- [Federal Register / 2026-07-08] Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Income Driven Repayment Plan Request for the William D. Ford Federal Direct Loans and Federal Family Education Loan Programs
+- [Federal Register / 2026-07-08] Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
+- [Federal Register / 2026-07-08] Approval of Expansion of Subzone 18G; Tesla, Inc.; Tracy, California
+- [Federal Register / 2026-07-08] Countervailing Duty Order of Phosphate Fertilizers From the Kingdom of Morocco: Temporary Duty Free Importation
+- [Federal Register / 2026-07-08] Polyethylene Terephthalate Film, Sheet, and Strip From India: Final Results of Antidumping Duty Administrative Review; 2023-2024
+- [Federal Register / 2026-07-08] Notice of Intent To Prepare an Environmental Impact Statement, Onondaga County, New York
+
+
+---
+
 ## 2026-07-07
 
 ### Official & Regulatory
