@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-08
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Reverses US Sanctions Relaxation Related to US-Iran Memorandum of Understanding](https://sanctionsnews.bakermckenzie.com/ofac-reverses-us-sanctions-relaxation-related-to-us-iran-memorandum-of-understanding/)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[Federal Register]** [Schedules of Controlled Substances: Placement of Tianeptine in Schedule I (2026-07-08)](https://www.federalregister.gov/documents/2026/07/08/2026-13821/schedules-of-controlled-substances-placement-of-tianeptine-in-schedule-i)
+- **[Federal Register]** [Proposed Collection; 60-Day Comment Request: Generic Clearance for the Collection of Customer Participation and Performance Management With NIH Programs, Products, and Services (Office of the Director) (2026-07-08)](https://www.federalregister.gov/documents/2026/07/08/2026-13806/proposed-collection-60-day-comment-request-generic-clearance-for-the-collection-of-customer)
+- **[Federal Register]** [Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines (2026-07-08)](https://www.federalregister.gov/documents/2026/07/08/2026-13805/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines)
+- **[Federal Register]** [Countervailing Duty Order of Phosphate Fertilizers From the Kingdom of Morocco: Temporary Duty Free Importation (2026-07-08)](https://www.federalregister.gov/documents/2026/07/08/2026-13796/countervailing-duty-order-of-phosphate-fertilizers-from-the-kingdom-of-morocco-temporary-duty-free)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Calls for Large Position Reports](https://home.treasury.gov/news/press-releases/sb0556)
+- **[Treasury]** [U.S. Treasury Announces the Official Launch of Trump Accounts and Full Scope of the App](https://home.treasury.gov/news/press-releases/sb0554)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [To Help Venezuelans After the Quake, End U.S. Sanctions](https://www.justsecurity.org/145577/venezuela-earthquake-end-us-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=venezuela-earthquake-end-us-sanctions)
+- **[Atlantic Council]** [AI is the next major biodefense tech priority](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/ai-is-the-next-major-biodefense-tech-priority/)
+- **[Atlantic Council]** [Putin escalates ballistic missile attacks as Patriot shortages leave Ukraine defenseless](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-escalates-ballistic-missile-attacks-as-patriot-shortages-leave-ukraine-defenseless/)
+
+---
+
 ## 2026-07-08 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
