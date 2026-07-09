@@ -9,6 +9,46 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-09
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[OFAC]** [Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion](https://home.treasury.gov/news/press-releases/sb0519)
+- **[Federal Register]** [FY 2026 Competitive Funding Opportunity: Innovative Coordinated Access and Mobility (2026-07-09)](https://www.federalregister.gov/documents/2026/07/09/2026-13907/fy-2026-competitive-funding-opportunity-innovative-coordinated-access-and-mobility)
+- **[Federal Register]** [Proposed Flood Hazard Determinations (2026-07-09)](https://www.federalregister.gov/documents/2026/07/09/2026-13901/proposed-flood-hazard-determinations)
+- **[Federal Register]** [Changes in Flood Hazard Determinations (2026-07-09)](https://www.federalregister.gov/documents/2026/07/09/2026-13900/changes-in-flood-hazard-determinations)
+- **[Federal Register]** [Changes in Flood Hazard Determinations (2026-07-09)](https://www.federalregister.gov/documents/2026/07/09/2026-13899/changes-in-flood-hazard-determinations)
+- **[Federal Register]** [Changes in Flood Hazard Determinations (2026-07-09)](https://www.federalregister.gov/documents/2026/07/09/2026-13898/changes-in-flood-hazard-determinations)
+- **[Federal Register]** [Changes in Flood Hazard Determinations (2026-07-09)](https://www.federalregister.gov/documents/2026/07/09/2026-13897/changes-in-flood-hazard-determinations)
+- **[Federal Register]** [Civil Monetary Penalties for Onshore Oil and Gas Operations and Coal Trespass (2026-07-09)](https://www.federalregister.gov/documents/2026/07/09/2026-13896/civil-monetary-penalties-for-onshore-oil-and-gas-operations-and-coal-trespass)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Calls for Large Position Reports](https://home.treasury.gov/news/press-releases/sb0556)
+- **[Treasury]** [U.S. Treasury Announces the Official Launch of Trump Accounts and Full Scope of the App](https://home.treasury.gov/news/press-releases/sb0554)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Swiss Foundation](https://home.treasury.gov/news/press-releases/sb0534)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Advised TGS on Sale of Its North American Well Data Products Business to Enverus](https://www.gibsondunn.com/advised-tgs-on-sale-of-its-north-american-well-data-products-business-to-enverus/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: July 8, 2026](https://www.justsecurity.org/146142/early-edition-july-8-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-8-2026)
+- **[Atlantic Council]** [Braw in Foreign Policy on European response to Russia’s shadow fleet](https://www.atlanticcouncil.org/commentary/braw-in-foreign-policy-on-european-response-to-russias-shadow-fleet/)
+- **[Atlantic Council]** [The US paper fleet: The Jones Act and the 2026 Iran war stress test](https://www.atlanticcouncil.org/blogs/energysource/the-us-paper-fleet-the-jones-act-and-the-2026-iran-war-stress-test/)
+
+---
+
 ## 2026-07-09 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
