@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-10 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 123 - status: suspended
+
+- [Federal Register / 2026-07-09] Anti-Money Laundering and Countering the Financing of Terrorism Programs
+- [Federal Register / 2026-07-09] Agency Information Collection Activities; Comment Request on Notice of Qualified Equity Investment for New Markets Credit
+- [Federal Register / 2026-07-09] Proposed Agency Information Collection Activities; Comment Request
+- [Federal Register / 2026-07-09] FY 2026 Competitive Funding Opportunity: Innovative Coordinated Access and Mobility
+- [Federal Register / 2026-07-09] Proposed Agency Information Collection Activities; Comment Request
+- [Federal Register / 2026-07-09] Proposed Agency Information Collection Activities; Comment Request
+- [Federal Register / 2026-07-09] Agency Information Collection Activities: Announcement of Board Approval Under Delegated Authority and Submission to OMB
+- [Federal Register / 2026-07-09] Prompt Payment Interest Rate; Contract Disputes Act
+- [Federal Register / 2026-07-09] Agency Information Collection Activities; Proposed Information Collection Request; Comment Request; EPA Program Information on Source Water Protection (Renewal)
+- [Federal Register / 2026-07-09] Proposed Flood Hazard Determinations
+- [Federal Register / 2026-07-09] Changes in Flood Hazard Determinations
+- [Federal Register / 2026-07-09] Changes in Flood Hazard Determinations
+- [Federal Register / 2026-07-09] Changes in Flood Hazard Determinations
+- [Federal Register / 2026-07-09] Changes in Flood Hazard Determinations
+- [Federal Register / 2026-07-09] Civil Monetary Penalties for Onshore Oil and Gas Operations and Coal Trespass
+- [Federal Register / 2026-07-09] Notice of Federal Advisory Committee Meeting
+- [Federal Register / 2026-07-09] Foreign-Trade Zone 61; Application for Subzone; Sonnell Realty IV, LLC; Bayamón, Puerto Rico
+- [Federal Register / 2026-07-09] Foreign-Trade Zone 155; Application for Subzone; Kerrville Public Utility Board Public Facility Corporation; Garwood, Texas
+- [Federal Register / 2026-07-09] Initiation of Antidumping and Countervailing Duty Administrative Reviews
+- [Federal Register / 2026-07-09] Silicon Metal From Australia and Norway; Supplemental Schedule for the Final Phase of the Investigations
+
+
+---
+
 ## 2026-07-09
 
 ### Official & Regulatory
