@@ -9,6 +9,32 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-13
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[OFAC]** [Treasury Sanctions Rebel Commanders Driving Conflict in the Democratic Republic of the Congo](https://home.treasury.gov/news/press-releases/sb0518)
+- **[Federal Register]** [Duke Energy Carolinas, LLC; Notice of Application for Temporary Variance Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests (2026-07-13)](https://www.federalregister.gov/documents/2026/07/13/2026-14083/duke-energy-carolinas-llc-notice-of-application-for-temporary-variance-accepted-for-filing)
+- **[Federal Register]** [Commission Information Collection Activities (Ferc-521); Comment Request; Extension (2026-07-13)](https://www.federalregister.gov/documents/2026/07/13/2026-14075/commission-information-collection-activities-ferc-521-comment-request-extension)
+- **[Federal Register]** [Safety Zone; Chicago Sanitary and Ship Canal, Chicago, IL (2026-07-13)](https://www.federalregister.gov/documents/2026/07/13/2026-14072/safety-zone-chicago-sanitary-and-ship-canal-chicago-il)
+- **[Federal Register]** [Pipeline Safety: Information Collection Activities (2026-07-13)](https://www.federalregister.gov/documents/2026/07/13/2026-14070/pipeline-safety-information-collection-activities)
+- **[Federal Register]** [Office of Government Information Services Annual Meeting (2026-07-13)](https://www.federalregister.gov/documents/2026/07/13/2026-14068/office-of-government-information-services-annual-meeting)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Calls for Large Position Reports](https://home.treasury.gov/news/press-releases/sb0556)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+
+---
+
 ## 2026-07-13 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
