@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-14 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 119 - status: suspended
+
+- [Federal Register / 2026-07-13] Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Foreign Gifts and Contracts Disclosures
+- [Federal Register / 2026-07-13] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-07-13] Statistical Policy Directive No. 8: North American Industry Classification System (NAICS)-Request for Comments on Proposed Updates for 2027
+- [Federal Register / 2026-07-13] Loan Guaranty: Federal Civil Penalties Inflation Adjustment Act Amendments
+- [Federal Register / 2026-07-13] Duke Energy Carolinas, LLC; Notice of Application for Temporary Variance Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests
+- [Federal Register / 2026-07-13] Northern Natural Gas Company; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed Permian Basin Expansion Project
+- [Federal Register / 2026-07-13] Steel Reef Pipelines US LLC; Notice of Application and Establishing Intervention Deadline
+- [Federal Register / 2026-07-13] Molitor, LLC; Notice of Intent To File License Application, Filing of Pre-Application Document, and Approving Use of the Traditional Licensing Process
+- [Federal Register / 2026-07-13] Rockies Express Pipeline LLC; Cheyenne Connector, LLC; East Cheyenne Gas Storage, LLC: Notice of Onsite Environmental Review
+- [Federal Register / 2026-07-13] Oswego Hydro Partners, LP; Notice of Waiver of Water Quality Certification
+- [Federal Register / 2026-07-13] Western Area Power Administration; Notice of Filing
+- [Federal Register / 2026-07-13] Transcontinental Gas Pipe Line Company, LLC; Notice; Notice of Request of Extension of Time
+- [Federal Register / 2026-07-13] Commission Information Collection Activities (Ferc-521); Comment Request; Extension
+- [Federal Register / 2026-07-13] New Agency Information Collection Activity Under OMB Review: Insider Threat Incident Reporting Tool
+- [Federal Register / 2026-07-13] Drug Establishment Registration and Drug Listing Requirements for Establishments Engaged in Distributed Manufacturing and Certain Foreign Establishments
+- [Federal Register / 2026-07-13] Safety Zone; Chicago Sanitary and Ship Canal, Chicago, IL
+- [Federal Register / 2026-07-13] Pipeline Safety: Guidance for Enhancing the Effectiveness of Distribution Integrity Management Programs
+- [Federal Register / 2026-07-13] Pipeline Safety: Information Collection Activities
+- [Federal Register / 2026-07-13] Carbon and Alloy Steel Threaded Rod From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025
+- [Federal Register / 2026-07-13] Office of Government Information Services Annual Meeting
+
+
+---
+
 ## Week of 2026-07-13
 
 - **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
