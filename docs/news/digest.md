@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-14
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [US Initiates Process to Rescind Syria’s State Sponsor of Terrorism Designation](https://sanctionsnews.bakermckenzie.com/us-initiates-process-to-rescind-syrias-state-sponsor-of-terrorism-designation/)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[OFAC]** [Economic Fury Targets Iranian LPG Smuggling and Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0524)
+- **[Federal Register]** [Agency Information Collection Activities; Comment Request; eZ-Audit: Electronic Submission of Financial Statements and Compliance Audits (2026-07-14)](https://www.federalregister.gov/documents/2026/07/14/2026-14159/agency-information-collection-activities-comment-request-ez-audit-electronic-submission-of-financial)
+- **[Federal Register]** [Notice of Public Meetings of the Michigan Advisory Committee to the U.S. Commission on Civil Rights (2026-07-14)](https://www.federalregister.gov/documents/2026/07/14/2026-14144/notice-of-public-meetings-of-the-michigan-advisory-committee-to-the-us-commission-on-civil-rights)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Calls for Large Position Reports](https://home.treasury.gov/news/press-releases/sb0556)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Civilian Protection in the Age of Military AI: What Congress’s New Legislative Proposals Reveal About Emerging Safeguards](https://www.justsecurity.org/146544/civilian-protection-military-ai-congress/?utm_source=rss&utm_medium=rss&utm_campaign=civilian-protection-military-ai-congress)
+- **[Just Security]** [Early Edition: July 13, 2026](https://www.justsecurity.org/146893/early-edition-july-13-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-13-2026)
+- **[Atlantic Council]** [Kroenig quoted in The Washington Post on Senator Lindsey Graham’s legacy](https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-quoted-in-the-washington-post-on-senator-lindsey-grahams-legacy/)
+
+---
+
 ## 2026-07-14 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
