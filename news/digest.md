@@ -9,6 +9,47 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-15
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[OFAC]** [Economic Fury Disrupts Foreign Networks Supporting Iran’s Military and Weapons Programs](https://home.treasury.gov/news/press-releases/sb0528)
+- **[Federal Register]** [Air Plan Approval; Wisconsin; Source-Specific Air Quality Implementation Plan; Oak Creek Power Plant (2026-07-15)](https://www.federalregister.gov/documents/2026/07/15/2026-14282/air-plan-approval-wisconsin-source-specific-air-quality-implementation-plan-oak-creek-power-plant)
+- **[Federal Register]** [Approval of Source-Specific Air Quality Implementation Plan; New York; Castleton Power, LLC (2026-07-15)](https://www.federalregister.gov/documents/2026/07/15/2026-14261/approval-of-source-specific-air-quality-implementation-plan-new-york-castleton-power-llc)
+- **[Federal Register]** [Air Plan Approval; Missouri; Control of NOX Emissions From Large Stationary Internal Combustion Engines (2026-07-15)](https://www.federalregister.gov/documents/2026/07/15/2026-14260/air-plan-approval-missouri-control-of-nox-emissions-from-large-stationary-internal-combustion)
+- **[Federal Register]** [Notice of OFAC Sanctions Action (2026-07-15)](https://www.federalregister.gov/documents/2026/07/15/2026-14247/notice-of-ofac-sanctions-action)
+- **[Federal Register]** [Montana Regulatory Program (2026-07-15)](https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program)
+- **[Federal Register]** [Notice of Public Meetings of the Maryland Advisory Committee to the U.S. Commission on Civil Rights (2026-07-15)](https://www.federalregister.gov/documents/2026/07/15/2026-14243/notice-of-public-meetings-of-the-maryland-advisory-committee-to-the-us-commission-on-civil-rights)
+- **[Federal Register]** [Electronic Filing Systems for Filings Pursuant to the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks (2026-07-15)](https://www.federalregister.gov/documents/2026/07/15/2026-14239/electronic-filing-systems-for-filings-pursuant-to-the-protocol-relating-to-the-madrid-agreement)
+- **[Federal Register]** [Ambient Air Monitoring Reference and Equivalent Methods; Designation of One New Reference Method and Three New Equivalent Methods (2026-07-15)](https://www.federalregister.gov/documents/2026/07/15/2026-14237/ambient-air-monitoring-reference-and-equivalent-methods-designation-of-one-new-reference-method-and)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury International Capital Data for May](https://home.treasury.gov/news/press-releases/sb0561)
+- **[Treasury]** [Remarks by Treasury Secretary Scott Bessent before the American Academy of Achievement’s International Achievement Summit](https://home.treasury.gov/news/press-releases/sb0541)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at The Economic Club of New York’s America 250 Gala Dinner: American Economic Statecraft in the 21st Century](https://home.treasury.gov/news/press-releases/sb0539)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Pro Bono Practice Among Top in Law.com 2026 Pro Bono Report](https://www.gibsondunn.com/gibson-dunn-pro-bono-practice-among-top-in-law-com-2026-pro-bono-report/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The Dangers of Florida’s New “Terrorist” Designations](https://www.justsecurity.org/146537/dangers-florida-new-terrorist-designations/?utm_source=rss&utm_medium=rss&utm_campaign=dangers-florida-new-terrorist-designations)
+- **[Just Security]** [Early Edition: July 14, 2026](https://www.justsecurity.org/147118/early-edition-july-14-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-14-2026)
+- **[Atlantic Council]** [When the plug gets pulled: Frontier AI, export controls, and what Africa must do](https://www.atlanticcouncil.org/blogs/africasource/when-the-plug-gets-pulled-frontier-ai-export-controls-and-what-africa-must-do/)
+- **[Atlantic Council]** [Drone superpower Ukraine is now Europe’s first line of defense](https://www.atlanticcouncil.org/blogs/ukrainealert/drone-superpower-ukraine-is-now-europes-first-line-of-defense/)
+- **[Atlantic Council]** [Wechsler joins CNN to discuss the latest US strikes against Iran](https://www.atlanticcouncil.org/insight-impact/in-the-news/wechsler-joins-cnn-to-discuss-the-latest-us-strikes-against-iran/)
+
+---
+
 ## 2026-07-15 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
