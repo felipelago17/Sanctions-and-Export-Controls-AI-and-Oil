@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-15 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 118 - status: suspended
+
+- [Federal Register / 2026-07-15] Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts Into the United States
+- [Federal Register / 2026-07-15] Air Plan Approval; Wisconsin; Source-Specific Air Quality Implementation Plan; Oak Creek Power Plant
+- [Federal Register / 2026-07-15] Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines
+- [Federal Register / 2026-07-15] Approval of Source-Specific Air Quality Implementation Plan; New York; Castleton Power, LLC
+- [Federal Register / 2026-07-15] Air Plan Approval; Missouri; Control of NOX Emissions From Large Stationary Internal Combustion Engines
+- [Federal Register / 2026-07-15] [Agency Information Collection Activities; Proposed eCollection, eComments Requested; Extension of a Previously Approved Collection; TitleLaw Enforcement Public Contact Data Collection
+- [Federal Register / 2026-07-15] Churchill Asset Management LLC
+- [Federal Register / 2026-07-15] Establishment of Class E Airspace; Crown Point, IN
+- [Federal Register / 2026-07-15] Notice of OFAC Sanctions Action
+- [Federal Register / 2026-07-15] Notice of Formal Determination on Records Release
+- [Federal Register / 2026-07-15] Montana Regulatory Program
+- [Federal Register / 2026-07-15] Montana Regulatory Program
+- [Federal Register / 2026-07-15] Notice of Public Meetings of the Maryland Advisory Committee to the U.S. Commission on Civil Rights
+- [Federal Register / 2026-07-15] National Institute on Minority Health and Health Disparities; Notice of Partially Closed Meeting
+- [Federal Register / 2026-07-15] Center For Scientific Review; Notice of Closed Meetings
+- [Federal Register / 2026-07-15] References to Electronic Filing Systems in Rules of Practice in Filings Pursuant to the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks
+- [Federal Register / 2026-07-15] Electronic Filing Systems for Filings Pursuant to the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks
+- [Federal Register / 2026-07-15] Airworthiness Directives; Bell Textron Canada Limited Helicopters
+- [Federal Register / 2026-07-15] Ambient Air Monitoring Reference and Equivalent Methods; Designation of One New Reference Method and Three New Equivalent Methods
+- [Federal Register / 2026-07-15] Civil Monetary Penalties Inflation Adjustments for 2026
+
+
+---
+
 ## 2026-07-14
 
 ### Official & Regulatory
