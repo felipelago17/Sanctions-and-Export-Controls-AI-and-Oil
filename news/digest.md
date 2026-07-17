@@ -9,6 +9,39 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-17
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[Federal Register]** [Airworthiness Directives; Diamond Aircraft Industries GmbH (2026-07-17)](https://www.federalregister.gov/documents/2026/07/17/2026-14511/airworthiness-directives-diamond-aircraft-industries-gmbh)
+- **[Federal Register]** [Tesla, Inc., Denial of Petition for Decision of Inconsequential Noncompliance (2026-07-17)](https://www.federalregister.gov/documents/2026/07/17/2026-14506/tesla-inc-denial-of-petition-for-decision-of-inconsequential-noncompliance)
+- **[Federal Register]** [Information Collection: NRC Form 361, Reactor Plant Event Notification Worksheet; NRC Form 361A, Fuel Cycle and Materials Event Notification Worksheet; NRC Form 361N, Non-Power Reactor (NPR) Event Notification Worksheet; NRC Form 361S, Plant Event Notification Worksheet (2026-07-17)](https://www.federalregister.gov/documents/2026/07/17/2026-14504/information-collection-nrc-form-361-reactor-plant-event-notification-worksheet-nrc-form-361a-fuel)
+- **[Federal Register]** [Special Local Regulation; Cayuga Lake, Ithaca, NY (2026-07-17)](https://www.federalregister.gov/documents/2026/07/17/2026-14500/special-local-regulation-cayuga-lake-ithaca-ny)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Announces Frank Bisignano to Lead Next Phase of Trump Accounts Expansion](https://home.treasury.gov/news/press-releases/sb0563)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [How to Choose Which Military Members to Hold Accountable for Illegal Boat Strikes](https://www.justsecurity.org/145257/military-members-accountable-illegal-boat-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=military-members-accountable-illegal-boat-strikes)
+- **[Just Security]** [Why It’s Wrong to Involuntarily Mobilize Reserve JAGs for Immigration Cases](https://www.justsecurity.org/146560/involuntarily-mobilize-military-lawyers-wrong/?utm_source=rss&utm_medium=rss&utm_campaign=involuntarily-mobilize-military-lawyers-wrong)
+- **[Just Security]** [Early Edition: July 16, 2026](https://www.justsecurity.org/147545/early-edition-july-16-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-16-2026)
+- **[Just Security]** [Collection: U.S. Lethal Strikes on Suspected Drug Traffickers, Operation Southern Spear, Operation Absolute Resolve](https://www.justsecurity.org/120753/collection-u-s-lethal-strikes-on-suspected-drug-traffickers/?utm_source=rss&utm_medium=rss&utm_campaign=collection-u-s-lethal-strikes-on-suspected-drug-traffickers)
+- **[Atlantic Council]** [Innovation under fire: Ukraine’s energy defense is a blueprint for the world](https://www.atlanticcouncil.org/blogs/ukrainealert/innovation-under-fire-ukraines-energy-defense-is-a-blueprint-for-the-world/)
+- **[Atlantic Council]** [Ukraine’s national recovery must go far beyond rebuilding what was lost](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-national-recovery-must-go-far-beyond-rebuilding-what-was-lost/)
+- **[Atlantic Council]** [Artificial intelligence and the future of African mining](https://www.atlanticcouncil.org/in-depth-research-reports/report/artificial-intelligence-and-the-future-of-african-mining/)
+
+---
+
 ## 2026-07-17 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
