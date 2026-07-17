@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-17 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 116 - status: suspended
+
+- [Federal Register / 2026-07-16] Continuation of the National Emergency With Respect to Significant Transnational Criminal Organizations
+- [Federal Register / 2026-07-16] Continuation of the National Emergency With Respect to Hostage-Taking and the Wrongful Detention of United States Nationals Abroad
+- [Federal Register / 2026-07-16] Regulatory Relief for Certain Stationary Sources To Promote American Chemical Manufacturing Security
+- [Federal Register / 2026-07-16] Presidential Declaration of a Major Disaster for Public Assistance Only for the Territory of Guam
+- [Federal Register / 2026-07-16] Amendment of Class D Airspace and Class E Airspace Over New Bedford, MA
+- [Federal Register / 2026-07-16] Agency Information Collection Activities; Proposed eCollection eComments Requested; Title-Semi-Annual Progress Report for Grantees From the Tribal Sexual Assault Services Program
+- [Federal Register / 2026-07-16] Agency Information Collection Activities; Proposed eCollection eComments Requested; Title-Semi-Annual Progress Report for the Technical Assistance Program
+- [Federal Register / 2026-07-16] Agency Information Collection Activities; Revision of a Currently Approved Collection: Petition for Alien Relative
+- [Federal Register / 2026-07-16] Endangered Species; File No. 29736
+- [Federal Register / 2026-07-16] Submission for OMB Review; Comment Request
+- [Federal Register / 2026-07-16] International Whaling Commission; 70th Meeting; Announcement of Public Meeting
+- [Federal Register / 2026-07-16] Fisheries of the Gulf of America; Southeast Data, Assessment, and Review; Public Meeting
+- [Federal Register / 2026-07-16] Sunshine Act Meetings
+- [Federal Register / 2026-07-16] Renewal of Department of Defense Federal Advisory Committee-National Security Education Board
+- [Federal Register / 2026-07-16] Renewal of Department of Defense Federal Advisory Committee-Board of Regents, Uniformed Services University of the Health Sciences
+- [Federal Register / 2026-07-16] Privacy Act of 1974; System of Records
+- [Federal Register / 2026-07-16] South Atlantic Fishery Management Council (Council)-Public Meetings
+- [Federal Register / 2026-07-16] Notice of Proposals To Engage in or To Acquire Companies Engaged in Permissible Nonbanking Activities
+- [Federal Register / 2026-07-16] Formations of, Acquisitions by, and Mergers of Bank Holding Companies
+- [Federal Register / 2026-07-16] Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
+
+
+---
+
 ## 2026-07-16
 
 ### Official & Regulatory
