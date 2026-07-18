@@ -9,6 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-18
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Targets Iranian Commercial Networks and Issues Iran-Related Wind Down General Licenses](https://sanctionsnews.bakermckenzie.com/ofac-targets-iranian-commercial-networks-and-issues-iran-related-wind-down-general-licenses/)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[Federal Register]** [Action by the United States in the Investigation Under Section 301 of the Trade Act of 1974 of Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariffs; Anti-Corruption Enforcement; Intellectual Property Protection; Ethanol Market Access; and Illegal Deforestation (2026-07-20)](https://www.federalregister.gov/documents/2026/07/20/2026-14654/action-by-the-united-states-in-the-investigation-under-section-301-of-the-trade-act-of-1974-of)
+- **[Federal Register]** [Certain Foundry Coke; Notice of Institution of Investigation (2026-07-20)](https://www.federalregister.gov/documents/2026/07/20/2026-14596/certain-foundry-coke-notice-of-institution-of-investigation)
+- **[Federal Register]** [Welded Stainless Steel Line and Pressure Pipe From India, Turkey, and the United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations (2026-07-20)](https://www.federalregister.gov/documents/2026/07/20/2026-14594/welded-stainless-steel-line-and-pressure-pipe-from-india-turkey-and-the-united-arab-emirates)
+- **[Federal Register]** [Notice of Department of State Sanctions Action (2026-07-20)](https://www.federalregister.gov/documents/2026/07/20/2026-14593/notice-of-department-of-state-sanctions-action)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Announces Frank Bisignano to Lead Next Phase of Trump Accounts Expansion](https://home.treasury.gov/news/press-releases/sb0563)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [How Congress Can End Trump’s Iran War and Prevent the Next One](https://www.justsecurity.org/147662/congress-end-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=congress-end-iran-war)
+- **[Just Security]** [Early Edition: July 17, 2026](https://www.justsecurity.org/147767/early-edition-july-17-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-17-2026)
+- **[Atlantic Council]** [Backlash against data centers could cost the US its AI edge](https://www.atlanticcouncil.org/blogs/energysource/backlash-against-data-centers-could-cost-the-us-its-ai-edge/)
+- **[Atlantic Council]** [What’s old and new in the US economy at 250?](https://www.atlanticcouncil.org/commentary/podcast/whats-old-and-new-in-the-us-economy-at-250/)
+
+---
+
 ## 2026-07-17
 
 ### Official & Regulatory
