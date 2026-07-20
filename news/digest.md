@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-20 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 113 - status: suspended
+
+- [Federal Register / 2026-07-20] Action by the United States in the Investigation Under Section 301 of the Trade Act of 1974 of Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariffs; Anti-Corruption Enforcement; Intellectual Property Protection; Ethanol Market Access; and Illegal Deforestation
+- [Federal Register / 2026-07-20] Board of Directors; Request for Nomination
+- [Federal Register / 2026-07-20] Notice of Public Hearing and Business Meeting August 5, 2026 and September 2, 2026
+- [Federal Register / 2026-07-20] Generator Interconnection Programmatic Environmental Impact Statement
+- [Federal Register / 2026-07-20] Lamb Meat; Institution of Investigation, Scheduling of Public Hearings, and Determination That the Investigation Is Extraordinarily Complicated
+- [Federal Register / 2026-07-20] United States Passports Invalid for Travel to, in, or Through the Democratic People's Republic of Korea (DPRK)
+- [Federal Register / 2026-07-20] Chicago Rock Island & Pacific Railroad, LLC-Change of Operator Exemption- Railroad Line in Monterey and Santa Cruz Counties, Cal.
+- [Federal Register / 2026-07-20] Office of the Secretary; Amended Notice of Meeting
+- [Federal Register / 2026-07-20] Drawbridge Operation Regulation; Newark Bay, Between the City of Newark and City of Bayonne, NJ
+- [Federal Register / 2026-07-20] Lattice-Boom Crawler Cranes (LBCCs) From Japan; Determination
+- [Federal Register / 2026-07-20] Certain Foundry Coke; Notice of Institution of Investigation
+- [Federal Register / 2026-07-20] Preserved Mushrooms From Chile, China, India, and Indonesia
+- [Federal Register / 2026-07-20] Welded Stainless Steel Line and Pressure Pipe From India, Turkey, and the United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations
+- [Federal Register / 2026-07-20] Notice of Department of State Sanctions Action
+- [Federal Register / 2026-07-20] Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Harpoon Category Fishery for 2026
+- [Federal Register / 2026-07-20] R.J. Fortier Hydropower, Inc.; Notice of Intent To Prepare an Environmental Assessment
+- [Federal Register / 2026-07-20] MountainWest Overthrust Pipeline, LLC; Notice of Application and Establishing Intervention Deadline
+- [Federal Register / 2026-07-20] Reporting Forms and Instructions Associated With Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers
+- [Federal Register / 2026-07-20] Reporting and Recordkeeping Requirements Under OMB Review
+- [Federal Register / 2026-07-20] Privacy Act of 1974; System of Records
+
+
+---
+
 ## 2026-07-19
 
 ### Official & Regulatory
