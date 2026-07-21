@@ -9,6 +9,42 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-21
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [United States: Administration Issues New Executive Order on Quantum Innovation](https://sanctionsnews.bakermckenzie.com/united-states-administration-issues-new-executive-order-on-quantum-innovation/)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[Federal Register]** [General Technical, Organizational, Conforming, and Correcting Amendments to the Federal Motor Carrier Safety Regulations (2026-07-21)](https://www.federalregister.gov/documents/2026/07/21/2026-14701/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier)
+- **[Federal Register]** [Request for Comment: Commission Agenda and Priorities (2026-07-21)](https://www.federalregister.gov/documents/2026/07/21/2026-14700/request-for-comment-commission-agenda-and-priorities)
+- **[Federal Register]** [Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Massachusetts (2026-07-21)](https://www.federalregister.gov/documents/2026/07/21/2026-14697/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north)
+- **[Federal Register]** [Commission Information Collection Activities (FERC-725S); Comment Request; Extension (2026-07-21)](https://www.federalregister.gov/documents/2026/07/21/2026-14684/commission-information-collection-activities-ferc-725s-comment-request-extension)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Announces Frank Bisignano to Lead Next Phase of Trump Accounts Expansion](https://home.treasury.gov/news/press-releases/sb0563)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gregg Costa Speaks With Corporate Counsel About Landmark Decision for In-House Counsel](https://www.gibsondunn.com/gregg-costa-speaks-with-corporate-counsel-about-landmark-decision-for-in-house-counsel/)
+- **[Gibson Dunn]** [Mid-Year Developments in Anti-Money Laundering in 2026](https://www.gibsondunn.com/mid-year-developments-in-anti-money-laundering-in-2026/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Merchant Mariners: Unseen in Peacetime and Forgotten in Conflict](https://www.justsecurity.org/146064/merchant-mariners-forgotten-in-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=merchant-mariners-forgotten-in-conflict)
+- **[Just Security]** [Early Edition: July 20, 2026](https://www.justsecurity.org/148333/early-edition-july-20-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-20-2026)
+- **[Atlantic Council]** [The Houthis just announced a blockade on Saudi Arabia. What does it mean for the global economy?](https://www.atlanticcouncil.org/dispatches/the-houthis-just-announced-a-blockade-on-saudi-arabia-what-does-it-mean-for-the-global-economy/)
+- **[Atlantic Council]** [Germany is finally waking up to the China challenge. And Beijing is gearing up to respond](https://www.atlanticcouncil.org/blogs/econographics/germany-is-finally-waking-up-to-the-china-challenge-and-beijing-is-gearing-up-to-respond/)
+
+---
+
 ## 2026-07-21 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
