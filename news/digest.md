@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-21 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 112 - status: suspended
+
+- [Federal Register / 2026-07-21] Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps
+- [Federal Register / 2026-07-21] Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program; Correction
+- [Federal Register / 2026-07-21] General Technical, Organizational, Conforming, and Correcting Amendments to the Federal Motor Carrier Safety Regulations
+- [Federal Register / 2026-07-21] Request for Comment: Commission Agenda and Priorities
+- [Federal Register / 2026-07-21] Agency Information Collection Activities: Proposed Collection; Comment Request
+- [Federal Register / 2026-07-21] USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction
+- [Federal Register / 2026-07-21] Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Massachusetts
+- [Federal Register / 2026-07-21] Small Business Investment Company (“SBIC”) Program: SBA Model Form of Agreement for Limited Partnership SBICs
+- [Federal Register / 2026-07-21] International Product Change-Priority Mail Express International, Priority Mail International & First-Class Package International Service Agreement
+- [Federal Register / 2026-07-21] Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures
+- [Federal Register / 2026-07-21] Approval of Subzone Status; Pratt & Whitney Engine Services, Inc.; Bridgeport, West Virginia
+- [Federal Register / 2026-07-21] Foreign-Trade Zone (FTZ) 202, Notification of Proposed Production Activity; PolyPeptide Laboratories Inc.; (Peptides); Torrance, California
+- [Federal Register / 2026-07-21] PJM Governance and Stakeholder Reforms; Third Supplemental Notice of Commission-Led Technical Conference
+- [Federal Register / 2026-07-21] Combined Notice of Filings #1
+- [Federal Register / 2026-07-21] Combined Notice of Filings #2
+- [Federal Register / 2026-07-21] Combined Notice of Filings
+- [Federal Register / 2026-07-21] Tennessee Gas Pipeline Company, L.L.C.; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed South Texas Enhancement Project
+- [Federal Register / 2026-07-21] ETC Tiger Pipeline, LLC; Notice of Application and Establishing Intervention Deadline
+- [Federal Register / 2026-07-21] Order Adopting Categorical Exclusions From Tennessee Valley Authority Under the National Environmental Policy Act Notice of Adoption of Categorical Exclusions Under the National Environmental Policy Act
+- [Federal Register / 2026-07-21] Commission Information Collection Activities (FERC-725S); Comment Request; Extension
+
+
+---
+
 ## Week of 2026-07-20
 
 - **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
