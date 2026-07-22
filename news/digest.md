@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-22 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 111 - status: suspended
+
+- [Federal Register / 2026-07-22] Methylene Chloride
+- [Federal Register / 2026-07-22] Vinyl Chloride
+- [Federal Register / 2026-07-22] Methylenedianiline
+- [Federal Register / 2026-07-22] Lead
+- [Federal Register / 2026-07-22] Inorganic Arsenic
+- [Federal Register / 2026-07-22] Formaldehyde
+- [Federal Register / 2026-07-22] 1,2-Dibromo-3-Chloropropane
+- [Federal Register / 2026-07-22] Inorganic Arsenic
+- [Federal Register / 2026-07-22] Acrylonitrile
+- [Federal Register / 2026-07-22] 13 Carcinogens (4-Nitrobiphenyl, etc.)
+- [Federal Register / 2026-07-22] Ethylene Oxide
+- [Federal Register / 2026-07-22] Cadmium
+- [Federal Register / 2026-07-22] Asbestos
+- [Federal Register / 2026-07-22] 1, 3-Butadiene
+- [Federal Register / 2026-07-22] Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Ten Kings of Hell: The Afterlife in Medieval Korea” Exhibition
+- [Federal Register / 2026-07-22] Agency Information Collection Activities; Proposed Collection; Comments Requested; Revision of a Previously Approved Collection; Title-Supplemental Information on Water Quality Considerations-ATF Form 5400.30
+- [Federal Register / 2026-07-22] Revocation of Obsolete Rules Regarding Infant Bouncer Seats and Stationary Activity Centers
+- [Federal Register / 2026-07-22] Agency Information Collection Activities: Proposed Collection Renewal; Comment Request
+- [Federal Register / 2026-07-22] Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-35, V-37, V-53, V-133, V-136, V-143, V-259, V-310, V-364, V-409, V-415, V-454, and V-605; Eastern United States
+- [Federal Register / 2026-07-22] Notice Pursuant to the National Cooperative Research and Production Act of 1993-1EdTech Consortium, Inc. (F/K/A IMS Global Learning Consortium, Inc.)
+
+
+---
+
 ## 2026-07-21
 
 ### Official & Regulatory
