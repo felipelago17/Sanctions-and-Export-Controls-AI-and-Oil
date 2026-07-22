@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-22
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [United States: Administration Issues New Executive Order on Quantum Innovation](https://sanctionsnews.bakermckenzie.com/united-states-administration-issues-new-executive-order-on-quantum-innovation/)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Successfully Implements New Safeguard to Stop Payments to Deceased Individuals](https://home.treasury.gov/news/press-releases/sb0569)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Clausewitz on Operation Epic Fury](https://www.justsecurity.org/147675/clausewitz-operation-epic-fury/?utm_source=rss&utm_medium=rss&utm_campaign=clausewitz-operation-epic-fury)
+- **[Just Security]** [Early Edition: July 21, 2026](https://www.justsecurity.org/148592/early-edition-july-21-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-21-2026)
+- **[Atlantic Council]** [Colombia’s path to growth and opportunity through cooperation with the United States](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/colombias-path-to-growth-and-opportunity-through-cooperation-with-the-united-states/)
+- **[Atlantic Council]** [Ukraine is winning. Here’s what it needs to finish the job.](https://www.atlanticcouncil.org/dispatches/ukraine-is-winning-heres-what-it-needs-to-finish-the-job/)
+- **[Atlantic Council]** [Ukraine is in danger of losing its innovation edge over Russia](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-is-in-danger-of-losing-its-innovation-edge-over-russia/)
+- **[Atlantic Council]** [So what’s the strategy for Germany?](https://www.atlanticcouncil.org/commentary/podcast/so-whats-the-strategy-for-germany/)
+- **[Atlantic Council]** [The Gulf’s real front line in the Iran conflict runs through its water, cloud, and cables—and the links between them](https://www.atlanticcouncil.org/blogs/menasource/the-gulfs-real-front-line-in-the-iran-conflict-runs-through-its-water-cloud-and-cables-and-the-links-between-them/)
+
+---
+
 ## 2026-07-22 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
