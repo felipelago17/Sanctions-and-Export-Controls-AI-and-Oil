@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-23 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 110 - status: suspended
+
+- [Federal Register / 2026-07-23] Continuation of the National Emergency With Respect to Mali
+- [Federal Register / 2026-07-23] Securing America's Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials
+- [Federal Register / 2026-07-23] Made in America Week, 2026
+- [Federal Register / 2026-07-23] Captive Nations Week, 2026
+- [Federal Register / 2026-07-23] Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles
+- [Federal Register / 2026-07-23] Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Dairy
+- [Federal Register / 2026-07-23] Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Alcoholic Beverages
+- [Federal Register / 2026-07-23] Further Strengthening Actions Taken To Adjust Imports of Aluminum Into the United States
+- [Federal Register / 2026-07-23] Implementation of the Administrative False Claims Act
+- [Federal Register / 2026-07-23] Foreign-Trade Zone (FTZ) 72; Authorization of Production Activity; General Electric Company; (Commercial Aerospace Propulsion Parts and Engine Cores); Lafayette, Indiana
+- [Federal Register / 2026-07-23] Apogem Capital LLC, et al.
+- [Federal Register / 2026-07-23] Foreign-Trade Zone (FTZ) 93; Authorization of Production Activity; General Electric Company; (Commercial Aerospace Propulsion Parts and Engine Cores); Durham, North Carolina
+- [Federal Register / 2026-07-23] Foreign-Trade Zone (FTZ) 18, Notification of Proposed Production Activity; Pactron, Inc.; (Printed Circuit Board Assemblies); Santa Clara, California
+- [Federal Register / 2026-07-23] Filing of Plats of Survey; Wyoming
+- [Federal Register / 2026-07-23] L-Lysine From the People's Republic of China: Final Affirmative Countervailing Duty Determination
+- [Federal Register / 2026-07-23] L-Lysine From the People's Republic of China: Final Affirmative Determination of Sales at Less Than Fair Value
+- [Federal Register / 2026-07-23] Lattice Boom Crawler Cranes From Japan: Antidumping Duty Order
+- [Federal Register / 2026-07-23] Foreign-Trade Zone (FTZ) 35, Notification of Proposed Production Activity; ifm prover USA, Inc.; (Sensors, Controllers, Software and Systems for Industrial Automation); Malvern, Pennsylvania
+- [Federal Register / 2026-07-23] Foreign-Trade Zone 186; Approval of Subzone Status; Pratt & Whitney, a Division of RTX Corporation; North Berwick, Maine
+- [Federal Register / 2026-07-23] Notice of Public Data Asset Release Under the Open, Public, Electronic, and Necessary (OPEN) Government Data Act
+
+
+---
+
 ## 2026-07-22
 
 ### Official & Regulatory
