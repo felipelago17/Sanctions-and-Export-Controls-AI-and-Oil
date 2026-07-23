@@ -9,6 +9,35 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-23
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Issues General License Authorizing Agricultural and Medical Transactions and Activities Related to the Democratic Republic of the Congo and the Republic of Rwanda](https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-authorizing-agricultural-and-medical-transactions-and-activities-related-to-the-democratic-republic-of-the-congo-and-the-republic-of-rwanda/)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[OFAC]** [Treasury Further Dismantles Overseas Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0538)
+- **[OFAC]** [Treasury Targets ISIS Facilitators and Disrupts Terrorist Financial Networks](https://home.treasury.gov/news/press-releases/sb0537)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Successfully Implements New Safeguard to Stop Payments to Deceased Individuals](https://home.treasury.gov/news/press-releases/sb0569)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: July 22, 2026](https://www.justsecurity.org/148692/early-edition-july-22-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-22-2026)
+- **[Atlantic Council]** [How Japan is managing the energy shock](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/how-japan-is-managing-the-energy-shock/)
+- **[Atlantic Council]** [The US just threatened new tariffs on Canada. Here’s why they may not work.](https://www.atlanticcouncil.org/blogs/econographics/the-us-just-imposed-new-tariffs-on-canada-heres-why-they-may-not-work/)
+- **[Atlantic Council]** [What to know about the new US-Saudi nuclear deal](https://www.atlanticcouncil.org/content-series/fastthinking/what-to-know-about-the-new-us-saudi-nuclear-deal/)
+- **[Atlantic Council]** [Experts react: Reading between the lines of the new US-Saudi nuclear agreement](https://www.atlanticcouncil.org/dispatches/experts-react-reading-between-the-lines-of-the-new-us-saudi-nuclear-agreement/)
+- **[Atlantic Council]** [Upcoming Venezuela negotiations are an opportunity for the US to lock in a victory](https://www.atlanticcouncil.org/dispatches/upcoming-venezuela-negotiations-are-an-opportunity-for-the-us-to-lock-in-a-victory/)
+
+---
+
 ## 2026-07-23 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
