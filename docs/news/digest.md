@@ -9,6 +9,44 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-24
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[Federal Register]** [Fiscal Year 2027 Tariff-Rate Quota Allocations for Raw Cane Sugar, Refined Sugar, and Sugar-Containing Products (2026-07-24)](https://www.federalregister.gov/documents/2026/07/24/2026-15050/fiscal-year-2027-tariff-rate-quota-allocations-for-raw-cane-sugar-refined-sugar-and-sugar-containing)
+- **[Federal Register]** [Proposed Information Collection Activity; Voluntary Acknowledgment of Paternity and Required Data Elements for Paternity Establishment Affidavits (2026-07-24)](https://www.federalregister.gov/documents/2026/07/24/2026-15044/proposed-information-collection-activity-voluntary-acknowledgment-of-paternity-and-required-data)
+- **[Federal Register]** [Bureau of Political-Military Affairs; Statutory Debarment Under the Arms Export Control Act and the International Traffic in Arms Regulations (2026-07-24)](https://www.federalregister.gov/documents/2026/07/24/2026-15042/bureau-of-political-military-affairs-statutory-debarment-under-the-arms-export-control-act-and-the)
+- **[Federal Register]** [Freeport LNG Development, L.P.; FLNG Liquefaction, LLC; FLNG Liquefaction 2, LLC; FLNG Liquefaction 3, LLC; Notice of Application and Establishing Intervention Deadline (2026-07-24)](https://www.federalregister.gov/documents/2026/07/24/2026-15040/freeport-lng-development-lp-flng-liquefaction-llc-flng-liquefaction-2-llc-flng-liquefaction-3-llc)
+- **[Federal Register]** [Foreign-Trade Zone (FTZ) 75, Notification of Proposed Production Activity; Intel Corporation; (Semiconductor Products); Chandler, Arizona (2026-07-24)](https://www.federalregister.gov/documents/2026/07/24/2026-15035/foreign-trade-zone-ftz-75-notification-of-proposed-production-activity-intel-corporation)
+- **[Federal Register]** [Notice of Public Meetings of the New York Advisory Committee to the U.S. Commission on Civil Rights (2026-07-24)](https://www.federalregister.gov/documents/2026/07/24/2026-15031/notice-of-public-meetings-of-the-new-york-advisory-committee-to-the-us-commission-on-civil-rights)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States](https://home.treasury.gov/news/press-releases/sb0574)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Webcast: Year of Innovation: Capital Markets Mid-Year 2026 Update](https://www.gibsondunn.com/webcast-year-of-innovation-capital-markets-mid-year-2026-update/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [When Civilian Infrastructure Becomes a Lawful Target](https://www.justsecurity.org/148907/civilian-infrastructure-becomes-lawful-target/?utm_source=rss&utm_medium=rss&utm_campaign=civilian-infrastructure-becomes-lawful-target)
+- **[Just Security]** [Early Edition: July 23, 2026](https://www.justsecurity.org/149109/early-edition-july-23-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-23-2026)
+- **[Atlantic Council]** [Ukraine leads European efforts to counter Russia’s growing ballistic missile threat](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-leads-european-efforts-to-counter-russias-growing-ballistic-missile-threat/)
+- **[Atlantic Council]** [Putin’s invasion comes home as Ukraine expands attacks inside Russia](https://www.atlanticcouncil.org/blogs/ukrainealert/putins-invasion-comes-home-as-ukraine-expands-attacks-inside-russia/)
+- **[Atlantic Council]** [Beyond the chip: How the US can shape global standards for AI in energy](https://www.atlanticcouncil.org/blogs/energysource/beyond-the-chip-how-the-us-can-shape-global-standards-for-ai-in-energy/)
+- **[Atlantic Council]** [With a Saudi deal, the US begins ‘Plan C’ for nonproliferation in the Middle East](https://www.atlanticcouncil.org/dispatches/with-a-saudi-deal-the-us-begins-plan-c-for-nonproliferation-in-the-middle-east/)
+
+---
+
 ## 2026-07-24 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
