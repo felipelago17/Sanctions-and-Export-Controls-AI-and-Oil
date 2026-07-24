@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-24 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 109 - status: suspended
+
+- [Federal Register / 2026-07-24] Amendment of Class D Airspace and Class E Airspace Over Westfield, MA
+- [Federal Register / 2026-07-24] Fiscal Year 2027 Tariff-Rate Quota Allocations for Raw Cane Sugar, Refined Sugar, and Sugar-Containing Products
+- [Federal Register / 2026-07-24] Market Dominant Price Adjustment
+- [Federal Register / 2026-07-24] Agency Information Collection Activities: Proposed Collection; Comment Request
+- [Federal Register / 2026-07-24] Establishment of Class E Airspace; Ottawa, IL
+- [Federal Register / 2026-07-24] Agency Information Collection Activities: Submission for OMB Review; Comment Request
+- [Federal Register / 2026-07-24] HHS Request for Comment on the Update to the National Plan To Address Alzheimer's Disease
+- [Federal Register / 2026-07-24] Proposed Information Collection Activity; Voluntary Acknowledgment of Paternity and Required Data Elements for Paternity Establishment Affidavits
+- [Federal Register / 2026-07-24] Bureau of Political-Military Affairs; Statutory Debarment Under the Arms Export Control Act and the International Traffic in Arms Regulations
+- [Federal Register / 2026-07-24] Agency Information Collection Activities; Resource Management Planning
+- [Federal Register / 2026-07-24] Freeport LNG Development, L.P.; FLNG Liquefaction, LLC; FLNG Liquefaction 2, LLC; FLNG Liquefaction 3, LLC; Notice of Application and Establishing Intervention Deadline
+- [Federal Register / 2026-07-24] Combined Notice of Filings
+- [Federal Register / 2026-07-24] Combined Notice of Filings #3
+- [Federal Register / 2026-07-24] Combined Notice of Filings #2
+- [Federal Register / 2026-07-24] Combined Notice of Filings #1
+- [Federal Register / 2026-07-24] Foreign-Trade Zone (FTZ) 75, Notification of Proposed Production Activity; Intel Corporation; (Semiconductor Products); Chandler, Arizona
+- [Federal Register / 2026-07-24] Mattresses From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order
+- [Federal Register / 2026-07-24] Fisheries of the Caribbean; Southeast Data, Assessment, and Review; Public Meeting
+- [Federal Register / 2026-07-24] Mid-Atlantic Fishery Management Council (MAFMC); Public Meeting
+- [Federal Register / 2026-07-24] Notice of Public Meetings of the New York Advisory Committee to the U.S. Commission on Civil Rights
+
+
+---
+
 ## 2026-07-23
 
 ### Official & Regulatory
