@@ -9,6 +9,41 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-25
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[Federal Register]** [Privacy Act of 1974; Matching Program (2026-07-27)](https://www.federalregister.gov/documents/2026/07/27/2026-15146/privacy-act-of-1974-matching-program)
+- **[Federal Register]** [Modernizing Reactor Licensing, Safety Oversight, and Siting Practices; Correction (2026-07-27)](https://www.federalregister.gov/documents/2026/07/27/2026-15145/modernizing-reactor-licensing-safety-oversight-and-siting-practices-correction)
+- **[Federal Register]** [Radiant Nuclear, LLC; Radiant's Special Nuclear Material License; License Application (2026-07-27)](https://www.federalregister.gov/documents/2026/07/27/2026-15130/radiant-nuclear-llc-radiants-special-nuclear-material-license-license-application)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Further Dismantles Iranian Financier Zanjani’s Network](https://home.treasury.gov/news/press-releases/sb0576)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Secures Complete Post-Trial Victory in Delaware Court of Chancery for Co-Founder of Destiny XYZ](https://www.gibsondunn.com/gibson-dunn-secures-complete-post-trial-victory-in-delaware-court-of-chancery-for-co-founder-of-destiny-xyz/)
+- **[Gibson Dunn]** [Gibson Dunn Advises Verde Operating Company on Acquisition of VTX Energy Partners From Vitol](https://www.gibsondunn.com/gibson-dunn-advises-verde-operating-company-on-acquisition-of-vtx-energy-partners-from-vitol/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Expert Q&A: Decoding the Treasury Department’s Actions on Iran](https://www.justsecurity.org/148504/expert-qa-decoding-the-treasury-departments-actions-on-iran/?utm_source=rss&utm_medium=rss&utm_campaign=expert-qa-decoding-the-treasury-departments-actions-on-iran)
+- **[Just Security]** [Early Edition: July 24, 2026](https://www.justsecurity.org/149344/early-edition-july-24-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-24-2026)
+- **[Atlantic Council]** [ESI’s term, ‘Positive Economic Statecraft’, featured in National Interest article on the other half of economic statecraft](https://www.atlanticcouncil.org/insight-impact/in-the-news/esis-term-positive-economic-statecraft-featured-in-national-interest-article-on-the-other-half-of-economic-statecraft/)
+- **[Atlantic Council]** [What to know about Trump’s newest global tariffs](https://www.atlanticcouncil.org/content-series/fastthinking/fast-thinking-what-to-know-about-trumps-newest-global-tariffs/)
+- **[Atlantic Council]** [Turning to Azerbaijani gas and US LNG, Turkey seeks to break its reliance on Russian energy](https://www.atlanticcouncil.org/blogs/turkeysource/azerbaijan-and-us-helping-turkey-diversify-gas/)
+
+---
+
 ## 2026-07-24
 
 ### Official & Regulatory
