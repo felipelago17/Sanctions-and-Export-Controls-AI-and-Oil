@@ -9,6 +9,28 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-27
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[OFAC]** [Treasury Sanctions Rwandan Gold Refinery and Network Enabling Illicit Conflict Minerals Trade](https://home.treasury.gov/news/press-releases/sb0543)
+- **[Federal Register]** [Privacy Act of 1974; Matching Program (2026-07-27)](https://www.federalregister.gov/documents/2026/07/27/2026-15146/privacy-act-of-1974-matching-program)
+- **[Federal Register]** [Modernizing Reactor Licensing, Safety Oversight, and Siting Practices; Correction (2026-07-27)](https://www.federalregister.gov/documents/2026/07/27/2026-15145/modernizing-reactor-licensing-safety-oversight-and-siting-practices-correction)
+- **[Federal Register]** [Radiant Nuclear, LLC; Radiant's Special Nuclear Material License; License Application (2026-07-27)](https://www.federalregister.gov/documents/2026/07/27/2026-15130/radiant-nuclear-llc-radiants-special-nuclear-material-license-license-application)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Further Dismantles Iranian Financier Zanjani’s Network](https://home.treasury.gov/news/press-releases/sb0576)
+
+---
+
 ## 2026-07-27 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
