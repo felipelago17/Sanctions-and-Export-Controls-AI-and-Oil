@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-27 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 106 - status: suspended
+
+- [Federal Register / 2026-07-27] Sunshine Act Meetings
+- [Federal Register / 2026-07-27] Privacy Act of 1974; Matching Program
+- [Federal Register / 2026-07-27] Modernizing Reactor Licensing, Safety Oversight, and Siting Practices; Correction
+- [Federal Register / 2026-07-27] Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15c1-6
+- [Federal Register / 2026-07-27] Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 13f-2-Short Position and Short Activity Reporting by Institutional Investment Managers
+- [Federal Register / 2026-07-27] Agency Information Collection Activities; Comment Request; Information Collections: Employee Polygraph Protection Act
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Safety Program for Surface Mobile Equipment
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Sealing of Abandoned Areas
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Safety Standards for Underground Coal Mine Ventilation-Belt Entry Used as an Intake Air Course To Ventilate Working Sections and Areas Where Mechanized Mining Equipment Is Being Installed or Removed
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Hazard Communication (HazCom)-30 CFR Part 47
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Examinations and Testing of Electric Equipment
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Rock Burst Control Plan (Pertains to Underground Metal/Nonmetal Mines)
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Safety Defects; Examination, Correction, and Records
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Hoist Operators' Physical Fitness
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Escape and Evacuation Plans
+- [Federal Register / 2026-07-27] Proposed Extension of Information Collection: Mine Accident, Injury and Illness Report and Quarterly Mine Employment and Coal Production Report
+- [Federal Register / 2026-07-27] Agency Information Collection Activities; Comment Request; Information Collection-Housing Occupancy Certificates Under the Migrant and Seasonal Agricultural Worker Protection Act
+- [Federal Register / 2026-07-27] Radiant Nuclear, LLC; Radiant's Special Nuclear Material License; License Application
+- [Federal Register / 2026-07-27] Agency Information Collection Activities; Submission for OMB Review; Comment Request; Susan Harwood Training Grant Program Grantee Quarterly Progress Report
+- [Federal Register / 2026-07-27] Notice of Change
+
+
+---
+
 ## 2026-07-26
 
 ### Official & Regulatory
