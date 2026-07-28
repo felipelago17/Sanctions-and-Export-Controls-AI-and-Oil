@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-28 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 105 - status: suspended
+
+- [Federal Register / 2026-07-28] Actions by the United States in the Investigations Under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy To Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced With Forced Labor
+- [Federal Register / 2026-07-28] Presidential Determination on the Proposed Agreement for Cooperation Between the Government of the United States of America and the Government of the Kingdom of Saudi Arabia Concerning Peaceful Uses of Nuclear Energy
+- [Federal Register / 2026-07-28] Airworthiness Directives; The Boeing Company Airplanes
+- [Federal Register / 2026-07-28] Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 135 To Accommodate ADS-Equipped Vehicles; Extension of Comment Period
+- [Federal Register / 2026-07-28] Civil Penalties Adjustment for 2026
+- [Federal Register / 2026-07-28] Modification of Class E Airspace, Samaritan North Lincoln Hospital Heliport, Lincoln, OR
+- [Federal Register / 2026-07-28] National Institute of Environmental Health Sciences; Amended Notice of Meeting
+- [Federal Register / 2026-07-28] Benzene
+- [Federal Register / 2026-07-28] Agency Information Collection Activities; Comment Request; Eligible Career Pathway Program
+- [Federal Register / 2026-07-28] Name of Information Collection: Automated Technology Licensing Application System (ATLAS)
+- [Federal Register / 2026-07-28] Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Juste-Aurèle Meissonnier: Rococo Goldsmith in Focus” Exhibition
+- [Federal Register / 2026-07-28] Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
+- [Federal Register / 2026-07-28] Agency Information Collection Activities: Proposed Collection: Public Comment Request; Information Collection Request Title: Applicant Organizational National Provider Identifiers and Centers for Medicare & Medicaid Services Certification Numbers Form
+- [Federal Register / 2026-07-28] Certain Monomers and Oligomers From the Republic of Korea: Antidumping Duty Order
+- [Federal Register / 2026-07-28] Notice of Data Availability: Analysis of HFC Allocation Program Data for 2022-2025
+- [Federal Register / 2026-07-28] Olympic Peninsula Resource Advisory Committee
+- [Federal Register / 2026-07-28] Deschutes-Ochoco SRS Resource Advisory Committee
+- [Federal Register / 2026-07-28] Request for Comment on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities
+- [Federal Register / 2026-07-28] Formations of, Acquisitions by, and Mergers of Bank Holding Companies
+- [Federal Register / 2026-07-28] Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company
+
+
+---
+
 ## Week of 2026-07-27
 
 - **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
