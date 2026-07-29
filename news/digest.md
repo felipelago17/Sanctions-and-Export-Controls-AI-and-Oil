@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-29
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[OFAC]** [Treasury Targets Criminal Facilitators Behind CJNG's Cross‑Border Fuel Smuggling Schemes](https://home.treasury.gov/news/press-releases/sb0545)
+- **[OFAC]** [Treasury Sanctions Networks Fueling Sudan’s Civil War and Worsening Humanitarian Crisis](https://home.treasury.gov/news/press-releases/sb0544)
+- **[Federal Register]** [Fiscal Year (FY) 2026 Bus Safety, Accessibility, and Innovation Research Program (2026-07-29)](https://www.federalregister.gov/documents/2026/07/29/2026-15316/fiscal-year-fy-2026-bus-safety-accessibility-and-innovation-research-program)
+- **[Federal Register]** [Notice of Award of a Sole Source Cooperative Agreement To Fund the Public Health Foundation (2026-07-29)](https://www.federalregister.gov/documents/2026/07/29/2026-15315/notice-of-award-of-a-sole-source-cooperative-agreement-to-fund-the-public-health-foundation)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: Healthcare Advancement and Partnerships (HAP) Recognition Application (2026-07-29)](https://www.federalregister.gov/documents/2026/07/29/2026-15313/agency-information-collection-activity-under-omb-review-healthcare-advancement-and-partnerships-hap)
+- **[Federal Register]** [Information Collection: Regulatory Issue Summary, Importance of Giving the NRC Advance Notice of Intent To Pursue License Renewal (2026-07-29)](https://www.federalregister.gov/documents/2026/07/29/2026-15304/information-collection-regulatory-issue-summary-importance-of-giving-the-nrc-advance-notice-of)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Further Dismantles Iranian Financier Zanjani’s Network](https://home.treasury.gov/news/press-releases/sb0576)
+- **[Treasury]** [Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission](https://home.treasury.gov/news/press-releases/sb0579)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: July 28, 2026](https://www.justsecurity.org/150079/early-edition-july-28-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-28-2026)
+- **[Atlantic Council]** [How the US can achieve nuclear energy dominance at home and abroad](https://www.atlanticcouncil.org/blogs/energysource/how-the-us-can-achieve-nuclear-energy-dominance-at-home-and-abroad/)
+- **[Atlantic Council]** [How to reset US-Gulf security partnerships](https://www.atlanticcouncil.org/dispatches/how-to-reset-us-gulf-security-partnerships/)
+
+---
+
 ## 2026-07-29 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
