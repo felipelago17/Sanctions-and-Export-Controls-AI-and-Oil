@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-29 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 104 - status: suspended
+
+- [Federal Register / 2026-07-29] CONTENTS
+- [Federal Register / 2026-07-29] Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits
+- [Federal Register / 2026-07-29] Continuation of the National Emergency With Respect to Brazil
+- [Federal Register / 2026-07-29] Restoring Trust in the Smithsonian Institution
+- [Federal Register / 2026-07-29] Amendment of Jet Routes J-190 and J-584 and Very High Frequency Omnidirectional Range Federal Airways V-170 and V-188 in the Vicinity of Slate Run, Pennsylvania
+- [Federal Register / 2026-07-29] Agency Information Collection Activities: Proposed Renewal; Comment Request; Renewal Without Change of the Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery
+- [Federal Register / 2026-07-29] Agency Information Collection Activities; Proposed eCollection, eComments Requested; Proposed New Collection Request; Title-Suspicious Orders of Controlled Substances
+- [Federal Register / 2026-07-29] Fiscal Year (FY) 2026 Bus Safety, Accessibility, and Innovation Research Program
+- [Federal Register / 2026-07-29] Notice of Award of a Sole Source Cooperative Agreement To Fund the Public Health Foundation
+- [Federal Register / 2026-07-29] 60-Day Notice of Proposed Information Collection: Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery
+- [Federal Register / 2026-07-29] Agency Information Collection Activity Under OMB Review: Healthcare Advancement and Partnerships (HAP) Recognition Application
+- [Federal Register / 2026-07-29] Air Declaration Zone Test: Extension
+- [Federal Register / 2026-07-29] New England Fishery Management Council; Public Meeting
+- [Federal Register / 2026-07-29] Airworthiness Directives; Airbus SAS Airplanes
+- [Federal Register / 2026-07-29] Sunshine Act Meetings
+- [Federal Register / 2026-07-29] Filing of Plats of Survey: Oregon/Washington
+- [Federal Register / 2026-07-29] Agency Information Collection Activities; Proposed eCollection eComments Requested; Title-Medical History and Examination
+- [Federal Register / 2026-07-29] Information Collection: Regulatory Issue Summary, Importance of Giving the NRC Advance Notice of Intent To Pursue License Renewal
+- [Federal Register / 2026-07-29] Medical Devices; Radiology Devices; Classification of the Phase-Changing Fiducial Marker for Radiation Therapy
+- [Federal Register / 2026-07-29] Public Meeting of the National Geospatial Advisory Committee
+
+
+---
+
 ## 2026-07-28
 
 ### Official & Regulatory
