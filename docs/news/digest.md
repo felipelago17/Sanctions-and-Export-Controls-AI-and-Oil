@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-30 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 103 - status: suspended
+
+- [Federal Register / 2026-07-30] Airworthiness Directives; Pilatus Aircraft Ltd. Airplanes
+- [Federal Register / 2026-07-30] Airworthiness Directives; Stemme GmbH Gliders
+- [Federal Register / 2026-07-30] Civil Money Penalty for Actions in Contempt of an Immigration Judge's Proper Exercise of Authority
+- [Federal Register / 2026-07-30] Airworthiness Directives; Airbus SAS Airplanes
+- [Federal Register / 2026-07-30] Exchange Visitor Program-Termination of Program Participation, Extension of Program and Reinstatement to Valid Program Status
+- [Federal Register / 2026-07-30] Medicare Program; Updates to the Master List of Items Potentially Subject to Face-to-Face Encounter and Written Order Prior to Delivery and/or Prior Authorization Requirements; Updates to the Required Face-to-Face Encounter and Written Order Prior to Delivery List; and Updates to the Required Prior Authorization List
+- [Federal Register / 2026-07-30] Southern Star Central Gas Pipeline, Inc.; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline
+- [Federal Register / 2026-07-30] Domtar Paper Company, LLC; Notice of Application for Non-Capacity Amendment of License Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests
+- [Federal Register / 2026-07-30] Tennessee Gas Pipeline Company, L.L.C.; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline
+- [Federal Register / 2026-07-30] Oswego Hydro Partners, LP; Notice of Availability of Environmental Assessment
+- [Federal Register / 2026-07-30] Steel Concrete Reinforcing Bar From Bulgaria: Final Affirmative Determination of Sales at Less Than Fair Value
+- [Federal Register / 2026-07-30] Steel Concrete Reinforcing Bar From Egypt: Final Affirmative Determination of Sales at Less Than Fair Value
+- [Federal Register / 2026-07-30] Steel Concrete Reinforcing Bar From Egypt: Final Affirmative Countervailing Duty Determination
+- [Federal Register / 2026-07-30] Steel Concrete Reinforcing Bar From the Socialist Republic of Vietnam: Final Affirmative Determination of Sales at Less Than Fair Value
+- [Federal Register / 2026-07-30] Steel Concrete Reinforcing Bar From the Socialist Republic of Vietnam: Final Affirmative Countervailing Duty Determination
+- [Federal Register / 2026-07-30] Raw Honey From Argentina: Amended Final Results of Antidumping Duty Administrative Review and Notice of Correction; 2023-2024
+- [Federal Register / 2026-07-30] Identifying Aquaculture Opportunity Areas in U.S. Waters
+- [Federal Register / 2026-07-30] Procedures for Submission and Consideration of Petitions for Rulemaking
+- [Federal Register / 2026-07-30] Submission for OMB Review; Comment Request
+- [Federal Register / 2026-07-30] Agency Information Collection Activities; Submission for OMB Review; Comment Request; Non-Infrastructure Metrics
+
+
+---
+
 ## 2026-07-29
 
 ### Official & Regulatory
