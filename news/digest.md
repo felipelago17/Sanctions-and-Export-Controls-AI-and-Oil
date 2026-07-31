@@ -9,6 +9,41 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-31
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements (2026-07-31)](https://www.federalregister.gov/documents/2026/07/31/2026-15605/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency)
+- **[Federal Register]** [Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band (2026-07-31)](https://www.federalregister.gov/documents/2026/07/31/2026-15598/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band)
+- **[Federal Register]** [FLSA Claims and Compliance (2026-07-31)](https://www.federalregister.gov/documents/2026/07/31/2026-15597/flsa-claims-and-compliance)
+- **[Federal Register]** [Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update (2026-07-31)](https://www.federalregister.gov/documents/2026/07/31/2026-15588/medicare-program-fy-2027-inpatient-psychiatric-facilities-prospective-payment-system-rate-update)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Unveils Redesigned CFIUS Website](https://home.treasury.gov/news/press-releases/sb0580)
+- **[Treasury]** [Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission](https://home.treasury.gov/news/press-releases/sb0579)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [False Claims Act 2026 Mid-Year Update](https://www.gibsondunn.com/false-claims-act-2026-mid-year-update/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [AI in the Military Domain: Multilateralism at a Crossroad](https://www.justsecurity.org/144022/ai-military-domain-multilateralism-crossroad/?utm_source=rss&utm_medium=rss&utm_campaign=ai-military-domain-multilateralism-crossroad)
+- **[Just Security]** [Early Edition: July 30, 2026](https://www.justsecurity.org/150442/early-edition-july-30-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-july-30-2026-2)
+- **[Atlantic Council]** [Putin’s pitiful naval parade highlights his inability to stop Ukrainian drones](https://www.atlanticcouncil.org/blogs/ukrainealert/putins-pitiful-naval-parade-highlights-his-inability-to-stop-ukrainian-drones/)
+- **[Atlantic Council]** [Outer Russia: How the war has sent culture into exile](https://www.atlanticcouncil.org/content-series/russia-tomorrow/outer-russia-how-the-war-has-sent-culture-into-exile/)
+
+---
+
 ## 2026-07-31 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
