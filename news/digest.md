@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-07-31 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 102 - status: suspended
+
+- [Federal Register / 2026-07-31] Continuation of the National Emergency With Respect to Lebanon
+- [Federal Register / 2026-07-31] Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements
+- [Federal Register / 2026-07-31] Amendment of United States Area Navigation Routes (RNAV) T-285 and T-286 in the Vicinity of Thedford, NE
+- [Federal Register / 2026-07-31] Amendment of Jet Route J-24 and Very High Frequency Omnidirectional Range Federal Airways V-244, V-508 and Revocation of Very High Frequency Omnidirectional Range Federal Airway V-255 in the Vicinity of Hays, Kansas.
+- [Federal Register / 2026-07-31] Modernization of the Nation's Alerting Systems; Protecting the Nation's Communications Systems From Cybersecurity Threats
+- [Federal Register / 2026-07-31] Wireless Emergency Alerts; The Emergency Alert System; Modernization of the Nation's Alerting Systems
+- [Federal Register / 2026-07-31] Amendment of United States Area Navigation Route T-388 in the Vicinity of Kodiak, Alaska
+- [Federal Register / 2026-07-31] Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band
+- [Federal Register / 2026-07-31] FLSA Claims and Compliance
+- [Federal Register / 2026-07-31] Sunshine Act Meetings
+- [Federal Register / 2026-07-31] Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; North Pacific Fishery Management Council Cooperative Annual Reports
+- [Federal Register / 2026-07-31] Sunshine Act Meetings
+- [Federal Register / 2026-07-31] Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection, Title-Office for Victims of Crime Training and Technical Assistance Center (OVC TTAC) Feedback Form Package
+- [Federal Register / 2026-07-31] Procedures for Settling Claims
+- [Federal Register / 2026-07-31] Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update
+- [Federal Register / 2026-07-31] Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Public Service Loan Forgiveness Reconsideration Request
+- [Federal Register / 2026-07-31] Removal of References to the Uniform Guidelines on Employee Selection Procedures in Federal Personnel Regulations
+- [Federal Register / 2026-07-31] Requirements for Interference-Tolerant Radio Altimeter Systems
+- [Federal Register / 2026-07-31] Pipeline Safety: Standards Update-ASTM A53/A53M
+- [Federal Register / 2026-07-31] Pipeline Safety: Standards Update-ASTM A333/A333M
+
+
+---
+
 ## 2026-07-30
 
 ### Official & Regulatory
