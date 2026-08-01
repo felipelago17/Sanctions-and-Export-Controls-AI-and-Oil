@@ -2,8 +2,10 @@
   "_meta": {
     "description": "Enforcement action tracking index for BIS, DOJ-NSD, and OFAC export control and sanctions cases",
     "schema_version": "1.0",
-    "last_updated": "2026-07-03",
-    "sources": "BIS charging letters (bis.gov/enforcement); DOJ-NSD press releases (justice.gov/nsd); OFAC enforcement releases (ofac.treasury.gov)"
+    "last_updated": "2026-08-01",
+    "sources": "BIS charging letters (bis.gov/enforcement); DOJ-NSD press releases (justice.gov/nsd); OFAC enforcement releases (ofac.treasury.gov)",
+    "total_ingested": 4,
+    "auto_ingested": 4
   },
   "_schema": {
     "case_id": "Unique identifier: {regulator}-{year}-{sequence}",
@@ -13,11 +15,84 @@
     "category": "gpu-smuggling | semiconductor-manufacturing | subsidiary-entity-shifting | other",
     "controlled_items": "ECCN or description of controlled items",
     "destination": "Destination country/end-user",
-    "charges": "Array of 15 CFR § 764.2 provisions or criminal statutes",
+    "charges": "Array of 15 CFR \u00a7 764.2 provisions or criminal statutes",
     "knowledge_standard": "positive | high-probability | willful-blindness | willful (criminal)",
     "resolution": "charging-letter | civil-penalty | plea | tdo | denial-order | compliance-order",
     "penalty_usd": "Civil penalty amount in USD (null if not applicable)",
     "notes": "Free-text notes on significant legal issues"
   },
-  "cases": []
+  "cases": [
+    {
+      "case_id": "auto-2026-08-01-0000",
+      "date_ingested": "2026-08-01",
+      "source": "BIS",
+      "category": "charging-letter",
+      "title": "Voluntary Self-Disclosure",
+      "url": "https://www.bis.gov/enforcement/voluntary-self-disclosure",
+      "penalty_usd": null,
+      "vsd": true,
+      "regulator": "BIS",
+      "respondent": null,
+      "controlled_items": null,
+      "destination": null,
+      "charges": [],
+      "knowledge_standard": null,
+      "resolution": "charging-letter",
+      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+    },
+    {
+      "case_id": "auto-2026-08-01-0001",
+      "date_ingested": "2026-08-01",
+      "source": "BIS",
+      "category": "charging-letter",
+      "title": "(Charging Letter)",
+      "url": "https://www.bis.gov/media/150",
+      "penalty_usd": null,
+      "vsd": false,
+      "regulator": "BIS",
+      "respondent": null,
+      "controlled_items": null,
+      "destination": null,
+      "charges": [],
+      "knowledge_standard": null,
+      "resolution": "charging-letter",
+      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+    },
+    {
+      "case_id": "auto-2026-08-01-0002",
+      "date_ingested": "2026-08-01",
+      "source": "Gibson Dunn",
+      "category": "commentary",
+      "title": "Gibson Dunn Leads IMC Rare Earths IPO",
+      "url": "https://www.gibsondunn.com/gibson-dunn-leads-imc-rare-earths-ipo/",
+      "penalty_usd": null,
+      "vsd": false,
+      "regulator": null,
+      "respondent": null,
+      "controlled_items": null,
+      "destination": null,
+      "charges": [],
+      "knowledge_standard": null,
+      "resolution": null,
+      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+    },
+    {
+      "case_id": "auto-2026-08-01-0003",
+      "date_ingested": "2026-08-01",
+      "source": "Baker McKenzie",
+      "category": "commentary",
+      "title": "OFAC Targets Iranian Commercial Networks and Issues Iran-Related Wind Down General Licenses",
+      "url": "https://sanctionsnews.bakermckenzie.com/ofac-targets-iranian-commercial-networks-and-issues-iran-related-wind-down-general-licenses/",
+      "penalty_usd": null,
+      "vsd": false,
+      "regulator": null,
+      "respondent": null,
+      "controlled_items": null,
+      "destination": null,
+      "charges": [],
+      "knowledge_standard": null,
+      "resolution": null,
+      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+    }
+  ]
 }
