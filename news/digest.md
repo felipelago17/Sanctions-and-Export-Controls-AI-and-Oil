@@ -9,6 +9,29 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-02
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Sunshine Act; Open Commission Meeting Thursday, August 6, 2026 (2026-08-03)](https://www.federalregister.gov/documents/2026/08/03/2026-15733/sunshine-act-open-commission-meeting-thursday-august-6-2026)
+- **[Federal Register]** [Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115 (2026-08-03)](https://www.federalregister.gov/documents/2026/08/03/2026-15725/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-scheduled)
+- **[Federal Register]** [High-Speed Train Noise Emission Standards (2026-08-03)](https://www.federalregister.gov/documents/2026/08/03/2026-15724/high-speed-train-noise-emission-standards)
+- **[Federal Register]** [Rescinding Portions of Department of the Treasury Title VI Regulations To Conform More Closely With the Statutory Text and To Implement an Executive Order (2026-08-03)](https://www.federalregister.gov/documents/2026/08/03/2026-15720/rescinding-portions-of-department-of-the-treasury-title-vi-regulations-to-conform-more-closely-with)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission](https://home.treasury.gov/news/press-releases/sb0579)
+
+---
+
 ## 2026-08-01
 
 ### Official & Regulatory
