@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-03 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 99 - status: suspended
+
+- [Federal Register / 2026-08-03] Sunshine Act; Open Commission Meeting Thursday, August 6, 2026
+- [Federal Register / 2026-08-03] Visas: Visa Bond Program
+- [Federal Register / 2026-08-03] Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115
+- [Federal Register / 2026-08-03] High-Speed Train Noise Emission Standards
+- [Federal Register / 2026-08-03] Rescinding Portions of Department of the Treasury Title VI Regulations To Conform More Closely With the Statutory Text and To Implement an Executive Order
+- [Federal Register / 2026-08-03] Foreign-Trade Zone 75; Application for Subzone Expansion; Intel Corporation; Chandler, Arizona
+- [Federal Register / 2026-08-03] Tobacco Report: Notice of Request for an Extension of a Currently Approved Information Collection
+- [Federal Register / 2026-08-03] Ventilation Plan Approval Criteria
+- [Federal Register / 2026-08-03] Notice of Intended Repatriation: Franklin County Historical Society, Ottawa, KS
+- [Federal Register / 2026-08-03] Notice of Intended Repatriation: Museum of Ventura County, Ventura, CA
+- [Federal Register / 2026-08-03] Notice of Intended Repatriation: Michigan State University, East Lansing, MI
+- [Federal Register / 2026-08-03] Notice of Inventory Completion: U.S. Army Corps of Engineers, St. Louis District, St. Louis, MO
+- [Federal Register / 2026-08-03] Notice of Inventory Completion: Archaeological Survey of Idaho Western Repository, Idaho State Historical Society, Boise, ID
+- [Federal Register / 2026-08-03] Notice of Intended Repatriation: University of California, San Diego, San Diego, CA
+- [Federal Register / 2026-08-03] Notice of Proposed Transfer or Reinterment: University of Wisconsin Oshkosh, Oshkosh, WI
+- [Federal Register / 2026-08-03] Notice of Inventory Completion: Lost City Museum, Overton, NV
+- [Federal Register / 2026-08-03] Notice of Inventory Completion: University of Kansas, Lawrence, KS, and University of Tennessee, Department of Anthropology, Knoxville, TN
+- [Federal Register / 2026-08-03] Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA
+- [Federal Register / 2026-08-03] Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA
+- [Federal Register / 2026-08-03] Notice of Intended Repatriation: Denver Art Museum, Denver, CO
+
+
+---
+
 ## 2026-08-02
 
 ### Official & Regulatory
