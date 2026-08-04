@@ -9,6 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-04
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Restructures Hong Kong Sanctions Following Expiration of Executive Order 13936](https://sanctionsnews.bakermckenzie.com/ofac-restructures-hong-kong-sanctions-following-expiration-of-executive-order-13936/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Sunshine Act; Open Commission Meeting Thursday, August 6, 2026 (2026-08-03)](https://www.federalregister.gov/documents/2026/08/03/2026-15733/sunshine-act-open-commission-meeting-thursday-august-6-2026)
+- **[Federal Register]** [Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115 (2026-08-03)](https://www.federalregister.gov/documents/2026/08/03/2026-15725/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-scheduled)
+- **[Federal Register]** [High-Speed Train Noise Emission Standards (2026-08-03)](https://www.federalregister.gov/documents/2026/08/03/2026-15724/high-speed-train-noise-emission-standards)
+- **[Federal Register]** [Rescinding Portions of Department of the Treasury Title VI Regulations To Conform More Closely With the Statutory Text and To Implement an Executive Order (2026-08-03)](https://www.federalregister.gov/documents/2026/08/03/2026-15720/rescinding-portions-of-department-of-the-treasury-title-vi-regulations-to-conform-more-closely-with)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Economy Statement for the Treasury Borrowing Advisory Committee](https://home.treasury.gov/news/press-releases/sb0585)
+- **[Treasury]** [Treasury Announces Marketable Borrowing Estimates](https://home.treasury.gov/news/press-releases/sb0584)
+- **[Treasury]** [Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission](https://home.treasury.gov/news/press-releases/sb0579)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Gender Apartheid and Public Opinion: Why Law Matters More Than Labels](https://www.justsecurity.org/150455/gender-apartheid-public-opinion/?utm_source=rss&utm_medium=rss&utm_campaign=gender-apartheid-public-opinion)
+- **[Atlantic Council]** [As Ukraine regains the initiative from Russia, Europe must seize the moment](https://www.atlanticcouncil.org/blogs/ukrainealert/as-ukraine-regains-the-initiative-from-russia-europe-must-seize-the-moment/)
+
+---
+
 ## 2026-08-04 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
