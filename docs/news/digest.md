@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-06 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 96 - status: suspended
+
+- [Federal Register / 2026-08-05] Continuation of the National Emergency With Respect to the Advancement by Countries of Concern in Sensitive Technologies and Products Critical for the Military, Intelligence, Surveillance, or Cyber-Enabled Capabilities of Such Countries
+- [Federal Register / 2026-08-05] To Facilitate Positive Adjustment to Competition From Imports of Quartz Surface Products
+- [Federal Register / 2026-08-05] Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations
+- [Federal Register / 2026-08-05] Micro-Tracers, Inc.; Response to Objections and Requests for a Public Hearing
+- [Federal Register / 2026-08-05] Magnuson-Stevens Act Provisions; General Provisions for Domestic Fisheries; Application for Exempted Fishing Permits
+- [Federal Register / 2026-08-05] Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of a Previously Approved Collection; Title-Identity History Summary Request Form (1-783)
+- [Federal Register / 2026-08-05] Caremark and Zinc Health Services; Analysis of Proposed Agreement Containing Consent Order To Aid Public Comment
+- [Federal Register / 2026-08-05] Amendment of United States Area Navigation Route Q-10 and Revocation of Alaska Area Navigation Routes J-804R and J-889R in Alaska
+- [Federal Register / 2026-08-05] Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands Management Area; Cost Recovery Fee Notice for the Pacific Cod Trawl Cooperative Program
+- [Federal Register / 2026-08-05] Center for Scientific Review; Notice of Closed Meetings
+- [Federal Register / 2026-08-05] Notice of Award of a Single Source Grant To Fund Fundacion Mexico-Estados Unidos Para La Ciencia, A.C.
+- [Federal Register / 2026-08-05] Notice of Award of a Single-Source Grant To Fund Fondacioni SECID, Balkan Region
+- [Federal Register / 2026-08-05] Notice of Award of a Single-Source Grant To Fund HJF Medical Research International, Inc., Kenya
+- [Federal Register / 2026-08-05] Notice of Award of a Single Source Cooperative Agreement To Fund Task Force for Global Health, Inc.
+- [Federal Register / 2026-08-05] Notice of August 3, 2026 Decisions on Petitions for Small Refinery Exemptions Under the Renewable Fuel Standard Program
+- [Federal Register / 2026-08-05] Notice of Award of a Single-Source Grant To Fund Universidad Peruana Cayetano Heredia
+- [Federal Register / 2026-08-05] Notice of Award of a Sole Source Cooperative Agreement To Fund Ministry of Health, Bhutan; National Influenza Center, Mongolia; Research Institute for Tropical Medicine, Philippines; Bangkok Metropolitan Administration, Thailand
+- [Federal Register / 2026-08-05] Proposal Review; Notice of Meetings
+- [Federal Register / 2026-08-05] Notice of Award of a Sole Source Cooperative Agreement To Fund Administracion Nacional de Laboratorios e Institutos de Salud Dr. Carlos G. Malbran, Argentina; Instituto de Salud Publica de Chile, Chile; Ministerio de Salud Pública de Ecuador, Ecuador; Fondacioni Instituto Conmemorativo Gorgas de Estudios de la Salud, Panama; Alter Vida Centro De Estudios Y Formación Para Ecodesarrollo, Paraguay; Caribbean Public Health Agency, Caribbean Region
+- [Federal Register / 2026-08-05] Notice of Award of a Sole Source Cooperative Agreement To Fund Association HEADA Cameroon; Instituto Nacional de Saude, Mozambique; Nigeria Centre for Disease Control and Prevention; National Institute of Health, Pakistan; Kinshasa School of Public Health, Democratic Republic of the Congo
+
+
+---
+
 ## 2026-08-05
 
 ### Official & Regulatory
