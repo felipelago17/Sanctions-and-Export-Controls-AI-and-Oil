@@ -9,6 +9,43 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-06
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Continuation of the National Emergency With Respect to the Advancement by Countries of Concern in Sensitive Technologies and Products Critical for the Military, Intelligence, Surveillance, or Cyber-Enabled Capabilities of Such Countries (2026-08-05)](https://www.federalregister.gov/documents/2026/08/05/2026-16015/continuation-of-the-national-emergency-with-respect-to-the-advancement-by-countries-of-concern-in)
+- **[Federal Register]** [Notice of Award of a Single Source Grant To Fund Fundacion Mexico-Estados Unidos Para La Ciencia, A.C. (2026-08-05)](https://www.federalregister.gov/documents/2026/08/05/2026-15909/notice-of-award-of-a-single-source-grant-to-fund-fundacion-mexico-estados-unidos-para-la-ciencia-ac)
+- **[Federal Register]** [Notice of Award of a Single-Source Grant To Fund Fondacioni SECID, Balkan Region (2026-08-05)](https://www.federalregister.gov/documents/2026/08/05/2026-15908/notice-of-award-of-a-single-source-grant-to-fund-fondacioni-secid-balkan-region)
+- **[Federal Register]** [Notice of Award of a Single-Source Grant To Fund HJF Medical Research International, Inc., Kenya (2026-08-05)](https://www.federalregister.gov/documents/2026/08/05/2026-15907/notice-of-award-of-a-single-source-grant-to-fund-hjf-medical-research-international-inc-kenya)
+- **[Federal Register]** [Notice of Award of a Single Source Cooperative Agreement To Fund Task Force for Global Health, Inc. (2026-08-05)](https://www.federalregister.gov/documents/2026/08/05/2026-15906/notice-of-award-of-a-single-source-cooperative-agreement-to-fund-task-force-for-global-health-inc)
+- **[Federal Register]** [Notice of Award of a Single-Source Grant To Fund Universidad Peruana Cayetano Heredia (2026-08-05)](https://www.federalregister.gov/documents/2026/08/05/2026-15904/notice-of-award-of-a-single-source-grant-to-fund-universidad-peruana-cayetano-heredia)
+- **[Federal Register]** [Notice of Award of a Sole Source Cooperative Agreement To Fund Ministry of Health, Bhutan; National Influenza Center, Mongolia; Research Institute for Tropical Medicine, Philippines; Bangkok Metropolitan Administration, Thailand (2026-08-05)](https://www.federalregister.gov/documents/2026/08/05/2026-15903/notice-of-award-of-a-sole-source-cooperative-agreement-to-fund-ministry-of-health-bhutan-national)
+- **[Federal Register]** [Notice of Award of a Sole Source Cooperative Agreement To Fund Administracion Nacional de Laboratorios e Institutos de Salud Dr. Carlos G. Malbran, Argentina; Instituto de Salud Publica de Chile, Chile; Ministerio de Salud Pública de Ecuador, Ecuador; Fondacioni Instituto Conmemorativo Gorgas de Estudios de la Salud, Panama; Alter Vida Centro De Estudios Y Formación Para Ecodesarrollo, Paraguay; Caribbean Public Health Agency, Caribbean Region (2026-08-05)](https://www.federalregister.gov/documents/2026/08/05/2026-15901/notice-of-award-of-a-sole-source-cooperative-agreement-to-fund-administracion-nacional-de)
+- **[Federal Register]** [Notice of Award of a Sole Source Cooperative Agreement To Fund Association HEADA Cameroon; Instituto Nacional de Saude, Mozambique; Nigeria Centre for Disease Control and Prevention; National Institute of Health, Pakistan; Kinshasa School of Public Health, Democratic Republic of the Congo (2026-08-05)](https://www.federalregister.gov/documents/2026/08/05/2026-15900/notice-of-award-of-a-sole-source-cooperative-agreement-to-fund-association-heada-cameroon-instituto)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury, IRS Issue Guidance on the Permanent Expansion of Paid Family and Medical Leave under the Working Families Tax Cuts](https://home.treasury.gov/news/press-releases/sb0593)
+- **[Treasury]** [Minutes of the Meeting of the Treasury Borrowing Advisory Committee August 4, 2026](https://home.treasury.gov/news/press-releases/sb0592)
+- **[Treasury]** [Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission](https://home.treasury.gov/news/press-releases/sb0579)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Strategic Attack on Iran: Airpower’s Promises, Limits, and Lessons](https://www.justsecurity.org/151394/strategic-attack-on-iran-airpowers-promises-limits-and-lessons/?utm_source=rss&utm_medium=rss&utm_campaign=strategic-attack-on-iran-airpowers-promises-limits-and-lessons)
+- **[Just Security]** [Early Edition: August 5, 2026](https://www.justsecurity.org/151837/early-edition-august-5-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-5-2026)
+- **[Atlantic Council]** [Havrylov in Ukrinform: For the first time in Ukraine’s history, we are launching the licensed production of a defense system on Ukrainian soil](https://www.atlanticcouncil.org/insight-impact/havrylov-in-ukrinform-for-the-first-time-in-ukraines-history-we-are-launching-the-licensed-production-of-a-defense-system-on-ukrainian-soil/)
+- **[Atlantic Council]** [Russia will sacrifice its civilian economy on the altar of the war effort](https://www.atlanticcouncil.org/dispatches/russia-will-sacrifice-its-civilian-economy-on-the-altar-of-the-war-effort/)
+
+---
+
 ## 2026-08-06 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
