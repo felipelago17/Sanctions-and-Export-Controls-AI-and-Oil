@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-07
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [PJM Interconnection, L.L.C., AEP Appalachian Transmission Company, Inc., AEP Indiana Michigan Transmission Company, Inc., AEP Kentucky Transmission Company, Inc., AEP Ohio Transmission Company, Inc., AEP West Virginia Transmission Company, Inc., Allegheny Electric Cooperative, Inc., American Transmission Systems, Incorporated, Appalachian Power Company, Atlantic City Electric Company, Baltimore Gas and Electric Company, Commonwealth Edison Company, Commonwealth Edison Company of Indiana, Inc., Dayton Power and Light Company, Delmarva Power & Light Company, Duke Energy Kentucky, Inc., Duke Energy Ohio, Inc., Duquesne Light Company, Essential Power Rock Springs, LLC, Hudson Transmission Partners, LLC, Indiana Michigan Power Company, Jersey Central Power & Light Company, Kentucky Power Company, Keystone Appalachian Transmission Company, Kingsport Power Company, Linden VFT, LLC, Mid-Atlantic Interstate Transmission, LLC, Monongahela Power Company, Neptune Regional Transmission System, LLC, NextEra Energy Transmission MidAtlantic Indiana, Inc., Ohio Power Company, Ohio Valley Electric Corporation, Old Dominion Electric Cooperative, PECO Energy Company, PPL Electric Utilities Corporation, The Potomac Edison Company, Potomac Electric Power Company, Public Service Electric and Gas Company, Rockland Electric Company, Silver Run Electric, LLC, Trans-Allegheny Interstate Line Company, Transource West Virginia, LLC, UGI Utilities, Inc., Virginia Electric and Power Company, Wabash Valley Power Association, Inc., Wheeling Power Company; Notice Establishing Answer Period (2026-08-07)](https://www.federalregister.gov/documents/2026/08/07/2026-16175/pjm-interconnection-llc-aep-appalachian-transmission-company-inc-aep-indiana-michigan-transmission)
+- **[Federal Register]** [Southwest Power Pool, Inc.; AEP Oklahoma Transmission Company, Inc.; AEP Southwestern Transmission Company, Inc.; Deseret Generation & Transmission Co-Operative, Inc.; Empire District Electric Company; Evergy Kansas Central, Inc.; Evergy Kansas South, Inc.; Evergy Metro, Inc.; Evergy Missouri West, Inc.; GridLiance High Plains LLC; ITC Great Plains, LLC; Mountrail-Williams Electric Cooperative; NextEra Energy Transmission Southwest, LLC; NorthWestern Energy Public Service Corporation; Oklahoma Gas and Electric Company; Prairie Wind Transmission, LLC; Public Service Company of Oklahoma; Southwestern Electric Power Company; Southwestern Public Service Company; Transource Missouri, LLC; Transource Oklahoma, LLC; Tri-State Generation and Transmission Association, Inc.; Upper Missouri G. & T. Electric Cooperative, Inc.; Notice Establishing Answer Period (2026-08-07)](https://www.federalregister.gov/documents/2026/08/07/2026-16174/southwest-power-pool-inc-aep-oklahoma-transmission-company-inc-aep-southwestern-transmission-company)
+- **[Federal Register]** [New York Independent System Operator, Inc.; Central Hudson Gas & Electric Corporation; Consolidated Edison Company of New York, Inc.; LS Power Grid New York Corporation I; New York State Electric & Gas Corporation; New York Transco LLC; NextEra Energy Transmission New York, Inc.; Niagara Mohawk Power Corp.; Orange and Rockland Utilities, Inc.; Rochester Gas and Electric Corporation; Notice Establishing Answer Period (2026-08-07)](https://www.federalregister.gov/documents/2026/08/07/2026-16173/new-york-independent-system-operator-inc-central-hudson-gas-and-electric-corporation-consolidated)
+- **[Federal Register]** [ISO New England Inc.; Central Maine Power Company; The Connecticut Light and Power Company; Fitchburg Gas and Electric Light Company; Green Mountain Power Corporation; Maine Electric Power Company; The Narragansett Electric Company; New England Power Company; New Hampshire Transmission, LLC; NSTAR Electric Company; Public Service Company of New Hampshire; The United Illuminating Company; Unitil Energy Systems, Inc.; Vermont Electric Power Company, Inc.; Vermont Transco LLC; Versant Power; Notice Establishing Answer Period (2026-08-07)](https://www.federalregister.gov/documents/2026/08/07/2026-16172/iso-new-england-inc-central-maine-power-company-the-connecticut-light-and-power-company-fitchburg)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury, IRS Issue Guidance on the Permanent Expansion of Paid Family and Medical Leave under the Working Families Tax Cuts](https://home.treasury.gov/news/press-releases/sb0593)
+- **[Treasury]** [Minutes of the Meeting of the Treasury Borrowing Advisory Committee August 4, 2026](https://home.treasury.gov/news/press-releases/sb0592)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+- **[Treasury]** [Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission](https://home.treasury.gov/news/press-releases/sb0579)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: August 6, 2026](https://www.justsecurity.org/152087/early-edition-august-6-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-6-2026)
+- **[Atlantic Council]** [Ukraine cannot defeat Putin’s ballistic blitz by defensive measures alone](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-cannot-defeat-putins-ballistic-blitz-by-defensive-measures-alone/)
+- **[Atlantic Council]** [We should not fear a post-Putin Russia](https://www.atlanticcouncil.org/blogs/ukrainealert/we-should-not-fear-a-post-putin-russia/)
+- **[Atlantic Council]** [The US Navy’s decision to reclassify 19 Virginia-class submarines is a breakthrough. Here’s why.](https://www.atlanticcouncil.org/dispatches/the-us-navys-decision-to-reclassify-19-virginia-class-submarines-is-a-breakthrough-heres-why/)
+- **[Atlantic Council]** [A visual guide to the new US tariff wall](https://www.atlanticcouncil.org/blogs/econographics/a-visual-guide-to-the-new-us-tariff-wall/)
+
+---
+
 ## 2026-08-07 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
