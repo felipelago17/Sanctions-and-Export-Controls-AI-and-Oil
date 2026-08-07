@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-07 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 95 - status: suspended
+
+- [Federal Register / 2026-08-07] Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program
+- [Federal Register / 2026-08-07] Build America: Eliminating Barriers to Wireline Deployments
+- [Federal Register / 2026-08-07] Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Survey of Income and Program Participation (SIPP)
+- [Federal Register / 2026-08-07] Submission for Office of Management and Budget Review; National Communication System for Runaway and Homeless Youth, Currently Operated by the National Runaway Safeline Data Collection
+- [Federal Register / 2026-08-07] Certain Preserved Mushrooms From Poland: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025
+- [Federal Register / 2026-08-07] Polyethylene Retail Carrier Bags From Malaysia: Final Results of Antidumping Duty Administrative Review; 2023-2024
+- [Federal Register / 2026-08-07] Polyethylene Retail Carrier Bags From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025
+- [Federal Register / 2026-08-07] Tin Mill Products From Taiwan and the Republic of Türkiye: Postponement of Preliminary Determination in the Less-Than-Fair-Value Investigations
+- [Federal Register / 2026-08-07] Circular Welded Carbon Steel Standard Pipe and Tube Products From the Republic of Türkiye: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025
+- [Federal Register / 2026-08-07] Pacific Halibut Fisheries of the West Coast; 2026 Catch Sharing Plan; Inseason Action; Correction
+- [Federal Register / 2026-08-07] Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “From the Louvre: Masterpieces of Islamic Art” Exhibition
+- [Federal Register / 2026-08-07] Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Paris Couture” Exhibition
+- [Federal Register / 2026-08-07] Meeting of the Religious Liberty Commission
+- [Federal Register / 2026-08-07] Privacy Act of 1974; System of Records
+- [Federal Register / 2026-08-07] PJM Interconnection, L.L.C., AEP Appalachian Transmission Company, Inc., AEP Indiana Michigan Transmission Company, Inc., AEP Kentucky Transmission Company, Inc., AEP Ohio Transmission Company, Inc., AEP West Virginia Transmission Company, Inc., Allegheny Electric Cooperative, Inc., American Transmission Systems, Incorporated, Appalachian Power Company, Atlantic City Electric Company, Baltimore Gas and Electric Company, Commonwealth Edison Company, Commonwealth Edison Company of Indiana, Inc., Dayton Power and Light Company, Delmarva Power & Light Company, Duke Energy Kentucky, Inc., Duke Energy Ohio, Inc., Duquesne Light Company, Essential Power Rock Springs, LLC, Hudson Transmission Partners, LLC, Indiana Michigan Power Company, Jersey Central Power & Light Company, Kentucky Power Company, Keystone Appalachian Transmission Company, Kingsport Power Company, Linden VFT, LLC, Mid-Atlantic Interstate Transmission, LLC, Monongahela Power Company, Neptune Regional Transmission System, LLC, NextEra Energy Transmission MidAtlantic Indiana, Inc., Ohio Power Company, Ohio Valley Electric Corporation, Old Dominion Electric Cooperative, PECO Energy Company, PPL Electric Utilities Corporation, The Potomac Edison Company, Potomac Electric Power Company, Public Service Electric and Gas Company, Rockland Electric Company, Silver Run Electric, LLC, Trans-Allegheny Interstate Line Company, Transource West Virginia, LLC, UGI Utilities, Inc., Virginia Electric and Power Company, Wabash Valley Power Association, Inc., Wheeling Power Company; Notice Establishing Answer Period
+- [Federal Register / 2026-08-07] Southwest Power Pool, Inc.; AEP Oklahoma Transmission Company, Inc.; AEP Southwestern Transmission Company, Inc.; Deseret Generation & Transmission Co-Operative, Inc.; Empire District Electric Company; Evergy Kansas Central, Inc.; Evergy Kansas South, Inc.; Evergy Metro, Inc.; Evergy Missouri West, Inc.; GridLiance High Plains LLC; ITC Great Plains, LLC; Mountrail-Williams Electric Cooperative; NextEra Energy Transmission Southwest, LLC; NorthWestern Energy Public Service Corporation; Oklahoma Gas and Electric Company; Prairie Wind Transmission, LLC; Public Service Company of Oklahoma; Southwestern Electric Power Company; Southwestern Public Service Company; Transource Missouri, LLC; Transource Oklahoma, LLC; Tri-State Generation and Transmission Association, Inc.; Upper Missouri G. & T. Electric Cooperative, Inc.; Notice Establishing Answer Period
+- [Federal Register / 2026-08-07] New York Independent System Operator, Inc.; Central Hudson Gas & Electric Corporation; Consolidated Edison Company of New York, Inc.; LS Power Grid New York Corporation I; New York State Electric & Gas Corporation; New York Transco LLC; NextEra Energy Transmission New York, Inc.; Niagara Mohawk Power Corp.; Orange and Rockland Utilities, Inc.; Rochester Gas and Electric Corporation; Notice Establishing Answer Period
+- [Federal Register / 2026-08-07] ISO New England Inc.; Central Maine Power Company; The Connecticut Light and Power Company; Fitchburg Gas and Electric Light Company; Green Mountain Power Corporation; Maine Electric Power Company; The Narragansett Electric Company; New England Power Company; New Hampshire Transmission, LLC; NSTAR Electric Company; Public Service Company of New Hampshire; The United Illuminating Company; Unitil Energy Systems, Inc.; Vermont Electric Power Company, Inc.; Vermont Transco LLC; Versant Power; Notice Establishing Answer Period
+- [Federal Register / 2026-08-07] Pacific Gas & Electric Company; Notice of Application for Minimum Flow Variance Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests
+- [Federal Register / 2026-08-07] Erie Boulevard Hydropower, L.P.; Notice of Application Accepted for Filing, Soliciting Motions To Intervene and Protests, Ready for Environmental Analysis, and Soliciting Comments, Recommendations, Preliminary Terms and Conditions, and Preliminary Fishway Prescriptions
+
+
+---
+
 ## 2026-08-06
 
 ### Official & Regulatory
