@@ -9,6 +9,35 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-10
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Removal of FAA Third-Class Medical Certificate Requirement for Military Pilot Trainees (2026-08-10)](https://www.federalregister.gov/documents/2026/08/10/2026-16272/removal-of-faa-third-class-medical-certificate-requirement-for-military-pilot-trainees)
+- **[Federal Register]** [Television Broadcasting Services Elko, Nevada (2026-08-10)](https://www.federalregister.gov/documents/2026/08/10/2026-16268/television-broadcasting-services-elko-nevada)
+- **[Federal Register]** [Notice Announcing Research Training Programs in the Education Sciences, Research Training Programs in Special Education, Statistical and Research Methodology in Education, Using Longitudinal Data To Support State Education Policymaking, and Using Longitudinal Data To Support State Education Policymaking in Special Education Program Competitions (2026-08-10)](https://www.federalregister.gov/documents/2026/08/10/2026-16259/notice-announcing-research-training-programs-in-the-education-sciences-research-training-programs-in)
+- **[Federal Register]** [Safety Zone; Lake St. Clair; Grosse Pointe Farms, MI (2026-08-10)](https://www.federalregister.gov/documents/2026/08/10/2026-16256/safety-zone-lake-st-clair-grosse-pointe-farms-mi)
+- **[Federal Register]** [Safety Zones; Annual Events in the Captain of the Port Eastern Great Lakes Zone Marine Events Within the Great Lakes Coast Guard District (2026-08-10)](https://www.federalregister.gov/documents/2026/08/10/2026-16254/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-marine-events-within)
+- **[Federal Register]** [Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0009 (2026-08-10)](https://www.federalregister.gov/documents/2026/08/10/2026-16253/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Releases CFIUS Annual Report for 2025](https://home.treasury.gov/news/press-releases/sb0599)
+- **[Treasury]** [Treasury Dismantles Iranian Regime’s Global Clandestine Currency Networks](https://home.treasury.gov/news/press-releases/sb0596)
+- **[Treasury]** [Treasury Sanctions Crypto Exchanges Funding Iran’s IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+- **[Treasury]** [Remarks by Secretary of the Treasury Scott Bessent Before the Financial Literacy and Education Commission](https://home.treasury.gov/news/press-releases/sb0579)
+
+---
+
 ## 2026-08-10 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
