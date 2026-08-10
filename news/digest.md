@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-10 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 92 - status: suspended
+
+- [Federal Register / 2026-08-10] Continuation of U.S. Drug Interdiction Assistance to the Government of Colombia
+- [Federal Register / 2026-08-10] English Language Proficiency; Out of Service Criteria
+- [Federal Register / 2026-08-10] Establishment of Class E Airspace; Coleman, TX
+- [Federal Register / 2026-08-10] Removal of FAA Third-Class Medical Certificate Requirement for Military Pilot Trainees
+- [Federal Register / 2026-08-10] Backup Withholding on Third Party Network Transactions
+- [Federal Register / 2026-08-10] Television Broadcasting Services Elko, Nevada
+- [Federal Register / 2026-08-10] Notice of Council Updated NEPA Procedures
+- [Federal Register / 2026-08-10] Privacy Act of 1974; Matching Program
+- [Federal Register / 2026-08-10] Initiation of Antidumping and Countervailing Duty Administrative Reviews
+- [Federal Register / 2026-08-10] o-Dichlorobenzene and p-Dichlorobenzene; Draft Risk Evaluations Under the Toxic Substances Control Act (TSCA); Notice of Availability and Request for Comment
+- [Federal Register / 2026-08-10] Agency Information Collection Activities; Comment Request on U.S. Business Income Tax Returns and Related Forms, Schedules, Attachments, and Published Guidance
+- [Federal Register / 2026-08-10] Foreign Endangered Species; Receipt of Permit Applications
+- [Federal Register / 2026-08-10] Notice Announcing Research Training Programs in the Education Sciences, Research Training Programs in Special Education, Statistical and Research Methodology in Education, Using Longitudinal Data To Support State Education Policymaking, and Using Longitudinal Data To Support State Education Policymaking in Special Education Program Competitions
+- [Federal Register / 2026-08-10] Establishment of Class E Airspace; Havana, IL
+- [Federal Register / 2026-08-10] Office of the Director, Notice of Charter Renewal
+- [Federal Register / 2026-08-10] Safety Zone; Lake St. Clair; Grosse Pointe Farms, MI
+- [Federal Register / 2026-08-10] Reporting and Recordkeeping Requirements Under Office of Management and Budget Review
+- [Federal Register / 2026-08-10] Safety Zones; Annual Events in the Captain of the Port Eastern Great Lakes Zone Marine Events Within the Great Lakes Coast Guard District
+- [Federal Register / 2026-08-10] Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0009
+- [Federal Register / 2026-08-10] Immigration Bonds; Technical Amendment
+
+
+---
+
 ## 2026-08-09
 
 ### Official & Regulatory
