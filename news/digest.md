@@ -9,6 +9,39 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-11
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Schedules of Controlled Substances: Rescheduling of Suvorexant, Lemborexant, and Daridorexant From Schedule IV Into Schedule V (2026-08-11)](https://www.federalregister.gov/documents/2026/08/11/2026-16375/schedules-of-controlled-substances-rescheduling-of-suvorexant-lemborexant-and-daridorexant-from)
+- **[Federal Register]** [NRC Modernization: Rulemaking Procedure, Federal Advisory Committee Act Alignment, Access, and Security (2026-08-11)](https://www.federalregister.gov/documents/2026/08/11/2026-16374/nrc-modernization-rulemaking-procedure-federal-advisory-committee-act-alignment-access-and-security)
+- **[Federal Register]** [NRC Modernization: Rulemaking Procedure, Federal Advisory Committee Act Alignment, Access, and Security (2026-08-11)](https://www.federalregister.gov/documents/2026/08/11/2026-16373/nrc-modernization-rulemaking-procedure-federal-advisory-committee-act-alignment-access-and-security)
+- **[Federal Register]** [Reforms to 13 CFR 124.103 To Remove SBA's 8(a) Program's Rebuttable Presumption of Social Disadvantage for Individually Owned Firms Only. Reforms Do Not Impact Entity-Owned Firms (2026-08-11)](https://www.federalregister.gov/documents/2026/08/11/2026-16370/reforms-to-13-cfr-124103-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage)
+- **[Federal Register]** [Marine Mammals; Incidental Take During Specified Activities; Proposed Incidental Harassment Authorization for Southwest Alaska Stock of Northern Sea Otters in Unalaska, Alaska (2026-08-11)](https://www.federalregister.gov/documents/2026/08/11/2026-16367/marine-mammals-incidental-take-during-specified-activities-proposed-incidental-harassment)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Releases CFIUS Annual Report for 2025](https://home.treasury.gov/news/press-releases/sb0599)
+- **[Treasury]** [Treasury Dismantles Iranian Regime’s Global Clandestine Currency Networks](https://home.treasury.gov/news/press-releases/sb0596)
+- **[Treasury]** [Treasury Sanctions Crypto Exchanges Funding Iran’s IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Joint Base Lindsey Graham Renaming Ceremony](https://home.treasury.gov/news/press-releases/sb0601)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: August 10, 2026](https://www.justsecurity.org/152976/early-edition-august-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-10-2026)
+- **[Atlantic Council]** [Smart glasses are the blind spot in US privacy law](https://www.atlanticcouncil.org/dispatches/smart-glasses-are-the-blind-spot-in-us-privacy-law/)
+
+---
+
 ## 2026-08-11 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
