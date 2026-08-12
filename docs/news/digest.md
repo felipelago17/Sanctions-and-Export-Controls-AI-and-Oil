@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-12 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 90 - status: suspended
+
+- [Federal Register / 2026-08-12] Appellate Jurisdiction Update II
+- [Federal Register / 2026-08-12] Community Reinvestment Act Regulations
+- [Federal Register / 2026-08-12] Government Owned Invention Available for License: MC38 B2m KO Cell Line
+- [Federal Register / 2026-08-12] UChicago Argonne LLC et al; Notice of Decision on Application for Duty-Free Entry of Scientific Instruments
+- [Federal Register / 2026-08-12] Pacific Northwest National Laboratory et al; Application(s) for Duty-Free Entry of Scientific Instruments
+- [Federal Register / 2026-08-12] Wooden Bedroom Furniture From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024
+- [Federal Register / 2026-08-12] Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Steel Import License
+- [Federal Register / 2026-08-12] Prospective Grant of an Exclusive Patent License: Development and Commercialization of BL-760 Dye for Intraoperative Fluorescence Imaging
+- [Federal Register / 2026-08-12] Government Owned Invention Available for License: Monoclonal Antibody (RO4) That Reacts With the Juxta-Membrane Region of Mesothelin
+- [Federal Register / 2026-08-12] Government Owned Invention Available for License: Human Antibodies Targeting Beneficial Viral Peptide in Liver Cancer
+- [Federal Register / 2026-08-12] Government Owned Invention Available for License: DNA Methylation-Based Cancer Diagnostics for Accurate Tumor Classification
+- [Federal Register / 2026-08-12] NIH Owned Invention Available for License: Soluble Tissue Factor, a Novel Target, and Antibodies, for Diagnosis, Prevention and Treatment of Thrombosis and Related Conditions
+- [Federal Register / 2026-08-12] Government Owned Invention Available for License: Quantitative Particle Identification (QPID) Digital Autoradiography System
+- [Federal Register / 2026-08-12] NIH Owned Invention Available for License: Drug-Regulatable, Inducible Expression of Membrane-Bound Interleukin 12 (DRIM-IL-12) for Use in Adoptive Cell Therapy
+- [Federal Register / 2026-08-12] Agency Information Collection Activities; Proposed eCollection eComments Requested; New Information Collection; USAO-PR COMMUNITY OUTREACH REQUEST FORM Feedback Form Package
+- [Federal Register / 2026-08-12] Dauphin Island Gathering Partners; Notice of Application and Establishing Intervention Deadline
+- [Federal Register / 2026-08-12] Mountain Valley Pipeline, LLC; Notice of Availability of the Environmental Assessment for the Proposed Mountain Valley Pipeline Boost Project
+- [Federal Register / 2026-08-12] Issuance of Multiple Exemptions
+- [Federal Register / 2026-08-12] Information Collection: Physical Protection of Category 1 and 2 Quantities of Radioactive Material
+- [Federal Register / 2026-08-12] Imposition of Import Restrictions on Categories of Archaeological and Ethnological Material of Nepal
+
+
+---
+
 ## 2026-08-11
 
 ### Official & Regulatory
