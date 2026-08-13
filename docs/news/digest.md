@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-13 - BIS Affiliates Rule Monitor *(auto)*
+
+*ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
+
+Days to Phase 2 (10 Nov 2026): 89 - status: suspended
+
+- [Federal Register / 2026-08-13] Airworthiness Directives; Airbus SAS Airplanes
+- [Federal Register / 2026-08-13] Airworthiness Directives; Airbus SAS Airplanes
+- [Federal Register / 2026-08-13] Air Plan Approval; Commonwealth of Virginia; Transfer of Authority and Requests for Certain Public Hearings on Air Permits
+- [Federal Register / 2026-08-13] Presidential Declaration Amendment of a Major Disaster for the State of Louisiana
+- [Federal Register / 2026-08-13] Certain Frozen Fish Fillets From the Socialist Republic of Vietnam: Final Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024
+- [Federal Register / 2026-08-13] Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of America
+- [Federal Register / 2026-08-13] Presidential Declaration Amendment of a Major Disaster for Public Assistance Only for the State of Louisiana
+- [Federal Register / 2026-08-13] Quarterly Update to Annual Listing of Foreign Government Subsidies on Articles of Cheese Subject to an In-Quota Rate of Duty
+- [Federal Register / 2026-08-13] Organic Soybean Meal From India: Preliminary Results and Rescission, in Part of Antidumping Duty Administrative Review; 2024-2025
+- [Federal Register / 2026-08-13] Carbon and Alloy Steel Wire Rod From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025
+- [Federal Register / 2026-08-13] Utility Scale Wind Towers From Indonesia: Final Results of Antidumping Duty Administrative Review; 2023-2024
+- [Federal Register / 2026-08-13] Foreign-Trade Zone 7; Application for Expansion of Subzone 7Q; Motorambar, Inc.; Cataño, Puerto Rico
+- [Federal Register / 2026-08-13] Foreign-Trade Zone 7; Application for Subzone; Luis Garratón, LLC; Caguas, Puerto Rico
+- [Federal Register / 2026-08-13] Government-Owned Inventions; Availability for Licensing
+- [Federal Register / 2026-08-13] Sunshine Act Meetings
+- [Federal Register / 2026-08-13] Agency Information Collection Activities; Comment Request; National Special Education Spending Study
+- [Federal Register / 2026-08-13] Toyota Motor North America, Inc., Grant of Petition for Decision of Inconsequential Noncompliance
+- [Federal Register / 2026-08-13] Establishment of Class E Airspace; Havana, IL
+- [Federal Register / 2026-08-13] National Eye Institute; Notice of Meeting
+- [Federal Register / 2026-08-13] Fisheries Off West Coast States; Modification of the West Coast Salmon Fisheries; Inseason Action #23-#24
+
+
+---
+
 ## 2026-08-12
 
 ### Official & Regulatory
