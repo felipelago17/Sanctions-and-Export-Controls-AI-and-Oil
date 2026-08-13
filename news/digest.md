@@ -9,6 +9,39 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-13
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Airworthiness Directives; Airbus SAS Airplanes (2026-08-13)](https://www.federalregister.gov/documents/2026/08/13/2026-16566/airworthiness-directives-airbus-sas-airplanes)
+- **[Federal Register]** [Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of America (2026-08-13)](https://www.federalregister.gov/documents/2026/08/13/2026-16552/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-related)
+- **[Federal Register]** [Toyota Motor North America, Inc., Grant of Petition for Decision of Inconsequential Noncompliance (2026-08-13)](https://www.federalregister.gov/documents/2026/08/13/2026-16540/toyota-motor-north-america-inc-grant-of-petition-for-decision-of-inconsequential-noncompliance)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Announces Employer Contributions to Trump Accounts, Drawing Corporate Support](https://home.treasury.gov/news/press-releases/sb0602)
+- **[Treasury]** [Treasury Releases CFIUS Annual Report for 2025](https://home.treasury.gov/news/press-releases/sb0599)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Joint Base Lindsey Graham Renaming Ceremony](https://home.treasury.gov/news/press-releases/sb0601)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: August 12, 2026](https://www.justsecurity.org/153375/early-edition-august-12-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-12-2026)
+- **[Atlantic Council]** [Iran is draining its leverage in the Strait of Hormuz. Trump’s best move is to let it happen.](https://www.atlanticcouncil.org/dispatches/iran-is-draining-its-leverage-in-the-strait-of-hormuz-trumps-best-move-is-to-let-it-happen/)
+- **[Atlantic Council]** [Ukraine is also fighting for its future in the EU. With the right help and reforms, it can win.](https://www.atlanticcouncil.org/dispatches/ukraine-can-also-win-war-on-corruption-with-help-and-reforms/)
+- **[Atlantic Council]** [Europe’s rare earth strategy is betting on allies](https://www.atlanticcouncil.org/blogs/econographics/europes-rare-earth-strategy-is-betting-on-allies/)
+- **[Atlantic Council]** [Braw in Al Jazeera on Ukrainian drone attacks on Russian port infrastructure](https://www.atlanticcouncil.org/commentary/braw-in-al-jazeera-on-ukrainian-drone-attacks-on-russian-port-infrastructure/)
+
+---
+
 ## 2026-08-13 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
