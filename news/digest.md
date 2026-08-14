@@ -9,6 +9,47 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-14
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [US: FCC Adds Inverters and Robotics to Covered List](https://sanctionsnews.bakermckenzie.com/us-fcc-adds-inverters-and-robotics-to-covered-list/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Airworthiness Directives; Airbus SAS Airplanes (2026-08-13)](https://www.federalregister.gov/documents/2026/08/13/2026-16566/airworthiness-directives-airbus-sas-airplanes)
+- **[Federal Register]** [Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Geophysical Surveys Related to Oil and Gas Activities in the Gulf of America (2026-08-13)](https://www.federalregister.gov/documents/2026/08/13/2026-16552/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-geophysical-surveys-related)
+- **[Federal Register]** [Toyota Motor North America, Inc., Grant of Petition for Decision of Inconsequential Noncompliance (2026-08-13)](https://www.federalregister.gov/documents/2026/08/13/2026-16540/toyota-motor-north-america-inc-grant-of-petition-for-decision-of-inconsequential-noncompliance)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Secretary Scott Bessent Highlights America’s  Main Street and Manufacturing Renaissance](https://home.treasury.gov/news/press-releases/sb0604)
+- **[Treasury]** [Treasury Announces Employer Contributions to Trump Accounts, Drawing Corporate Support](https://home.treasury.gov/news/press-releases/sb0602)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Joint Base Lindsey Graham Renaming Ceremony](https://home.treasury.gov/news/press-releases/sb0601)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Ashley Johnson Quoted in Bloomberg Law’s “Tobacco Penalty Suit Frenzy Reveals Post-Loper Bright Disarray”](https://www.gibsondunn.com/ashley-johnson-quoted-in-bloomberg-laws-tobacco-penalty-suit-frenzy-reveals-post-loper-bright-disarray/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Iran’s Conditions for Reopening Hormuz: What International Law Requires, Permits, and Forbids](https://www.justsecurity.org/153505/iran-conditions-hormuz-international-law/?utm_source=rss&utm_medium=rss&utm_campaign=iran-conditions-hormuz-international-law)
+- **[Just Security]** [“In Focus” Syllabus Supplements: Artificial Intelligence, Emerging Technology, and National Security (2025–2026)](https://www.justsecurity.org/153306/syllabus-supplements-artificial-intelligence-emerging-technology/?utm_source=rss&utm_medium=rss&utm_campaign=syllabus-supplements-artificial-intelligence-emerging-technology)
+- **[Just Security]** [“In Focus” Syllabus Supplements: Russia’s War Against Ukraine (2022–2026)](https://www.justsecurity.org/153313/syllabus-supplements-russia-war-against-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=syllabus-supplements-russia-war-against-ukraine)
+- **[Atlantic Council]** [Russia’s escalating bombardment of Ukraine is not ‘retaliation’](https://www.atlanticcouncil.org/blogs/ukrainealert/russias-escalating-bombardment-of-ukraine-is-not-retaliation/)
+- **[Atlantic Council]** [Lichfield quoted in MLex on the politics behind Russia’s sanctions bill](https://www.atlanticcouncil.org/uncategorized/charles-quoted-in-mlex-on-the-politics-behind-russias-sanctions-bill/)
+- **[Atlantic Council]** [The Danube is running dry, and taking Central Europe’s power supply with it](https://www.atlanticcouncil.org/dispatches/the-danube-is-running-dry-and-taking-central-europes-power-supply-with-it/)
+- **[Atlantic Council]** [Are rising bond yields and elevated leverage a recipe for market turmoil?](https://www.atlanticcouncil.org/blogs/econographics/are-rising-bond-yields-and-elevated-leverage-a-recipe-for-market-turmoil/)
+- **[Atlantic Council]** [A path toward sustainable security in Colombia](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-path-toward-sustainable-peace-in-colombia/)
+
+---
+
 ## 2026-08-14 - BIS Affiliates Rule Monitor *(auto)*
 
 *ANTHROPIC_API_KEY not configured - raw items listed for manual review.*
