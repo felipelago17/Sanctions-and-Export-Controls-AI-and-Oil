@@ -9,6 +9,35 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-17
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Agency Information Collection Request; 30-Day Public Comment Request; Submission for Office of Management and Budget Review; Generic Clearance for the Trusted Exchange Framework and Common Agreement (TEFCA) Monitoring Activities (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16766/agency-information-collection-request-30-day-public-comment-request-submission-for-office-of)
+- **[Federal Register]** [Proposed Collection: 30-Day Comment Request; Specimen Resource Locator (National Cancer Institute) (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16761/proposed-collection-30-day-comment-request-specimen-resource-locator-national-cancer-institute)
+- **[Federal Register]** [Delegation of Authority to the Assistant Secretary of Economic, Energy, and Business Affairs To Review and Deny Requests for Reconsideration of Sanctions Designations (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16759/delegation-of-authority-to-the-assistant-secretary-of-economic-energy-and-business-affairs-to-review)
+- **[Federal Register]** [Safety Zone; Fox River, Green Bay, WI (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16757/safety-zone-fox-river-green-bay-wi)
+- **[Federal Register]** [Notice of Intent To Prepare an Environmental Analysis Assessing Potential Modifications to the Atlantic Large Whale Take Reduction Plan To Reduce Mortality and Serious Injury of Large Whales in Commercial Trap/Pot and Gillnet Fisheries Along the U.S. East Coast (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16756/notice-of-intent-to-prepare-an-environmental-analysis-assessing-potential-modifications-to-the)
+- **[Federal Register]** [Pesticide Program Dialogue Committee (PPDC); Notice of Charter Reestablishment; Request for Nominations (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16755/pesticide-program-dialogue-committee-ppdc-notice-of-charter-reestablishment-request-for-nominations)
+- **[Federal Register]** [Foreign-Trade Zone (FTZ) 176, Notification of Proposed Production Activity; Coilcraft, Inc.; (Ferrous Iron Pre-Fabrication Material); Princeton, Illinois (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16752/foreign-trade-zone-ftz-176-notification-of-proposed-production-activity-coilcraft-inc-ferrous-iron)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury Secretary Scott Bessent Highlights America’s  Main Street and Manufacturing Renaissance](https://home.treasury.gov/news/press-releases/sb0604)
+- **[Treasury]** [Treasury Announces Employer Contributions to Trump Accounts, Drawing Corporate Support](https://home.treasury.gov/news/press-releases/sb0602)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Joint Base Lindsey Graham Renaming Ceremony](https://home.treasury.gov/news/press-releases/sb0601)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+
+---
+
 ## 2026-08-17 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
