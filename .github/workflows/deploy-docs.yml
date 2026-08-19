@@ -1,9 +1,7 @@
 name: Deploy Documentation to Public Site
 
-# Runs on every push to main (catches digest commits too) and on manual trigger.
-# Requires secret DOCS_DEPLOY_TOKEN: a Fine-grained PAT scoped to
-# felipelago17/Sanctions-and-Export-Controls-AI-and-Oil-site with
-# Contents: Read and write.
+# Deploys MkDocs site to the gh-pages branch of this repository using
+# the built-in GITHUB_TOKEN — no external secret required.
 
 on:
   push:
@@ -20,14 +18,14 @@ on:
       - main
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout source (private repo)
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -43,30 +41,10 @@ jobs:
             mkdocs-material \
             pymdown-extensions
 
-      - name: Build MkDocs site
-        run: mkdocs build --strict --site-dir _site
-
-      - name: Checkout public docs repo
-        uses: actions/checkout@v4
-        with:
-          repository: felipelago17/Sanctions-and-Export-Controls-AI-and-Oil-site
-          token: ${{ secrets.DOCS_DEPLOY_TOKEN }}
-          path: _docs_repo
-
-      - name: Sync built site to docs repo
+      - name: Configure git identity for gh-deploy
         run: |
-          find _docs_repo -mindepth 1 -maxdepth 1 -not -name '.git' -exec rm -rf {} +
-          cp -r _site/. _docs_repo/
-
-      - name: Commit and push to public docs repo
-        run: |
-          cd _docs_repo
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --staged --quiet; then
-            echo "No changes to deploy."
-          else
-            git commit -m "docs: deploy $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
-            git push origin main
-          fi
+
+      - name: Deploy to GitHub Pages (gh-pages branch)
+        run: mkdocs gh-deploy --force
