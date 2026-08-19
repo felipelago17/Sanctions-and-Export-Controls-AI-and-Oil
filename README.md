@@ -11,7 +11,7 @@
 
 The rendered documentation is publicly available at:
 
-**<https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil-site/>**
+**<https://felipelago17.github.io/Sanctions-and-Export-Controls-AI-and-Oil/>**
 
 The public site is built automatically from this private repository via
 GitHub Actions. No source code or proprietary logic is exposed.
