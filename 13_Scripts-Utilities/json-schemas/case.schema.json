@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "case.schema.json",
+  "title": "ExportControlCase",
+  "description": "Schema for PACER-tracked federal court cases involving export controls, AI, and cybersecurity",
+  "type": "object",
+  "required": ["case_id", "docket_num", "court", "plaintiff", "defendant", "filed_date", "status"],
+  "properties": {
+    "case_id": { "type": "string", "description": "Internal identifier, e.g. CASE-2026-001" },
+    "docket_num": { "type": "string", "description": "PACER docket number, e.g. 3:26-cv-01996" },
+    "court": { "type": "string", "description": "Federal court (e.g. N.D. Cal.)" },
+    "judge": { "type": ["string", "null"] },
+    "plaintiff": { "type": "string" },
+    "defendant": { "type": "string" },
+    "filed_date": { "type": "string", "format": "date" },
+    "status": {
+      "type": "string",
+      "enum": ["Active", "Appeal pending", "Settled", "Dismissed", "Judgment entered", "Trial scheduled"]
+    },
+    "cause_of_action": { "type": "array", "items": { "type": "string" } },
+    "export_control_nexus": { "type": "string" },
+    "constitutional_issues": { "type": "array", "items": { "type": "string" } },
+    "key_dates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "event": { "type": "string" }
+        },
+        "required": ["date", "event"]
+      }
+    },
+    "documents_count": { "type": "integer" },
+    "next_hearing": { "type": ["string", "null"], "format": "date" },
+    "tracking_url": { "type": ["string", "null"], "format": "uri" },
+    "pacer_url": { "type": ["string", "null"], "format": "uri" },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}

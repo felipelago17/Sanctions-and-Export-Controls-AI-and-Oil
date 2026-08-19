@@ -1,0 +1,135 @@
+{
+  "playbook_id": "DIST-001",
+  "title": "Model Distillation Intelligence: Four-Stage Attack and Enforcement Ladder",
+  "version": "1.0",
+  "last_updated": "2026-08-19",
+  "description": "Structured analysis of model distillation as an export control evasion technique, including the four-stage attack model, enforcement ladder, and detection rules.",
+  "four_stage_model": {
+    "description": "The canonical four-stage distillation attack model for illicit capability transfer from a controlled frontier model to an uncontrolled competitor model.",
+    "stages": [
+      {
+        "stage": 1,
+        "name": "Account Farming",
+        "description": "Create or acquire API access accounts that appear to belong to legitimate US-domiciled entities to avoid export-license requirements.",
+        "techniques": [
+          "Synthetic identity creation using deepfake KYC bypass",
+          "Acquisition of dormant US company shells with API accounts",
+          "Employee recruitment at US AI labs for insider access",
+          "Academic collaboration programs that grant research-tier API access"
+        ],
+        "detection_signals": [
+          "API accounts with mismatched billing address and originating IP geolocation",
+          "Burst API usage patterns inconsistent with stated use case",
+          "Account creation correlated with competitor model release dates",
+          "Multiple accounts resolving to same upstream proxy IP"
+        ],
+        "eccn_nexus": "15 CFR §744.6 — proliferation end-use controls; false statements in export license applications",
+        "case_reference": null
+      },
+      {
+        "stage": 2,
+        "name": "Prompt Flood — Teacher Queries",
+        "description": "Issue large volumes of structured queries to the target (teacher) model to extract its reasoning patterns, knowledge representations, and capability signals.",
+        "techniques": [
+          "Chain-of-thought elicitation prompts designed to expose reasoning traces",
+          "Adversarial capability probing across ECCN-threshold domains",
+          "Systematic benchmark query sets to map capability frontier",
+          "Tool-use elicitation to capture agentic decision logic"
+        ],
+        "volume_indicators": {
+          "low_risk": "< 10,000 API calls / day",
+          "medium_risk": "10,000 – 100,000 API calls / day",
+          "high_risk": "> 100,000 API calls / day with structured probe patterns"
+        },
+        "detection_signals": [
+          "Query entropy significantly lower than typical user (structured probe patterns)",
+          "Queries systematically covering benchmark datasets (MMLU, HumanEval, MATH, etc.)",
+          "High rate of long-context, chain-of-thought-eliciting prompts",
+          "Queries targeting specific capability domains correlated with competitor gap analysis"
+        ],
+        "eccn_nexus": "15 CFR §734.9 — release of technology through visual inspection, oral exchange, or use in the US",
+        "case_reference": null
+      },
+      {
+        "stage": 3,
+        "name": "Capability Transfer — Student Training",
+        "description": "Use the teacher model's outputs as training data (synthetic data or knowledge distillation) to train a student model that acquires the teacher's capabilities.",
+        "techniques": [
+          "Direct knowledge distillation: train student on teacher output probability distributions",
+          "Synthetic data generation: use teacher outputs as training corpus for student",
+          "Process reward model distillation: capture teacher's reasoning structure",
+          "Speculative decoding misuse: use teacher for correction of student draft outputs"
+        ],
+        "legal_status": {
+          "US": "Likely violates EAR §734.9 (technology release) and potentially 18 U.S.C. §1832 (trade secret theft) if training data is proprietary",
+          "EU": "Potentially violates AI Act Annex III high-risk system controls if student used in regulated contexts",
+          "China": "Not prohibited under Chinese law; Chinese labs have conducted this openly"
+        },
+        "eccn_nexus": "Technology for development of controlled AI model (new AI tech ECCN, TBD) — export of technology without license",
+        "case_reference": null
+      },
+      {
+        "stage": 4,
+        "name": "Competitor Release",
+        "description": "Release the distilled student model, typically as open weights or as an API, depriving the teacher model developer of competitive advantage and dispersing previously-controlled capabilities.",
+        "techniques": [
+          "Open-weight release on Hugging Face or domestic hosting platform",
+          "API release at lower price point than teacher model",
+          "Academic paper describing capability without disclosing distillation provenance",
+          "Government or military program integration of distilled capability"
+        ],
+        "irreversibility": "Once open-weight model is released, weight control is impracticable. Export control enforcement shifts to: (1) compute controls on training infrastructure; (2) criminal prosecution of distillation actors; (3) API access controls on teacher model.",
+        "eccn_nexus": "Post-release: controlled AI weights have been effectively exported; enforcement focuses on predicate conduct (stages 1-3)",
+        "case_reference": "INC-2026-002 (Anthropic) — eval environment breach potentially created distillation surface"
+      }
+    ]
+  },
+  "enforcement_ladder": {
+    "description": "Graduated enforcement responses to detected distillation conduct, ordered by severity.",
+    "tiers": [
+      {
+        "tier": 1,
+        "name": "API Access Termination",
+        "trigger": "Stage 1-2 detection: anomalous API usage pattern",
+        "action": "Terminate API access for flagged accounts; file Suspicious Activity Report (SAR) with FinCEN if financial transactions involved",
+        "authority": "Private (AI developer); no government authorization required",
+        "legal_basis": "Terms of Service; AML/BSA if applicable"
+      },
+      {
+        "tier": 2,
+        "name": "BIS Referral",
+        "trigger": "Stage 2-3 detection: structured technology extraction evidence",
+        "action": "File voluntary disclosure with BIS Office of Export Enforcement; preserve API logs as evidentiary record",
+        "authority": "BIS OEE; DOJ-NSD if criminal referral warranted",
+        "legal_basis": "15 CFR §764.5 (voluntary self-disclosure); 15 CFR §764.2 (prohibited acts)"
+      },
+      {
+        "tier": 3,
+        "name": "Entity List Designation",
+        "trigger": "Stage 3-4: confirmed capability transfer to restricted entity",
+        "action": "BIS adds distillation recipient to Entity List; license required for all EAR-controlled exports",
+        "authority": "BIS End-User Review Committee",
+        "legal_basis": "15 CFR §744.11"
+      },
+      {
+        "tier": 4,
+        "name": "Criminal Prosecution",
+        "trigger": "Stage 1-4: willful violation; national security nexus",
+        "action": "DOJ-NSD criminal indictment under IEEPA ($1M per violation); 18 U.S.C. §1832 trade secrets",
+        "authority": "DOJ-NSD; FBI CAIV",
+        "legal_basis": "50 U.S.C. §1705; 18 U.S.C. §1832"
+      },
+      {
+        "tier": 5,
+        "name": "IEEPA Emergency Order",
+        "trigger": "State-sponsored distillation; systemic national security threat",
+        "action": "Presidential IEEPA Order blocking transactions; potential secondary sanctions on distillation recipients",
+        "authority": "President; OFAC",
+        "legal_basis": "50 U.S.C. ch. 35 (IEEPA)"
+      }
+    ]
+  },
+  "detection_rules_reference": "06_Distillation-Intelligence/Detection-Rules/",
+  "case_studies_reference": "06_Distillation-Intelligence/Case-Studies/",
+  "schema_reference": "13_Scripts-Utilities/json-schemas/incident.schema.json"
+}

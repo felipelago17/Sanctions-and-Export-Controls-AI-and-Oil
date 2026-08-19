@@ -1,0 +1,52 @@
+[
+  {
+    "case_id": "PACER-001",
+    "docket": "3:26-cv-01996",
+    "court": "cand",
+    "short_name": "Anthropic v. DoD",
+    "case_name": "Anthropic PBC v. Department of Defense et al.",
+    "date_filed": "2026-03-01",
+    "date_terminated": null,
+    "status": "Active",
+    "plaintiff": "Anthropic PBC",
+    "defendants": [
+      "United States Department of Defense",
+      "Bureau of Industry and Security",
+      "Office of Foreign Assets Control"
+    ],
+    "judge": null,
+    "cause_of_action": [
+      "Administrative Procedure Act, 5 U.S.C. § 706",
+      "First Amendment (freedom of speech; publication of model weights)",
+      "Due process — Fifth Amendment (notice and opportunity to be heard before ECCN designation)",
+      "IEEPA ultra vires (cyber-predicate extension exceeds statutory authority)"
+    ],
+    "export_control_nexus": "Challenge to extension of EAR jurisdiction over AI model weights and agentic systems under the Fable/Mythos directive; contests cyber-predicate enforcement mechanism",
+    "constitutional_issues": [
+      "First Amendment — model weights as protected speech (Bernstein v. DOJ precedent)",
+      "Fifth Amendment due process — no notice or comment before ECCN designation",
+      "Non-delegation doctrine — IEEPA breadth as unconstitutional delegation",
+      "Void for vagueness — 'agentic system' undefined in EAR"
+    ],
+    "key_dates": [
+      {
+        "date": "2026-03-01",
+        "event": "Complaint filed"
+      },
+      {
+        "date": "2026-03-15",
+        "event": "TRO application filed; denied"
+      },
+      {
+        "date": "2026-05-01",
+        "event": "Government motion to dismiss filed"
+      }
+    ],
+    "docket_entries_count": 47,
+    "next_hearing": null,
+    "court_listener_url": "https://www.courtlistener.com/docket/PACER-001/",
+    "pacer_url": "https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?3:26-cv-01996",
+    "last_checked": "2026-08-19",
+    "tracking_notes": "Key case for AI export control law. Watch for: (1) ruling on motion to dismiss; (2) discovery on classified AI capability assessments; (3) amicus filings from tech industry. Outcome could determine whether model weights receive First Amendment protection analogous to software source code (cf. Bernstein v. DOJ, 9th Cir. 1999)."
+  }
+]

@@ -1,0 +1,162 @@
+name: Weekly PACER Docket Monitor
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Monday 8:00 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: pacer-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor-pacer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests python-dateutil
+
+      - name: Check CourtListener API for tracked cases
+        id: pacer_check
+        run: |
+          python - <<'PYEOF'
+          import requests, json, datetime, os, sys
+
+          HEADERS = {
+              "User-Agent": "export-controls-monitor/1.0 (+https://github.com/felipelago17/Sanctions-and-Export-Controls-AI-and-Oil)"
+          }
+
+          # Tracked cases: docket numbers and CourtListener search terms
+          TRACKED_CASES = [
+              {
+                  "case_id": "PACER-001",
+                  "docket": "3:26-cv-01996",
+                  "court": "cand",
+                  "short_name": "Anthropic v. DoD",
+                  "search_term": "Anthropic Department of Defense export controls"
+              }
+          ]
+
+          tracker_path = "11_Case-Law-PACER-Tracking/pacer-tracker.json"
+          try:
+              with open(tracker_path) as f:
+                  tracker = json.load(f)
+          except (FileNotFoundError, json.JSONDecodeError):
+              tracker = []
+
+          existing_dockets = {e.get("docket") for e in tracker}
+          new_entries = []
+
+          for case in TRACKED_CASES:
+              # Query CourtListener search (free PACER alternative)
+              url = (
+                  "https://www.courtlistener.com/api/rest/v4/dockets/"
+                  f"?docket_number={case['docket']}&court={case['court']}&format=json"
+              )
+              try:
+                  r = requests.get(url, headers=HEADERS, timeout=30)
+                  r.raise_for_status()
+                  data = r.json()
+                  results = data.get("results", [])
+                  if results:
+                      d = results[0]
+                      entry = {
+                          "case_id": case["case_id"],
+                          "docket": case["docket"],
+                          "court": case["court"],
+                          "short_name": case["short_name"],
+                          "case_name": d.get("case_name", case["short_name"]),
+                          "date_filed": d.get("date_filed", ""),
+                          "date_terminated": d.get("date_terminated"),
+                          "docket_entries_count": d.get("docket_entries_count", 0),
+                          "court_listener_url": f"https://www.courtlistener.com{d.get('absolute_url', '')}",
+                          "last_checked": datetime.date.today().isoformat(),
+                          "status": "Terminated" if d.get("date_terminated") else "Active"
+                      }
+                      new_entries.append(entry)
+                      print(f"Found: {case['short_name']} — {entry['docket_entries_count']} entries, status: {entry['status']}")
+                  else:
+                      print(f"No results for {case['docket']} in {case['court']}", file=sys.stderr)
+              except Exception as e:
+                  print(f"Error checking {case['docket']}: {e}", file=sys.stderr)
+
+          # Merge: update existing entries by docket, append new
+          merged = {e["docket"]: e for e in tracker}
+          for e in new_entries:
+              prev = merged.get(e["docket"], {})
+              prev_count = prev.get("docket_entries_count", 0)
+              merged[e["docket"]] = e
+              if e["docket_entries_count"] > prev_count:
+                  e["_new_entries"] = e["docket_entries_count"] - prev_count
+
+          final = list(merged.values())
+          with open(tracker_path, "w") as f:
+              json.dump(final, f, indent=2)
+
+          # Write alert file if new entries detected
+          alerts = [e for e in new_entries if e.get("_new_entries", 0) > 0]
+          with open("pacer_alerts.json", "w") as f:
+              json.dump(alerts, f, indent=2)
+          print(f"PACER check complete — {len(alerts)} cases with new filings")
+          PYEOF
+
+      - name: Create issues for new docket activity
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PYEOF'
+          import json, subprocess, sys
+
+          try:
+              with open("pacer_alerts.json") as f:
+                  alerts = json.load(f)
+          except FileNotFoundError:
+              sys.exit(0)
+
+          for case in alerts:
+              n = case.get("_new_entries", 0)
+              if n == 0:
+                  continue
+              title = f"[PACER] {case['short_name']} — {n} new docket entries"
+              body = (
+                  f"**Case:** {case.get('case_name', case['short_name'])}\n"
+                  f"**Docket:** {case['docket']} ({case['court'].upper()})\n"
+                  f"**Status:** {case['status']}\n"
+                  f"**New entries since last check:** {n}\n"
+                  f"**Total entries:** {case['docket_entries_count']}\n\n"
+                  f"**CourtListener:** {case['court_listener_url']}\n\n"
+                  f"---\n*Auto-generated by weekly-pacer-docket-monitor.yml*"
+              )
+              cmd = [
+                  "gh", "issue", "create",
+                  "--title", title,
+                  "--body", body,
+                  "--label", "pacer,litigation"
+              ]
+              result = subprocess.run(cmd, capture_output=True, text=True)
+              if result.returncode != 0:
+                  print(f"Failed to create issue: {result.stderr}", file=sys.stderr)
+              else:
+                  print(f"Created issue: {title}")
+          PYEOF
+
+      - name: Commit and push tracker update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add 11_Case-Law-PACER-Tracking/pacer-tracker.json
+          git diff --cached --quiet && echo "No changes" || \
+            git commit -m "chore: PACER tracker update $(date -u +%Y-%m-%d)"
+          git push

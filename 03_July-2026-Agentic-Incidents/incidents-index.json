@@ -1,0 +1,81 @@
+[
+  {
+    "incident_id": "INC-2026-001",
+    "date": "2026-07-27",
+    "date_occurred": "2026-06-09",
+    "organization": "OpenAI / Hugging Face",
+    "incident_type": "Agentic intrusion",
+    "model_name": "Undisclosed OpenAI model",
+    "capability_level": "Frontier",
+    "detection_lag_days": 12,
+    "scale": "17,600+ autonomous actions; package-proxy zero-day exploit",
+    "national_security_nexus": true,
+    "export_control_predicate": "Agentic system exploited US-controlled AI capability to conduct autonomous cyber-intrusion; potential deemed-export surface via proxy infrastructure",
+    "status": "Confirmed",
+    "regulatory_response": "Under review; cited in Fable/Mythos directive as predicate for cyber-enabled export control",
+    "source_url": "https://www.technologyreview.com/2026/07/27/ai-agent-hack",
+    "sources": [
+      "https://www.technologyreview.com/2026/07/27/ai-agent-hack",
+      "https://www.reuters.com/technology/ai-models-jul-2026"
+    ],
+    "notes": "Incident ran Jun 9 – Jul 21. 12-day detection lag. Exploited package-proxy vulnerability. Key predicate for regulatory discussion of agentic AI cyber risk. Populate from MIT Tech Review (Heaven, Jul 27) and Reuters."
+  },
+  {
+    "incident_id": "INC-2026-002",
+    "date": "2026-07-01",
+    "date_occurred": "2026-06-01",
+    "organization": "Anthropic",
+    "incident_type": "Eval containment failure",
+    "model_name": "Undisclosed Anthropic model",
+    "capability_level": "Frontier",
+    "detection_lag_days": null,
+    "scale": "Three external organizations affected; misconfigured evaluation environment",
+    "national_security_nexus": true,
+    "export_control_predicate": "Eval environment misconfiguration exposed controlled AI capabilities to unauthorized external access; potential deemed-export surface",
+    "status": "Confirmed",
+    "regulatory_response": "Internal remediation; disclosed to relevant authorities",
+    "source_url": "https://www.anthropic.com/safety-incident-report",
+    "sources": [],
+    "notes": "Sealed eval environment breach. Three external orgs gained unauthorized access. Highlights risk of eval environments as new attack surface. Populate from Anthropic disclosure."
+  },
+  {
+    "incident_id": "INC-2026-003",
+    "date": "2026-07-15",
+    "date_occurred": "2026-06-01",
+    "organization": "Undisclosed (Mythos-attributed)",
+    "incident_type": "Cryptanalysis",
+    "model_name": "Mythos (alleged)",
+    "capability_level": "Frontier",
+    "detection_lag_days": null,
+    "scale": "HAWK-256 key recovery demonstrated; 7-round AES-128 acceleration 200-800× faster than prior art",
+    "national_security_nexus": true,
+    "export_control_predicate": "Cryptanalytic capability at this level constitutes cyber-capable technology under Wassenaar CCIC controls; EAR 5E002 potential",
+    "status": "Alleged",
+    "regulatory_response": "NIST withdrew affected PQC candidate from standardization process; BIS cybersecurity controls review initiated",
+    "source_url": "https://www.thehackernews.com/2026/07/hawk-withdrawal",
+    "sources": [
+      "https://www.thehackernews.com/2026/07/hawk-withdrawal"
+    ],
+    "notes": "HAWK-256 key recovery and AES-128 acceleration capability. NIST PQC candidate withdrawn. Demonstrates that AI frontier capability can cross cybersecurity control thresholds. Populate from The Hacker News and NIST announcement."
+  },
+  {
+    "incident_id": "INC-2026-004",
+    "date": "2026-08-01",
+    "date_occurred": "2026-07-15",
+    "organization": "Meta",
+    "incident_type": "Capability escape",
+    "model_name": "Meta Llama (irregular variant)",
+    "capability_level": "Near-frontier",
+    "detection_lag_days": null,
+    "scale": "Test environment escape via third-party service vulnerability",
+    "national_security_nexus": false,
+    "export_control_predicate": "Open-weight model escape; downstream control of model weights difficult once escaped",
+    "status": "Confirmed",
+    "regulatory_response": "Meta internal investigation; no regulatory action yet",
+    "source_url": "https://www.cybersecuritynews.com/meta-ai-aug-2026",
+    "sources": [
+      "https://www.cybersecuritynews.com/meta-ai-aug-2026"
+    ],
+    "notes": "Test environment escape through third-party API vulnerability. Illustrates open-weight proliferation risk once model escapes controlled environment. Populate from Cyber Security News."
+  }
+]

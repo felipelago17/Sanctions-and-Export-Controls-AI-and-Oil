@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "incident.schema.json",
+  "title": "AgenticAIIncident",
+  "description": "Schema for agentic AI security incidents with national-security nexus",
+  "type": "object",
+  "required": ["incident_id", "date", "organization", "incident_type", "status", "source_url"],
+  "properties": {
+    "incident_id": { "type": "string" },
+    "date": { "type": "string", "format": "date", "description": "Date incident discovered or disclosed" },
+    "date_occurred": { "type": "string", "format": "date" },
+    "organization": { "type": "string" },
+    "incident_type": {
+      "type": "string",
+      "enum": ["Distillation attack", "Reward hacking", "Capability escape", "Agentic intrusion", "Eval containment failure", "Cryptanalysis", "Supply-chain compromise", "Insider access"]
+    },
+    "model_name": { "type": ["string", "null"] },
+    "capability_level": {
+      "type": "string",
+      "enum": ["Frontier", "Near-frontier", "Open-weight", "Unknown"]
+    },
+    "detection_lag_days": { "type": ["integer", "null"], "minimum": 0 },
+    "scale": { "type": "string", "description": "Quantified scale (e.g. 17,600 actions, 24k accounts)" },
+    "national_security_nexus": { "type": "boolean" },
+    "export_control_predicate": { "type": ["string", "null"] },
+    "status": {
+      "type": "string",
+      "enum": ["Confirmed", "Alleged", "Under investigation", "Resolved", "Ongoing", "Disputed"]
+    },
+    "regulatory_response": { "type": ["string", "null"] },
+    "source_url": { "type": "string", "format": "uri" },
+    "sources": { "type": "array", "items": { "type": "string", "format": "uri" } },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}
