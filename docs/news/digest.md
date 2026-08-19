@@ -9,6 +9,42 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-19
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [International Association of Color Manufacturers; Filing of Color Additive Petition (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16943/international-association-of-color-manufacturers-filing-of-color-additive-petition)
+- **[Federal Register]** [Commission Information Collection Activities (FERC-725U); Comment Request; Extension (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16925/commission-information-collection-activities-ferc-725u-comment-request-extension)
+- **[Federal Register]** [Rio Grande LNG, LLC, Rio Grande LNG Train 4, LLC, Rio Grande LNG Train 5, LLC; Notice of Schedule for the Preparation of an Environmental Assessment for the Rio Grande LNG Capacity Amendment (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16922/rio-grande-lng-llc-rio-grande-lng-train-4-llc-rio-grande-lng-train-5-llc-notice-of-schedule-for-the)
+- **[Federal Register]** [Commission Information Collection Activities (FERC-923); Comment Request; Extension (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16921/commission-information-collection-activities-ferc-923-comment-request-extension)
+- **[Federal Register]** [Proposed Collection; Comment Request (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16920/proposed-collection-comment-request)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury International Capital Data for June](https://home.treasury.gov/news/press-releases/sb0606)
+- **[Treasury]** [Treasury Seeks Public Comment on GENIUS Act Proposed Rulemaking](https://home.treasury.gov/news/press-releases/sb0605)
+- **[Treasury]** [Treasury Secretary Scott Bessent Highlights America’s  Main Street and Manufacturing Renaissance](https://home.treasury.gov/news/press-releases/sb0604)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Joint Base Lindsey Graham Renaming Ceremony](https://home.treasury.gov/news/press-releases/sb0601)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Amid the Open-Source AI Debate, America Needs a New Theory of Technological Power](https://www.justsecurity.org/153033/ai-america-china-technological-power/?utm_source=rss&utm_medium=rss&utm_campaign=ai-america-china-technological-power)
+- **[Just Security]** [Early Edition: August 18, 2026](https://www.justsecurity.org/154447/early-edition-august-18-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-18-2026)
+- **[Atlantic Council]** [What it will take for the US and India to conclude a trade agreement](https://www.atlanticcouncil.org/dispatches/what-it-will-take-for-the-us-and-india-to-conclude-a-trade-agreement/)
+- **[Atlantic Council]** [Odesa under attack: Russia is cutting Ukraine off from the Black Sea](https://www.atlanticcouncil.org/blogs/ukrainealert/odesa-under-attack-russia-is-cutting-ukraine-off-from-the-black-sea/)
+- **[Atlantic Council]** [Echoes of Odysseus in Ukraine’s ingenious approach to the art of war](https://www.atlanticcouncil.org/blogs/ukrainealert/echoes-of-odysseus-in-ukraines-ingenious-approach-to-the-art-of-war/)
+
+---
+
 ## 2026-08-19 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
