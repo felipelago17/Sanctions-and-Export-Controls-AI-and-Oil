@@ -1,0 +1,72 @@
+[
+  {
+    "era": "Cold War Foundation",
+    "period": "1949–1979",
+    "enforcement_focus": "Physical goods — strategic materials to Soviet bloc",
+    "perimeter": "Border / physical customs",
+    "key_authorities": ["Export Control Act 1949", "Battle Act 1951"],
+    "legislation": ["Pub. L. 81-11 (Export Control Act 1949)", "Mutual Defense Assistance Control Act (Battle Act) 1951"],
+    "notable_cases": ["CoCom multilateral controls established 1949"],
+    "notes": "Controls focused on tangible goods; enforcement at physical border"
+  },
+  {
+    "era": "IEEPA & EAR Foundation",
+    "period": "1979–1995",
+    "enforcement_focus": "Dual-use technology; strategic goods to adversaries",
+    "perimeter": "Border + transaction",
+    "key_authorities": ["Export Administration Act 1979", "IEEPA 1977 (50 U.S.C. ch. 35)", "BIS Entity List (est. 1997)"],
+    "legislation": ["Export Administration Act of 1979 (Pub. L. 96-72)", "International Emergency Economic Powers Act 1977"],
+    "notable_cases": ["Toshiba-Kongsberg scandal 1987 (CNC machinery to USSR)", "Numerous Cold War dual-use diversion cases"],
+    "notes": "IEEPA gave Executive broad emergency powers; EAA focused on Commerce-controlled dual-use goods"
+  },
+  {
+    "era": "Post-Cold War Proliferation Era",
+    "period": "1996–2001",
+    "enforcement_focus": "WMD proliferation; missile technology; supercomputers",
+    "perimeter": "Transaction + counterparty",
+    "key_authorities": ["Export Administration Regulations (EAR) 15 CFR 730–774", "ITAR 22 CFR 120–130", "OFAC SDN List"],
+    "legislation": ["Export Administration Regulations (modern form) 1996", "Iran Libya Sanctions Act 1996", "Arms Export Control Act"],
+    "notable_cases": ["Loral/Hughes satellite technology transfer to China 1998", "Cox Report on Chinese espionage 1999"],
+    "notes": "EAR codified in current form; ECCN system established; dual-use controls systematized"
+  },
+  {
+    "era": "Post-9/11 Counterterrorism",
+    "period": "2001–2017",
+    "enforcement_focus": "Terror finance; WMD; Iran/North Korea/Russia sanctions",
+    "perimeter": "Counterparty / financial transaction",
+    "key_authorities": ["USA PATRIOT Act 2001", "OFAC SDN/MEL/EL expansions", "NDAA 2012–2017"],
+    "legislation": ["USA PATRIOT Act 2001", "Comprehensive Iran Sanctions, Accountability, and Divestiture Act 2010 (CISADA)", "Iran Freedom and Counter-Proliferation Act 2012"],
+    "notable_cases": ["BNP Paribas $8.9B OFAC settlement 2014", "ZTE DOJ/BIS action 2017", "Fokker Services BIS action"],
+    "notes": "Secondary sanctions extended US reach extraterritorially; financial sector became key enforcement vector"
+  },
+  {
+    "era": "Technology Competition & ECRA",
+    "period": "2018–2021",
+    "enforcement_focus": "Emerging technologies; semiconductor controls; China tech",
+    "perimeter": "Supply chain + technology access",
+    "key_authorities": ["Export Control Reform Act (ECRA) 2018", "FIRRMA 2018", "Entity List (Huawei 2019)", "FDPR"],
+    "legislation": ["Export Control Reform Act 2018 (NDAA §1741)", "Foreign Investment Risk Review Modernization Act 2018"],
+    "notable_cases": ["Huawei Entity List 2019 (HiSilicon/TSMC supply chain cut)", "ZTE final order 2018", "SMIC Entity List 2020"],
+    "notes": "ECRA gave BIS permanent statutory authority; Entity List became primary tech-competition tool; FDPR extended US controls to foreign-produced items with US content"
+  },
+  {
+    "era": "Advanced Computing & AI Controls",
+    "period": "Oct 2022–2024",
+    "enforcement_focus": "AI chips; advanced semiconductors; China military modernization",
+    "perimeter": "Technology capability threshold (TPP)",
+    "key_authorities": ["BIS Advanced Computing Rule Oct 7, 2022", "BIS Oct 17, 2023 update", "ECCN 3A090, 3E001"],
+    "legislation": ["BIS IFR: Controls for Advanced Computing and Semiconductor Manufacturing Items (Oct 2022)", "CHIPS and Science Act 2022"],
+    "notable_cases": ["CXMT, Yangtze Memory Entity List additions 2022", "Applied Materials BIS investigation (revealed 2025–26)", "Cadence Design Systems deemed-export investigation 2024–25"],
+    "notes": "TPP (Total Processing Performance) thresholds introduced; 3A090 ECCN for advanced GPUs/TPUs; AI governance intersects with export controls"
+  },
+  {
+    "era": "AI Diffusion & Agentic Controls",
+    "period": "Jan 2025–present",
+    "enforcement_focus": "AI model weights; agentic systems; cyber-predicate enforcement",
+    "perimeter": "Logical access / API endpoint / connection (identity & access)",
+    "key_authorities": ["AI Diffusion Rule IFR (Jan 15, 2025)", "BIS Affiliates Rule (Oct 2025)", "IEEPA emergency powers for AI", "GAAI Act (discussion draft)"],
+    "legislation": ["AI Diffusion Rule: Framework for Artificial Intelligence Diffusion (15 CFR Parts 734, 740, 742, 744)", "Export Administration Regulations amendments 2025"],
+    "notable_cases": ["Applied Materials $252M settlement Feb 2026", "DOJ Operation Gatekeeper Dec 2025 (AI-chip diversion UAE)", "Fable/Mythos directive Jun 2026 (cyber-predicate normalized)", "Anthropic v. DoD N.D. Cal. 3:26-cv-01996 (filed Mar 2026)"],
+    "notes": "Paradigm shift: controls extend to logical access and API connections; cyber-predicate used to trigger export-control measures; agentic AI systems create deemed-export surfaces at runtime"
+  }
+]

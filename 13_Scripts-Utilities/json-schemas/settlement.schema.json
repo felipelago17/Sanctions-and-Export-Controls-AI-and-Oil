@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "settlement.schema.json",
+  "title": "ExportControlSettlement",
+  "description": "Schema for BIS/OFAC/DOJ export-control and sanctions enforcement settlements",
+  "type": "object",
+  "required": ["settlement_id", "company", "agency", "amount_usd", "date", "regulation_cited", "source_url", "enforcement_type", "status"],
+  "properties": {
+    "settlement_id": { "type": "string", "description": "Unique ID, e.g. BIS-2026-001" },
+    "company": { "type": "string" },
+    "agency": { "type": "string", "enum": ["BIS", "OFAC", "DOJ", "DOJ-NSD", "DDTC", "Multi-agency"] },
+    "amount_usd": { "type": "number", "description": "Penalty in USD; 0 if non-monetary" },
+    "date": { "type": "string", "format": "date" },
+    "export_mechanics": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "How the export-control violation occurred (e.g. deemed export, diversion, unlicensed shipment)"
+    },
+    "cyber_nexus": {
+      "type": ["string", "null"],
+      "description": "Cybersecurity predicate, if any (e.g. insider access, API misuse, supply-chain)"
+    },
+    "regulation_cited": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Regulations cited (e.g. EAR 15 CFR 764, IEEPA 50 USC 1705)"
+    },
+    "eccn": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "ECCNs of controlled items (e.g. 3A090, 5A002, EAR99)"
+    },
+    "source_url": { "type": "string", "format": "uri" },
+    "enforcement_type": {
+      "type": "string",
+      "enum": ["Civil penalty", "Criminal charge", "Deferred prosecution", "Consent order", "Entity List addition", "Denial order", "Warning letter"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["Final", "Pending", "Appealed", "Dismissed", "Ongoing"]
+    },
+    "penalty_trend": {
+      "type": "string",
+      "enum": ["Escalating", "Stable", "Novel precedent", "Landmark"]
+    },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}

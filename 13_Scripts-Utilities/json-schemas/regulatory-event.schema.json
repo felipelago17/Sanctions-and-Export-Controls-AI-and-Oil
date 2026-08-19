@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "regulatory-event.schema.json",
+  "title": "RegulatoryEvent",
+  "description": "Schema for the regulatory calendar — issued measures, legislation, international frameworks",
+  "type": "object",
+  "required": ["event_id", "date", "event_name", "jurisdiction", "status"],
+  "properties": {
+    "event_id": { "type": "string" },
+    "date": { "type": "string", "format": "date" },
+    "event_name": { "type": "string" },
+    "jurisdiction": { "type": "string", "enum": ["US", "EU", "UK", "UN", "Wassenaar", "China", "G7", "Multi"] },
+    "regulation": { "type": ["string", "null"], "description": "Specific regulation or authority (e.g. EAR 15 CFR, IEEPA)" },
+    "status": {
+      "type": "string",
+      "enum": ["Final rule", "Interim final rule", "Proposed rule", "Discussion draft", "Enacted", "In litigation", "Withdrawn", "Anticipated"]
+    },
+    "enforcement_likelihood": {
+      "type": "string",
+      "enum": ["High", "Medium", "Low", "Uncertain"]
+    },
+    "impact_assessment": { "type": "string" },
+    "industry_response": { "type": ["string", "null"] },
+    "tracking_url": { "type": ["string", "null"], "format": "uri" },
+    "federal_register_url": { "type": ["string", "null"], "format": "uri" },
+    "topics": { "type": "array", "items": { "type": "string" } },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "source.schema.json",
+  "title": "SourceRecord",
+  "description": "Schema for the sources master index — statutes, cases, news, papers, consulting",
+  "type": "object",
+  "required": ["source_id", "title", "url", "doc_type", "published_date", "accessed_date", "topics"],
+  "properties": {
+    "source_id": { "type": "string" },
+    "title": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "doc_type": {
+      "type": "string",
+      "enum": ["statute", "regulation", "case", "news", "paper", "consulting", "government", "press-release", "guidance", "report"]
+    },
+    "published_date": { "type": ["string", "null"], "format": "date" },
+    "accessed_date": { "type": "string", "format": "date" },
+    "author": { "type": ["string", "null"] },
+    "jurisdiction": {
+      "type": "string",
+      "enum": ["US", "EU", "UK", "UN", "Wassenaar", "Multi", "China", "Other"]
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["EAR", "OFAC", "IEEPA", "ITAR", "ECCN", "deemed-export", "AI", "cybersecurity", "semiconductor", "distillation", "sanctions", "Russia", "Iran", "China", "energy", "litigation", "governance", "liability"]
+      }
+    },
+    "relevance_tier": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "1 = primary authority, 5 = background reading"
+    },
+    "citation_count": { "type": "integer", "minimum": 0 },
+    "checksum": { "type": ["string", "null"], "description": "SHA-256 of content at accessed_date" },
+    "dead_link": { "type": "boolean", "default": false },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": false
+}

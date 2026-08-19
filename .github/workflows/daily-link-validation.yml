@@ -1,0 +1,161 @@
+name: Daily Link Validation
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # 5:00 AM UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: link-validation
+  cancel-in-progress: false
+
+jobs:
+  validate-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Validate source URLs
+        id: link_check
+        run: |
+          python - <<'PYEOF'
+          import requests, json, datetime, sys, time
+
+          HEADERS = {
+              "User-Agent": "Mozilla/5.0 (compatible; export-controls-link-validator/1.0)",
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+          }
+          TIMEOUT = 20
+          DEAD_STATUSES = {404, 410, 451}
+          SKIP_DOMAINS = ["pacer.gov"]  # requires auth
+
+          def check_url(url):
+              if any(d in url for d in SKIP_DOMAINS):
+                  return "skipped", None
+              try:
+                  r = requests.head(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
+                  if r.status_code in DEAD_STATUSES:
+                      return "dead", r.status_code
+                  if r.status_code >= 400:
+                      # Try GET as fallback (some servers reject HEAD)
+                      r2 = requests.get(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True, stream=True)
+                      r2.close()
+                      if r2.status_code in DEAD_STATUSES:
+                          return "dead", r2.status_code
+                  return "ok", r.status_code
+              except requests.exceptions.SSLError:
+                  return "ssl_error", None
+              except requests.exceptions.ConnectionError:
+                  return "connection_error", None
+              except requests.exceptions.Timeout:
+                  return "timeout", None
+              except Exception as e:
+                  return "error", str(e)
+
+          # Collect URLs from JSON data files
+          sources = []
+          data_files = [
+              "02_Settlements-2025-2026/settlements-index.json",
+              "03_July-2026-Agentic-Incidents/incidents-index.json",
+              "07_Regulatory-Monitoring/regulatory-calendar.json",
+              "11_Case-Law-PACER-Tracking/pacer-tracker.json",
+              "12_Sources-Bibliography/sources-master-index.json"
+          ]
+
+          for path in data_files:
+              try:
+                  with open(path) as f:
+                      data = json.load(f)
+                  if isinstance(data, list):
+                      for item in data:
+                          for key in ("source_url", "tracking_url", "federal_register_url", "court_listener_url"):
+                              url = item.get(key)
+                              if url and url.startswith("http"):
+                                  sources.append({"url": url, "file": path, "key": key})
+                          for url in item.get("sources", []):
+                              if url and url.startswith("http"):
+                                  sources.append({"url": url, "file": path, "key": "sources[]"})
+              except (FileNotFoundError, json.JSONDecodeError):
+                  pass
+
+          print(f"Checking {len(sources)} URLs...")
+          results = []
+          dead = []
+          seen = set()
+
+          for s in sources:
+              url = s["url"]
+              if url in seen:
+                  continue
+              seen.add(url)
+              status, code = check_url(url)
+              result = {**s, "status": status, "http_code": code, "checked": datetime.date.today().isoformat()}
+              results.append(result)
+              if status == "dead":
+                  dead.append(result)
+                  print(f"DEAD [{code}]: {url}")
+              elif status not in ("ok", "skipped"):
+                  print(f"WARN [{status}]: {url}")
+              time.sleep(0.5)  # polite rate-limit
+
+          with open("link_results.json", "w") as f:
+              json.dump({"results": results, "dead": dead, "checked": datetime.date.today().isoformat()}, f, indent=2)
+
+          print(f"\nSummary: {len(results)} checked, {len(dead)} dead")
+          PYEOF
+
+      - name: Create issue for dead links
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PYEOF'
+          import json, subprocess, sys, datetime
+
+          try:
+              with open("link_results.json") as f:
+                  data = json.load(f)
+          except FileNotFoundError:
+              sys.exit(0)
+
+          dead = data.get("dead", [])
+          if not dead:
+              print("No dead links found")
+              sys.exit(0)
+
+          rows = "\n".join(
+              f"| `{d['url'][:80]}` | {d.get('http_code','?')} | {d['file']} |"
+              for d in dead[:20]
+          )
+          title = f"[Links] {len(dead)} dead source URL(s) detected {datetime.date.today().isoformat()}"
+          body = (
+              f"**Dead links detected during daily link validation**\n\n"
+              f"| URL | HTTP Code | File |\n"
+              f"|-----|-----------|------|\n"
+              f"{rows}\n\n"
+              f"---\n*Auto-generated by daily-link-validation.yml*"
+          )
+          cmd = [
+              "gh", "issue", "create",
+              "--title", title,
+              "--body", body,
+              "--label", "dead-link,maintenance"
+          ]
+          result = subprocess.run(cmd, capture_output=True, text=True)
+          if result.returncode != 0:
+              print(f"Failed to create issue: {result.stderr}", file=sys.stderr)
+          else:
+              print(f"Created dead-link issue: {title}")
+          PYEOF

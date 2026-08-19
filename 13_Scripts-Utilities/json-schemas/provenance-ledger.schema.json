@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "provenance-ledger.schema.json",
+  "title": "AgentProvenanceLedger",
+  "description": "Schema for cryptographically-binding agentic AI provenance records (Woodward-Rogoyski framework)",
+  "type": "object",
+  "required": ["ledger_id", "agent_id", "model_id", "timestamp", "cryptographic_binding"],
+  "properties": {
+    "ledger_id": { "type": "string", "description": "Immutable record ID (UUID v4)" },
+    "agent_id": { "type": "string", "description": "Cryptographically signed agent identity" },
+    "agent_version": { "type": "string" },
+    "model_id": { "type": "string", "description": "Model identifier (name + version)" },
+    "model_version": { "type": "string" },
+    "model_origin": { "type": "string", "enum": ["US-frontier", "US-open-weight", "EU", "China-frontier", "China-open-weight", "Other"] },
+    "eccn": { "type": ["string", "null"], "description": "ECCN of the model (e.g. 5A002, EAR99)" },
+    "tool_id": { "type": "array", "items": { "type": "string" }, "description": "Tools authorized for this agent session" },
+    "authorization_chain": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "principal": { "type": "string" },
+          "delegation_type": { "type": "string" },
+          "timestamp": { "type": "string", "format": "date-time" }
+        }
+      }
+    },
+    "cryptographic_binding": {
+      "type": "object",
+      "properties": {
+        "algorithm": { "type": "string" },
+        "signature": { "type": "string" },
+        "public_key_fingerprint": { "type": "string" }
+      },
+      "required": ["algorithm", "signature"]
+    },
+    "timestamp": { "type": "string", "format": "date-time" },
+    "audit_trail": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "action": { "type": "string" },
+          "timestamp": { "type": "string", "format": "date-time" },
+          "actor": { "type": "string" },
+          "approved_by": { "type": "string" },
+          "foreign_national_access": { "type": "boolean" }
+        }
+      }
+    },
+    "deemed_export_surface": {
+      "type": ["string", "null"],
+      "description": "If agent grants foreign-national access to EAR-controlled tech, document here"
+    },
+    "export_regime_attribution": { "type": ["string", "null"] }
+  },
+  "additionalProperties": false
+}
