@@ -2,7 +2,7 @@
   {
     "event_id": "RC-2025-001",
     "date": "2025-01-15",
-    "event_name": "AI Diffusion Rule IFR — Effective Date",
+    "event_name": "AI Diffusion Rule IFR \u2014 Effective Date",
     "jurisdiction": "US",
     "regulation": "Framework for Artificial Intelligence Diffusion, 15 CFR Parts 734, 740, 742, 744",
     "status": "Final rule",
@@ -11,13 +11,18 @@
     "industry_response": "Major AI labs implementing tiered access controls; Legal challenge by Anthropic (filed Mar 2026)",
     "tracking_url": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion",
     "federal_register_url": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion",
-    "topics": ["AI", "EAR", "Model Weights", "Deemed Export"],
+    "topics": [
+      "AI",
+      "EAR",
+      "Model Weights",
+      "Deemed Export"
+    ],
     "notes": "Most significant AI export control rule to date; creates new ECCN categories for AI model weights"
   },
   {
     "event_id": "RC-2025-002",
     "date": "2025-10-01",
-    "event_name": "BIS Affiliates Rule — Effective Date",
+    "event_name": "BIS Affiliates Rule \u2014 Effective Date",
     "jurisdiction": "US",
     "regulation": "BIS Affiliates Rule amending 15 CFR Part 744",
     "status": "Final rule",
@@ -26,13 +31,18 @@
     "industry_response": "Compliance reviews of corporate ownership structures; divestiture of minority stakes in affected entities",
     "tracking_url": "https://www.bis.gov/press-release/affiliates-rule-2025",
     "federal_register_url": null,
-    "topics": ["EAR", "Entity List", "Affiliates", "China"],
-    "notes": "Snap-back date: 10 November 2026 — controls revert to pre-rule state if not made permanent by that date"
+    "topics": [
+      "EAR",
+      "Entity List",
+      "Affiliates",
+      "China"
+    ],
+    "notes": "Snap-back date: 10 November 2026 \u2014 controls revert to pre-rule state if not made permanent by that date"
   },
   {
     "event_id": "RC-2026-001",
     "date": "2026-01-01",
-    "event_name": "Beijing Reciprocal Blacklist — 56 US Companies",
+    "event_name": "Beijing Reciprocal Blacklist \u2014 56 US Companies",
     "jurisdiction": "CN",
     "regulation": "China Unreliable Entity List Regulations (2020); Rare Earth Export Controls (2023 amendments)",
     "status": "Final rule",
@@ -41,8 +51,13 @@
     "industry_response": "US industry seeking rare earth alternatives; Congressional hearings on critical mineral supply chains",
     "tracking_url": "https://mofcom.gov.cn",
     "federal_register_url": null,
-    "topics": ["China", "Rare Earths", "Supply Chain", "Semiconductors"],
-    "notes": "Bidirectional nature of export controls — China's retaliatory measures demonstrate mutual leverage"
+    "topics": [
+      "China",
+      "Rare Earths",
+      "Supply Chain",
+      "Semiconductors"
+    ],
+    "notes": "Bidirectional nature of export controls \u2014 China's retaliatory measures demonstrate mutual leverage"
   },
   {
     "event_id": "RC-2026-002",
@@ -56,13 +71,18 @@
     "industry_response": "Industry-wide compliance review of distributor and reseller agreements",
     "tracking_url": "https://www.bis.gov/press-release/applied-materials",
     "federal_register_url": null,
-    "topics": ["BIS", "Semiconductors", "China", "Civil Penalty"],
-    "notes": "Shipments routed through intermediaries in third countries — transshipment enforcement"
+    "topics": [
+      "BIS",
+      "Semiconductors",
+      "China",
+      "Civil Penalty"
+    ],
+    "notes": "Shipments routed through intermediaries in third countries \u2014 transshipment enforcement"
   },
   {
     "event_id": "RC-2026-003",
     "date": "2026-06-01",
-    "event_name": "Fable/Mythos Directive — Cyber-Predicate Export Controls",
+    "event_name": "Fable/Mythos Directive \u2014 Cyber-Predicate Export Controls",
     "jurisdiction": "US",
     "regulation": "IEEPA Emergency Order (Executive Order under 50 U.S.C. ch. 35)",
     "status": "Final rule",
@@ -71,7 +91,12 @@
     "industry_response": "Industry opposition; Anthropic legal challenge filed Mar 2026; technology sector coalition letter",
     "tracking_url": null,
     "federal_register_url": null,
-    "topics": ["IEEPA", "AI", "Cybersecurity", "Agentic"],
+    "topics": [
+      "IEEPA",
+      "AI",
+      "Cybersecurity",
+      "Agentic"
+    ],
     "notes": "Subject of Anthropic v. DoD, N.D. Cal. 3:26-cv-01996; constitutionality challenged on First Amendment and due process grounds"
   },
   {
@@ -86,7 +111,12 @@
     "industry_response": "Industry lobbying for permanent rule; uncertainty in compliance planning",
     "tracking_url": "https://www.bis.gov",
     "federal_register_url": null,
-    "topics": ["EAR", "Entity List", "Affiliates", "China"],
-    "notes": "CRITICAL DATE — monitor for BIS rulemaking activity to make rule permanent before snap-back"
+    "topics": [
+      "EAR",
+      "Entity List",
+      "Affiliates",
+      "China"
+    ],
+    "notes": "CRITICAL DATE \u2014 monitor for BIS rulemaking activity to make rule permanent before snap-back"
   }
 ]
