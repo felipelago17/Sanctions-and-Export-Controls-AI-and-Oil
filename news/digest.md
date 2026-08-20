@@ -9,6 +9,38 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-20
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
+- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: National Transit Database (NTD) (2026-08-20)](https://www.federalregister.gov/documents/2026/08/20/2026-17035/agency-information-collection-activity-under-omb-review-national-transit-database-ntd)
+- **[Federal Register]** [Notice of Extension of the Deadline for Determining the Adequacy of the Antidumping and Countervailing Duty Petitions: Certain Linear Hydraulic Cylinders and Parts Thereof From Canada, the People's Republic of China, India, the Republic of Korea, and Mexico (2026-08-20)](https://www.federalregister.gov/documents/2026/08/20/2026-17034/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and)
+- **[Federal Register]** [Draft Regulatory Guide: Comprehensive Risk Metrics and Associated Risk Performance Objectives for Commercial Nuclear Plants (2026-08-20)](https://www.federalregister.gov/documents/2026/08/20/2026-17030/draft-regulatory-guide-comprehensive-risk-metrics-and-associated-risk-performance-objectives-for)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [Treasury, IRS Propose Rules to Protect Refundable Tax Credits from Abuse by Illegal Aliens](https://home.treasury.gov/news/press-releases/sb0608)
+- **[Treasury]** [Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks Beginning September 9](https://home.treasury.gov/news/press-releases/sb0607)
+- **[Treasury]** [Treasury International Capital Data for June](https://home.treasury.gov/news/press-releases/sb0606)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Joint Base Lindsey Graham Renaming Ceremony](https://home.treasury.gov/news/press-releases/sb0601)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The U.S. Government Must Preserve the Soft Power of Its Sanctions](https://www.justsecurity.org/150886/us-government-soft-power-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=us-government-soft-power-sanctions)
+- **[Just Security]** [Early Edition: August 19, 2026](https://www.justsecurity.org/154539/early-edition-august-19-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-19-2026)
+- **[Atlantic Council]** [The view from South Korea on Trump scaling back joint military exercises](https://www.atlanticcouncil.org/dispatches/the-view-from-south-korea-on-trump-scaling-back-joint-military-exercises/)
+
+---
+
 ## 2026-08-20 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
