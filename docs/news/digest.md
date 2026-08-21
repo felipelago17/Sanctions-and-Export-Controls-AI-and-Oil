@@ -9,6 +9,47 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-21
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: National Transit Database (NTD) (2026-08-20)](https://www.federalregister.gov/documents/2026/08/20/2026-17035/agency-information-collection-activity-under-omb-review-national-transit-database-ntd)
+- **[Federal Register]** [Notice of Extension of the Deadline for Determining the Adequacy of the Antidumping and Countervailing Duty Petitions: Certain Linear Hydraulic Cylinders and Parts Thereof From Canada, the People's Republic of China, India, the Republic of Korea, and Mexico (2026-08-20)](https://www.federalregister.gov/documents/2026/08/20/2026-17034/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and)
+- **[Federal Register]** [Draft Regulatory Guide: Comprehensive Risk Metrics and Associated Risk Performance Objectives for Commercial Nuclear Plants (2026-08-20)](https://www.federalregister.gov/documents/2026/08/20/2026-17030/draft-regulatory-guide-comprehensive-risk-metrics-and-associated-risk-performance-objectives-for)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+- **[Treasury]** [U.S. Treasury Proposes Common Sense and Low-Cost Investment Rules for Trump Accounts](https://home.treasury.gov/news/press-releases/sb0609)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Joint Base Lindsey Graham Renaming Ceremony](https://home.treasury.gov/news/press-releases/sb0601)
+- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [In Tax Executive, Saul Mezei and Adam Smith Discuss Enforcement Risks at Intersection of Tariffs and Transfer Pricing](https://www.gibsondunn.com/in-tax-executive-saul-mezei-and-adam-smith-discuss-enforcement-risks-at-intersection-of-tariffs-and-transfer-pricing/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [New International Criminal Court Sanctions and the Threat to U.S. Democracy](https://www.justsecurity.org/154666/icc-sanctions-threat-us-democracy/?utm_source=rss&utm_medium=rss&utm_campaign=icc-sanctions-threat-us-democracy)
+- **[Just Security]** [Introduction to “Fight Back: How States Can Counter Authoritarianism” Series](https://www.justsecurity.org/149030/fight-back-states-counter-authoritarianism-series-introduction/?utm_source=rss&utm_medium=rss&utm_campaign=fight-back-states-counter-authoritarianism-series-introduction)
+- **[Just Security]** [“Fight Back: How States Can Counter Authoritarianism” Series](https://www.justsecurity.org/154548/fight-back-states-counter-authoritarianism-series/?utm_source=rss&utm_medium=rss&utm_campaign=fight-back-states-counter-authoritarianism-series)
+- **[Just Security]** [The Road to Dismantling the ICC Runs Through Tokyo](https://www.justsecurity.org/154571/us-dismantling-icc-challenges-tokyo/?utm_source=rss&utm_medium=rss&utm_campaign=us-dismantling-icc-challenges-tokyo)
+- **[Just Security]** [Early Edition: August 20, 2026](https://www.justsecurity.org/154606/early-edition-august-20-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-20-2026)
+- **[Atlantic Council]** [As pressure mounts on Putin, Russia is escalating against Ukraine’s allies](https://www.atlanticcouncil.org/blogs/ukrainealert/as-pressure-mounts-on-putin-russia-is-escalating-against-ukraines-allies/)
+- **[Atlantic Council]** [With war in the region, Egypt must recalibrate its energy policy](https://www.atlanticcouncil.org/blogs/menasource/with-war-in-the-region-egypt-must-recalibrate-its-energy-policy/)
+- **[Atlantic Council]** [Why Iran has not folded yet](https://www.atlanticcouncil.org/dispatches/why-iran-has-not-folded-yet/)
+- **[Atlantic Council]** [A Colombia-Venezuela agenda for recovery, security, and economic growth](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/a-colombia-venezuela-agenda-for-recovery-security-and-economic-growth/)
+- **[Atlantic Council]** [The global munitions crisis requires Foreign Military Sales reform](https://www.atlanticcouncil.org/blogs/menasource/the-global-munitions-crisis-requires-foreign-military-sales-reform/)
+
+---
+
 ## 2026-08-21 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
