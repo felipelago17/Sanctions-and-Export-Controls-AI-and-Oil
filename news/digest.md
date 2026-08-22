@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-22
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
+- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
+- **[Federal Register]** [Arizona Public Service Company; Palo Verde Nuclear Generating Station, Units 1, 2, and 3; Indirect Transfer of Control of Licenses (2026-08-24)](https://www.federalregister.gov/documents/2026/08/24/2026-17244/arizona-public-service-company-palo-verde-nuclear-generating-station-units-1-2-and-3-indirect)
+- **[Federal Register]** [Foreign-Trade Zone (FTZ) 183, Notification of Proposed Production Activity; Ichor Systems, Inc.; (Semiconductor Equipment); Austin, Texas (2026-08-24)](https://www.federalregister.gov/documents/2026/08/24/2026-17241/foreign-trade-zone-ftz-183-notification-of-proposed-production-activity-ichor-systems-inc)
+- **[Federal Register]** [Certain Secondary Cylindrical Batteries, Components Thereof, and Products Containing the Same; Notice of Institution of Investigation (2026-08-24)](https://www.federalregister.gov/documents/2026/08/24/2026-17240/certain-secondary-cylindrical-batteries-components-thereof-and-products-containing-the-same-notice)
+- **[Federal Register]** [Proposed Collection; Comment Request (2026-08-24)](https://www.federalregister.gov/documents/2026/08/24/2026-17236/proposed-collection-comment-request)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: August 21, 2026](https://www.justsecurity.org/154807/early-edition-august-21-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-21-2026)
+- **[Just Security]** [“Fight Back: How States Can Counter Authoritarianism” Series](https://www.justsecurity.org/154548/fight-back-states-counter-authoritarianism-series/?utm_source=rss&utm_medium=rss&utm_campaign=fight-back-states-counter-authoritarianism-series)
+- **[Atlantic Council]** [What it feels like under a Russian missile attack, and what the US can do about it](https://www.atlanticcouncil.org/dispatches/what-it-feels-like-under-a-russian-missile-attack-and-what-the-us-can-do-about-it/)
+- **[Atlantic Council]** [The future of money in Palestine](https://www.atlanticcouncil.org/in-depth-research-reports/report/the-future-of-money-in-palestine/)
+- **[Atlantic Council]** [Eftimiades interviewed on NTD Newsroom on Chinese shipment masking](https://www.atlanticcouncil.org/insight-impact/in-the-news/eftimiades-interviewed-on-chinese-transshipment/)
+
+---
+
 ## 2026-08-21
 
 ### Official & Regulatory
