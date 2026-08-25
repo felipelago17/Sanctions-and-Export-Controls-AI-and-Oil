@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-25
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [Switzerland Implements Remainder of EU’s 20th Sanctions Package Against Russia](https://sanctionsnews.bakermckenzie.com/switzerland-implements-remainder-of-eus-20th-sanctions-package-against-russia/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[Federal Register]** [Establishment of Four Customs-Enforcement Areas (2026-08-25)](https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas)
+- **[Federal Register]** [Amendment of Restricted Areas R-2505, R-2524, R-2508, and R-2515 in California (2026-08-25)](https://www.federalregister.gov/documents/2026/08/25/2026-17339/amendment-of-restricted-areas-r-2505-r-2524-r-2508-and-r-2515-in-california)
+- **[Federal Register]** [Notice of OFAC Sanctions Action (2026-08-25)](https://www.federalregister.gov/documents/2026/08/25/2026-17332/notice-of-ofac-sanctions-action)
+- **[Federal Register]** [30-Day Notice of Intent To Seek Extension of Approval of Collection: Recordations (Rail and Water Carrier Liens), Water Carrier Tariffs, and Agricultural Contract Summaries (2026-08-25)](https://www.federalregister.gov/documents/2026/08/25/2026-17329/30-day-notice-of-intent-to-seek-extension-of-approval-of-collection-recordations-rail-and-water)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Top Energy Private Equity Dealmaker Clay Brett Joins Gibson Dunn in Houston](https://www.gibsondunn.com/top-energy-private-equity-dealmaker-clay-brett-joins-gibson-dunn-in-houston/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Expert Backgrounder: Military Justice in the Israel Defense Forces](https://www.justsecurity.org/155012/expert-backgrounder-military-justice-idf/?utm_source=rss&utm_medium=rss&utm_campaign=expert-backgrounder-military-justice-idf)
+- **[Just Security]** [Early Edition: August 24, 2026](https://www.justsecurity.org/155017/early-edition-august-24-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-24-2026)
+- **[Atlantic Council]** [Canada wants a deal, but Washington keeps moving the goalposts](https://www.atlanticcouncil.org/dispatches/canada-wants-a-deal-but-washington-keeps-moving-the-goalposts/)
+- **[Atlantic Council]** [Experts react: Will Trump’s Operation Economic Outcast isolate Iran?](https://www.atlanticcouncil.org/dispatches/experts-react-will-trumps-operation-economic-outcast-isolate-iran/)
+
+---
+
 ## 2026-08-25 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
