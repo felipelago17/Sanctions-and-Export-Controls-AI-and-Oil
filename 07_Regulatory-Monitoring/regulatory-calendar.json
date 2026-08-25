@@ -133,5 +133,20 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-08-25-7837",
+    "date": "2026-08-25",
+    "event_name": "Notice of OFAC Sanctions Action",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked ",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17332/notice-of-ofac-sanctions-action",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
