@@ -9,6 +9,14 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-26 - BIS Affiliates Rule Monitor *(auto)*
+
+*Anthropic API error - raw Federal Register items logged below.*
+
+
+
+---
+
 ## 2026-08-25
 
 ### Official & Regulatory
