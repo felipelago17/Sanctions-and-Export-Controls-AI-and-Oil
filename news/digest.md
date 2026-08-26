@@ -9,6 +9,41 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-26
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
+- **[Federal Register]** [Establishment of Four Customs-Enforcement Areas (2026-08-25)](https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas)
+- **[Federal Register]** [Amendment of Restricted Areas R-2505, R-2524, R-2508, and R-2515 in California (2026-08-25)](https://www.federalregister.gov/documents/2026/08/25/2026-17339/amendment-of-restricted-areas-r-2505-r-2524-r-2508-and-r-2515-in-california)
+- **[Federal Register]** [Notice of OFAC Sanctions Action (2026-08-25)](https://www.federalregister.gov/documents/2026/08/25/2026-17332/notice-of-ofac-sanctions-action)
+- **[Federal Register]** [30-Day Notice of Intent To Seek Extension of Approval of Collection: Recordations (Rail and Water Carrier Liens), Water Carrier Tariffs, and Agricultural Contract Summaries (2026-08-25)](https://www.federalregister.gov/documents/2026/08/25/2026-17329/30-day-notice-of-intent-to-seek-extension-of-approval-of-collection-recordations-rail-and-water)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Represented Underwriters in $500 Million Public Debt Offering by Interstate Power and Light Company](https://www.gibsondunn.com/gibson-dunn-represented-underwriters-in-500-million-public-debt-offering-by-interstate-power-and-light-company/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [“Can We Do This?”: The Role of Military Leaders and Their Legal Advice](https://www.justsecurity.org/151984/role-military-leaders-legal-advice/?utm_source=rss&utm_medium=rss&utm_campaign=role-military-leaders-legal-advice)
+- **[Just Security]** [Early Edition: August 25, 2026](https://www.justsecurity.org/155154/early-edition-august-25-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-25-2026)
+- **[Atlantic Council]** [Russia’s war will not end until Putin accepts Ukrainian independence](https://www.atlanticcouncil.org/blogs/ukrainealert/russias-war-will-not-end-until-putin-accepts-ukrainian-independence/)
+- **[Atlantic Council]** [A cultural renaissance is reshaping national identity in wartime Ukraine](https://www.atlanticcouncil.org/blogs/ukrainealert/a-cultural-renaissance-is-reshaping-national-identity-in-wartime-ukraine/)
+- **[Atlantic Council]** [North Korean missiles are abetting Russia’s campaign to overwhelm Ukraine’s air defenses](https://www.atlanticcouncil.org/dispatches/north-korean-missiles-are-abetting-russias-campaign-to-overwhelm-ukraines-air-defenses/)
+- **[Atlantic Council]** [Threats to US global leadership are mounting: fiscally, militarily, and with allies](https://www.atlanticcouncil.org/content-series/inflection-points/threats-to-us-global-leadership-are-mounting-fiscally-militarily-and-with-allies/)
+
+---
+
 ## 2026-08-26 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
