@@ -9,6 +9,47 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-27
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [US Rescinds Syria’s State Sponsor of Terrorism Designation and Delists Hay’at Tahrir al-Sham](https://sanctionsnews.bakermckenzie.com/us-rescinds-syrias-state-sponsor-of-terrorism-designation-and-delists-hayat-tahrir-al-sham/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
+- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
+- **[Federal Register]** [Airworthiness Directives; The Boeing Company Airplanes (2026-08-27)](https://www.federalregister.gov/documents/2026/08/27/2026-17553/airworthiness-directives-the-boeing-company-airplanes)
+- **[Federal Register]** [Airworthiness Directives; Airbus SAS Airplanes (2026-08-27)](https://www.federalregister.gov/documents/2026/08/27/2026-17551/airworthiness-directives-airbus-sas-airplanes)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: CFM Stakeholder Feedback Survey (2026-08-27)](https://www.federalregister.gov/documents/2026/08/27/2026-17541/agency-information-collection-activity-under-omb-review-cfm-stakeholder-feedback-survey)
+- **[Federal Register]** [Renewal of the Commission on Social Impact Partnerships (2026-08-27)](https://www.federalregister.gov/documents/2026/08/27/2026-17539/renewal-of-the-commission-on-social-impact-partnerships)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: Freedom of Information Act (FOIA) or Privacy Act (PA) Request (2026-08-27)](https://www.federalregister.gov/documents/2026/08/27/2026-17532/agency-information-collection-activity-under-omb-review-freedom-of-information-act-foia-or-privacy)
+- **[Federal Register]** [Schedules of Controlled Substances: Temporary Placement of 5,6-Dichloro Brorphine, 5,6-Dichloro Desmethylchlorphine, N-Propionitrile Chlorphine, and Spirochlorphine in Schedule I of the Controlled Substances Act (2026-08-27)](https://www.federalregister.gov/documents/2026/08/27/2026-17531/schedules-of-controlled-substances-temporary-placement-of-56-dichloro-brorphine-56-dichloro)
+- **[Federal Register]** [NextEra Energy, Inc.; Dominion Energy, Inc.; Virginia Electric and Power Company; Dominion Energy Nuclear Connecticut; Dominion Energy South Carolina, Inc.; Surry Power Station, Unit Nos. 1 and 2; North Anna Power Station, Unit Nos. 1 and 2; Virgil C. Summer Nuclear Station, Unit 1; Millstone Power Station, Units 1, 2, & 3; North Anna Unit 3; North Anna Early Site Permit; and the Associated Independent Spent Fuel Storage Installations; Consideration of Approval of Transfer of Licenses (2026-08-27)](https://www.federalregister.gov/documents/2026/08/27/2026-17529/nextera-energy-inc-dominion-energy-inc-virginia-electric-and-power-company-dominion-energy-nuclear)
+- **[Federal Register]** [Certain Melanoma Predictive and Prognostic Tests and Components Thereof; Notice of Institution of Investigation (2026-08-27)](https://www.federalregister.gov/documents/2026/08/27/2026-17528/certain-melanoma-predictive-and-prognostic-tests-and-components-thereof-notice-of-institution-of)
+- **[Federal Register]** [Safety Zone; Aerial Displays, Upper Bay, New York, NY (2026-08-27)](https://www.federalregister.gov/documents/2026/08/27/2026-17522/safety-zone-aerial-displays-upper-bay-new-york-ny)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Texas Lawbook Publishes “What Gov. Abbott’s Data Center Audit Directive Means for ERCOT and the Batch Zero Study Process” Client Alert](https://www.gibsondunn.com/texas-lawbook-publishes-what-gov-abbotts-data-center-audit-directive-means-for-ercot-and-the-batch-zero-study-process-client-alert/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: August 27, 2026](https://www.justsecurity.org/155398/early-edition-august-27-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-27-2026)
+- **[Just Security]** [Early Edition: August 26, 2026](https://www.justsecurity.org/155288/early-edition-august-26-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-26-2026)
+- **[Atlantic Council]** [AI and autonomy in contested operations](https://www.atlanticcouncil.org/in-depth-research-reports/report/ai-and-autonomy-in-contested-operations/)
+- **[Atlantic Council]** [Atoms for Appalachia: Building state capacity for nuclear-enabled economic development](https://www.atlanticcouncil.org/in-depth-research-reports/report/atoms-for-appalachia-building-state-capacity-for-nuclear-enabled-economic-development/)
+- **[Atlantic Council]** [The danger of hitting mute on US bond markets](https://www.atlanticcouncil.org/content-series/inflection-points/the-danger-of-hitting-mute-on-us-bond-markets/)
+- **[Atlantic Council]** [Electricity demand is rising. How can the US secure energy for its dual military and civilian needs?](https://www.atlanticcouncil.org/blogs/energysource/electricity-demand-is-rising-how-can-the-us-secure-energy-for-its-dual-military-and-civilian-needs/)
+
+---
+
 ## 2026-08-27 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
