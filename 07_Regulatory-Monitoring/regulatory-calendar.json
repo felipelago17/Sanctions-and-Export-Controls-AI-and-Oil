@@ -163,5 +163,20 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-08-28-6817",
+    "date": "2026-08-28",
+    "event_name": "Streamlining Export Controls for Drone Exports",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/08/28/C1-2026-16628/streamlining-export-controls-for-drone-exports",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
