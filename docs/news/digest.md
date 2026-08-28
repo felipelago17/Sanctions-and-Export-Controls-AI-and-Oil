@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-28
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [US Rescinds Syria’s State Sponsor of Terrorism Designation and Delists Hay’at Tahrir al-Sham](https://sanctionsnews.bakermckenzie.com/us-rescinds-syrias-state-sponsor-of-terrorism-designation-and-delists-hayat-tahrir-al-sham/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[Federal Register]** [Streamlining Export Controls for Drone Exports (2026-08-28)](https://www.federalregister.gov/documents/2026/08/28/C1-2026-16628/streamlining-export-controls-for-drone-exports)
+- **[Federal Register]** [International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment (2026-08-28)](https://www.federalregister.gov/documents/2026/08/28/2026-17660/international-traffic-in-arms-regulations-modification-of-civil-aircraft-to-incorporate-aircraft)
+- **[Federal Register]** [Passports: Expanding Online Passport Renewal Overseas (2026-08-28)](https://www.federalregister.gov/documents/2026/08/28/2026-17655/passports-expanding-online-passport-renewal-overseas)
+- **[Federal Register]** [Michelin North America, Inc., Grant of Petition for Decision of Inconsequential Noncompliance (2026-08-28)](https://www.federalregister.gov/documents/2026/08/28/2026-17648/michelin-north-america-inc-grant-of-petition-for-decision-of-inconsequential-noncompliance)
+- **[Federal Register]** [EnergySolutions Services Inc.; Export License Amendment Application (2026-08-28)](https://www.federalregister.gov/documents/2026/08/28/2026-17647/energysolutions-services-inc-export-license-amendment-application)
+- **[Federal Register]** [UniTech Services Group LLC; Export License Renewal Application (2026-08-28)](https://www.federalregister.gov/documents/2026/08/28/2026-17646/unitech-services-group-llc-export-license-renewal-application)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [A Sentence in Damascus and An Accused in Moscow: The Limits of Syria’s First Attempt at Accountability](https://www.justsecurity.org/155118/limits-syria-first-attempt-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=limits-syria-first-attempt-accountability)
+- **[Just Security]** [Early Edition: August 28, 2026](https://www.justsecurity.org/155508/early-edition-august-28-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-28-2026)
+- **[Atlantic Council]** [The G20 needs more carrots to rebalance away from China](https://www.atlanticcouncil.org/blogs/econographics/the-g20-needs-more-carrots-to-rebalance-away-from-china/)
+- **[Atlantic Council]** [In space, everyone can hear you stream: Challenges ahead of the corporate space data race](https://www.atlanticcouncil.org/blogs/geotech-cues/in-space-everyone-can-hear-you-stream-challenges-ahead-of-the-corporate-space-data-race/)
+- **[Atlantic Council]** [Drone parade showcases Ukraine’s remarkable military transformation](https://www.atlanticcouncil.org/blogs/ukrainealert/drone-parade-showcases-ukraines-remarkable-military-transformation/)
+- **[Atlantic Council]** [AI and autonomy in contested operations](https://www.atlanticcouncil.org/in-depth-research-reports/report/ai-and-autonomy-in-contested-operations/)
+
+---
+
 ## 2026-08-28 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
