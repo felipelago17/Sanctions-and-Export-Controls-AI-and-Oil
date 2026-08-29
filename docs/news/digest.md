@@ -9,6 +9,32 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-29
+
+### Official & Regulatory
+
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[Federal Register]** [Regulatory Relief for End of Car Cushioning Units (2026-08-31)](https://www.federalregister.gov/documents/2026/08/31/2026-17782/regulatory-relief-for-end-of-car-cushioning-units)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [A Sentence in Damascus and An Accused in Moscow: The Limits of Syria’s First Attempt at Accountability](https://www.justsecurity.org/155118/limits-syria-first-attempt-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=limits-syria-first-attempt-accountability)
+- **[Just Security]** [Early Edition: August 28, 2026](https://www.justsecurity.org/155508/early-edition-august-28-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-28-2026)
+- **[Atlantic Council]** [The G20 needs more carrots to rebalance away from China](https://www.atlanticcouncil.org/blogs/econographics/the-g20-needs-more-carrots-to-rebalance-away-from-china/)
+- **[Atlantic Council]** [In space, everyone can hear you stream: Challenges ahead of the corporate space data race](https://www.atlanticcouncil.org/blogs/geotech-cues/in-space-everyone-can-hear-you-stream-challenges-ahead-of-the-corporate-space-data-race/)
+
+---
+
 ## 2026-08-28
 
 ### Official & Regulatory
