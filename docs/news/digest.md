@@ -9,6 +9,31 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-08-31
+
+### Official & Regulatory
+
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[Federal Register]** [Regulatory Relief for End of Car Cushioning Units (2026-08-31)](https://www.federalregister.gov/documents/2026/08/31/2026-17782/regulatory-relief-for-end-of-car-cushioning-units)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The Bipartisan Iran War Commission We Need](https://www.justsecurity.org/155561/bipartisan-iran-war-commission-we-need/?utm_source=rss&utm_medium=rss&utm_campaign=bipartisan-iran-war-commission-we-need)
+- **[Just Security]** [Early Edition: August 31, 2026](https://www.justsecurity.org/155712/early-edition-august-31-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-31-2026)
+- **[Atlantic Council]** [The Iran war is no Vietnam. But it may become an economic quagmire for the Gulf.](https://www.atlanticcouncil.org/blogs/menasource/the-iran-war-is-no-vietnam-but-it-may-become-an-economic-quagmire-for-the-gulf/)
+
+---
+
 ## 2026-08-31 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
