@@ -178,5 +178,20 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-09-01-3117",
+    "date": "2026-09-01",
+    "event_name": "Revision of Agency Information Collection Activity Under OMB Review: Cybersecurity Measures for Surface Modes",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "This notice announces that the Transportation Security Administration (TSA) has forwarded the Information Collection Request (ICR), Office of Management and Budget (OMB) control number 1652-0074, abst",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17894/revision-of-agency-information-collection-activity-under-omb-review-cybersecurity-measures-for",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
