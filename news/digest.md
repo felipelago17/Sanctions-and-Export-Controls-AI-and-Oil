@@ -9,6 +9,45 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-02
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [US Government Issues Executive Order 14420 to Secure US Bulk-Power System](https://sanctionsnews.bakermckenzie.com/us-government-issues-executive-order-14420-to-secure-us-bulk-power-system/)
+- **[Baker McKenzie Sanctions]** [United States Streamlines Drone Export Controls While Imposing New Section 232 Tariffs on Drone Imports](https://sanctionsnews.bakermckenzie.com/united-states-streamlines-drone-export-controls-while-imposing-new-section-232-tariffs-on-drone-imports/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[Federal Register]** [Notice of August 31, 2026 Decisions on Petitions for Small Refinery Exemptions Under the Renewable Fuel Standard Program (2026-09-02)](https://www.federalregister.gov/documents/2026/09/02/2026-17985/notice-of-august-31-2026-decisions-on-petitions-for-small-refinery-exemptions-under-the-renewable)
+- **[Federal Register]** [Repeal of Fossil Fuel Restrictions for New Federal Buildings and Major Renovations of Federal Buildings (2026-09-02)](https://www.federalregister.gov/documents/2026/09/02/2026-17979/repeal-of-fossil-fuel-restrictions-for-new-federal-buildings-and-major-renovations-of-federal)
+- **[Federal Register]** [Safety Zone; Bay Bridge Paddle; Chesapeake Bay, Annapolis, MD (2026-09-02)](https://www.federalregister.gov/documents/2026/09/02/2026-17978/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md)
+- **[Federal Register]** [Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI (2026-09-02)](https://www.federalregister.gov/documents/2026/09/02/2026-17971/safety-zone-lake-st-clair-grosse-pointe-farms-mi)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Ronald Kirk Appears on Fox Business’s “The Claman Countdown” to Discuss U.S. and Canadian Tariffs](https://www.gibsondunn.com/ronald-kirk-appears-on-fox-businesss-the-claman-countdown-to-discuss-u-s-and-canadian-tariffs/)
+- **[Gibson Dunn]** [Ronald Kirk Discusses U.S.-Canada Trade War on CNBC’s “Squawk Box”](https://www.gibsondunn.com/ronald-kirk-discusses-u-s-canada-trade-war-on-cnbcs-squawk-box/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 1, 2026](https://www.justsecurity.org/155833/early-edition-september-1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-1-2026)
+- **[Atlantic Council]** [For Putin, the ‘root cause’ of the war is the existence of independent Ukraine](https://www.atlanticcouncil.org/blogs/ukrainealert/for-putin-the-root-cause-of-the-war-is-the-existence-of-independent-ukraine/)
+- **[Atlantic Council]** [So what’s the strategy for the US Nuclear Posture ?](https://www.atlanticcouncil.org/commentary/podcast/so-whats-the-strategy-for-the-us-nuclear-posture/)
+- **[Atlantic Council]** [Where and how Putin could expand his war in Europe beyond Ukraine](https://www.atlanticcouncil.org/dispatches/where-and-how-putin-could-expand-his-war-in-europe-beyond-ukraine/)
+- **[Atlantic Council]** [What the US executive order on bulk-power systems gets right—and what’s missing](https://www.atlanticcouncil.org/blogs/energysource/what-the-us-executive-order-on-bulk-power-systems-gets-right-and-whats-missing/)
+- **[Atlantic Council]** [Russia wants to sell ‘sovereign AI’ abroad. Here’s what it’s really selling.](https://www.atlanticcouncil.org/dispatches/russia-wants-to-sell-sovereign-ai-abroad-heres-what-its-really-selling/)
+- **[Atlantic Council]** [Four questions on the US-Venezuelan oil deal](https://www.atlanticcouncil.org/blogs/energysource/four-questions-on-the-us-venezuelan-oil-deal/)
+
+---
+
 ## 2026-09-02 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
