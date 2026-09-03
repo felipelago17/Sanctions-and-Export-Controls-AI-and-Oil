@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-03
+
+### Official & Regulatory
+
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[Federal Register]** [List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM Flood/Wind System, Certificate of Compliance No. 1032, Amendment No. 10 (2026-09-03)](https://www.federalregister.gov/documents/2026/09/03/2026-18107/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-floodwind-system-certificate)
+- **[Federal Register]** [Form PF; Reporting Requirements for All Filers and Large Hedge Fund Advisers; Further Extension of Compliance Date (2026-09-03)](https://www.federalregister.gov/documents/2026/09/03/2026-18104/form-pf-reporting-requirements-for-all-filers-and-large-hedge-fund-advisers-further-extension-of)
+- **[Federal Register]** [Certain Oil Country Tubular Goods From Austria: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination (2026-09-03)](https://www.federalregister.gov/documents/2026/09/03/2026-18082/certain-oil-country-tubular-goods-from-austria-preliminary-affirmative-countervailing-duty)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Civil Society Donors Should Heed the Risks of FATF Grey List-Induced Panic](https://www.justsecurity.org/150151/africa-fatf-civic-impact/?utm_source=rss&utm_medium=rss&utm_campaign=africa-fatf-civic-impact)
+- **[Just Security]** [America’s War on Drug Smugglers at Sea Is Unlawful—and It Is Failing](https://www.justsecurity.org/155570/americas-war-drug-smugglers-sea-unlawful-failing/?utm_source=rss&utm_medium=rss&utm_campaign=americas-war-drug-smugglers-sea-unlawful-failing)
+- **[Just Security]** [Early Edition: September 2, 2026](https://www.justsecurity.org/155980/early-edition-september-2-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-2-2026)
+- **[Just Security]** [“Fight Back: How States Can Counter Authoritarianism” Series](https://www.justsecurity.org/154548/fight-back-states-counter-authoritarianism-series/?utm_source=rss&utm_medium=rss&utm_campaign=fight-back-states-counter-authoritarianism-series)
+- **[Just Security]** [Collection: U.S. Lethal Strikes on Suspected Drug Traffickers, Operation Southern Spear, Operation Absolute Resolve](https://www.justsecurity.org/120753/collection-u-s-lethal-strikes-on-suspected-drug-traffickers/?utm_source=rss&utm_medium=rss&utm_campaign=collection-u-s-lethal-strikes-on-suspected-drug-traffickers)
+- **[Atlantic Council]** [The diesel shock is here. Which US states will be hit the hardest?](https://www.atlanticcouncil.org/blogs/energysource/the-diesel-shock-is-here-which-us-states-will-be-hit-the-hardest/)
+
+---
+
 ## 2026-09-03 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
