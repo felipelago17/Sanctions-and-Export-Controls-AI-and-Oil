@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-04
+
+### Official & Regulatory
+
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
+- **[Federal Register]** [Intent To Request Extension From OMB of One Current Public Collection of Information: Flight Training Security Program (2026-09-04)](https://www.federalregister.gov/documents/2026/09/04/2026-18174/intent-to-request-extension-from-omb-of-one-current-public-collection-of-information-flight-training)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Antiboycott Compliance Enters a New Enforcement Era: Four 2026 Settlements and What They Mean for Companies Doing Business in the Gulf](https://www.gibsondunn.com/antiboycott-compliance-enters-new-enforcement-era-four-2026-settlements-and-what-they-mean-for-companies-doing-business-in-the-gulf/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 3, 2026](https://www.justsecurity.org/156150/early-edition-september-3-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-3-2026)
+- **[Just Security]** [Just Security Podcast: Has the United States Violated the Law of Armed Conflict in the Iran War?](https://www.justsecurity.org/155576/just-security-podcast-united-states-loac-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=just-security-podcast-united-states-loac-iran-war)
+- **[Atlantic Council]** [Lipsky quoted in the Washington Post on Bessent bringing Iran issue to G20 summit](https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-washington-post-on-bessent-bringing-iran-issue-to-g20-summit/)
+- **[Atlantic Council]** [Ezratty and Donovan cited in RadioFreeEurope on China’s support of Iran](https://www.atlanticcouncil.org/insight-impact/in-the-news/ezratty-and-donovan-cited-in-radiofreeeurope-on-chinas-support-of-iran/)
+- **[Atlantic Council]** [Nikoladze quoted in Arab News on China’s economic leverage over the US in the Iran war](https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-quoted-in-arab-news-on-chinas-economic-leverage-over-the-us-in-the-iran-war/)
+- **[Atlantic Council]** [Putin cannot defeat NATO but he could divide and discredit the alliance](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-cannot-defeat-nato-but-he-could-divide-and-discredit-the-alliance/)
+- **[Atlantic Council]** [Russia is trying to bully Europe into abandoning Ukraine](https://www.atlanticcouncil.org/blogs/ukrainealert/russia-is-trying-to-bully-europe-into-abandoning-ukraine/)
+- **[Atlantic Council]** [Bahrain’s opportunity for AI leadership lies under water](https://www.atlanticcouncil.org/blogs/menasource/bahrains-opportunity-for-ai-leadership-lies-under-water/)
+
+---
+
 ## 2026-09-04 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
