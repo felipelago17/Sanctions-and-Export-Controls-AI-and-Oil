@@ -9,6 +9,45 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-05
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Expands Iran Sanctions Under “Operation Economic Outcast”](https://sanctionsnews.bakermckenzie.com/ofac-expands-iran-sanctions-under-operation-economic-outcast/)
+- **[Baker McKenzie Sanctions]** [OFAC Removes the US Governing-Law Condition from the Venezuela General Licenses and Issues New Authorizations Related to Telecommunications and Coal](https://sanctionsnews.bakermckenzie.com/ofac-removes-the-us-governing-law-condition-from-the-venezuela-general-licenses-and-issues-new-authorizations-related-to-telecommunications-and-coal/)
+- **[OFAC]** [Treasury Severs Iranian Regime’s Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[Federal Register]** [Unleashing Unlicensed Spectrum for Direct-to-Device (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18282/unleashing-unlicensed-spectrum-for-direct-to-device)
+- **[Federal Register]** [Safety Zone; Laguna Madre, South Padre Island, TX (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18279/safety-zone-laguna-madre-south-padre-island-tx)
+- **[Federal Register]** [National Petroleum Reserve in Alaska Production Site Development (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18261/national-petroleum-reserve-in-alaska-production-site-development)
+- **[Federal Register]** [Certain Foreign-Fabricated Semiconductor Devices, Products Containing the Same, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting a Joint Motion To Terminate the Investigation (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18260/certain-foreign-fabricated-semiconductor-devices-products-containing-the-same-and-components-thereof)
+- **[Federal Register]** [Certain Walk-Behind Lawn Mowers and Parts Thereof From the People's Republic of China and the Socialist Republic of Vietnam: Final Results of Sunset Review and Revocation of Orders (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18249/certain-walk-behind-lawn-mowers-and-parts-thereof-from-the-peoples-republic-of-china-and-the)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [George Sampas Honored as Dealmaker of the Year at New York Legal Awards](https://www.gibsondunn.com/george-sampas-honored-as-dealmaker-of-the-year-at-new-york-legal-awards/)
+- **[Gibson Dunn]** [Gibson Dunn Advises Diversified Energy on Acquisition of Birch Permian Holdings](https://www.gibsondunn.com/gibson-dunn-advises-diversified-energy-on-acquisition-of-birch-permian-holdings/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Cities as Nodes of Resistance](https://www.justsecurity.org/149219/cities-nodes-resistance/?utm_source=rss&utm_medium=rss&utm_campaign=cities-nodes-resistance)
+- **[Just Security]** [The Int’l Criminal Court as a “Strategic Weapon”: Legal Deterrence, Cognitive Advantage, and the Future of the Rule of Law](https://www.justsecurity.org/155345/icc-strategic-weapon-legal-deterrence-cognitive-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=icc-strategic-weapon-legal-deterrence-cognitive-advantage)
+- **[Just Security]** [The Case for a German Structural Investigation into Crimes against Humanity in Iran](https://www.justsecurity.org/155884/german-investigation-crimes-against-humanity-iran/?utm_source=rss&utm_medium=rss&utm_campaign=german-investigation-crimes-against-humanity-iran)
+- **[Just Security]** [Early Edition: September 4, 2026](https://www.justsecurity.org/156310/early-edition-september-4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-4-2026)
+- **[Just Security]** [“Fight Back: How States Can Counter Authoritarianism” Series](https://www.justsecurity.org/154548/fight-back-states-counter-authoritarianism-series/?utm_source=rss&utm_medium=rss&utm_campaign=fight-back-states-counter-authoritarianism-series)
+- **[Atlantic Council]** [Brazil’s debt crisis reveals a progressive spending paradox](https://www.atlanticcouncil.org/dispatches/brazils-debt-crisis-reveals-a-progressive-spending-paradox/)
+
+---
+
 ## 2026-09-04
 
 ### Official & Regulatory
