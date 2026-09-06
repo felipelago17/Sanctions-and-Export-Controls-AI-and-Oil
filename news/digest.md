@@ -9,6 +9,29 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-06
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Severs Iranian Regime’s Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
+- **[Federal Register]** [Unleashing Unlicensed Spectrum for Direct-to-Device (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18282/unleashing-unlicensed-spectrum-for-direct-to-device)
+- **[Federal Register]** [Safety Zone; Laguna Madre, South Padre Island, TX (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18279/safety-zone-laguna-madre-south-padre-island-tx)
+- **[Federal Register]** [National Petroleum Reserve in Alaska Production Site Development (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18261/national-petroleum-reserve-in-alaska-production-site-development)
+- **[Federal Register]** [Certain Foreign-Fabricated Semiconductor Devices, Products Containing the Same, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting a Joint Motion To Terminate the Investigation (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18260/certain-foreign-fabricated-semiconductor-devices-products-containing-the-same-and-components-thereof)
+- **[Federal Register]** [Certain Walk-Behind Lawn Mowers and Parts Thereof From the People's Republic of China and the Socialist Republic of Vietnam: Final Results of Sunset Review and Revocation of Orders (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18249/certain-walk-behind-lawn-mowers-and-parts-thereof-from-the-peoples-republic-of-china-and-the)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+---
+
 ## 2026-09-05
 
 ### Official & Regulatory
