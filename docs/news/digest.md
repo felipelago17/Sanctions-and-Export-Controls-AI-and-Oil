@@ -9,6 +9,46 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-09
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [Argentina strengthens oversight of hydrocarbon activities related to the Falkland Islands](https://sanctionsnews.bakermckenzie.com/argentina-strengthens-oversight-of-hydrocarbon-activities-related-to-the-falkland-islands/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: Application for Disability Compensation Benefits (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18396/agency-information-collection-activity-under-omb-review-application-for-disability-compensation)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: Application for D.I.C., Survivors Pension, and/or Accrued Benefits (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18392/agency-information-collection-activity-under-omb-review-application-for-dic-survivors-pension-andor)
+- **[Federal Register]** [Notice of Petition for Waiver of Compliance (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18386/notice-of-petition-for-waiver-of-compliance)
+- **[Federal Register]** [Request for Comments Regarding Implementation of 19 U.S.C. 1338(g) (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18385/request-for-comments-regarding-implementation-of-19-usc-1338g)
+- **[Federal Register]** [Notice of Petition for Modification of Waiver of Compliance (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18383/notice-of-petition-for-modification-of-waiver-of-compliance)
+- **[Federal Register]** [Hazardous Materials: Notice of Administrative Determination of Preemption for Common Law Tort Claims Concerning the Transportation of Gasoline (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18382/hazardous-materials-notice-of-administrative-determination-of-preemption-for-common-law-tort-claims)
+- **[Federal Register]** [Federal Motor Vehicle Safety Standard No. 213a; Child Restraint Systems-Side Impact Protection; Federal Motor Vehicle Safety Standard No. 213; Child Restraint Systems, Federal Motor Vehicle Safety Standard No. 213b; Child Restraint Systems; Incorporation by Reference (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18380/federal-motor-vehicle-safety-standard-no-213a-child-restraint-systems-side-impact-protection-federal)
+- **[Federal Register]** [Ottawa Resource Advisory Committee (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18378/ottawa-resource-advisory-committee)
+- **[Federal Register]** [Airworthiness Directives; Bombardier, Inc. Airplanes (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18376/airworthiness-directives-bombardier-inc-airplanes)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Treasury and IRS Propose Regulations Denying Tax-Exempt Status to Private Schools That Use Race in Admissions, Scholarships, or Other Programs](https://www.gibsondunn.com/treasury-irs-propose-regulations-denying-tax-exempt-status-to-private-schools-that-use-race-in-admissions-scholarships-other-programs/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 8, 2026](https://www.justsecurity.org/156556/early-edition-september-8-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-8-2026)
+- **[Atlantic Council]** [Turning early alignment into a durable US-Colombia partnership](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/turning-early-alignment-durable-us-colombia-partnership/)
+- **[Atlantic Council]** [Ukrainian drone strikes are disarming Russia’s energy weapon](https://www.atlanticcouncil.org/blogs/ukrainealert/ukrainian-drone-strikes-are-disarming-russias-energy-weapon/)
+- **[Atlantic Council]** [Putin welcomes Trump’s peace envoys but has no intention of ending the war](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-welcomes-trumps-peace-envoys-but-has-no-intention-of-ending-the-war/)
+- **[Atlantic Council]** [Preparing for and countering limited nuclear attacks in East Asia: Guardian Tiger III](https://www.atlanticcouncil.org/in-depth-research-reports/report/preparing-for-and-countering-limited-nuclear-attacks-in-east-asia-guardian-tiger-iii/)
+
+---
+
 ## 2026-09-09 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
