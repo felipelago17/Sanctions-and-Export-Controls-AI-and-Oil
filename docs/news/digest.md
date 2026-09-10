@@ -9,6 +9,39 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-10
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[Federal Register]** [Notice of Funding Opportunity for the Agriculture Innovation Center Demonstration (AIC) Program 2026 (2026-09-10)](https://www.federalregister.gov/documents/2026/09/10/2026-18511/notice-of-funding-opportunity-for-the-agriculture-innovation-center-demonstration-aic-program-2026)
+- **[Federal Register]** [In Situ Recovery Monitoring and Decommissioning Timeliness (2026-09-10)](https://www.federalregister.gov/documents/2026/09/10/2026-18504/in-situ-recovery-monitoring-and-decommissioning-timeliness)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Matt Axelrod Discusses Hong Kong Addresses in Iran Sanctions with The Wire China](https://www.gibsondunn.com/matt-axelrod-discusses-hong-kong-addresses-in-iran-sanctions-with-the-wire-china/)
+- **[Gibson Dunn]** [Matt Axlerod Quoted in Wall Street Journal’s “Huawei Faces U.S. Criminal Trial Weeks Before Trump-Xi Meeting”](https://www.gibsondunn.com/matt-axlerod-quoted-in-wall-street-journals-huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting/)
+- **[Gibson Dunn]** [SEC Proposes to Repeal Investment Adviser Pay-to-Play Rule — But Political Contribution Compliance Is Here to Stay](https://www.gibsondunn.com/sec-proposes-to-repeal-investment-adviser-pay-to-play-rule-but-political-contribution-compliance-is-here-to-stay/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 9, 2026](https://www.justsecurity.org/156735/early-edition-september-9-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-9-2026)
+- **[Just Security]** [“Fight Back: How States Can Counter Authoritarianism” Series](https://www.justsecurity.org/154548/fight-back-states-counter-authoritarianism-series/?utm_source=rss&utm_medium=rss&utm_campaign=fight-back-states-counter-authoritarianism-series)
+- **[Atlantic Council]** [Woolf in Orbis on the role of nuclear norms in an era of renewed competition](https://www.atlanticcouncil.org/insight-impact/in-the-news/woolf-on-nuclear-norms-in-era-of-renewed-competition/)
+- **[Atlantic Council]** [No quick fixes for the squeeze on refined products](https://www.atlanticcouncil.org/blogs/energysource/no-quick-fixes-for-the-squeeze-on-refined-products/)
+
+---
+
 ## 2026-09-10 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
