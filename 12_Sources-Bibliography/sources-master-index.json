@@ -158,5 +158,53 @@
     "checksum": null,
     "dead_link": false,
     "notes": "OBLB analysis of BIS Affiliates Rule; snap-back date 10 November 2026; compliance strategy for minority stakes"
+  },
+  {
+    "source_id": "SRC-POD-001",
+    "title": "M&A and Export Controls – from Art of War to Art of the Deal",
+    "url": "https://rss.com/podcasts/red-flags-rising/3137741",
+    "doc_type": "consulting",
+    "published_date": "2026-09-10",
+    "accessed_date": "2026-09-11",
+    "author": "Michael Huneke (Morgan Lewis); Brent Carlson (Red Flags Rising Solutions)",
+    "jurisdiction": "US",
+    "topics": ["EAR", "OFAC", "M&A", "Due Diligence", "Successor Liability", "Compliance"],
+    "relevance_tier": 1,
+    "citation_count": 0,
+    "checksum": null,
+    "dead_link": false,
+    "notes": "Red Flags Rising Podcast Ep. 45. Covers successor liability precedents (Sigma-Aldrich, Sirchie, C.A. Litzler, Boeing/Hughes), Fraud Four-Circle Framework, M&A diligence phases, and board Caremark duty for export controls."
+  },
+  {
+    "source_id": "SRC-LEGAL-002",
+    "title": "A Fresh Look at the Classic Fraud Triangle with the Fraud Four-Circle Framework℠",
+    "url": "https://wp.nyu.edu/compliance_enforcement/2026/01/08/fraud-four-circle-framework/",
+    "doc_type": "consulting",
+    "published_date": "2026-01-08",
+    "accessed_date": "2026-09-11",
+    "author": "Brent Carlson",
+    "jurisdiction": "US",
+    "topics": ["EAR", "OFAC", "Compliance", "M&A", "Due Diligence"],
+    "relevance_tier": 2,
+    "citation_count": 0,
+    "checksum": null,
+    "dead_link": false,
+    "notes": "NYU PCCE Blog. Introduces the fourth circle (Capability) to the classic Cressey fraud triangle; applied to export controls diligence."
+  },
+  {
+    "source_id": "SRC-LEGAL-003",
+    "title": "Boards of Directors Lovin' It after McDonald's? Directors' Duty of Oversight in the New Era of Sanctions & Export Control Corporate Enforcement",
+    "url": "https://wp.nyu.edu/compliance_enforcement/2024/01/12/boards-directors-sanctions-export-controls/",
+    "doc_type": "consulting",
+    "published_date": "2024-01-12",
+    "accessed_date": "2026-09-11",
+    "author": "Brent Carlson; Michael Huneke",
+    "jurisdiction": "US",
+    "topics": ["EAR", "OFAC", "Compliance", "Corporate Governance", "Board Oversight"],
+    "relevance_tier": 2,
+    "citation_count": 0,
+    "checksum": null,
+    "dead_link": false,
+    "notes": "NYU PCCE Blog. Applies Caremark/Marchand/McDonald's board oversight duty to sanctions and export controls. Argues these are now mission-critical risks requiring board-level reporting."
   }
 ]
