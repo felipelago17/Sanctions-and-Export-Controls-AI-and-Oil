@@ -9,43 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
-## 2026-08-19
+## 2026-09-11
 
 ### Official & Regulatory
 
-- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
-- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
-- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
-- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
-- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
-- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
-- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
-- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
-- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
-- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
-- **[Federal Register]** [International Association of Color Manufacturers; Filing of Color Additive Petition (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16943/international-association-of-color-manufacturers-filing-of-color-additive-petition)
-- **[Federal Register]** [Commission Information Collection Activities (FERC-725U); Comment Request; Extension (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16925/commission-information-collection-activities-ferc-725u-comment-request-extension)
-- **[Federal Register]** [Rio Grande LNG, LLC, Rio Grande LNG Train 4, LLC, Rio Grande LNG Train 5, LLC; Notice of Schedule for the Preparation of an Environmental Assessment for the Rio Grande LNG Capacity Amendment (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16922/rio-grande-lng-llc-rio-grande-lng-train-4-llc-rio-grande-lng-train-5-llc-notice-of-schedule-for-the)
-- **[Federal Register]** [Commission Information Collection Activities (FERC-923); Comment Request; Extension (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16921/commission-information-collection-activities-ferc-923-comment-request-extension)
-- **[Federal Register]** [Proposed Collection; Comment Request (2026-08-19)](https://www.federalregister.gov/documents/2026/08/19/2026-16920/proposed-collection-comment-request)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[Federal Register]** [Senior Executive Service Performance Review Board Membership (2026-09-11)](https://www.federalregister.gov/documents/2026/09/11/2026-18614/senior-executive-service-performance-review-board-membership)
 - **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
-- **[Treasury]** [Treasury International Capital Data for June](https://home.treasury.gov/news/press-releases/sb0606)
-- **[Treasury]** [Treasury Seeks Public Comment on GENIUS Act Proposed Rulemaking](https://home.treasury.gov/news/press-releases/sb0605)
-- **[Treasury]** [Treasury Secretary Scott Bessent Highlights America’s  Main Street and Manufacturing Renaissance](https://home.treasury.gov/news/press-releases/sb0604)
-- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Joint Base Lindsey Graham Renaming Ceremony](https://home.treasury.gov/news/press-releases/sb0601)
-- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Nigel Gleeson Named Private Equity Lawyer of the Year at ALM/Law.com Asia Legal Awards](https://www.gibsondunn.com/nigel-gleeson-named-private-equity-lawyer-of-the-year-at-alm-law-com-asia-legal-awards/)
 
 ### Think Tanks & Academic
 
-- **[Just Security]** [Amid the Open-Source AI Debate, America Needs a New Theory of Technological Power](https://www.justsecurity.org/153033/ai-america-china-technological-power/?utm_source=rss&utm_medium=rss&utm_campaign=ai-america-china-technological-power)
-- **[Just Security]** [Early Edition: August 18, 2026](https://www.justsecurity.org/154447/early-edition-august-18-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-18-2026)
-- **[Atlantic Council]** [What it will take for the US and India to conclude a trade agreement](https://www.atlanticcouncil.org/dispatches/what-it-will-take-for-the-us-and-india-to-conclude-a-trade-agreement/)
-- **[Atlantic Council]** [Odesa under attack: Russia is cutting Ukraine off from the Black Sea](https://www.atlanticcouncil.org/blogs/ukrainealert/odesa-under-attack-russia-is-cutting-ukraine-off-from-the-black-sea/)
-- **[Atlantic Council]** [Echoes of Odysseus in Ukraine’s ingenious approach to the art of war](https://www.atlanticcouncil.org/blogs/ukrainealert/echoes-of-odysseus-in-ukraines-ingenious-approach-to-the-art-of-war/)
+- **[Just Security]** [A Crucial Moment for Persons with Disabilities: The Right to Community Inclusion vs. Institutionalization](https://www.justsecurity.org/153068/disability-rights-americas-court-case/?utm_source=rss&utm_medium=rss&utm_campaign=disability-rights-americas-court-case)
+- **[Just Security]** [Early Edition: September 10, 2026](https://www.justsecurity.org/156837/early-edition-september-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-10-2026)
+- **[Atlantic Council]** [Russia’s escalating bombing campaign is terrorizing Ukrainian schoolchildren](https://www.atlanticcouncil.org/blogs/ukrainealert/russias-escalating-bombing-campaign-is-terrorizing-ukrainian-schoolchildren/)
+- **[Atlantic Council]** [As Russia’s invasion falters, Putin boasts of imaginary victories](https://www.atlanticcouncil.org/blogs/ukrainealert/as-russias-invasion-falters-putin-boasts-of-imaginary-victories/)
 
 ---
 
-## 2026-08-19 - BIS Affiliates Rule Monitor *(auto)*
+## 2026-09-11 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
 
@@ -53,40 +47,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 
 ---
 
-## 2026-08-18
+## 2026-09-10
 
 ### Official & Regulatory
 
-- **[Baker McKenzie Sanctions]** [US Government Expands Cuba Sanctions Program with New Designations and General Licenses](https://sanctionsnews.bakermckenzie.com/us-government-expands-cuba-sanctions-program-with-new-designations-and-general-licenses/)
-- **[Baker McKenzie Sanctions]** [FinCEN Commits to Forbear from BSA Enforcement for Authorized Financial Services in Venezuela](https://sanctionsnews.bakermckenzie.com/fincen-commits-to-forbear-from-bsa-enforcement-for-authorized-financial-services-in-venezuela/)
-- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
-- **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
-- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
-- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
-- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
-- **[OFAC]** [Treasury Targets Global Network Procuring Weapons for Iranian Regime](https://home.treasury.gov/news/press-releases/sb0564)
-- **[OFAC]** [Treasury Intensifies Pressure on Shamkhani’s Expansive Illicit Shipping Empire](https://home.treasury.gov/news/press-releases/sb0562)
-- **[OFAC]** [Treasury Sanctions Malware and Infrastructure Providers Supporting Ransomware Attacks Against Americans](https://home.treasury.gov/news/press-releases/sb0559)
-- **[OFAC]** [Treasury Targets Key Supreme Leader Financier and Iran's Shadow Exchange Houses](https://home.treasury.gov/news/press-releases/sb0558)
-- **[OFAC]** [Treasury Sanctions Brazilian Criminal Network Exploiting U.S. Financial System to Launder Drug Proceeds](https://home.treasury.gov/news/press-releases/sb0549)
-- **[Federal Register]** [Request for Comments and Notice of Public Hearing Concerning China's Compliance With WTO Commitments (2026-08-18)](https://www.federalregister.gov/documents/2026/08/18/2026-16841/request-for-comments-and-notice-of-public-hearing-concerning-chinas-compliance-with-wto-commitments)
-- **[Federal Register]** [Notice of Availability of Outer Continental Shelf Official Protraction Diagrams (2026-08-18)](https://www.federalregister.gov/documents/2026/08/18/2026-16840/notice-of-availability-of-outer-continental-shelf-official-protraction-diagrams)
-- **[Federal Register]** [Notice of Availability of the Proposed Leasing Notice for the Commonwealth of the Northern Mariana Islands Outer Continental Shelf Pacific Mineral Lease Sale 2 (PACM-2) (2026-08-18)](https://www.federalregister.gov/documents/2026/08/18/2026-16839/notice-of-availability-of-the-proposed-leasing-notice-for-the-commonwealth-of-the-northern-mariana)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[Federal Register]** [Notice of Funding Opportunity for the Agriculture Innovation Center Demonstration (AIC) Program 2026 (2026-09-10)](https://www.federalregister.gov/documents/2026/09/10/2026-18511/notice-of-funding-opportunity-for-the-agriculture-innovation-center-demonstration-aic-program-2026)
+- **[Federal Register]** [In Situ Recovery Monitoring and Decommissioning Timeliness (2026-09-10)](https://www.federalregister.gov/documents/2026/09/10/2026-18504/in-situ-recovery-monitoring-and-decommissioning-timeliness)
 - **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
-- **[Treasury]** [Treasury International Capital Data for June](https://home.treasury.gov/news/press-releases/sb0606)
-- **[Treasury]** [Treasury Seeks Public Comment on GENIUS Act Proposed Rulemaking](https://home.treasury.gov/news/press-releases/sb0605)
-- **[Treasury]** [Treasury Secretary Scott Bessent Highlights America’s  Main Street and Manufacturing Renaissance](https://home.treasury.gov/news/press-releases/sb0604)
-- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Joint Base Lindsey Graham Renaming Ceremony](https://home.treasury.gov/news/press-releases/sb0601)
-- **[Treasury]** [Remarks from Secretary of the Treasury Scott Bessent at Event with Arizona Bankers in Phoenix](https://home.treasury.gov/news/press-releases/sb0595)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Matt Axelrod Discusses Hong Kong Addresses in Iran Sanctions with The Wire China](https://www.gibsondunn.com/matt-axelrod-discusses-hong-kong-addresses-in-iran-sanctions-with-the-wire-china/)
+- **[Gibson Dunn]** [Matt Axlerod Quoted in Wall Street Journal’s “Huawei Faces U.S. Criminal Trial Weeks Before Trump-Xi Meeting”](https://www.gibsondunn.com/matt-axlerod-quoted-in-wall-street-journals-huawei-faces-u-s-criminal-trial-weeks-before-trump-xi-meeting/)
+- **[Gibson Dunn]** [SEC Proposes to Repeal Investment Adviser Pay-to-Play Rule — But Political Contribution Compliance Is Here to Stay](https://www.gibsondunn.com/sec-proposes-to-repeal-investment-adviser-pay-to-play-rule-but-political-contribution-compliance-is-here-to-stay/)
 
 ### Think Tanks & Academic
 
-- **[Just Security]** [Early Edition: August 17, 2026](https://www.justsecurity.org/154305/early-edition-august-17-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-august-17-2026)
-- **[Atlantic Council]** [The oil shock is sorting Latin America. The dividing line is institutions, not barrels.](https://www.atlanticcouncil.org/blogs/energysource/the-oil-shock-is-sorting-latin-america-the-dividing-line-is-institutions-not-barrels/)
+- **[Just Security]** [Early Edition: September 9, 2026](https://www.justsecurity.org/156735/early-edition-september-9-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-9-2026)
+- **[Just Security]** [“Fight Back: How States Can Counter Authoritarianism” Series](https://www.justsecurity.org/154548/fight-back-states-counter-authoritarianism-series/?utm_source=rss&utm_medium=rss&utm_campaign=fight-back-states-counter-authoritarianism-series)
+- **[Atlantic Council]** [Woolf in Orbis on the role of nuclear norms in an era of renewed competition](https://www.atlanticcouncil.org/insight-impact/in-the-news/woolf-on-nuclear-norms-in-era-of-renewed-competition/)
+- **[Atlantic Council]** [No quick fixes for the squeeze on refined products](https://www.atlanticcouncil.org/blogs/energysource/no-quick-fixes-for-the-squeeze-on-refined-products/)
 
 ---
 
-## 2026-08-18 - BIS Affiliates Rule Monitor *(auto)*
+## 2026-09-10 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
 
@@ -94,23 +88,107 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 
 ---
 
-## Week of 2026-08-17
+## 2026-09-09
 
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [Argentina strengthens oversight of hydrocarbon activities related to the Falkland Islands](https://sanctionsnews.bakermckenzie.com/argentina-strengthens-oversight-of-hydrocarbon-activities-related-to-the-falkland-islands/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
+- **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: Application for Disability Compensation Benefits (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18396/agency-information-collection-activity-under-omb-review-application-for-disability-compensation)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: Application for D.I.C., Survivors Pension, and/or Accrued Benefits (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18392/agency-information-collection-activity-under-omb-review-application-for-dic-survivors-pension-andor)
+- **[Federal Register]** [Notice of Petition for Waiver of Compliance (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18386/notice-of-petition-for-waiver-of-compliance)
+- **[Federal Register]** [Request for Comments Regarding Implementation of 19 U.S.C. 1338(g) (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18385/request-for-comments-regarding-implementation-of-19-usc-1338g)
+- **[Federal Register]** [Notice of Petition for Modification of Waiver of Compliance (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18383/notice-of-petition-for-modification-of-waiver-of-compliance)
+- **[Federal Register]** [Hazardous Materials: Notice of Administrative Determination of Preemption for Common Law Tort Claims Concerning the Transportation of Gasoline (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18382/hazardous-materials-notice-of-administrative-determination-of-preemption-for-common-law-tort-claims)
+- **[Federal Register]** [Federal Motor Vehicle Safety Standard No. 213a; Child Restraint Systems-Side Impact Protection; Federal Motor Vehicle Safety Standard No. 213; Child Restraint Systems, Federal Motor Vehicle Safety Standard No. 213b; Child Restraint Systems; Incorporation by Reference (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18380/federal-motor-vehicle-safety-standard-no-213a-child-restraint-systems-side-impact-protection-federal)
+- **[Federal Register]** [Ottawa Resource Advisory Committee (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18378/ottawa-resource-advisory-committee)
+- **[Federal Register]** [Airworthiness Directives; Bombardier, Inc. Airplanes (2026-09-09)](https://www.federalregister.gov/documents/2026/09/09/2026-18376/airworthiness-directives-bombardier-inc-airplanes)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Treasury and IRS Propose Regulations Denying Tax-Exempt Status to Private Schools That Use Race in Admissions, Scholarships, or Other Programs](https://www.gibsondunn.com/treasury-irs-propose-regulations-denying-tax-exempt-status-to-private-schools-that-use-race-in-admissions-scholarships-other-programs/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 8, 2026](https://www.justsecurity.org/156556/early-edition-september-8-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-8-2026)
+- **[Atlantic Council]** [Turning early alignment into a durable US-Colombia partnership](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/turning-early-alignment-durable-us-colombia-partnership/)
+- **[Atlantic Council]** [Ukrainian drone strikes are disarming Russia’s energy weapon](https://www.atlanticcouncil.org/blogs/ukrainealert/ukrainian-drone-strikes-are-disarming-russias-energy-weapon/)
+- **[Atlantic Council]** [Putin welcomes Trump’s peace envoys but has no intention of ending the war](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-welcomes-trumps-peace-envoys-but-has-no-intention-of-ending-the-war/)
+- **[Atlantic Council]** [Preparing for and countering limited nuclear attacks in East Asia: Guardian Tiger III](https://www.atlanticcouncil.org/in-depth-research-reports/report/preparing-for-and-countering-limited-nuclear-attacks-in-east-asia-guardian-tiger-iii/)
+
+---
+
+## 2026-09-09 - BIS Affiliates Rule Monitor *(auto)*
+
+*Anthropic API error - raw Federal Register items logged below.*
+
+
+
+---
+
+## 2026-09-08
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [Argentina strengthens oversight of hydrocarbon activities related to the Falkland Islands](https://sanctionsnews.bakermckenzie.com/argentina-strengthens-oversight-of-hydrocarbon-activities-related-to-the-falkland-islands/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Sanctions Crypto Exchanges Funding Iran's IRGC and Enabling Illicit Finance](https://home.treasury.gov/news/press-releases/sb0598/)
 - **[OFAC]** [Treasury Cracks Down on Global Networks Enabling Iran's Mahan Air and IRGC](https://home.treasury.gov/news/press-releases/sb0582)
 - **[OFAC]** [Treasury Disrupts Iranian Regime’s Strait of Hormuz Extortion Network](https://home.treasury.gov/news/press-releases/sb0581)
-- **[OFAC]** [Treasury Takes Largest Action Ever Targeting Cartel de Jalisco Nueva Generacion](https://home.treasury.gov/news/press-releases/sb0573)
-- **[OFAC]** [Treasury Disrupts Muslim Brotherhood and Hamas Financial Networks](https://home.treasury.gov/news/press-releases/sb0572)
-- **[OFAC]** [Treasury Announces Second Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0578)
-- **[Federal Register]** [National Substance Use Primary Prevention Month, 2026 (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16799/national-substance-use-primary-prevention-month-2026)
-- **[Federal Register]** [Revocation of Class E Airspace; Santa Elena, TX (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16774/revocation-of-class-e-airspace-santa-elena-tx)
-- **[Federal Register]** [Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16769/proposed-removal-of-a-reporting-requirement-for-trusts-whose-charitable-contribution-deductions-are)
-- **[Federal Register]** [Parvin Decentralized Fund and Parvin Fund Management, LLC (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16768/parvin-decentralized-fund-and-parvin-fund-management-llc)
-- **[Federal Register]** [Sunshine Act Meetings (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16767/sunshine-act-meetings)
-- **[Federal Register]** [Agency Information Collection Request; 30-Day Public Comment Request; Submission for Office of Management and Budget Review; Generic Clearance for the Trusted Exchange Framework and Common Agreement (TEFCA) Monitoring Activities (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16766/agency-information-collection-request-30-day-public-comment-request-submission-for-office-of)
-- **[Federal Register]** [Northern Lights Fund Trust and Ocean Park Asset Management, LLC (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16765/northern-lights-fund-trust-and-ocean-park-asset-management-llc)
-- **[Federal Register]** [Formations of, Acquisitions by, and Mergers of Bank Holding Companies (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16764/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies)
-- **[Federal Register]** [Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16763/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest)
-- **[Federal Register]** [Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company (2026-08-17)](https://www.federalregister.gov/documents/2026/08/17/2026-16762/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company)
+- **[Federal Register]** [Unleashing Unlicensed Spectrum for Direct-to-Device (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18282/unleashing-unlicensed-spectrum-for-direct-to-device)
+- **[Federal Register]** [Safety Zone; Laguna Madre, South Padre Island, TX (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18279/safety-zone-laguna-madre-south-padre-island-tx)
+- **[Federal Register]** [National Petroleum Reserve in Alaska Production Site Development (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18261/national-petroleum-reserve-in-alaska-production-site-development)
+- **[Federal Register]** [Certain Foreign-Fabricated Semiconductor Devices, Products Containing the Same, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting a Joint Motion To Terminate the Investigation (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18260/certain-foreign-fabricated-semiconductor-devices-products-containing-the-same-and-components-thereof)
+- **[Federal Register]** [Certain Walk-Behind Lawn Mowers and Parts Thereof From the People's Republic of China and the Socialist Republic of Vietnam: Final Results of Sunset Review and Revocation of Orders (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18249/certain-walk-behind-lawn-mowers-and-parts-thereof-from-the-peoples-republic-of-china-and-the)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Bolsters Market-Leading Data Center Practice With Partners James Johnson and Victoria Delacey Joining in London](https://www.gibsondunn.com/gibson-dunn-bolsters-market-leading-data-center-practice-with-partners-james-johnson-and-victoria-delacey-joining-in-london/)
+
+---
+
+## 2026-09-08 - BIS Affiliates Rule Monitor *(auto)*
+
+*Anthropic API error - raw Federal Register items logged below.*
+
+
+
+---
+
+## Week of 2026-09-07
+
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/treasury-severs-iranian-regime-s-financial-lifelines-turkiye/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[Federal Register]** [Unleashing Unlicensed Spectrum for Direct-to-Device (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18282/unleashing-unlicensed-spectrum-for-direct-to-device)
+- **[Federal Register]** [Safety Zone; Laguna Madre, South Padre Island, TX (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18279/safety-zone-laguna-madre-south-padre-island-tx)
+- **[Federal Register]** [Sunshine Act Meetings (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18262/sunshine-act-meetings)
+- **[Federal Register]** [National Petroleum Reserve in Alaska Production Site Development (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18261/national-petroleum-reserve-in-alaska-production-site-development)
+- **[Federal Register]** [Certain Foreign-Fabricated Semiconductor Devices, Products Containing the Same, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting a Joint Motion To Terminate the Investigation (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18260/certain-foreign-fabricated-semiconductor-devices-products-containing-the-same-and-components-thereof)
+- **[Federal Register]** [Agency Information Collection Activities: Information Collection Renewal; Submission for OMB Review; Supervisory Guidance: Supervisory Review Process of Capital Adequacy (Pillar 2) Related to the Implementation of the Basel II Advanced Capital Framework (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18259/agency-information-collection-activities-information-collection-renewal-submission-for-omb-review)
+- **[Federal Register]** [Agency Information Collection Activities: Proposed Collection Renewal; Comment Request (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18258/agency-information-collection-activities-proposed-collection-renewal-comment-request)
+- **[Federal Register]** [Sunshine Act Meetings (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18257/sunshine-act-meetings)
+- **[Federal Register]** [Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 173 (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18256/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-173)
+- **[Federal Register]** [Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 11a-2 (2026-09-08)](https://www.federalregister.gov/documents/2026/09/08/2026-18255/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-11a-2)
 - **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
 - **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
 <!-- DIGEST_END -->

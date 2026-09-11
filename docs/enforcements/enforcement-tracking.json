@@ -2,7 +2,7 @@
   "_meta": {
     "description": "Enforcement action tracking index for BIS, DOJ-NSD, and OFAC export control and sanctions cases",
     "schema_version": "1.0",
-    "last_updated": "2026-08-01",
+    "last_updated": "2026-09-01",
     "sources": "BIS charging letters (bis.gov/enforcement); DOJ-NSD press releases (justice.gov/nsd); OFAC enforcement releases (ofac.treasury.gov)",
     "total_ingested": 4,
     "auto_ingested": 4
