@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-11
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[OFAC]** [Treasury Increases Sanctions on Hizballah and Targets Network Smuggling Millions in Cash for Hizballah](https://home.treasury.gov/news/press-releases/sb0611)
+- **[Federal Register]** [Senior Executive Service Performance Review Board Membership (2026-09-11)](https://www.federalregister.gov/documents/2026/09/11/2026-18614/senior-executive-service-performance-review-board-membership)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Nigel Gleeson Named Private Equity Lawyer of the Year at ALM/Law.com Asia Legal Awards](https://www.gibsondunn.com/nigel-gleeson-named-private-equity-lawyer-of-the-year-at-alm-law-com-asia-legal-awards/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [A Crucial Moment for Persons with Disabilities: The Right to Community Inclusion vs. Institutionalization](https://www.justsecurity.org/153068/disability-rights-americas-court-case/?utm_source=rss&utm_medium=rss&utm_campaign=disability-rights-americas-court-case)
+- **[Just Security]** [Early Edition: September 10, 2026](https://www.justsecurity.org/156837/early-edition-september-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-10-2026)
+- **[Atlantic Council]** [Russia’s escalating bombing campaign is terrorizing Ukrainian schoolchildren](https://www.atlanticcouncil.org/blogs/ukrainealert/russias-escalating-bombing-campaign-is-terrorizing-ukrainian-schoolchildren/)
+- **[Atlantic Council]** [As Russia’s invasion falters, Putin boasts of imaginary victories](https://www.atlanticcouncil.org/blogs/ukrainealert/as-russias-invasion-falters-putin-boasts-of-imaginary-victories/)
+
+---
+
 ## 2026-09-11 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
