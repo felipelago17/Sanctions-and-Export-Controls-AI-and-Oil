@@ -16,17 +16,17 @@
     ],
     "judge": null,
     "cause_of_action": [
-      "Administrative Procedure Act, 5 U.S.C. § 706",
+      "Administrative Procedure Act, 5 U.S.C. \u00a7 706",
       "First Amendment (freedom of speech; publication of model weights)",
-      "Due process — Fifth Amendment (notice and opportunity to be heard before ECCN designation)",
+      "Due process \u2014 Fifth Amendment (notice and opportunity to be heard before ECCN designation)",
       "IEEPA ultra vires (cyber-predicate extension exceeds statutory authority)"
     ],
     "export_control_nexus": "Challenge to extension of EAR jurisdiction over AI model weights and agentic systems under the Fable/Mythos directive; contests cyber-predicate enforcement mechanism",
     "constitutional_issues": [
-      "First Amendment — model weights as protected speech (Bernstein v. DOJ precedent)",
-      "Fifth Amendment due process — no notice or comment before ECCN designation",
-      "Non-delegation doctrine — IEEPA breadth as unconstitutional delegation",
-      "Void for vagueness — 'agentic system' undefined in EAR"
+      "First Amendment \u2014 model weights as protected speech (Bernstein v. DOJ precedent)",
+      "Fifth Amendment due process \u2014 no notice or comment before ECCN designation",
+      "Non-delegation doctrine \u2014 IEEPA breadth as unconstitutional delegation",
+      "Void for vagueness \u2014 'agentic system' undefined in EAR"
     ],
     "key_dates": [
       {
