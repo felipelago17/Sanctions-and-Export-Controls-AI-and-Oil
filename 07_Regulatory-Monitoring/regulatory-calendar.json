@@ -118,5 +118,20 @@
       "China"
     ],
     "notes": "CRITICAL DATE \u2014 monitor for BIS rulemaking activity to make rule permanent before snap-back"
+  },
+  {
+    "event_id": "FR-2026-09-15-3424",
+    "date": "2026-09-15",
+    "event_name": "Notice of OFAC Sanctions Action",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked ",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18909/notice-of-ofac-sanctions-action",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
