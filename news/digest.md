@@ -9,6 +9,38 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-16
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [SAVE THE DATE: 47th Year-End Review of Global Trade Developments Conference](https://sanctionsnews.bakermckenzie.com/save-the-date-47th-year-end-review-of-global-trade-developments-conference/)
+- **[Baker McKenzie Sanctions]** [UK announces new sanctions targeting Israeli settlements in the occupied West Bank alongside allies](https://sanctionsnews.bakermckenzie.com/uk-announces-new-sanctions-targeting-israeli-settlements-in-the-occupied-west-bank-alongside-allies/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[Federal Register]** [Medicare Program; Medicare Appeals; Adjustment to the Amount in Controversy Threshold Amounts for Calendar Year 2027 (2026-09-16)](https://www.federalregister.gov/documents/2026/09/16/2026-19016/medicare-program-medicare-appeals-adjustment-to-the-amount-in-controversy-threshold-amounts-for)
+- **[Federal Register]** [Commission Information Collection Activities (Ferc-555); Comment Request; Extension (2026-09-16)](https://www.federalregister.gov/documents/2026/09/16/2026-19011/commission-information-collection-activities-ferc-555-comment-request-extension)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The Limits of the Law of Armed Conflict: Individual Accountability Should Not Obscure State Responsibility for U.S. Strikes on Iran School](https://www.justsecurity.org/156883/limits-law-armed-conflict-discourse-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=limits-law-armed-conflict-discourse-accountability)
+- **[Just Security]** [Don’t Let Syria’s Recovery Become Collateral Damage in the Iran-U.S. War](https://www.justsecurity.org/155798/syrias-recovery-collateral-damage-iran-us-war/?utm_source=rss&utm_medium=rss&utm_campaign=syrias-recovery-collateral-damage-iran-us-war)
+- **[Just Security]** [Early Edition: September 15, 2026](https://www.justsecurity.org/157309/early-edition-september-15-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-15-2026)
+- **[Atlantic Council]** [Could the GCC and Iran collaborate to solve the Strait of Hormuz crisis?](https://www.atlanticcouncil.org/blogs/menasource/could-the-gcc-and-iran-collaborate-to-solve-the-strait-of-hormuz-crisis/)
+- **[Atlantic Council]** [With Putin overextended in Ukraine, Armenia is turning away from Russia](https://www.atlanticcouncil.org/blogs/ukrainealert/with-putin-overextended-in-ukraine-armenia-is-turning-away-from-russia/)
+- **[Atlantic Council]** [Dispatch from Seoul: How Asian allies can help the US with Iran](https://www.atlanticcouncil.org/dispatches/dispatch-from-seoul-how-asian-allies-can-help-the-us-with-iran/)
+- **[Atlantic Council]** [Can oil deals reset US-Iraqi relations?](https://www.atlanticcouncil.org/blogs/menasource/can-oil-deals-reset-us-iraqi-relations/)
+
+---
+
 ## 2026-09-16 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
