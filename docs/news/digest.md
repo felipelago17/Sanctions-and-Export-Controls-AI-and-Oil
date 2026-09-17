@@ -9,6 +9,39 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-17
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury Sanctions Major Ecuador-Based Cocaine Network Linked to Violent Gangs and Mexican Cartels](https://home.treasury.gov/news/press-releases/sb0610)
+- **[Federal Register]** [Airworthiness Directives; Pratt & Whitney Engines (2026-09-17)](https://www.federalregister.gov/documents/2026/09/17/2026-19094/airworthiness-directives-pratt-and-whitney-engines)
+- **[Federal Register]** [Oil Country Tubular Goods From the Socialist Republic of Vietnam: Final Results of Antidumping Duty Administrative Review; 2023-2024 (2026-09-17)](https://www.federalregister.gov/documents/2026/09/17/2026-19091/oil-country-tubular-goods-from-the-socialist-republic-of-vietnam-final-results-of-antidumping-duty)
+- **[Federal Register]** [Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes (2026-09-17)](https://www.federalregister.gov/documents/2026/09/17/2026-19089/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes)
+- **[Federal Register]** [Airworthiness Directives; The Boeing Company Airplanes (2026-09-17)](https://www.federalregister.gov/documents/2026/09/17/2026-19082/airworthiness-directives-the-boeing-company-airplanes)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Continues Global Expansion of Market-Leading Data Center Practice With Noah Hansford and Terrie Khoshbin in Dallas](https://www.gibsondunn.com/gibson-dunn-continues-global-expansion-of-market-leading-data-center-practice-with-noah-hansford-and-terrie-khoshbin-in-dallas/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [September 12th’s Red Alert: How International Lawyers Should Answer AI Leaders’ Wakeup Call](https://www.justsecurity.org/157417/international-lawyers-answer-ai-leaders-wakeup-call/?utm_source=rss&utm_medium=rss&utm_campaign=international-lawyers-answer-ai-leaders-wakeup-call)
+- **[Just Security]** [Early Edition: September 16, 2026](https://www.justsecurity.org/157499/early-edition-september-16-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-16-2026)
+- **[Atlantic Council]** [The Graham sanctions act is a chance to punish Putin. Here’s what the White House should do next.](https://www.atlanticcouncil.org/dispatches/the-graham-sanctions-act-is-a-chance-to-punish-putin-heres-what-the-white-house-should-do-next/)
+- **[Atlantic Council]** [Could the GCC and Iran collaborate to solve the Strait of Hormuz crisis?](https://www.atlanticcouncil.org/blogs/menasource/could-the-gcc-and-iran-collaborate-to-solve-the-strait-of-hormuz-crisis/)
+
+---
+
 ## 2026-09-17 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
