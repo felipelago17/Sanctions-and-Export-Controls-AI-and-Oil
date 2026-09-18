@@ -9,6 +9,39 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-18
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [EU Commission Adopts 2026 Delegated Regulation Updating Annex I of the EU Dual-Use Regulation](https://sanctionsnews.bakermckenzie.com/eu-commission-adopts-2026-delegated-regulation-updating-annex-i-of-the-eu-dual-use-regulation/)
+- **[Baker McKenzie Sanctions]** [National Security Science and Technology Strategy Highlights Expanded Role for Export Controls, Investment Screening, and Data Security](https://sanctionsnews.bakermckenzie.com/national-security-science-and-technology-strategy-highlights-expanded-role-for-export-controls-investment-screening-and-data-security/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[Federal Register]** [Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2027 (2026-09-18)](https://www.federalregister.gov/documents/2026/09/18/2026-19251/presidential-determination-on-major-drug-transit-or-major-illicit-drug-producing-countries-for)
+- **[Federal Register]** [International Traffic in Arms Regulations: Modification of U.S. Munitions List Category XX(a) (2026-09-18)](https://www.federalregister.gov/documents/2026/09/18/2026-19211/international-traffic-in-arms-regulations-modification-of-us-munitions-list-category-xxa)
+- **[Federal Register]** [Intent To Request Reinstatement With Revision From OMB of One Previous Public Collection of Information: Law Enforcement Officer (LEO) Reimbursement Request (2026-09-18)](https://www.federalregister.gov/documents/2026/09/18/2026-19204/intent-to-request-reinstatement-with-revision-from-omb-of-one-previous-public-collection-of)
+- **[Federal Register]** [Commission Information Collection Activities (Ferc-521); Comment Request; Extension (2026-09-18)](https://www.federalregister.gov/documents/2026/09/18/2026-19200/commission-information-collection-activities-ferc-521-comment-request-extension)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 17, 2026](https://www.justsecurity.org/157611/early-edition-september-17-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-17-2026)
+- **[Atlantic Council]** [Ukraine can do more to counter Russia’s illicit finance threat](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-can-do-more-to-counter-russias-illicit-finance-threat/)
+- **[Atlantic Council]** [What von der Leyen’s SOTU speech got right about energy—and where the EU still needs to pivot](https://www.atlanticcouncil.org/blogs/energysource/what-von-der-leyens-sotu-speech-got-right-about-energy-and-where-the-eu-still-needs-to-pivot/)
+- **[Atlantic Council]** [Putin is escalating against NATO but a Baltic incursion remains unlikely](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-is-escalating-against-nato-but-a-baltic-incursion-remains-unlikely/)
+- **[Atlantic Council]** [Ten years into Trump’s trade experiment, the US continues to defy expectations](https://www.atlanticcouncil.org/blogs/econographics/ten-years-into-trumps-trade-experiment-the-us-continues-to-defy-expectations/)
+- **[Atlantic Council]** [New voices, old friends: How Russia targets its messaging in the Global South](https://www.atlanticcouncil.org/content-series/russia-tomorrow/how-russia-targets-is-messaging-in-the-global-south/)
+
+---
+
 ## 2026-09-18 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
