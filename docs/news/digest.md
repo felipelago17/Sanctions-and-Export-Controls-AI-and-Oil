@@ -9,6 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-19
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [EU Commission Adopts 2026 Delegated Regulation Updating Annex I of the EU Dual-Use Regulation](https://sanctionsnews.bakermckenzie.com/eu-commission-adopts-2026-delegated-regulation-updating-annex-i-of-the-eu-dual-use-regulation/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[Federal Register]** [Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2027 (2026-09-18)](https://www.federalregister.gov/documents/2026/09/18/2026-19251/presidential-determination-on-major-drug-transit-or-major-illicit-drug-producing-countries-for)
+- **[Federal Register]** [International Traffic in Arms Regulations: Modification of U.S. Munitions List Category XX(a) (2026-09-18)](https://www.federalregister.gov/documents/2026/09/18/2026-19211/international-traffic-in-arms-regulations-modification-of-us-munitions-list-category-xxa)
+- **[Federal Register]** [Intent To Request Reinstatement With Revision From OMB of One Previous Public Collection of Information: Law Enforcement Officer (LEO) Reimbursement Request (2026-09-18)](https://www.federalregister.gov/documents/2026/09/18/2026-19204/intent-to-request-reinstatement-with-revision-from-omb-of-one-previous-public-collection-of)
+- **[Federal Register]** [Commission Information Collection Activities (Ferc-521); Comment Request; Extension (2026-09-18)](https://www.federalregister.gov/documents/2026/09/18/2026-19200/commission-information-collection-activities-ferc-521-comment-request-extension)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Trey Cox Discusses Use of AI in Law With Texas Lawyer](https://www.gibsondunn.com/trey-cox-discusses-use-of-ai-in-law-with-texas-lawyer/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 18, 2026](https://www.justsecurity.org/157793/early-edition-september-18-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-18-2026)
+
+---
+
 ## 2026-09-18
 
 ### Official & Regulatory
