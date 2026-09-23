@@ -9,6 +9,42 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-23
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[Federal Register]** [Guidance and Procedures for Implementing Tariff Adjustments for Specialty Pharmaceuticals and Associated Pharmaceutical Ingredients and Technical Corrections to the Harmonized Tariff Schedule of the United States for Duties Imposed Under Proclamation 11020 (2026-09-23)](https://www.federalregister.gov/documents/2026/09/23/2026-19498/guidance-and-procedures-for-implementing-tariff-adjustments-for-specialty-pharmaceuticals-and)
+- **[Federal Register]** [Air Plan Approval; North Carolina; Charlotte-Rock Hill Area Maintenance Plan for the 2008 8-Hour Ozone NAAQS (2026-09-23)](https://www.federalregister.gov/documents/2026/09/23/2026-19495/air-plan-approval-north-carolina-charlotte-rock-hill-area-maintenance-plan-for-the-2008-8-hour-ozone)
+- **[Federal Register]** [Patient Protection and Affordable Care Act; Temporary Moratoria on Certain Agent and Broker Registration To Participate in the Exchanges (2026-09-23)](https://www.federalregister.gov/documents/2026/09/23/2026-19493/patient-protection-and-affordable-care-act-temporary-moratoria-on-certain-agent-and-broker)
+- **[Federal Register]** [Notice of OFAC Sanctions Action (2026-09-23)](https://www.federalregister.gov/documents/2026/09/23/2026-19488/notice-of-ofac-sanctions-action)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [International Comparative Legal Guide – Sanctions Laws and Regulations 2027](https://www.gibsondunn.com/international-comparative-legal-guide-sanctions-laws-and-regulations-2027/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 23, 2026](https://www.justsecurity.org/158608/early-edition-september-23-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-23-2026)
+- **[Just Security]** [Questions for Congress on Venezuela’s Assets](https://www.justsecurity.org/158262/questions-for-congress-on-venezuelas-assets/?utm_source=rss&utm_medium=rss&utm_campaign=questions-for-congress-on-venezuelas-assets)
+- **[Just Security]** [Guantanamo Dispatch: Military Judge Orders Last Minute Sanity Board in USS Cole Bombing Case](https://www.justsecurity.org/158316/guantanamo-dispatch-sanity-board-uss-cole-case/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-sanity-board-uss-cole-case)
+- **[Just Security]** [Early Edition: September 22, 2026](https://www.justsecurity.org/158424/early-edition-september-22-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-22-2026)
+- **[Atlantic Council]** [AI data under the microscope: Accelerating and securing the AI data supply chain for the health and biopharmaceutical sectors](https://www.atlanticcouncil.org/in-depth-research-reports/report/ai-data-under-the-microscope-accelerating-and-securing-the-ai-data-supply-chain-for-the-health-and-biopharmaceutical-sectors/)
+- **[Atlantic Council]** [Ukrainians are braced for a brutal winter. Are the Russians also ready?](https://www.atlanticcouncil.org/blogs/ukrainealert/ukrainians-are-braced-for-a-brutal-winter-are-the-russians-also-ready/)
+- **[Atlantic Council]** [Strait talk: Yemen, mercenaries and the Iran war](https://www.atlanticcouncil.org/commentary/podcast/strait-talk-yemen-mercenaries-and-the-iran-war/)
+
+---
+
 ## 2026-09-23 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
