@@ -9,6 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-24
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[Federal Register]** [Privacy Act of 1974; Matching Program (2026-09-24)](https://www.federalregister.gov/documents/2026/09/24/2026-19599/privacy-act-of-1974-matching-program)
+- **[Federal Register]** [Certain Wearable Breast Pumps, Associated Milk Storage Containers, and Components Thereof; Notice of Institution of Investigation (2026-09-24)](https://www.federalregister.gov/documents/2026/09/24/2026-19586/certain-wearable-breast-pumps-associated-milk-storage-containers-and-components-thereof-notice-of)
+- **[Federal Register]** [Flight Operations: Pilot requirements; Use of oxygen (2026-09-24)](https://www.federalregister.gov/documents/2026/09/24/2026-19584/flight-operations-pilot-requirements-use-of-oxygen)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [The Trump Administration’s Economic Coercion—A Dizzying Spate of Economic Measures Increases Uncertainty and Risk for Global Business](https://www.gibsondunn.com/trump-administration-economic-coercion-a-dizzying-spate-of-economic-measures-increases-uncertainty-and-risk-for-global-business/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 24, 2026](https://www.justsecurity.org/158728/early-edition-september-24-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-24-2026)
+- **[Just Security]** [Early Edition: September 23, 2026](https://www.justsecurity.org/158608/early-edition-september-23-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-23-2026)
+- **[Atlantic Council]** [Putin’s Ukraine invasion has made Russia China’s junior partner](https://www.atlanticcouncil.org/blogs/ukrainealert/putins-ukraine-invasion-has-made-russia-chinas-junior-partner/)
+
+---
+
 ## 2026-09-24 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
