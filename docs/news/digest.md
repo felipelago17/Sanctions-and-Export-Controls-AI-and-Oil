@@ -9,6 +9,39 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-25
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[Federal Register]** [Amendment of Class E Airspace; Del Rio, TX (2026-09-25)](https://www.federalregister.gov/documents/2026/09/25/2026-19708/amendment-of-class-e-airspace-del-rio-tx)
+- **[Federal Register]** [Medicaid and Children's Health Insurance Program (CHIP) Generic Information Collection Activities: Proposed Collection; Comment Request (2026-09-25)](https://www.federalregister.gov/documents/2026/09/25/2026-19707/medicaid-and-childrens-health-insurance-program-chip-generic-information-collection-activities)
+- **[Federal Register]** [Intent to Request an Revision From OMB of One Current Public Collection of Information: Law Enforcement Officers (LEOs) Flying Armed (2026-09-25)](https://www.federalregister.gov/documents/2026/09/25/2026-19703/intent-to-request-an-revision-from-omb-of-one-current-public-collection-of-information-law)
+- **[Federal Register]** [Certain Dynamic Random Access Memory (DRAM) Devices, Products Containing the Same, and Components Thereof (III); Notice of Institution of Investigation (2026-09-25)](https://www.federalregister.gov/documents/2026/09/25/2026-19697/certain-dynamic-random-access-memory-dram-devices-products-containing-the-same-and-components)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [“Resource Nationalism’s New Frontier: Lithium, Rare Earths, and the Legal Map Ahead” Republished by Pratt’s Energy Law Report](https://www.gibsondunn.com/resource-nationalisms-new-frontier-lithium-rare-earths-and-the-legal-map-ahead-republished-by-pratts-energy-law-report/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 25, 2026](https://www.justsecurity.org/158876/early-edition-september-25-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-25-2026)
+- **[Just Security]** [Early Edition: September 24, 2026](https://www.justsecurity.org/158728/early-edition-september-24-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-24-2026)
+- **[Atlantic Council]** [The Saudi economy can hold out through year’s end—even if oil exports drop to zero](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-saudi-economy-can-hold-out-through-years-end-even-if-oil-exports-drop-to-zero/)
+- **[Atlantic Council]** [Ukraine’s defense tech sector must offer investors more than innovation](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-defense-tech-sector-must-offer-investors-more-than-innovation/)
+
+---
+
 ## 2026-09-25 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
