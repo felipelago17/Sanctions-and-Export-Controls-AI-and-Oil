@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-28
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[Federal Register]** [Notice of Policy Change and Rescission of Single-Pilot Training Exemptions for Certain Cessna Aircraft (2026-09-28)](https://www.federalregister.gov/documents/2026/09/28/2026-19843/notice-of-policy-change-and-rescission-of-single-pilot-training-exemptions-for-certain-cessna)
+- **[Federal Register]** [Establishment, Modification, and Revocation of Class E Airspace; Alaska, AK (2026-09-28)](https://www.federalregister.gov/documents/2026/09/28/2026-19815/establishment-modification-and-revocation-of-class-e-airspace-alaska-ak)
+- **[Federal Register]** [Tin Mill Products From China, Taiwan, and Turkey; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations (2026-09-28)](https://www.federalregister.gov/documents/2026/09/28/2026-19811/tin-mill-products-from-china-taiwan-and-turkey-scheduling-of-the-final-phase-of-countervailing-duty)
+- **[Federal Register]** [Submission for OMB Review; 30-Day Comment Request; (2026-09-28)](https://www.federalregister.gov/documents/2026/09/28/2026-19806/submission-for-omb-review-30-day-comment-request)
+- **[Federal Register]** [Submission for OMB Review; 30-Day Comment Request; Generic Clearance for NIH Citizen Science and Crowdsourcing Projects (Office of the Director) (2026-09-28)](https://www.federalregister.gov/documents/2026/09/28/2026-19804/submission-for-omb-review-30-day-comment-request-generic-clearance-for-nih-citizen-science-and)
+- **[Federal Register]** [Fisheries of the Caribbean, Gulf of America, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic; Regulatory Amendment 36 (2026-09-28)](https://www.federalregister.gov/documents/2026/09/28/2026-19801/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-snapper-grouper-fishery-of-the-south)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Prominent Energy and Infrastructure Financing Dealmaker Gianluca Bacchiocchi Joins Gibson Dunn in New York as Structured Finance Co-Chair](https://www.gibsondunn.com/prominent-energy-and-infrastructure-financing-dealmaker-gianluca-bacchiocchi-joins-gibson-dunn-in-new-york-as-structured-finance-co-chair/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Guantanamo Dispatch: Innocent or Guilty, Accused USS Cole Bomber May Never Go Free](https://www.justsecurity.org/158987/guantanamo-dispatch-innocent-guilty-accused-cole-bomber-may-never-free/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-innocent-guilty-accused-cole-bomber-may-never-free)
+- **[Just Security]** [Reinvention Blueprint No. 4: Building Authorities for Domestic Use of the Military that Work](https://www.justsecurity.org/150850/reinvention-blueprint-no-4-building-authorities-domestic-military/?utm_source=rss&utm_medium=rss&utm_campaign=reinvention-blueprint-no-4-building-authorities-domestic-military)
+- **[Just Security]** [Early Edition: September 28, 2026](https://www.justsecurity.org/159075/early-edition-september-28-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-28-2026)
+
+---
+
 ## 2026-09-28 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
