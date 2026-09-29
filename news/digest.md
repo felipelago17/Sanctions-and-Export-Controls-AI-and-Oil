@@ -9,6 +9,47 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-29
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [US Lifts Ethiopia-Related Sanctions and Removes Ethiopia from the ITAR Proscribed Country List](https://sanctionsnews.bakermckenzie.com/us-lifts-ethiopia-related-sanctions-and-removes-ethiopia-from-the-itar-proscribed-country-list/)
+- **[Baker McKenzie Sanctions]** [Enforcement Risks Around Criminal Organizations in Latin America Continue to Increase](https://sanctionsnews.bakermckenzie.com/enforcement-risks-around-criminal-organizations-in-latin-america-continue-to-increase/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[OFAC]** [Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day](https://home.treasury.gov/news/press-releases/sb0613/)
+- **[OFAC]** [Treasury and State Departments Deliver Additional Sanctions Relief on Syria](https://home.treasury.gov/news/press-releases/sb0612/)
+- **[Federal Register]** [Withdrawal of International Airport Designation of Chalk Seaplane Base (2026-09-29)](https://www.federalregister.gov/documents/2026/09/29/C1-2026-17108/withdrawal-of-international-airport-designation-of-chalk-seaplane-base)
+- **[Federal Register]** [Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Information Technology Standards; Correction (2026-09-29)](https://www.federalregister.gov/documents/2026/09/29/2026-19946/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and)
+- **[Federal Register]** [Safety Zone; Bridge Demolition, Upper Mississippi River, Chester, IL (2026-09-29)](https://www.federalregister.gov/documents/2026/09/29/2026-19945/safety-zone-bridge-demolition-upper-mississippi-river-chester-il)
+- **[Federal Register]** [Reestablishment of the Exxon Valdez Oil Spill Public Advisory Committee (2026-09-29)](https://www.federalregister.gov/documents/2026/09/29/2026-19933/reestablishment-of-the-exxon-valdez-oil-spill-public-advisory-committee)
+- **[Federal Register]** [Recodification of Title IX Rules (2026-09-29)](https://www.federalregister.gov/documents/2026/09/29/2026-19929/recodification-of-title-ix-rules)
+- **[Federal Register]** [URAL Airlines JSC, Utrenniy Lane 1-g, Yekaterinburg, Russia 620025; Order Renewing Temporary Denial of Export Privileges (2026-09-29)](https://www.federalregister.gov/documents/2026/09/29/2026-19927/ural-airlines-jsc-utrenniy-lane-1-g-yekaterinburg-russia-620025-order-renewing-temporary-denial-of)
+- **[Federal Register]** [Sunshine Act; Open Commission Meeting Wednesday, September 30, 2026 (2026-09-29)](https://www.federalregister.gov/documents/2026/09/29/2026-19920/sunshine-act-open-commission-meeting-wednesday-september-30-2026)
+- **[Federal Register]** [Notice of an Application of Cboe Clear U.S., LLC for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 Regarding the Treatment of Customer Margin Under Item 13 and Note F of Exhibit A to Rule 15c3-3 (2026-09-29)](https://www.federalregister.gov/documents/2026/09/29/2026-19916/notice-of-an-application-of-cboe-clear-us-llc-for-an-exemption-pursuant-to-section-36-of-the)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Veteran Project Finance Lawyer Raymond Azar Joins Gibson Dunn as Co-Chair of Power and Renewables Practice Group](https://www.gibsondunn.com/veteran-project-finance-lawyer-raymond-azar-joins-gibson-dunn-as-co-chair-of-power-and-renewables-practice-group/)
+- **[Gibson Dunn]** [Gibson Dunn Advised USD Group on Sale of Port Arthur Terminal and 50% Interest in Diluent Recovery Unit to FTAI Energy Partners](https://www.gibsondunn.com/gibson-dunn-advised-usd-group-on-sale-of-port-arthur-terminal-and-50-interest-in-diluent-recovery-unit-to-ftai-energy-partners/)
+- **[Gibson Dunn]** [Prominent Energy and Infrastructure Financing Dealmaker Gianluca Bacchiocchi Joins Gibson Dunn in New York as Structured Finance Co-Chair](https://www.gibsondunn.com/prominent-energy-and-infrastructure-financing-dealmaker-gianluca-bacchiocchi-joins-gibson-dunn-in-new-york-as-structured-finance-co-chair/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: September 29, 2026](https://www.justsecurity.org/159195/early-edition-september-28-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-28-2026-2)
+- **[Just Security]** [Guantanamo Dispatch: Innocent or Guilty, Accused USS Cole Bomber May Never Go Free](https://www.justsecurity.org/158987/guantanamo-dispatch-innocent-guilty-accused-cole-bomber-may-never-free/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-innocent-guilty-accused-cole-bomber-may-never-free)
+- **[Just Security]** [Reinvention Blueprint No. 4: Building Authorities for Domestic Use of the Military that Work](https://www.justsecurity.org/150850/reinvention-blueprint-no-4-building-authorities-domestic-military/?utm_source=rss&utm_medium=rss&utm_campaign=reinvention-blueprint-no-4-building-authorities-domestic-military)
+- **[Just Security]** [Early Edition: September 28, 2026](https://www.justsecurity.org/159075/early-edition-september-28-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-28-2026)
+
+---
+
 ## 2026-09-29 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
