@@ -9,6 +9,50 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-09-30
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [US Department of the Treasury Strengthens Iran Sanctions as Part of Operation Economic Outcast](https://sanctionsnews.bakermckenzie.com/us-department-of-the-treasury-strengthens-iran-sanctions-as-part-of-operation-economic-outcast/)
+- **[Baker McKenzie Sanctions]** [US Lifts Ethiopia-Related Sanctions and Removes Ethiopia from the ITAR Proscribed Country List](https://sanctionsnews.bakermckenzie.com/us-lifts-ethiopia-related-sanctions-and-removes-ethiopia-from-the-itar-proscribed-country-list/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[OFAC]** [Treasury Takes Action Against Violent Far-Left Terrorist Networks](https://home.treasury.gov/news/press-releases/sb0616/)
+- **[Federal Register]** [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Five-Year Records Retention Requirement for Export Transactions and Boycott Actions (2026-09-30)](https://www.federalregister.gov/documents/2026/09/30/2026-20058/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for)
+- **[Federal Register]** [Public Meeting of the Science Advisory Board (2026-09-30)](https://www.federalregister.gov/documents/2026/09/30/2026-20057/public-meeting-of-the-science-advisory-board)
+- **[Federal Register]** [Notice of Information Collection and Request for Public Comment (2026-09-30)](https://www.federalregister.gov/documents/2026/09/30/2026-20050/notice-of-information-collection-and-request-for-public-comment)
+- **[Federal Register]** [Hours of Service of Drivers; Parts and Accessories Necessary for Safe Operation; Exemption Renewal for Cleveland-Cliffs Steel LLC (2026-09-30)](https://www.federalregister.gov/documents/2026/09/30/2026-20048/hours-of-service-of-drivers-parts-and-accessories-necessary-for-safe-operation-exemption-renewal-for)
+- **[Federal Register]** [Agency Information Collection Activities; Proposed Collection; Comment Request; Community Development Financial Institutions Program-Certification Application (2026-09-30)](https://www.federalregister.gov/documents/2026/09/30/2026-20047/agency-information-collection-activities-proposed-collection-comment-request-community-development)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [SEC Opens Up Five-Year Sandbox for Tokenized Trading of NMS Stocks](https://www.gibsondunn.com/sec-opens-up-five-year-sandbox-for-tokenized-trading-of-nms-stocks/)
+- **[Gibson Dunn]** [Gibson Dunn Advised Morgan Stanley’s 1GT Climate Private Equity Strategy on Series E Investment in Amber Electric](https://www.gibsondunn.com/gibson-dunn-advised-morgan-stanleys-1gt-climate-private-equity-strategy-on-series-e-investment-in-amber-electric/)
+- **[Gibson Dunn]** [Veteran Project Finance Lawyer Raymond Azar Joins Gibson Dunn as Co-Chair of Power and Renewables Practice Group](https://www.gibsondunn.com/veteran-project-finance-lawyer-raymond-azar-joins-gibson-dunn-as-co-chair-of-power-and-renewables-practice-group/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Twenty-Five Years After 9/11, It Is Time to Repeal the 2001 Authorization for Use of Military Force and End the Forever War](https://www.justsecurity.org/158486/time-to-repeal-the-2001-aumf-end-forever-war/?utm_source=rss&utm_medium=rss&utm_campaign=time-to-repeal-the-2001-aumf-end-forever-war)
+- **[Just Security]** [Early Edition: September 30, 2026](https://www.justsecurity.org/159301/early-edition-september-30-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-30-2026)
+- **[Just Security]** [Early Edition: September 29, 2026](https://www.justsecurity.org/159195/early-edition-september-29-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-29-2026)
+- **[Atlantic Council]** [Yes, transmission is dull. Read this article anyway.](https://www.atlanticcouncil.org/blogs/energysource/yes-transmission-is-dull-read-this-article-anyway/)
+- **[Atlantic Council]** [Europe needs a new strategy for Russian gray zone aggression](https://www.atlanticcouncil.org/blogs/ukrainealert/europe-needs-a-new-strategy-for-russian-grey-zone-aggression/)
+- **[Atlantic Council]** [Ukraine’s innovative robot offensive just reversed a year of Russian gains](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-innovative-robot-offensive-just-reversed-a-year-of-russian-gains/)
+- **[Atlantic Council]** [Vladimir Putin only has two options in Ukraine: Total victory or endless war](https://www.atlanticcouncil.org/blogs/ukrainealert/vladimir-putin-only-has-two-options-in-ukraine-total-victory-or-endless-war/)
+- **[Atlantic Council]** [Stopping Russia’s aggression requires holding its enablers accountable](https://www.atlanticcouncil.org/dispatches/stopping-russias-aggression-requires-holding-its-enablers-accountable/)
+- **[Atlantic Council]** [Trade and connectivity in the Europe-Gulf strategic partnership](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/trade-and-connectivity-in-the-europe-gulf-strategic-partnership/)
+- **[Atlantic Council]** [How Europe and the Gulf can unite behind an energy-transition agenda](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/how-europe-and-the-gulf-can-unite-behind-an-energy-transition-agenda/)
+
+---
+
 ## 2026-09-30 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
