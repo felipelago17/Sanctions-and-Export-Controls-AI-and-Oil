@@ -2,10 +2,10 @@
   "_meta": {
     "description": "Enforcement action tracking index for BIS, DOJ-NSD, and OFAC export control and sanctions cases",
     "schema_version": "1.0",
-    "last_updated": "2026-09-01",
+    "last_updated": "2026-10-01",
     "sources": "BIS charging letters (bis.gov/enforcement); DOJ-NSD press releases (justice.gov/nsd); OFAC enforcement releases (ofac.treasury.gov)",
-    "total_ingested": 4,
-    "auto_ingested": 4
+    "total_ingested": 5,
+    "auto_ingested": 5
   },
   "_schema": {
     "case_id": "Unique identifier: {regulator}-{year}-{sequence}",
@@ -83,6 +83,24 @@
       "category": "commentary",
       "title": "OFAC Targets Iranian Commercial Networks and Issues Iran-Related Wind Down General Licenses",
       "url": "https://sanctionsnews.bakermckenzie.com/ofac-targets-iranian-commercial-networks-and-issues-iran-related-wind-down-general-licenses/",
+      "penalty_usd": null,
+      "vsd": false,
+      "regulator": null,
+      "respondent": null,
+      "controlled_items": null,
+      "destination": null,
+      "charges": [],
+      "knowledge_standard": null,
+      "resolution": null,
+      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+    },
+    {
+      "case_id": "auto-2026-10-01-0000",
+      "date_ingested": "2026-10-01",
+      "source": "Baker McKenzie",
+      "category": "commentary",
+      "title": "US Department of the Treasury Strengthens Iran Sanctions as Part of Operation Economic Outcast",
+      "url": "https://sanctionsnews.bakermckenzie.com/us-department-of-the-treasury-strengthens-iran-sanctions-as-part-of-operation-economic-outcast/",
       "penalty_usd": null,
       "vsd": false,
       "regulator": null,
