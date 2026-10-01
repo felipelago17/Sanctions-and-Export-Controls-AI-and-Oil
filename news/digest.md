@@ -9,6 +9,43 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-01
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [UK introduces further sectoral sanctions against Iran, further to wider international action by the EU, US and UAE](https://sanctionsnews.bakermckenzie.com/uk-introduces-further-sectoral-sanctions-against-iran-further-to-wider-international-action-by-the-eu-us-and-uae/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[OFAC]** [Treasury Severs Iranian Regime's Financial Lifelines in Türkiye](https://home.treasury.gov/news/press-releases/sb0622/)
+- **[OFAC]** [Iran’s Access to UAE Banks Targeted Under Operation Economic Outcast](https://home.treasury.gov/news/press-releases/sb0617/)
+- **[Federal Register]** [Fiscal Year 2027 Inflation Adjustment to H.R. 1 Immigration Fees (2026-10-01)](https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees)
+- **[Federal Register]** [Certain DHS Immigration-Related Fees Required by HR-1: Fiscal Year 2027 Adjustments for Inflation (2026-10-01)](https://www.federalregister.gov/documents/2026/10/01/2026-20186/certain-dhs-immigration-related-fees-required-by-hr-1-fiscal-year-2027-adjustments-for-inflation)
+- **[Federal Register]** [Certain DHS Immigration-Related Fees Required by HR-1: Fiscal Year 2027 Adjustments for Inflation (2026-10-01)](https://www.federalregister.gov/documents/2026/10/01/2026-20185/certain-dhs-immigration-related-fees-required-by-hr-1-fiscal-year-2027-adjustments-for-inflation)
+- **[Federal Register]** [Unleashing American Energy and Economic Prosperity; Rural Energy for America Program (REAP) (2026-10-01)](https://www.federalregister.gov/documents/2026/10/01/2026-20178/unleashing-american-energy-and-economic-prosperity-rural-energy-for-america-program-reap)
+- **[Federal Register]** [Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 219, Small Business Programs (2026-10-01)](https://www.federalregister.gov/documents/2026/10/01/2026-20175/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-219)
+- **[Federal Register]** [Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 237, Service Contracting, and Related Clauses and Forms (2026-10-01)](https://www.federalregister.gov/documents/2026/10/01/2026-20174/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-237)
+- **[Federal Register]** [Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 245, Government Property, Related Clauses and Forms (2026-10-01)](https://www.federalregister.gov/documents/2026/10/01/2026-20173/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-245)
+- **[Federal Register]** [Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 247, Transportation and Related Clauses (2026-10-01)](https://www.federalregister.gov/documents/2026/10/01/2026-20172/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-247)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [How Will Congress and the Public Learn the Details of Trump’s Venezuela Oil Deal?](https://www.justsecurity.org/159351/how-will-congress-public-learn-trump-venezuela-oil-deal/?utm_source=rss&utm_medium=rss&utm_campaign=how-will-congress-public-learn-trump-venezuela-oil-deal)
+- **[Just Security]** [Early Edition: October 1, 2026](https://www.justsecurity.org/159415/early-edition-october-1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-1-2026)
+- **[Just Security]** [Guantanamo Dispatch: Military Ends USS Cole Hearing Early for Health Emergency](https://www.justsecurity.org/159334/guantanamo-dispatch-military-ends-uss-cole-hearing-early-for-health-emergency/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-military-ends-uss-cole-hearing-early-for-health-emergency)
+- **[Just Security]** [Twenty-Five Years After 9/11, It Is Time to Repeal the 2001 Authorization for Use of Military Force and End the Forever War](https://www.justsecurity.org/158486/time-to-repeal-the-2001-aumf-end-forever-war/?utm_source=rss&utm_medium=rss&utm_campaign=time-to-repeal-the-2001-aumf-end-forever-war)
+- **[Just Security]** [Early Edition: September 30, 2026](https://www.justsecurity.org/159301/early-edition-september-30-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-september-30-2026)
+- **[Atlantic Council]** [Ukraine can play a key role enabling US energy exports to Europe](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-can-play-a-key-role-enabling-us-energy-exports-to-europe/)
+- **[Atlantic Council]** [Pfizer CEO Albert Bourla on AI and the future of medicine](https://www.atlanticcouncil.org/inflection-points-with-frederick-kempe/pfizer-ceo-albert-bourla-on-ai-and-the-future-of-medicine/)
+
+---
+
 ## 2026-10-01 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
