@@ -9,6 +9,35 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-02
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[OFAC]** [Treasury Grounds Iranian Airlines with Sweeping Sanctions Action](https://home.treasury.gov/news/press-releases/sb0623/)
+- **[Federal Register]** [Presidential Determination on Refugee Admissions for Fiscal Year 2027 (2026-10-02)](https://www.federalregister.gov/documents/2026/10/02/2026-20318/presidential-determination-on-refugee-admissions-for-fiscal-year-2027)
+- **[Federal Register]** [State of Indiana: Discontinuance of Certain Commission Regulatory Authority Within the State, Notice of Agreement Between the Nuclear Regulatory Commission and the State of Indiana (2026-10-02)](https://www.federalregister.gov/documents/2026/10/02/2026-20276/state-of-indiana-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice)
+- **[Federal Register]** [Certain Aluminum Foil From the Republic of Türkiye: Final Results of Countervailing Duty Administrative Review; 2023 (2026-10-02)](https://www.federalregister.gov/documents/2026/10/02/2026-20272/certain-aluminum-foil-from-the-republic-of-trkiye-final-results-of-countervailing-duty)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: October 2, 2026](https://www.justsecurity.org/159499/early-edition-october-2-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-2-2026)
+- **[Just Security]** [How Will Congress and the Public Learn the Details of Trump’s Venezuela Oil Deal?](https://www.justsecurity.org/159351/how-will-congress-public-learn-trump-venezuela-oil-deal/?utm_source=rss&utm_medium=rss&utm_campaign=how-will-congress-public-learn-trump-venezuela-oil-deal)
+- **[Just Security]** [Early Edition: October 1, 2026](https://www.justsecurity.org/159415/early-edition-october-1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-1-2026)
+- **[Atlantic Council]** [Putin aims to break Ukraine by terrorizing the civilian population](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-aims-to-break-ukraine-by-terrorizing-the-civilian-population/)
+- **[Atlantic Council]** [Resilience has a cost. So does complacency.](https://www.atlanticcouncil.org/blogs/menasource/resilience-has-a-cost-so-does-complacency/)
+
+---
+
 ## 2026-10-02 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
