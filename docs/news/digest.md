@@ -9,6 +9,39 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-03
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[OFAC]** [Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans](https://home.treasury.gov/news/press-releases/sb0624/)
+- **[Federal Register]** [Lightning Hazard Mitigation Burden-Reducing Exception (2026-10-05)](https://www.federalregister.gov/documents/2026/10/05/2026-20391/lightning-hazard-mitigation-burden-reducing-exception)
+- **[Federal Register]** [Streamlining Flight Safety Analysis Methodology Means of Compliance (2026-10-05)](https://www.federalregister.gov/documents/2026/10/05/2026-20388/streamlining-flight-safety-analysis-methodology-means-of-compliance)
+- **[Federal Register]** [Advisory Council on Alzheimer's Research, Care, and Services; Meeting (2026-10-05)](https://www.federalregister.gov/documents/2026/10/05/2026-20385/advisory-council-on-alzheimers-research-care-and-services-meeting)
+- **[Federal Register]** [Certain Cut-to-Length Carbon Steel Plate From the People's Republic of China and the Russian Federation: Final Results of the Expedited Fifth Sunset Reviews of the Antidumping Duty Orders (2026-10-05)](https://www.federalregister.gov/documents/2026/10/05/2026-20381/certain-cut-to-length-carbon-steel-plate-from-the-peoples-republic-of-china-and-the-russian)
+- **[Federal Register]** [Oil Country Tubular Goods From Ukraine: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025 (2026-10-05)](https://www.federalregister.gov/documents/2026/10/05/2026-20376/oil-country-tubular-goods-from-ukraine-preliminary-results-of-antidumping-duty-administrative-review)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Advised MorningSky Power on Closing of Portfolio Transaction With Invenergy](https://www.gibsondunn.com/gibson-dunn-advised-morningsky-power-on-closing-of-portfolio-transaction-with-invenergy/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: October 2, 2026](https://www.justsecurity.org/159499/early-edition-october-2-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-2-2026)
+- **[Atlantic Council]** [What the US gains by keeping a military presence in Kosovo](https://www.atlanticcouncil.org/dispatches/what-the-us-gains-by-keeping-a-military-presence-in-kosovo/)
+- **[Atlantic Council]** [The risks of the strategic petroleum reserve’s four-decade low](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-risks-of-the-strategic-petroleum-reserves-four-decade-low/)
+
+---
+
 ## 2026-10-02
 
 ### Official & Regulatory
