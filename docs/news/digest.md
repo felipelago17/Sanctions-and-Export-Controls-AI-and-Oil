@@ -9,6 +9,14 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-06 - BIS Affiliates Rule Monitor *(auto)*
+
+*Anthropic API error - raw Federal Register items logged below.*
+
+
+
+---
+
 ## Week of 2026-10-05
 
 - **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
