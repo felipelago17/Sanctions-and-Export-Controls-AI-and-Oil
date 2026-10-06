@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-06
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[Federal Register]** [Security Zone; Patapsco River, Baltimore, MD (2026-10-06)](https://www.federalregister.gov/documents/2026/10/06/2026-20477/security-zone-patapsco-river-baltimore-md)
+- **[Federal Register]** [Notice of OFAC Sanctions Action (2026-10-06)](https://www.federalregister.gov/documents/2026/10/06/2026-20475/notice-of-ofac-sanctions-action)
+- **[Federal Register]** [Modification of Class E Airspace; Gunnison-Crested Butte Regional Airport, Gunnison, CO (2026-10-06)](https://www.federalregister.gov/documents/2026/10/06/2026-20473/modification-of-class-e-airspace-gunnison-crested-butte-regional-airport-gunnison-co)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Tory Lauterbach Discusses Path to Practice Group Leadership With Law.com](https://www.gibsondunn.com/tory-lauterbach-discusses-path-to-practice-group-leadership-with-law-com/)
+- **[Gibson Dunn]** [Artificial Intelligence in Employment Newsletter – October 2026](https://www.gibsondunn.com/artificial-intelligence-in-employment-newsletter-october-2026/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Guantanamo Dispatch: Another Confession Is Ruled Inadmissible in 9/11 Case](https://www.justsecurity.org/159740/another-confession-ruled-inadmissible-9-11-case/?utm_source=rss&utm_medium=rss&utm_campaign=another-confession-ruled-inadmissible-9-11-case)
+- **[Just Security]** [Fear of China’s AI Is the New Missile Gap](https://www.justsecurity.org/159607/fear-of-chinas-ai-is-the-new-missile-gap/?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-chinas-ai-is-the-new-missile-gap)
+- **[Just Security]** [Early Edition: October 6, 2026](https://www.justsecurity.org/159804/early-edition-october-6-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-6-2026)
+- **[Just Security]** [Early Edition: October 5, 2026](https://www.justsecurity.org/159662/early-edition-october-5-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-5-2026)
+- **[Atlantic Council]** [Malaysia is invested in the industries of the future. Now it needs them to power productivity.](https://www.atlanticcouncil.org/uncategorized/malaysia-is-invested-in-the-industries-of-the-future-now-it-needs-them-to-power-productivity/)
+
+---
+
 ## 2026-10-06 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
