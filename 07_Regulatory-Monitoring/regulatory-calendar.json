@@ -163,5 +163,20 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-10-08-0183",
+    "date": "2026-10-08",
+    "event_name": "Notice of OFAC Sanctions Actions",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons whose property and interests in property have been unblocked and who have b",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20683/notice-of-ofac-sanctions-actions",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
