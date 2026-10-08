@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-08
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[OFAC]** [Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network](https://home.treasury.gov/news/press-releases/sb0626/)
+- **[Federal Register]** [Office of Science Advisory Committee (2026-10-08)](https://www.federalregister.gov/documents/2026/10/08/2026-20686/office-of-science-advisory-committee)
+- **[Federal Register]** [Notice of OFAC Sanctions Actions (2026-10-08)](https://www.federalregister.gov/documents/2026/10/08/2026-20683/notice-of-ofac-sanctions-actions)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Adam M. Smith Comments on International Trade and Sanctions for Financier Worldwide](https://www.gibsondunn.com/adam-m-smith-comments-on-international-trade-and-sanctions-for-financier-worldwide/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The 9/11 Military Commission and Lessons of Recent History](https://www.justsecurity.org/157645/9-11-military-commission-lessons-recent-history/?utm_source=rss&utm_medium=rss&utm_campaign=9-11-military-commission-lessons-recent-history)
+- **[Just Security]** [Early Edition: October 8, 2026](https://www.justsecurity.org/160040/early-edition-october-8-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-8-2026)
+- **[Just Security]** [How to Better Enforce the Darfur Arms Embargo](https://www.justsecurity.org/159762/darfur-arms-embargo-united-nations/?utm_source=rss&utm_medium=rss&utm_campaign=darfur-arms-embargo-united-nations)
+- **[Just Security]** [No Emergency Exception: The Ban on Troops at the Polls Was Built for Crises](https://www.justsecurity.org/159538/no-emergency-exception-ban-troops-polls/?utm_source=rss&utm_medium=rss&utm_campaign=no-emergency-exception-ban-troops-polls)
+- **[Just Security]** [Early Edition: October 7, 2026](https://www.justsecurity.org/159929/early-edition-october-7-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-7-2026)
+- **[Atlantic Council]** [With US backing, a democratic breakthrough in Venezuela may be within reach](https://www.atlanticcouncil.org/dispatches/with-us-backing-a-democratic-breakthrough-in-venezuela-may-be-within-reach/)
+- **[Atlantic Council]** [The deterrence gap: How can NATO protect its front line from Russia?](https://www.atlanticcouncil.org/content-series/russia-tomorrow/the-deterrence-gap-how-can-nato-protect-its-front-line-from-russia/)
+
+---
+
 ## 2026-10-08 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
