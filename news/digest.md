@@ -9,6 +9,42 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-09
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[Federal Register]** [Raisins Produced From Grapes Grown in California; Order Amending Marketing Order No. 989 (2026-10-09)](https://www.federalregister.gov/documents/2026/10/09/2026-20792/raisins-produced-from-grapes-grown-in-california-order-amending-marketing-order-no-989)
+- **[Federal Register]** [Foreign-Trade Zone (FTZ) 183; Authorization of Production Activity; Ultra Clean Technology Systems and Service, Inc.; (Inputs Primarily for Semiconductor Industry); Manor, Texas (2026-10-09)](https://www.federalregister.gov/documents/2026/10/09/2026-20773/foreign-trade-zone-ftz-183-authorization-of-production-activity-ultra-clean-technology-systems-and)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Advised Tower Arch Capital on the Recapitalization of Creedence Energy Services by Monomoy Capital Partners](https://www.gibsondunn.com/gibson-dunn-advised-tower-arch-capital-on-the-recapitalization-of-creedence-energy-services-by-monomoy-capital-partners/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Guantanamo Dispatch: All Four Defendants’ Confessions Are Now Suppressed in the 9/11 Case](https://www.justsecurity.org/160118/guantanamo-dispatch-all-four-911-defendants-confessions-suppressed/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-all-four-911-defendants-confessions-suppressed)
+- **[Just Security]** [Early Edition: October 9, 2026](https://www.justsecurity.org/160212/early-edition-october-9-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-9-2026)
+- **[Just Security]** [The Just Security Podcast: How State and Local Governments Can Fight Back Against Authoritarianism](https://www.justsecurity.org/159978/just-security-podcast-state-governments-fight-back-authoritarianism/?utm_source=rss&utm_medium=rss&utm_campaign=just-security-podcast-state-governments-fight-back-authoritarianism)
+- **[Just Security]** [The 9/11 Military Commission and Lessons of Recent History](https://www.justsecurity.org/157645/9-11-military-commission-lessons-recent-history/?utm_source=rss&utm_medium=rss&utm_campaign=9-11-military-commission-lessons-recent-history)
+- **[Just Security]** [Early Edition: October 8, 2026](https://www.justsecurity.org/160040/early-edition-october-8-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-8-2026)
+- **[Atlantic Council]** [Russia has rejected another Black Sea ceasefire. What next?](https://www.atlanticcouncil.org/blogs/turkeysource/russia-rejects-another-black-sea-ceasefire-with-ukraine/)
+- **[Atlantic Council]** [Ukraine can help Europe counter Russia’s escalating shadow war](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-can-help-europe-counter-russias-escalating-shadow-war/)
+- **[Atlantic Council]** [Starving Ukrainians must travel ‘road of death’ to flee Russian occupation](https://www.atlanticcouncil.org/blogs/ukrainealert/starving-ukrainians-must-travel-road-of-death-to-flee-russian-occupation/)
+- **[Atlantic Council]** [Russia’s jet drones pose a security threat far beyond Ukraine](https://www.atlanticcouncil.org/blogs/ukrainealert/russias-jet-drones-pose-a-security-threat-far-beyond-ukraine/)
+
+---
+
 ## 2026-10-09 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
