@@ -9,6 +9,46 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-10
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Consolidates Penalty Provisions in 31 CFR Part 505](https://sanctionsnews.bakermckenzie.com/ofac-consolidates-penalty-provisions-in-31-cfr-part-505/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime](https://home.treasury.gov/news/press-releases/sb0632/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions](https://home.treasury.gov/news/press-releases/sb0629/)
+- **[Federal Register]** [National Energy Dominance Month, 2026 (2026-10-13)](https://www.federalregister.gov/documents/2026/10/13/2026-20969/national-energy-dominance-month-2026)
+- **[Federal Register]** [Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL (2026-10-13)](https://www.federalregister.gov/documents/2026/10/13/2026-20902/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary)
+- **[Federal Register]** [Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL (2026-10-13)](https://www.federalregister.gov/documents/2026/10/13/2026-20901/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary)
+- **[Federal Register]** [Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL (2026-10-13)](https://www.federalregister.gov/documents/2026/10/13/2026-20900/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary)
+- **[Federal Register]** [Notice of Availability of the Proposed Notice of Sale for the Cook Inlet Outer Continental Shelf Oil and Gas One Big Beautiful Bill Act Lease Sale 2 (2026-10-13)](https://www.federalregister.gov/documents/2026/10/13/2026-20892/notice-of-availability-of-the-proposed-notice-of-sale-for-the-cook-inlet-outer-continental-shelf-oil)
+- **[Federal Register]** [Airworthiness Directives; Airbus Helicopters (2026-10-13)](https://www.federalregister.gov/documents/2026/10/13/2026-20885/airworthiness-directives-airbus-helicopters)
+- **[Federal Register]** [Dominion Energy South Carolina, Inc.; Notice of Application Ready for Environmental Analysis and Soliciting Comments, Recommendations, Terms and Conditions, and Prescriptions (2026-10-13)](https://www.federalregister.gov/documents/2026/10/13/2026-20881/dominion-energy-south-carolina-inc-notice-of-application-ready-for-environmental-analysis-and)
+- **[Federal Register]** [Commission Information Collection Activities (FERC-725B); Comment Request; Extension (2026-10-13)](https://www.federalregister.gov/documents/2026/10/13/2026-20880/commission-information-collection-activities-ferc-725b-comment-request-extension)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Derivatives, Legislative and Regulatory Weekly Update (October 9, 2026)](https://www.gibsondunn.com/derivatives-legislative-and-regulatory-weekly-update-october-9-2026/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Guantanamo Dispatch: All Four Defendants’ Confessions Are Now Suppressed in the 9/11 Case](https://www.justsecurity.org/160118/guantanamo-dispatch-all-four-911-defendants-confessions-suppressed/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatch-all-four-911-defendants-confessions-suppressed)
+- **[Just Security]** [Early Edition: October 9, 2026](https://www.justsecurity.org/160212/early-edition-october-9-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-9-2026)
+- **[Just Security]** [The Just Security Podcast: How State and Local Governments Can Fight Back Against Authoritarianism](https://www.justsecurity.org/159978/just-security-podcast-state-governments-fight-back-authoritarianism/?utm_source=rss&utm_medium=rss&utm_campaign=just-security-podcast-state-governments-fight-back-authoritarianism)
+- **[Atlantic Council]** [The US just sanctioned the International Criminal Court. What’s next?](https://www.atlanticcouncil.org/dispatches/the-us-just-sanctioned-the-international-criminal-court-whats-next/)
+- **[Atlantic Council]** [The war and the new energy narrative: How minerals redefine the Middle East’s strategic position](https://www.atlanticcouncil.org/blogs/energysource/the-war-and-the-new-energy-narrative-how-minerals-redefine-the-middle-easts-strategic-position/)
+- **[Atlantic Council]** [Russia has rejected another Black Sea ceasefire. What next?](https://www.atlanticcouncil.org/blogs/turkeysource/russia-rejects-another-black-sea-ceasefire-with-ukraine/)
+
+---
+
 ## 2026-10-09
 
 ### Official & Regulatory
