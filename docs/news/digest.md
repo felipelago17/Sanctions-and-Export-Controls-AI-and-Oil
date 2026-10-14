@@ -9,6 +9,43 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-14
+
+### Official & Regulatory
+
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[Federal Register]** [AP1000 Design Certification Renewal (2026-10-14)](https://www.federalregister.gov/documents/2026/10/14/2026-21031/ap1000-design-certification-renewal)
+- **[Federal Register]** [AP1000 Design Certification Renewal (2026-10-14)](https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal)
+- **[Federal Register]** [Imposition and Collection of Civil Penalties for Certain Immigration-Related Violations (2026-10-14)](https://www.federalregister.gov/documents/2026/10/14/2026-21024/imposition-and-collection-of-civil-penalties-for-certain-immigration-related-violations)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Securities Litigation 2026 Mid-Year Update](https://www.gibsondunn.com/securities-litigation-2026-mid-year-update/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Fueling Russia’s War: The Russian Diesel Deal and International Law](https://www.justsecurity.org/160425/fueling-russias-war-diesel-deal-international-law/?utm_source=rss&utm_medium=rss&utm_campaign=fueling-russias-war-diesel-deal-international-law)
+- **[Just Security]** [Guantanamo Dispatches: Pentagon Reducing Rank of Top Military Commission Lawyers](https://www.justsecurity.org/160438/pentagon-reducing-rank-military-commission-lawyers/?utm_source=rss&utm_medium=rss&utm_campaign=pentagon-reducing-rank-military-commission-lawyers)
+- **[Just Security]** [Early Edition: October 13, 2026](https://www.justsecurity.org/160525/early-edition-october-13-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-13-2026)
+- **[Atlantic Council]** [Ensuring US military readiness in the face of water, power, and fuel shortages](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/ensuring-us-military-readiness-in-the-face-of-water-power-and-fuel-shortages/)
+- **[Atlantic Council]** [Optimizing the NATO 1.5 percent investment commitment for energy security](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/optimizing-the-nato-1-5-percent-investment-commitment-for-energy-security/)
+- **[Atlantic Council]** [Putin snubs Trump’s ceasefire as Russia aims to make Ukraine unlivable](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-snubs-trumps-ceasefire-as-russia-aims-to-make-ukraine-unlivable/)
+- **[Atlantic Council]** [How the trade war with Canada is hitting US states—and could sway midterm elections](https://www.atlanticcouncil.org/blogs/econographics/how-the-trade-war-with-canada-is-hitting-us-states-and-could-sway-midterm-elections/)
+- **[Atlantic Council]** [Energy is upending Ukraine peace talks. Our experts explain why.](https://www.atlanticcouncil.org/dispatches/energy-ukraine-russia-diesel-ceasefire/)
+- **[Atlantic Council]** [Why is electrification no longer “woke”?](https://www.atlanticcouncil.org/blogs/geotech-cues/why-is-electrification-no-longer-woke/)
+
+---
+
 ## 2026-10-14 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
