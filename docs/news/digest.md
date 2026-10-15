@@ -9,6 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-15
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [What a Closer EU-Canada Relationship Could Mean for Trade](https://sanctionsnews.bakermckenzie.com/what-a-closer-eu-canada-relationship-could-mean-for-trade/)
+- **[Baker McKenzie Sanctions]** [In-Person Event: Trade Strategy in a Fragmented World | November 12](https://sanctionsnews.bakermckenzie.com/in-person-event-trade-strategy-in-a-fragmented-world-november-12/)
+- **[Baker McKenzie Sanctions]** [Upcoming Webinars: 47th Year-End Review of Global Trade Developments Conference | November 17-19](https://sanctionsnews.bakermckenzie.com/upcoming-webinars-47th-year-end-review-of-global-trade-developments-conference-november-17-19/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[OFAC]** [Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks](https://home.treasury.gov/news/press-releases/sb0636/)
+- **[Federal Register]** [Family and Medical Leave Act (2026-10-15)](https://www.federalregister.gov/documents/2026/10/15/2026-21104/family-and-medical-leave-act)
+- **[Federal Register]** [Corporate Credit Unions; Fidelity Bond and Insurance Coverage for Federally Insured Credit Unions (2026-10-15)](https://www.federalregister.gov/documents/2026/10/15/2026-21087/corporate-credit-unions-fidelity-bond-and-insurance-coverage-for-federally-insured-credit-unions)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: October 14, 2026](https://www.justsecurity.org/160738/early-edition-october-14-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-14-2026)
+- **[Atlantic Council]** [Dispatch from Moldova: How to restore NATO’s deterrence against Russia’s escalating drone attacks](https://www.atlanticcouncil.org/dispatches/dispatch-from-moldova-how-to-restore-natos-deterrence-against-russias-escalating-drone-attacks/)
+- **[Atlantic Council]** [Dispatch from the Gulf: Kuwait still wants Washington but is preparing for less](https://www.atlanticcouncil.org/dispatches/dispatch-from-the-gulf-kuwait-still-wants-washington-but-is-preparing-for-less/)
+- **[Atlantic Council]** [Ensuring US military readiness in the face of water, power, and fuel shortages](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/ensuring-us-military-readiness-in-the-face-of-water-power-and-fuel-shortages/)
+- **[Atlantic Council]** [Optimizing the NATO 1.5 percent investment commitment for energy security](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/optimizing-the-nato-1-5-percent-investment-commitment-for-energy-security/)
+
+---
+
 ## 2026-10-15 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
