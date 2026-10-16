@@ -9,6 +9,34 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-16
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[OFAC]** [Operation Economic Outcast Takes Down Iranian Military Procurement Networks](https://home.treasury.gov/news/press-releases/sb0637/)
+- **[Federal Register]** [Safety Zone; Cumberland River, Hendersonville, TN (2026-10-16)](https://www.federalregister.gov/documents/2026/10/16/2026-21240/safety-zone-cumberland-river-hendersonville-tn)
+- **[Federal Register]** [Notice of Public Meeting of the New York Advisory Committee to the U.S. Commission on Civil Rights (2026-10-16)](https://www.federalregister.gov/documents/2026/10/16/2026-21225/notice-of-public-meeting-of-the-new-york-advisory-committee-to-the-us-commission-on-civil-rights)
+- **[Federal Register]** [Notice of Availability of a Pest Risk Analysis for the Interstate Movement of Fresh Leaves and Rhizomes of Wasabi From Hawaii Into the Continental United States (2026-10-16)](https://www.federalregister.gov/documents/2026/10/16/2026-21223/notice-of-availability-of-a-pest-risk-analysis-for-the-interstate-movement-of-fresh-leaves-and)
+- **[Federal Register]** [Charter Renewals of Department of Defense Federal Advisory Committees-United States Military Academy Board of Visitors, United States Naval Academy Board of Visitors, and Board of Visitors of the United States Air Force Academy (2026-10-16)](https://www.federalregister.gov/documents/2026/10/16/2026-21221/charter-renewals-of-department-of-defense-federal-advisory-committees-united-states-military-academy)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: October 15, 2026](https://www.justsecurity.org/160924/early-edition-october-15-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-15-2026)
+- **[Atlantic Council]** [Measuring Europe’s rearmament: A year of the Defence Readiness Roadmap 2030](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/measuring-europes-rearmament-a-year-of-the-defence-readiness-roadmap-2030/)
+- **[Atlantic Council]** [Russia’s Starlink substitute poses a security threat far beyond Ukraine](https://www.atlanticcouncil.org/blogs/ukrainealert/russias-starlink-substitute-poses-a-security-threat-far-beyond-ukraine/)
+
+---
+
 ## 2026-10-16 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
