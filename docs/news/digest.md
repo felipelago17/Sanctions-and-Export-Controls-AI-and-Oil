@@ -9,6 +9,33 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-19
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies](https://sanctionsnews.bakermckenzie.com/china-proposes-expanded-export-controls-on-ai-biopharma-and-solar-energy-technologies/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[Federal Register]** [Fee Schedules; Fee Recovery for Fiscal Year 2026 (2026-10-19)](https://www.federalregister.gov/documents/2026/10/19/C1-2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026)
+- **[Federal Register]** [Agency Information Collection Activities; Submission for OMB Review; Comment Request; Section 45J Credit for Production of Electricity From Advanced Nuclear Power Facilities (2026-10-19)](https://www.federalregister.gov/documents/2026/10/19/2026-21373/agency-information-collection-activities-submission-for-omb-review-comment-request-section-45j)
+- **[Federal Register]** [President's Military Spouse Commission; Notice of Federal Advisory Committee Meeting (2026-10-19)](https://www.federalregister.gov/documents/2026/10/19/2026-21372/presidents-military-spouse-commission-notice-of-federal-advisory-committee-meeting)
+- **[Federal Register]** [Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska (2026-10-19)](https://www.federalregister.gov/documents/2026/10/19/2026-21371/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: October 19, 2026](https://www.justsecurity.org/161263/early-edition-october-19-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-19-2026)
+
+---
+
 ## 2026-10-19 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
