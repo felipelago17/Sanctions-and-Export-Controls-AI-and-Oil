@@ -9,6 +9,41 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-21
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks](https://home.treasury.gov/news/press-releases/sb0640/)
+- **[Federal Register]** [Potential Designation of Chartered Financial Analyst Designation as Qualifying Natural Persons for Accredited Investor Status (2026-10-21)](https://www.federalregister.gov/documents/2026/10/21/C1-2026-20311/potential-designation-of-chartered-financial-analyst-designation-as-qualifying-natural-persons-for)
+- **[Federal Register]** [Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 (2026-10-21)](https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026)
+- **[Federal Register]** [Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Western Regulatory Area of the Gulf of Alaska (2026-10-21)](https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western)
+- **[Federal Register]** [Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Information Collection Request Title: Title V Maternal and Child Health Services Block Grant to States Program: Guidance and Forms for the Title V Application/Annual Report, OMB No. 0915-0172-Revision (2026-10-21)](https://www.federalregister.gov/documents/2026/10/21/2026-21519/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment)
+- **[Federal Register]** [Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Maternal and Child Health Bureau Performance Measures for Discretionary Grant Information System, OMB No. 0915-0298-Revision (2026-10-21)](https://www.federalregister.gov/documents/2026/10/21/2026-21518/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment)
+- **[Federal Register]** [Petition for Waiver of Compliance and Notice of Public Hearing (2026-10-21)](https://www.federalregister.gov/documents/2026/10/21/2026-21515/petition-for-waiver-of-compliance-and-notice-of-public-hearing)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [IRS and Treasury Withdraw “Per Se” Device Test and Related Anti-Abuse Rules Under Section 355](https://www.gibsondunn.com/irs-and-treasury-withdraw-per-se-device-test-and-related-anti-abuse-rules-under-section-355/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: October 21, 2026](https://www.justsecurity.org/161515/early-edition-october-21-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-21-2026)
+- **[Just Security]** [Data Centers at War: The Defender’s Duty to Protect Civilians](https://www.justsecurity.org/161316/data-centers-war-duty-protect-civilians/?utm_source=rss&utm_medium=rss&utm_campaign=data-centers-war-duty-protect-civilians)
+- **[Just Security]** [Early Edition: October 20, 2026](https://www.justsecurity.org/161419/early-edition-october-20-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-20-2026)
+- **[Atlantic Council]** [Canadian west coast oil as a hedge for East Asian energy security](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/canadian-west-coast-oil-as-a-hedge-for-east-asian-energy-security/)
+
+---
+
 ## 2026-10-21 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
