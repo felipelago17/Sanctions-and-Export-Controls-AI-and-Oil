@@ -9,6 +9,46 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-22
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Designates the International Criminal Court and Issues Four Related General Licenses](https://sanctionsnews.bakermckenzie.com/ofac-designates-the-international-criminal-court-and-issues-four-related-general-licenses/)
+- **[Baker McKenzie Sanctions]** [US Moves Syria to Case-by-Case ITAR Licensing Review](https://sanctionsnews.bakermckenzie.com/us-moves-syria-to-case-by-case-itar-licensing-review/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[Federal Register]** [Safety Zone; Brownsville Ship Channel, Brownsville, TX (2026-10-22)](https://www.federalregister.gov/documents/2026/10/22/2026-21636/safety-zone-brownsville-ship-channel-brownsville-tx)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: Statement of Person Claiming To Have Stood in Relation of Parent (2026-10-22)](https://www.federalregister.gov/documents/2026/10/22/2026-21627/agency-information-collection-activity-under-omb-review-statement-of-person-claiming-to-have-stood)
+- **[Federal Register]** [Draft NUREG: Report on Waste Burial Charges: Changes in Decommissioning Waste Disposal Costs at Low-Level Waste Burial Facilities (2026-10-22)](https://www.federalregister.gov/documents/2026/10/22/2026-21623/draft-nureg-report-on-waste-burial-charges-changes-in-decommissioning-waste-disposal-costs-at)
+- **[Federal Register]** [Utah Underground Injection Control Program; Class VI Primacy (2026-10-22)](https://www.federalregister.gov/documents/2026/10/22/2026-21618/utah-underground-injection-control-program-class-vi-primacy)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Advises American Electric Power on Joint Development and Funding Agreements With Amazon and X-energy for Advanced Nuclear Energy Projects in Indiana](https://www.gibsondunn.com/gibson-dunn-advises-american-electric-power-on-joint-development-and-funding-agreements-with-amazon-and-x-energy-for-advanced-nuclear-energy-projects-in-indiana/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: October 22, 2026](https://www.justsecurity.org/161692/early-edition-october-22-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-22-2026)
+- **[Just Security]** [Guantanamo Dispatches: Pentagon Reducing Rank of Top Military Commission Lawyers](https://www.justsecurity.org/160438/pentagon-reducing-rank-military-commission-lawyers/?utm_source=rss&utm_medium=rss&utm_campaign=pentagon-reducing-rank-military-commission-lawyers)
+- **[Just Security]** [Finland’s Prosecution of Russian Mercenary: The Rusich Appellate Ruling and War Crimes Accountability](https://www.justsecurity.org/161455/rusich-ruling-finland-russian-war-crimes-prosecutions/?utm_source=rss&utm_medium=rss&utm_campaign=rusich-ruling-finland-russian-war-crimes-prosecutions)
+- **[Just Security]** [Early Edition: October 21, 2026](https://www.justsecurity.org/161515/early-edition-october-21-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-21-2026)
+- **[Atlantic Council]** [Trump will define his legacy through Russia—one way or the other](https://www.atlanticcouncil.org/content-series/inflection-points/trump-will-define-his-legacy-through-russia-one-way-or-the-other/)
+- **[Atlantic Council]** [The new Middle East is modular](https://www.atlanticcouncil.org/content-series/the-big-story/the-new-middle-east-is-modular/)
+- **[Atlantic Council]** [The withdrawal of the US-led coalition is a loss for Iraq’s sovereignty](https://www.atlanticcouncil.org/blogs/menasource/the-withdrawal-of-the-us-led-coalition-is-a-loss-for-iraqs-sovereignty/)
+- **[Atlantic Council]** [Washington should stop expecting the Gulf to speak with one voice](https://www.atlanticcouncil.org/dispatches/washington-should-stop-expecting-the-gulf-to-speak-with-one-voice/)
+- **[Atlantic Council]** [Russian attacks on Ukrainian civilians may have a domestic dimension](https://www.atlanticcouncil.org/blogs/ukrainealert/russian-attacks-on-ukrainian-civilians-may-have-a-domestic-dimension/)
+
+---
+
 ## 2026-10-22 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
