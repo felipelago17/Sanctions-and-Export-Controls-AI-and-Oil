@@ -193,5 +193,35 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-10-23-4641",
+    "date": "2026-10-23",
+    "event_name": "Notice of Public Meetings of the Michigan Advisory Committee to the U.S. Commission on Civil Rights",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Michigan Advisory C",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21710/notice-of-public-meetings-of-the-michigan-advisory-committee-to-the-us-commission-on-civil-rights",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
+  },
+  {
+    "event_id": "FR-2026-10-23-4205",
+    "date": "2026-10-23",
+    "event_name": "Notice of Department of State Action",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "The Department of State is publishing the names of one or more persons that have been placed on the Department of the Treasury's List of Specially Designated Nationals and Blocked Persons (SDN List) a",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21701/notice-of-department-of-state-action",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
