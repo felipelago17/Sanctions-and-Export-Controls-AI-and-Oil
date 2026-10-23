@@ -9,6 +9,42 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-23
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[Federal Register]** [Agency Information Collection Activities; Submission for OMB Review; Comment Request; U.S. Information Returns and Related Forms, Schedules, Attachments, and Published Guidance (2026-10-23)](https://www.federalregister.gov/documents/2026/10/23/2026-21715/agency-information-collection-activities-submission-for-omb-review-comment-request-us-information)
+- **[Federal Register]** [Notice of Public Meetings of the Michigan Advisory Committee to the U.S. Commission on Civil Rights (2026-10-23)](https://www.federalregister.gov/documents/2026/10/23/2026-21710/notice-of-public-meetings-of-the-michigan-advisory-committee-to-the-us-commission-on-civil-rights)
+- **[Federal Register]** [Proposed Information Collection Activity; Child Care and Development Fund Plan Preprint for States/Territories for Federal Fiscal Year (FFY) 2028-2030 (ACF-118) and extension of Child Care and Development Fund Plan Preprint for States/Territories for FFY 2025-2027 (2026-10-23)](https://www.federalregister.gov/documents/2026/10/23/2026-21703/proposed-information-collection-activity-child-care-and-development-fund-plan-preprint-for)
+- **[Federal Register]** [Notice of Department of State Action (2026-10-23)](https://www.federalregister.gov/documents/2026/10/23/2026-21701/notice-of-department-of-state-action)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Labor and Employment Team Highlighted by National Law Journal After Tenth Consecutive DC Legal Awards Win](https://www.gibsondunn.com/labor-and-employment-team-highlighted-by-national-law-journal-after-tenth-consecutive-dc-legal-awards-win/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: October 23, 2026](https://www.justsecurity.org/161891/early-edition-october-23-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-23-2026)
+- **[Just Security]** [Early Edition: October 22, 2026](https://www.justsecurity.org/161692/early-edition-october-22-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-22-2026)
+- **[Atlantic Council]** [What the new arrest warrant for Raúl Castro means for Cuba’s future](https://www.atlanticcouncil.org/dispatches/what-the-new-arrest-warrant-for-raul-castro-means-for-cubas-future/)
+- **[Atlantic Council]** [Piasecki cited in Intelligence Report on Venezuela’s debt restructuring efforts](https://www.atlanticcouncil.org/insight-impact/in-the-news/piasecki-cited-in-intelligence-report-on-venezuelas-debt-restructuring-efforts/)
+- **[Atlantic Council]** [Tannebaum interviewed on CNBC’s Squawk Box about the implications of the US-Russia diesel deal](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-interviewed-on-cnbcs-squawk-box-about-the-implications-of-the-us-russia-diesel-deal/)
+- **[Atlantic Council]** [Lichfield quoted in Semafor on lasting ceasefire between Russia and Ukraine](https://www.atlanticcouncil.org/insight-impact/in-the-news/lichfield-quoted-in-semafor-on-lasting-ceasefire-between-russia-and-ukraine/)
+- **[Atlantic Council]** [Fried quoted in The New Yorker article on Trump’s surprise pivot towards Russia](https://www.atlanticcouncil.org/insight-impact/in-the-news/fried-quoted-in-the-new-yorker-article-on-trumps-surprise-pivot-towards-russia/)
+
+---
+
 ## 2026-10-23 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
