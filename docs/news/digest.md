@@ -9,6 +9,14 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-27 - BIS Affiliates Rule Monitor *(auto)*
+
+*Anthropic API error - raw Federal Register items logged below.*
+
+
+
+---
+
 ## Week of 2026-10-26
 
 - **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
