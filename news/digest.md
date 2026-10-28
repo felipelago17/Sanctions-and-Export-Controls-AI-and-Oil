@@ -9,6 +9,45 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-28
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [China Proposes New Sanctions Tool in Response to Trade Secret Theft](https://sanctionsnews.bakermckenzie.com/china-proposes-new-sanctions-tool-in-response-to-trade-secret-theft/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[OFAC]** [Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran](https://home.treasury.gov/news/press-releases/sb0644/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines](https://home.treasury.gov/news/press-releases/sb0643/)
+- **[Federal Register]** [Television Broadcasting Services Elko, Nevada (2026-10-28)](https://www.federalregister.gov/documents/2026/10/28/2026-22034/television-broadcasting-services-elko-nevada)
+- **[Federal Register]** [Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From Virginia to New Jersey (2026-10-28)](https://www.federalregister.gov/documents/2026/10/28/2026-22003/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-virginia-to)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Jane Horvath Authors Article on AI Compliance for Dow Jones Risk Journal](https://www.gibsondunn.com/jane-horvath-authors-article-on-ai-compliance-for-dow-jones-risk-journal/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Boots Off Ballots: Impact on Civil-Military Relations](https://www.justsecurity.org/153981/boots-off-ballots-impact-on-civil-military-relations/?utm_source=rss&utm_medium=rss&utm_campaign=boots-off-ballots-impact-on-civil-military-relations)
+- **[Just Security]** [Early Edition: October 28, 2026](https://www.justsecurity.org/162228/early-edition-october-28-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-28-2026)
+- **[Just Security]** [The Just Security Podcast: Carol Rosenberg on the Past and Future of Guantanamo’s Military Courts](https://www.justsecurity.org/161963/just-security-podcast-dispatches-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=just-security-podcast-dispatches-guantanamo)
+- **[Just Security]** [When Military Leaders Fear Speaking Up, Everyone Is at Risk](https://www.justsecurity.org/161930/military-leaders-fear-speaking-up-risk-loyalty/?utm_source=rss&utm_medium=rss&utm_campaign=military-leaders-fear-speaking-up-risk-loyalty)
+- **[Just Security]** [Might The Gambia v. Myanmar Help Establish Genocidal Intent in Russia’s War on Ukraine?](https://www.justsecurity.org/161466/icj-myanmar-genocidal-intent-russias-war-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=icj-myanmar-genocidal-intent-russias-war-ukraine)
+- **[Just Security]** [Early Edition: October 27, 2026](https://www.justsecurity.org/162113/early-edition-october-27-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-27-2026)
+- **[Atlantic Council]** [For Russia, Trump’s diesel deal was just the first ask](https://www.atlanticcouncil.org/dispatches/for-russia-trumps-diesel-deal-was-just-the-first-ask/)
+- **[Atlantic Council]** [UN report: Russian attacks on Ukraine’s power grid are a ‘crime against humanity’](https://www.atlanticcouncil.org/blogs/ukrainealert/un-report-russian-attacks-on-ukraines-power-grid-are-a-crime-against-humanity/)
+- **[Atlantic Council]** [High oil prices have several Latin American governments feeling the financial pressure](https://www.atlanticcouncil.org/dispatches/high-oil-prices-have-several-latin-american-governments-feeling-the-financial-pressure/)
+- **[Atlantic Council]** [European infrastructure is vulnerable as Putin escalates Russia’s hybrid war](https://www.atlanticcouncil.org/blogs/ukrainealert/european-infrastructure-is-vulnerable-as-putin-escalates-russias-hybrid-war/)
+- **[Atlantic Council]** [The United States needs an energy policy investors can bank on](https://www.atlanticcouncil.org/blogs/energysource/the-united-states-needs-an-energy-policy-investors-can-bank-on/)
+
+---
+
 ## 2026-10-28 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
