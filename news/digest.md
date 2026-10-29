@@ -9,6 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-29
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [UK Introduces New Regulations on Global Human Rights and Humanitarian Law Sanctions](https://sanctionsnews.bakermckenzie.com/uk-introduces-new-regulations-on-global-human-rights-and-humanitarian-law-sanctions/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Advised OceanSound Partners on Strategic Investment in Iris Technology](https://www.gibsondunn.com/gibson-dunn-advised-oceansound-partners-on-strategic-investment-in-iris-technology/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Data Centers as Military Objectives: The Russian and Ukrainian Justifications](https://www.justsecurity.org/162054/data-centers-military-objectives-russia-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=data-centers-military-objectives-russia-ukraine)
+- **[Just Security]** [Early Edition: October 29, 2026](https://www.justsecurity.org/162389/early-edition-october-29-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-29-2026)
+- **[Just Security]** [Boots Off Ballots: Impact on Civil-Military Relations](https://www.justsecurity.org/153981/boots-off-ballots-impact-on-civil-military-relations/?utm_source=rss&utm_medium=rss&utm_campaign=boots-off-ballots-impact-on-civil-military-relations)
+- **[Just Security]** [Early Edition: October 28, 2026](https://www.justsecurity.org/162228/early-edition-october-28-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-28-2026)
+- **[Just Security]** [The Just Security Podcast: Carol Rosenberg on the Past and Future of Guantanamo’s Military Courts](https://www.justsecurity.org/161963/just-security-podcast-dispatches-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=just-security-podcast-dispatches-guantanamo)
+
+---
+
 ## 2026-10-29 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
