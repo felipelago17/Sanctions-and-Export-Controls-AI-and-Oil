@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-30
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [UK: UK Government Introduces Further  Tariff Suspensions](https://sanctionsnews.bakermckenzie.com/uk-uk-government-introduces-further-tariff-suspensions/)
+- **[Baker McKenzie Sanctions]** [UK Introduces New Regulations on Global Human Rights and Humanitarian Law Sanctions](https://sanctionsnews.bakermckenzie.com/uk-introduces-new-regulations-on-global-human-rights-and-humanitarian-law-sanctions/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[Federal Register]** [Safety Zone; M/T KALAHARI, Gulf of America, Pascagoula, MS (2026-10-30)](https://www.federalregister.gov/documents/2026/10/30/2026-22269/safety-zone-mt-kalahari-gulf-of-america-pascagoula-ms)
+- **[Federal Register]** [Agency Information Collection Activities; Proposed Collection; Comment Request; CDFI Program and NACA Program Financial Assistance and Technical Assistance Applications (2026-10-30)](https://www.federalregister.gov/documents/2026/10/30/2026-22241/agency-information-collection-activities-proposed-collection-comment-request-cdfi-program-and-naca)
+- **[Federal Register]** [Agency Information Collection Activities; Proposed Collection; Comment Request; New Markets Tax Credit Program Community Development Entity (CDE) Certification Application (2026-10-30)](https://www.federalregister.gov/documents/2026/10/30/2026-22240/agency-information-collection-activities-proposed-collection-comment-request-new-markets-tax-credit)
+- **[Federal Register]** [Agency Information Collection Activities; Proposed Collection; Comment Request; Performance Progress Report and Financial Statement Audit Report Form (2026-10-30)](https://www.federalregister.gov/documents/2026/10/30/2026-22239/agency-information-collection-activities-proposed-collection-comment-request-performance-progress)
+- **[Federal Register]** [Production Activity Not Authorized; Foreign-Trade Zone (FTZ) 116; Valero Energy Corporation on Behalf of The Premcor Refining Group, Inc.; (Renewable Fuels); Port Arthur, Texas (2026-10-30)](https://www.federalregister.gov/documents/2026/10/30/2026-22236/production-activity-not-authorized-foreign-trade-zone-ftz-116-valero-energy-corporation-on-behalf-of)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: October 30, 2026](https://www.justsecurity.org/162627/early-edition-october-30-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-30-2026)
+- **[Just Security]** [Guantanamo Dispatches: USS Cole Defense Lawyers Make 11th Hour Plea for Delay of Trial Starting Monday](https://www.justsecurity.org/162545/uss-cole-trial-defense-plea-delay/?utm_source=rss&utm_medium=rss&utm_campaign=uss-cole-trial-defense-plea-delay)
+- **[Just Security]** [Data Centers as Military Objectives: The Russian and Ukrainian Justifications](https://www.justsecurity.org/162054/data-centers-military-objectives-russia-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=data-centers-military-objectives-russia-ukraine)
+- **[Just Security]** [Early Edition: October 29, 2026](https://www.justsecurity.org/162389/early-edition-october-29-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-29-2026)
+- **[Atlantic Council]** [Ukraine’s drone defenses debunk the myth of inevitable Russian victory](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-drone-defenses-debunk-the-myth-of-inevitable-russian-victory/)
+- **[Atlantic Council]** [Putin’s quest to reclaim ‘historical Russian lands’ is a recipe for endless war](https://www.atlanticcouncil.org/blogs/ukrainealert/putins-quest-to-reclaim-historical-russian-lands-is-a-recipe-for-endless-war/)
+
+---
+
 ## 2026-10-30 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
