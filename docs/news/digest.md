@@ -9,6 +9,47 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-10-31
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[Federal Register]** [Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026 (2026-11-02)](https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year)
+- **[Federal Register]** [Polyester Textured Yarn From Indonesia, Malaysia, Thailand, and Vietnam; Institution of Five-Year Reviews (2026-11-02)](https://www.federalregister.gov/documents/2026/11/02/2026-22349/polyester-textured-yarn-from-indonesia-malaysia-thailand-and-vietnam-institution-of-five-year)
+- **[Federal Register]** [Certain Mobile Access Equipment (MAE) and Subassemblies Thereof From China; Institution of Five-Year Reviews (2026-11-02)](https://www.federalregister.gov/documents/2026/11/02/2026-22348/certain-mobile-access-equipment-mae-and-subassemblies-thereof-from-china-institution-of-five-year)
+- **[Federal Register]** [Potassium Permanganate From China; Institution of a Five-Year Review (2026-11-02)](https://www.federalregister.gov/documents/2026/11/02/2026-22347/potassium-permanganate-from-china-institution-of-a-five-year-review)
+- **[Federal Register]** [Annual Determination of Average Cost of Incarceration Fee (COIF) (2026-11-02)](https://www.federalregister.gov/documents/2026/11/02/2026-22340/annual-determination-of-average-cost-of-incarceration-fee-coif)
+- **[Federal Register]** [Notice of Petition for Waiver of Compliance (2026-11-02)](https://www.federalregister.gov/documents/2026/11/02/2026-22336/notice-of-petition-for-waiver-of-compliance)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [M. Kendall Day, Jason Schwartz, and Amalia Reiss Author NYU Compliance & Enforcement’s “Executive Order on H-1B Program Is Latest Sign of Immigration Program Risks for Employers”](https://www.gibsondunn.com/m-kendall-day-jason-schwartz-and-amalia-reiss-author-nyu-compliance-enforcements-executive-order-on-h-1b-program-is-latest-sign-of-immigration-program-risks-for-employers/)
+- **[Gibson Dunn]** [Trey Cox Discusses Use of AI in Training Lawyers in The American Lawyer Article](https://www.gibsondunn.com/trey-cox-discusses-use-of-ai-in-training-lawyers-in-the-american-lawyer-article/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Guantanamo Dispatches: Trial Judge Finds Defendant in USS Cole Bombing Case Competent to Face Trial](https://www.justsecurity.org/162732/defendant-uss-cole-bombing-case-competent-face-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defendant-uss-cole-bombing-case-competent-face-trial)
+- **[Just Security]** [Early Edition: October 30, 2026](https://www.justsecurity.org/162627/early-edition-october-30-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-30-2026)
+- **[Atlantic Council]** [As energy prices threaten inflation again, Lagarde’s European Central Bank legacy offers lessons](https://www.atlanticcouncil.org/blogs/econographics/as-energy-prices-threaten-inflation-again-lagardes-european-central-bank-legacy-offers-lessons/)
+- **[Atlantic Council]** [Chalecki quoted in Washington Tariff & Trade Letter on the US’s use of Smoot-Hawley law to impose tariffs on Canada](https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-washington-tariff-trade-letter-on-the-uss-use-of-smoot-hawley-law-to-impose-tariffs-on-canada/)
+- **[Atlantic Council]** [Nikoladze quoted in The Christian Science Monitor on the effectiveness of tariffs authorized by the Russia Sanctions Act of 2026](https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-quoted-in-the-christian-science-monitor-on-the-effectiveness-of-tariffs-authorized-by-the-russia-sanctions-act-of-2026/)
+- **[Atlantic Council]** [Nikoladze quoted in Washington Monthly on the Russia Sanctions Act of 2026’s implications for existing Russia-related sanctions](https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-quoted-in-washington-monthly-on-the-russia-sanctions-act-of-2026s-implications-for-existing-russia-related-sanctions/)
+- **[Atlantic Council]** [Donovan and Ezratty cited in RUSI journal on the Chinese and Russian material support for Iran’s war efforts](https://www.atlanticcouncil.org/insight-impact/in-the-news/donovan-and-ezratty-cited-in-rusi-journal-on-the-chinese-and-russian-material-support-for-irans-war-efforts/)
+- **[Atlantic Council]** [Donovan and Ezratty cited in Foreign Policy on Russia’s and China’s material assistance for Iran’s war efforts](https://www.atlanticcouncil.org/insight-impact/in-the-news/donovan-and-ezratty-cited-in-foreign-policy-on-russias-and-chinas-material-assistance-for-irans-war-efforts/)
+- **[Atlantic Council]** [Tannebaum interviewed on Bloomberg Surveillance on US-Ukraine relations and Russian peace talks](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-interviewed-on-bloomberg-surveillance-on-us-ukraine-relations-and-russian-peace-talks/)
+
+---
+
 ## 2026-10-30
 
 ### Official & Regulatory
