@@ -9,6 +9,14 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-03 - BIS Affiliates Rule Monitor *(auto)*
+
+*Anthropic API error - raw Federal Register items logged below.*
+
+
+
+---
+
 ## Week of 2026-11-02
 
 - **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
