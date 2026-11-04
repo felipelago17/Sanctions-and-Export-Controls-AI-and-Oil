@@ -2,10 +2,11 @@
   "_meta": {
     "description": "Enforcement action tracking index for BIS, DOJ-NSD, and OFAC export control and sanctions cases",
     "schema_version": "1.0",
-    "last_updated": "2026-11-01",
+    "last_updated": "2026-11-04",
     "sources": "BIS charging letters (bis.gov/enforcement); DOJ-NSD press releases (justice.gov/nsd); OFAC enforcement releases (ofac.treasury.gov)",
-    "total_ingested": 7,
-    "auto_ingested": 7
+    "total_ingested": 8,
+    "auto_ingested": 7,
+    "manually_curated": 1
   },
   "_schema": {
     "case_id": "Unique identifier: {regulator}-{year}-{sequence}",
@@ -15,13 +16,36 @@
     "category": "gpu-smuggling | semiconductor-manufacturing | subsidiary-entity-shifting | other",
     "controlled_items": "ECCN or description of controlled items",
     "destination": "Destination country/end-user",
-    "charges": "Array of 15 CFR \u00a7 764.2 provisions or criminal statutes",
+    "charges": "Array of 15 CFR § 764.2 provisions or criminal statutes",
     "knowledge_standard": "positive | high-probability | willful-blindness | willful (criminal)",
     "resolution": "charging-letter | civil-penalty | plea | tdo | denial-order | compliance-order",
     "penalty_usd": "Civil penalty amount in USD (null if not applicable)",
     "notes": "Free-text notes on significant legal issues"
   },
   "cases": [
+    {
+      "case_id": "DOJ-NSD-2026-001",
+      "date_ingested": "2026-11-04",
+      "source": "DOJ-NSD",
+      "category": "subsidiary-entity-shifting",
+      "title": "Extreme Networks, Inc. — first 'near-miss' NPA under revised CEP; parallel OFAC settlement",
+      "url": "https://www.justice.gov/opa/pr/national-security-division-announces-first-near-miss-non-prosecution-agreement-under",
+      "penalty_usd": 2505406.84,
+      "vsd": true,
+      "regulator": "BIS+DOJ",
+      "respondent": "Extreme Networks, Inc.",
+      "controlled_items": "Networking equipment and related services (US-origin); unauthorized exports, false export filings",
+      "destination": "Russia — JSC Moscow Machinery Building Plant Avangard (MMZA), air-defence manufacturer; blocked via OFAC 50% Rule as majority-owned subsidiary of SDN JSC Concern Almaz-Antey",
+      "charges": [
+        "IEEPA / Russia sanctions (Ukraine-/Russia-related program)",
+        "ECRA / EAR unauthorized export and false filings",
+        "smuggling (18 U.S.C. § 554)"
+      ],
+      "knowledge_standard": "willful (criminal) — Russia-based subsidiary employees concealed end user from global trade compliance",
+      "resolution": "npa",
+      "date": "2026-10-27",
+      "notes": "DOJ: $487,860.92 fine + $487,860.92 forfeiture = $975,721.84; 3-year NPA, no monitor, no individual protection. OFAC: $1,529,685 settlement (9 exports Sept 2018–Mar 2022). First Part II 'near-miss' resolution under the March 2026 department-wide CEP: disclosure days before press publication deemed not timely (contrast Bosch declination, June 2026). FBI credited HSI and BIS. Primary: DOJ press release; NPA https://www.justice.gov/opa/media/1468856/dl?inline= ; OFAC https://content.govdelivery.com/accounts/USTREAS/bulletins/430aa89 . Secondary: MoFo 2 Nov 2026; Bracewell 30 Oct 2026. Manually curated."
+    },
     {
       "case_id": "auto-2026-08-01-0000",
       "date_ingested": "2026-08-01",
@@ -38,7 +62,7 @@
       "charges": [],
       "knowledge_standard": null,
       "resolution": "charging-letter",
-      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+      "notes": "Auto-ingested — requires manual review and categorisation"
     },
     {
       "case_id": "auto-2026-08-01-0001",
@@ -56,7 +80,7 @@
       "charges": [],
       "knowledge_standard": null,
       "resolution": "charging-letter",
-      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+      "notes": "Auto-ingested — requires manual review and categorisation"
     },
     {
       "case_id": "auto-2026-08-01-0002",
@@ -74,7 +98,7 @@
       "charges": [],
       "knowledge_standard": null,
       "resolution": null,
-      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+      "notes": "Auto-ingested — requires manual review and categorisation"
     },
     {
       "case_id": "auto-2026-08-01-0003",
@@ -92,7 +116,7 @@
       "charges": [],
       "knowledge_standard": null,
       "resolution": null,
-      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+      "notes": "Auto-ingested — requires manual review and categorisation"
     },
     {
       "case_id": "auto-2026-10-01-0000",
@@ -110,7 +134,7 @@
       "charges": [],
       "knowledge_standard": null,
       "resolution": null,
-      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+      "notes": "Auto-ingested — requires manual review and categorisation"
     },
     {
       "case_id": "auto-2026-11-01-0000",
@@ -128,14 +152,14 @@
       "charges": [],
       "knowledge_standard": null,
       "resolution": null,
-      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+      "notes": "Auto-ingested — requires manual review and categorisation"
     },
     {
       "case_id": "auto-2026-11-01-0001",
       "date_ingested": "2026-11-01",
       "source": "Baker McKenzie",
       "category": "commentary",
-      "title": "United States: DOJ\u2019s New Fraud Division Corporate Enforcement Directive",
+      "title": "United States: DOJ’s New Fraud Division Corporate Enforcement Directive",
       "url": "https://sanctionsnews.bakermckenzie.com/united-states-dojs-new-fraud-division-corporate-enforcement-directive/",
       "penalty_usd": null,
       "vsd": false,
@@ -146,7 +170,7 @@
       "charges": [],
       "knowledge_standard": null,
       "resolution": null,
-      "notes": "Auto-ingested \u2014 requires manual review and categorisation"
+      "notes": "Auto-ingested — requires manual review and categorisation"
     }
   ]
 }

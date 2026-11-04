@@ -66,6 +66,14 @@ and parties must exercise judgement — and document it.
     beneficial ownership (UBO) screening — is the responsibility of the transacting party.
     Failure to screen is not a defence in enforcement proceedings.
 
+!!! example "Enforcement example — Extreme Networks (DOJ-NSD / OFAC, 27 October 2026)"
+    The end user, JSC Moscow Machinery Building Plant Avangard, appears on no sanctions list.
+    It is blocked solely as a majority-owned subsidiary of SDN JSC Concern Almaz-Antey. Sales
+    routed through the company's Russian subsidiary and a distributor (2018–2022) produced a
+    $1,529,685 OFAC settlement and a $975,721.84 DOJ non-prosecution agreement — the first
+    "near-miss" NPA under the revised 2026 Corporate Enforcement Policy. Full summary in
+    [Subsidiary & Entity Shifting](../enforcements/case-summaries/subsidiary-entity-shifting/index.md#extreme-networks-inc-doj-nsd-npa-ofac-settlement-27-october-2026).
+
 ---
 
 ## OFAC 50% Rule vs BIS Affiliates Rule — Convergence and Divergence
