@@ -9,6 +9,44 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-04
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [UK Financial Conduct Authority publishes sanctions-focused proposed changes to its Financial Crime Guide](https://sanctionsnews.bakermckenzie.com/uk-financial-conduct-authority-publishes-sanctions-focused-proposed-changes-to-its-financial-crime-guide/)
+- **[Baker McKenzie Sanctions]** [OFAC Adds Iran’s Automotive and Rail Sectors Under EO 13902, Amends FAQ 831, and Designates the A7 Network as a Transnational Criminal Organization](https://sanctionsnews.bakermckenzie.com/ofac-adds-irans-automotive-and-rail-sectors-under-eo-13902-amends-faq-831-and-designates-the-a7-network-as-a-transnational-criminal-organization/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[OFAC]** [Treasury Dismantles Major Hamas Financing Network](https://home.treasury.gov/news/press-releases/sb0647/)
+- **[Federal Register]** [Member Business Loans; Commercial Lending (2026-11-04)](https://www.federalregister.gov/documents/2026/11/04/2026-22537/member-business-loans-commercial-lending)
+- **[Federal Register]** [Certain Oil Country Tubular Goods From the United Arab Emirates: Preliminary Affirmative Determination of Sales at Less Than Fair Value (2026-11-04)](https://www.federalregister.gov/documents/2026/11/04/2026-22534/certain-oil-country-tubular-goods-from-the-united-arab-emirates-preliminary-affirmative)
+- **[Federal Register]** [Atlantic Highly Migratory Species; Atlantic Highly Migratory Species Southeast Data, Assessment, and Review Workshops Advisory Panel (2026-11-04)](https://www.federalregister.gov/documents/2026/11/04/2026-22533/atlantic-highly-migratory-species-atlantic-highly-migratory-species-southeast-data-assessment-and)
+- **[Federal Register]** [Certain Oil Country Tubular Goods From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures (2026-11-04)](https://www.federalregister.gov/documents/2026/11/04/2026-22532/certain-oil-country-tubular-goods-from-taiwan-preliminary-affirmative-determination-of-sales-at-less)
+- **[Federal Register]** [Certain Oil Country Tubular Goods From Austria: Preliminary Affirmative Determination of Sales at Less-Than-Fair-Value, Postponement of Final Determination, and Extension of Provisional Measures (2026-11-04)](https://www.federalregister.gov/documents/2026/11/04/2026-22531/certain-oil-country-tubular-goods-from-austria-preliminary-affirmative-determination-of-sales-at)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Treasury Proposes First Rules Under the ROAD to Housing Act’s Ban on Institutional Investor Purchases of Single-Family Homes](https://www.gibsondunn.com/treasury-proposes-first-rules-under-the-road-to-housing-acts-ban-on-institutional-investor-purchases-of-single-family-homes/)
+- **[Gibson Dunn]** [Ronald Kirk Interviewed About United States’ U.S. Approach to Trade With China on CNBC’s “Squawk on the Street”](https://www.gibsondunn.com/ronald-kirk-interviewed-about-united-states-u-s-approach-to-trade-with-china-on-cnbcs-squawk-on-the-street/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: November 3, 2026](https://www.justsecurity.org/163177/early-edition-november-3-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-3-2026)
+- **[Just Security]** [Collection: Iran, Israel and the United States at War (2025-2026 Operations)](https://www.justsecurity.org/114556/collection-israel-iran-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=collection-israel-iran-conflict)
+- **[Atlantic Council]** [Europe must weigh rising Ukraine costs against higher price of Russian victory](https://www.atlanticcouncil.org/blogs/ukrainealert/europe-must-weigh-rising-cost-of-supporting-ukraine-against-far-higher-price-of-russian-victory/)
+- **[Atlantic Council]** [A strong defense industry may be Ukraine’s best security guarantee](https://www.atlanticcouncil.org/blogs/ukrainealert/a-strong-defense-industry-may-be-ukraines-best-security-guarantee/)
+- **[Atlantic Council]** [Religion as statecraft: What a decade of research reveals about the geopolitics of religious soft power](https://www.atlanticcouncil.org/in-depth-research-reports/report/religion-as-statecraft-what-a-decade-of-research-reveals-about-the-geopolitics-of-religious-soft-power/)
+
+---
+
 ## 2026-11-04 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
