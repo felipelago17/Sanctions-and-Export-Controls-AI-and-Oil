@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-05
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [2026 US Midterm Election Results: How Will Democratic Control of Both Chambers Impact Trade Issues](https://sanctionsnews.bakermckenzie.com/2026-us-midterm-election-results-how-will-democratic-control-of-both-chambers-impact-trade-issues/)
+- **[Baker McKenzie Sanctions]** [UK Financial Conduct Authority publishes sanctions-focused proposed changes to its Financial Crime Guide](https://sanctionsnews.bakermckenzie.com/uk-financial-conduct-authority-publishes-sanctions-focused-proposed-changes-to-its-financial-crime-guide/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[OFAC]** [Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative](https://home.treasury.gov/news/press-releases/sb0650/)
+- **[Federal Register]** [Continuation of the National Emergency With Respect to Iran (2026-11-05)](https://www.federalregister.gov/documents/2026/11/05/2026-22685/continuation-of-the-national-emergency-with-respect-to-iran)
+- **[Federal Register]** [Modification of Class D and Class E Airspace Areas; Roberts Field/Redmond Municipal Airport, Redmond, OR (2026-11-05)](https://www.federalregister.gov/documents/2026/11/05/2026-22642/modification-of-class-d-and-class-e-airspace-areas-roberts-fieldredmond-municipal-airport-redmond-or)
+- **[Federal Register]** [Performance Review Board for Senior Executive Service (2026-11-05)](https://www.federalregister.gov/documents/2026/11/05/2026-22636/performance-review-board-for-senior-executive-service)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Named LME Firm of the Year at GRR Awards](https://www.gibsondunn.com/gibson-dunn-named-lme-firm-of-the-year-at-grr-awards/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Sanctioning the ICC: [R]evolution or Devolution for International Criminal Justice?](https://www.justsecurity.org/163081/sanctioning-icc-revolution-devolution-international-criminal-justice/?utm_source=rss&utm_medium=rss&utm_campaign=sanctioning-icc-revolution-devolution-international-criminal-justice)
+- **[Just Security]** [Early Edition: November 5, 2026](https://www.justsecurity.org/163503/early-edition-november-5-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-5-2026)
+- **[Atlantic Council]** [Why this US midterm was unusually important for the Middle East](https://www.atlanticcouncil.org/dispatches/why-this-us-midterm-was-unusually-important-for-the-middle-east/)
+- **[Atlantic Council]** [Experts react: Democrats just swept the US midterms. Here’s what it means for the world.](https://www.atlanticcouncil.org/dispatches/experts-react-democrats-just-swept-the-us-midterms-heres-what-it-means-for-the-world/)
+
+---
+
 ## 2026-11-05 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
