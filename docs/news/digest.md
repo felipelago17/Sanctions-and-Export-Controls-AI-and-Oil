@@ -9,6 +9,14 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-05 - BIS Affiliates Rule Monitor *(auto)*
+
+*Anthropic API error - raw Federal Register items logged below.*
+
+
+
+---
+
 ## 2026-11-04 — Curated: DOJ-NSD / OFAC — Extreme Networks "near-miss" NPA
 
 - DOJ NSD and USAO E.D.N.C. announce the first "near-miss" non-prosecution agreement under the March 2026 Corporate Enforcement Policy (27 Oct 2026): Extreme Networks, $975,721.84 fine + forfeiture, 3-year term, no monitor; parallel OFAC settlement $1,529,685. End user blocked via the OFAC 50% Rule, not by listing. [Case summary](../enforcements/case-summaries/subsidiary-entity-shifting/index.md) · [DOJ release](https://www.justice.gov/opa/pr/national-security-division-announces-first-near-miss-non-prosecution-agreement-under)
