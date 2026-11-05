@@ -206,5 +206,21 @@
     "checksum": null,
     "dead_link": false,
     "notes": "NYU PCCE Blog. Applies Caremark/Marchand/McDonald's board oversight duty to sanctions and export controls. Argues these are now mission-critical risks requiring board-level reporting."
+  },
+  {
+    "source_id": "SRC-TECH-001",
+    "title": "Open weights are not open source AI, and why it matters (interview with Duane O'Brien, OSI)",
+    "url": "https://allthingsopen.org/articles/open-source-ai-vs-open-weights",
+    "doc_type": "technical",
+    "published_date": "2026-10-15",
+    "accessed_date": "2026-11-05",
+    "author": "All Things Open (ATO Team); Duane O'Brien (Open Source Initiative)",
+    "jurisdiction": "Global",
+    "topics": ["Open Source AI", "Open Weights", "OSAID", "EAR 734.7 Publicly Available", "Model Weights", "AI Governance"],
+    "relevance_tier": 2,
+    "citation_count": 1,
+    "checksum": null,
+    "dead_link": false,
+    "notes": "OSI's Open Source AI Definition: open weights (parameters only) vs open source AI (weights + training code + data/description). Used in docs/regulations/encryption-open-source.md to frame the EAR 734.7 'publicly available' analysis for AI model releases and licence-restriction pitfalls. CC BY-SA 4.0."
   }
 ]

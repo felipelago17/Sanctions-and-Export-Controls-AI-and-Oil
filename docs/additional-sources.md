@@ -179,6 +179,7 @@ These firms publish regular, substantive alerts on export controls and sanctions
 | Semiconductor Industry Association | Chip trade, export controls | https://www.semiconductors.org/news/ |
 | Georgetown CSET | AI, semiconductors, China | https://cset.georgetown.edu/ |
 | AI for Developing Countries Forum (af.net) | US–China AI chip war; developing-nation access to advanced computing; policy opinion | https://af.net/ |
+| Open Source Initiative (OSAID) / All Things Open | Open source AI vs open weights definition — basis for the § 734.7 "publicly available" analysis of model releases | https://opensource.org/ai/open-source-ai-definition · https://allthingsopen.org/articles/open-source-ai-vs-open-weights |
 
 ---
 

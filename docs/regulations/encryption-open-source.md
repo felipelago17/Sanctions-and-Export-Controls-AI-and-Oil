@@ -155,6 +155,48 @@ The publicly available exclusion and § 742.15(b) do not exempt:
 A GitHub repository with public source code but a "non-commercial use only" licence is
 not "available to the general public without restriction" for EAR purposes.
 
+### "Open Weights" Are Not "Open Source AI" — Why the Distinction Matters for § 734.7
+
+The Open Source Initiative's **Open Source AI Definition (OSAID)** draws a line that export
+compliance teams should borrow. In an October 2026 interview, OSI Executive Director Duane
+O'Brien put it this way: releasing weights alone lets users *tune* a model without seeing how
+it was *built* — like tuning a car without understanding the engine. Under OSAID, "open source
+AI" requires the weights **plus** the training code and the training data (or the most
+complete available description of it), so that the model can be studied, rebuilt and
+modified — the four freedoms mapped onto AI. "Open weights" is the narrower release that
+provides only the parameters.
+
+The export-control read-across:
+
+| Release type | What is published | § 734.7 "publicly available" analysis |
+|---|---|---|
+| **Open source AI (OSAID-conformant)** | Weights + training code + data/data description, under an OSI-approved licence | Strongest candidate for the exclusion: each component is published without restriction and is itself reproducible |
+| **Open weights** | Parameters only, often under a bespoke "community" or "responsible AI" licence | The *weights file* may be publicly available, but (a) use-based licence restrictions (acceptable-use policies, user-count caps, non-commercial clauses) can defeat "without restriction"; (b) the undisclosed training data, code and technology remain controlled technology if they are ever transferred |
+| **Gated weights** | Download behind registration, acceptance of terms, or approval | Access control defeats the exclusion (see list above) — this is not "publicly available" even if free of charge |
+
+Three practical consequences:
+
+1. **Licence terms do the work, not the label.** Many "open-weight" licences carry
+   acceptable-use restrictions. For § 734.7 purposes the question is whether the item is
+   available to the general public *without restriction on further dissemination* — a model
+   marketed as "open" can still fail that test. Classify from the licence text, not the
+   press release.
+2. **The exclusion attaches to the artefact, not the project.** Publishing weights does not
+   make the *training pipeline*, fine-tuning data or deployment tooling publicly available.
+   A deemed-export analysis is still required when non-public components are shared with
+   foreign-national employees or affiliates.
+3. **Policy-maker vocabulary is converging on OSAID.** OSI reports three years of work with
+   G7 digital ministers on a shared language for AI openness, and briefings to all 193 UN
+   member states. Future rulemaking that carves out "open" models (as the rescinded January
+   2025 Diffusion Rule did for published model weights) is likely to reference an OSAID-style
+   test rather than a self-declared "open" label. Compliance programmes that already track
+   the three-component test will be ahead of that curve.
+
+**Source:** All Things Open, *Open weights are not open source AI, and why it matters*
+(interview with Duane O'Brien, OSI), 15 Oct 2026 —
+<https://allthingsopen.org/articles/open-source-ai-vs-open-weights> (CC BY-SA 4.0).
+OSAID text: <https://opensource.org/ai/open-source-ai-definition>.
+
 ---
 
 ## Encryption Controls and AI Model Weights
@@ -232,7 +274,7 @@ question, particularly where:
 
 ---
 
-*Last reviewed: June 2026*
+*Last reviewed: November 2026*
 
 ---
 
