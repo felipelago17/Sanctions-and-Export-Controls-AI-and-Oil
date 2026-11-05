@@ -22,6 +22,7 @@ This section covers the intersection of export controls and sanctions with the e
 | Operation Economic Outcast — Iran sector determinations and shadow-fleet designations | [Cases → Operation Economic Outcast](../cases/2026-08-operation-economic-outcast-iran-shipping.md) |
 | Sanctions clauses, non-performance and enforcement of awards (BIMCO 2020; Lithuania; Swiss/CJEU/UK) | [Cases → Contract Law](../cases/2026-10-sanctions-clauses-contract-non-performance.md) |
 | Sanctions decay and substitution — Russian energy/defence equipment sourcing from China | [Cases → CSIS analysis](../cases/2026-10-csis-sanctions-decay-russia-china.md) |
+| Russian personal foundations shielding sanctioned owners (Alekperov/Welltech, Patrushev/Gazprom contractor); *Kesaev v Council* | [Cases → Personal foundations](../cases/2026-10-kharon-russian-personal-foundations.md) |
 
 ---
 
