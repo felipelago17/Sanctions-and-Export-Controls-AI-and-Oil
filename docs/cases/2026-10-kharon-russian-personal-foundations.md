@@ -47,9 +47,9 @@ The structural insight, from Ruslan Stefanov (Center for the Study of Democracy)
 
 ---
 
-## The Legal Test: *Kesaev v Council of the European Union* (General Court, 2 September 2026)
+## The Legal Test: *Kesaev v Council* (General Court, T-296/24, 2 September 2026)
 
-Kesaev's first delisting request was refused in September 2024; he appealed. The General Court ruled more than two years after the initial filing, **upholding the designation**.
+Kesaev's first annulment actions (Joined Cases T-290/22 and T-763/22) were dismissed on 4 September 2024 and are under appeal. He then challenged the March 2024 relisting (Council Decision (CFSP) 2024/847) in a fresh action lodged 5 June 2024 — **Case T-296/24**. The General Court dismissed it on 2 September 2026 (**ECLI:EU:T:2026:523**), **upholding the designation**. The judgment also holds (paras 161–163) that the "substantial source of revenue" test under the third limb of criterion (g) is applied to the economic sector as a whole, not to the listed person's own turnover or tax payments.
 
 Key holdings as reported:
 
@@ -93,7 +93,9 @@ OFAC's March 2026 guidance on "sham transactions" and sanctions evasion gives th
 
 **Primary**
 
-- General Court of the European Union, *Igor Albertovich Kesaev v Council of the European Union*, judgment of 2 September 2026 (case number to be confirmed on CURIA)
+- General Court of the European Union, *Kesaev v Council*, Case T-296/24, judgment of 2 September 2026, ECLI:EU:T:2026:523; application notice OJ C/2024/4861 — <https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62024TN0296>
+- General Court, *Kesaev v Council*, Joined Cases T-290/22 and T-763/22, judgment of 4 September 2024 (under appeal) — <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:62022TJ0290>
+- Council Decision (CFSP) 2024/847 of 12 March 2024 amending Decision 2014/145/CFSP
 - Council Regulation (EU) No 269/2014, Art. 2 (ownership or control); Council Implementing Regulation designating Kesaev (April 2022)
 - OFAC, guidance on sham transactions and sanctions evasion (March 2026)
 - OFAC designations: Andrey Patrushev (Feb 2022); Yusuf Alekperov and Welltech LLC (Jan 2025)
@@ -104,6 +106,8 @@ OFAC's March 2026 guidance on "sham transactions" and sanctions evasion gives th
 - Bacic, R., Rombaut-Enriquez, G. & Talley, I., "Who Owns Sanctioned Oligarchs' Empires Now? A Boom in Russian Trusts Is Hiding the Answer", *Kharon — The Brief*, 8 Oct 2026 — <https://www.kharon.com/brief>
 - ALRUD, report on personal-foundation registrations (as obtained by Forbes)
 - Kommersant, reporting on the Mercury Retail transfer and on EKTO OOO asset values
+- Kohen Avocats, "EU General Court Keeps Tobacco Billionaire Kesaev on Russia Sanctions List" (2026) — <https://kohenavocats.com/en/eu-general-court-kesaev-sanctions-list-tobacco-france-frozen-assets-2026/>
+- Global Sanctions, "EU Court rejects Russian de-listing claims; Kesaev & Shamalov", 5 Sep 2024 — <https://globalsanctions.com/2024/09/eu-court-rejects-russian-de-listing-claims-kesaev-shamalov/>
 
 **Related pages in this repository**
 

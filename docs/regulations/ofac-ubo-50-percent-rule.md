@@ -223,4 +223,4 @@ compliance decision.
 
 ## Case Study — Control Without Ownership
 
-See [Russian Personal Foundations & *Kesaev v Council*](../cases/2026-10-kharon-russian-personal-foundations.md): post-2022 Russian *lichnye fondy* with no disclosed beneficiary and a captive manager, and the EU General Court's holding (2 Sep 2026) that interposing such a structure does not demonstrate relinquished control.
+See [Russian Personal Foundations & *Kesaev v Council*](../cases/2026-10-kharon-russian-personal-foundations.md): post-2022 Russian *lichnye fondy* with no disclosed beneficiary and a captive manager, and the EU General Court's holding in T-296/24 (2 Sep 2026) that interposing such a structure does not demonstrate relinquished control.

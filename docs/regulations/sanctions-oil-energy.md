@@ -54,7 +54,7 @@ The G7 price cap on Russian seaborne crude (USD 60/barrel) and refined products 
 | Operation Economic Outcast — E.O. 13902 shipping-sector determination; 17-vessel shadow-fleet action | Iran / E.O. 13902 | [Operation Economic Outcast (Aug–Oct 2026)](../cases/2026-08-operation-economic-outcast-iran-shipping.md) |
 | BIMCO Sanctions Clause 2020 and anticipated sanctions risk; Lithuanian civil-liability cases; enforcement of awards for sanctioned creditors | Cuba E.O. 14404; EU Reg. 269/2014 & 833/2014; UK; Swiss | [Contract law (2024–26)](../cases/2026-10-sanctions-clauses-contract-non-performance.md) |
 | Sanctions decay, substitution elasticity and Russia's sourcing from China | Russia / CHP items | [CSIS analysis (Oct 2026)](../cases/2026-10-csis-sanctions-decay-russia-china.md) |
-| Russian personal foundations (*lichnye fondy*) as control-test evasion; EU General Court *Kesaev v Council* (2 Sep 2026); OFAC sham-transaction guidance | EU Reg. 269/2014; OFAC 50% Rule | [Personal foundations (Oct 2026)](../cases/2026-10-kharon-russian-personal-foundations.md) |
+| Russian personal foundations (*lichnye fondy*) as control-test evasion; EU General Court *Kesaev v Council* (T-296/24, 2 Sep 2026); OFAC sham-transaction guidance | EU Reg. 269/2014; OFAC 50% Rule | [Personal foundations (Oct 2026)](../cases/2026-10-kharon-russian-personal-foundations.md) |
 
 ---
 
