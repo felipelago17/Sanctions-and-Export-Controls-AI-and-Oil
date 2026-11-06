@@ -9,6 +9,41 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-06
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [BIS Extends Suspension of the “Affiliates Rule” Through January 10, 2027](https://sanctionsnews.bakermckenzie.com/bis-extends-suspension-of-the-affiliates-rule-through-january-10-2027/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[OFAC]** [Operation Economic Outcast Neutralizes Iranian Regime's Remaining Shadow Fleet Network](https://home.treasury.gov/news/press-releases/sb0653/)
+- **[Federal Register]** [Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots (2026-11-06)](https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Webcast: Export Controls](https://www.gibsondunn.com/webcast-export-controls/)
+- **[Gibson Dunn]** [Best Law Firms® US Names Gibson Dunn 2027 Law Firm of the Year in Environmental Litigation and Tax Law](https://www.gibsondunn.com/best-law-firms-us-names-gibson-dunn-2027-law-firm-of-the-year-in-environmental-litigation-and-tax-law/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Beyond the Generals: Non-Policy Officers and Civil-Military Responsibility in the New Information Age](https://www.justsecurity.org/162701/non-policy-officers-civil-military-responsibility/?utm_source=rss&utm_medium=rss&utm_campaign=non-policy-officers-civil-military-responsibility)
+- **[Just Security]** [Early Edition: November 6, 2026](https://www.justsecurity.org/163619/early-edition-november-6-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-6-2026)
+- **[Just Security]** [Sanctioning the ICC: [R]evolution or Devolution for International Criminal Justice?](https://www.justsecurity.org/163081/sanctioning-icc-revolution-devolution-international-criminal-justice/?utm_source=rss&utm_medium=rss&utm_campaign=sanctioning-icc-revolution-devolution-international-criminal-justice)
+- **[Just Security]** [Early Edition: November 5, 2026](https://www.justsecurity.org/163503/early-edition-november-5-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-5-2026)
+- **[Atlantic Council]** [Not quite mercenaries: How Russia lures thousands of foreigners to fight in its war on Ukraine](https://www.atlanticcouncil.org/dispatches/not-quite-mercenaries-how-russia-lures-thousands-of-foreigners-to-fight-in-its-war-on-ukraine/)
+- **[Atlantic Council]** [Putin suffers Balkan setbacks as Russia struggles to retain influence](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-suffers-balkan-setbacks-as-russia-struggles-to-retain-influence/)
+- **[Atlantic Council]** [Last week’s brief Ukraine ceasefire did not stop Russian attacks on civilians](https://www.atlanticcouncil.org/blogs/ukrainealert/last-weeks-brief-ukraine-ceasefire-did-not-stop-russian-attacks-on-civilians/)
+
+---
+
 ## 2026-11-06 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
