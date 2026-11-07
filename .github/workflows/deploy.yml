@@ -1,6 +1,16 @@
 name: Deploy MkDocs to GitHub Pages
 
 on:
+  workflow_run:
+    workflows:
+      - "BIS Affiliates Rule — Daily Monitor & Weekly Synthesis"
+      - "Daily Federal Register Check"
+      - "Daily Digest Update"
+      - "Monthly Enforcement Scanner"
+      - "Refresh ECCN/EAR Regulatory Data"
+      - "Weekly PACER Docket Monitor"
+      - "Weekly Digest Update"
+    types: [completed]
   push:
     branches:
       - main
@@ -17,6 +27,7 @@ concurrency:
 
 jobs:
   build:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
