@@ -9,6 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-07
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[Federal Register]** [Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots (2026-11-06)](https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Derivatives, Legislative and Regulatory Weekly Update (November 6, 2026)](https://www.gibsondunn.com/derivatives-legislative-and-regulatory-weekly-update-november-6-2026/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Beyond the Generals: Non-Policy Officers and Civil-Military Responsibility in the New Information Age](https://www.justsecurity.org/162701/non-policy-officers-civil-military-responsibility/?utm_source=rss&utm_medium=rss&utm_campaign=non-policy-officers-civil-military-responsibility)
+- **[Just Security]** [Early Edition: November 6, 2026](https://www.justsecurity.org/163619/early-edition-november-6-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-6-2026)
+- **[Atlantic Council]** [Putin wants peace talks. He doesn’t want peace.](https://www.atlanticcouncil.org/dispatches/putin-wants-peace-talks-he-doesnt-want-peace/)
+- **[Atlantic Council]** [To settle Russia’s Ukraine war, Europe needs to let Kyiv in. Trump can help (really).](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/to-settle-russias-ukraine-war-europe-needs-to-let-kyiv-in-trump-can-help-really/)
+- **[Atlantic Council]** [Not quite mercenaries: How Russia lures thousands of foreigners to fight in its war on Ukraine](https://www.atlanticcouncil.org/dispatches/not-quite-mercenaries-how-russia-lures-thousands-of-foreigners-to-fight-in-its-war-on-ukraine/)
+
+---
+
 ## 2026-11-06
 
 ### Official & Regulatory
