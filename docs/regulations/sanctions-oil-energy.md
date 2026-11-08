@@ -1,5 +1,8 @@
 # Sanctions Programs, Enforcement & Oil/Energy Sector
 
+> **Cross-reference (Nov 2026):** for the Azerbaijan dimension — EU designation of three Azerbaijani-flagged tankers for Russia trade (2025) and reported Russian-origin feedstock at the SOCAR-operated STAR refinery in Türkiye — see the [EUNPDC South Caucasus analysis note](../cases/2026-08-eunpdc-south-caucasus-acw-sanctions-compliance.md). Listing risk now attaches to flag and feedstock, not only cargo origin.
+
+
 The oil, gas, and broader energy sector sits at the intersection of many of the most significant US sanctions programmes. Russia, Iran, Venezuela, and Sudan are the primary exposure jurisdictions; the Russia-related programmes have expanded most rapidly since 2022 and now include sector-specific and price-cap measures that affect tanker operators, trading firms, insurers, and financiers globally.
 
 ---
