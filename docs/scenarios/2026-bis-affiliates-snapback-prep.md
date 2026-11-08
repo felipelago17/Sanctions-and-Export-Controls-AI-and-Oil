@@ -1,5 +1,7 @@
 # Scenario 02 — BIS Affiliates Rule Snap-Back: Preparing for 10 November 2026
 
+> **Update (8 Nov 2026):** the snap-back date in this scenario has moved. BIS extended the suspension to **10 January 2027** by final rule filed 5 Nov 2026 (FR 9 Nov 2026). Read "10 November 2026" below as "10 January 2027"; the preparation steps are unchanged. See [BIS Affiliates Rule](../regulations/uae/bis-affiliates-rule.md).
+
 !!! abstract "Scenario metadata"
     | Field | Value |
     |---|---|

@@ -63,6 +63,8 @@ The SCALE Act was referred to the House Foreign Affairs and Intelligence committ
 
 ## Match Act — Allied Alignment on Semiconductor Equipment Export Controls (June 2026)
 
+> **Update (8 Nov 2026):** bill numbers, committee votes, the NDAA manager's-amendment status and the companion Remote Access Security, Chip Security and AI OVERWATCH Acts are now consolidated on the [US AI-Chip Export Legislation Tracker](us-ai-chip-export-legislation-tracker.md). This section is retained as the June 2026 coalition record.
+
 **Source:** Export Compliance Daily, 15 June 2026; AI Policy Network coalition letter to Sens. Pete Ricketts (R-Neb.) and Andy Kim (D-N.J.), 11 June 2026
 
 A **14-member coalition** led by the AI Policy Network endorsed the **Match Act** (introduced April 2026, Ricketts/Kim), which would require US allies to match US export restrictions on semiconductor manufacturing equipment sales to China.

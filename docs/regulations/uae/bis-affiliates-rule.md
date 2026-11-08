@@ -1,10 +1,36 @@
 # BIS Affiliates Rule & 50% Ownership Expansion
 
-> **⚠ Snap-back date: 10 November 2026 — currently suspended (Phase 1)**
+> **⚠ Snap-back date moved: 10 January 2027 — suspension extended (Phase 1, second period)**
 >
-> The BIS Affiliates Rule expansion is **suspended** for one year (**10 Nov 2025 – 9 Nov 2026**) under a US-China trade deal framework (FR 2025-19846, 90 FR 47201). The expansion will **automatically reimpose on 10 Nov 2026** (Phase 2) unless BIS issues a further extension or repeal before that date. The baseline EAR Entity List and MEU List controls remain fully in effect throughout the suspension window. Compliance programmes should complete affiliate-mapping and diligence exercises before the Phase 2 date.
+> On **5 November 2026** BIS filed a final rule extending the suspension of the Affiliates Rule expansion from 9 November 2026 to **10 January 2027** (Federal Register publication 9 November 2026), aligning the export-control pause with the extended US–China trade truce announced in September 2026. The amendments to five parts of the EAR are "further stayed"; BIS retains authority to shorten or end the suspension by further rulemaking. The original one-year suspension (**10 Nov 2025 – 9 Nov 2026**; FR 2025-19846, 90 FR 47201) would otherwise have reimposed the rule automatically on 10 November 2026. Baseline Entity List and MEU List controls remain fully in effect. Compliance programmes that built to the November date should hold their affiliate-mapping work current rather than stand it down — the extension is two months, not a repeal, and it expires in the first week of the 120th Congress.
 >
 > *The snap-back countdown and latest status updates are maintained automatically by the `bis-affiliates-monitor.yml` GitHub Actions workflow.*
+
+---
+
+## Phase 1 Extension — November 2026 Sources
+
+### BIS — Extension of the Suspension of Expansion of End-User Controls for Affiliates (5 Nov 2026)
+
+**Source (primary):** BIS final rule, filed for public inspection 5 November 2026; Federal Register publication scheduled 9 November 2026.
+
+Extends the stay of the Affiliates Rule amendments through 10 January 2027. Confirms the baseline Entity List / MEU List controls are unaffected and that BIS may end the suspension early by rule.
+
+### Baker McKenzie — BIS Extends Suspension of the "Affiliates Rule" Through January 10, 2027 (5 Nov 2026)
+
+**URL:** <https://sanctionsnews.bakermckenzie.com/>
+
+Short client note confirming the extension and publication date.
+
+### Kharon — BIS Extends Suspension of its 50% 'Affiliates' Rule Amid Ongoing China Talks (5 Nov 2026)
+
+**URL:** <https://www.kharon.com/brief/bis-extends-affiliates-rule-suspension>
+
+Places the extension in the trade-truce context (rare-earth suspension on the Chinese side runs on the same clock) and recalls Kharon's estimate that thousands of subsidiaries across ~100 jurisdictions would fall within scope on reimposition.
+
+### MLex — US extends suspension of export controls 'affiliates rule' (6 Nov 2026)
+
+Confirms the 10 January 2027 date and the 9 November Federal Register publication.
 
 ---
 
@@ -139,4 +165,4 @@ Primary regulatory source for the suspension. Contains the full regulatory text 
 
 ---
 
-*Last reviewed: June 2026*
+*Last reviewed: 8 November 2026*

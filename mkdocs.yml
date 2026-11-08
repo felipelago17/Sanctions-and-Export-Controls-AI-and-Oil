@@ -74,6 +74,7 @@ nav:
     - OFAC UBO & 50% Rule: regulations/ofac-ubo-50-percent-rule.md
     - Sanctions — Oil & Energy: regulations/sanctions-oil-energy.md
     - Chip Security Act (PBLV): regulations/chip-security-act.md
+    - US AI-Chip Export Legislation Tracker (MATCH / RASA / CSA / OVERWATCH): regulations/us-ai-chip-export-legislation-tracker.md
     - China:
       - regulations/china/index.md
       - Export Control Architecture: regulations/china/china-export-control-architecture.md
@@ -105,6 +106,7 @@ nav:
     - Ingestion Workflow: enforcements/enforcement-ingestion-workflow.md
     - Monthly Digests: enforcements/monthly-digests/index.md
   - Cases:
+    - Commerce H200 Licensing to China — Empty-Office Licensees & Vetting (NYT, Nov 2026): cases/2026-11-nyt-h200-china-licensees-vetting.md
     - BIS Deemed-Export — Anthropic Fable 5 / Mythos 5 (Jun 2026): cases/2026-06-anthropic-fable-mythos-deemed-export.md
     - OFAC — Lukoil Divestment, Boehly Securities Swap & GL 131K (Nov 2026): cases/2026-11-lukoil-boehly-securities-swap-ofac.md
     - OFAC — Operation Economic Outcast, Iran Shadow Fleet (Aug–Oct 2026): cases/2026-08-operation-economic-outcast-iran-shipping.md
