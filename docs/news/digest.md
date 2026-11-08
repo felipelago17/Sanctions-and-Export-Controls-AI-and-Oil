@@ -9,6 +9,25 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-08
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[Federal Register]** [Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots (2026-11-06)](https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+---
+
 ## 2026-11-07
 
 ### Official & Regulatory
