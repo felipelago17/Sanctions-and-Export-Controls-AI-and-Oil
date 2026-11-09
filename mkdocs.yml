@@ -115,6 +115,7 @@ nav:
     - Contract Law — BIMCO Clause, Lithuanian Case Law & Enforcement of Awards (2024–26): cases/2026-10-sanctions-clauses-contract-non-performance.md
     - Analysis — Sanctions Decay & Substitution Elasticity, Russia–China (CSIS, Oct 2026): cases/2026-10-csis-sanctions-decay-russia-china.md
     - Analysis — EU Sanctions Compliance & ACW Controls in the South Caucasus (EUNPDC, Aug 2026): cases/2026-08-eunpdc-south-caucasus-acw-sanctions-compliance.md
+    - CJEU — AG Ćapeta on the Meaning of "Dual-Use Items" (C-538/25, Sep 2026): cases/2026-09-cjeu-ag-opinion-c-538-25-dual-use-concept.md
     - Control Test — Russian Personal Foundations & Kesaev v Council (Kharon, Oct 2026): cases/2026-10-kharon-russian-personal-foundations.md
   - AI Frontier:
     - ai-frontier/index.md
@@ -126,7 +127,10 @@ nav:
     - ECCN Classifier: tools/eccn-classifier/index.html
   - Visuals & Tools: visuals.md
   - Sources & Literature: additional-sources.md
-  - Screening Methodology: screening/index.md
+  - Screening & Compliance Practice:
+    - Screening Methodology: screening/index.md
+    - ICC Netherlands — Sanctions Compliance Minimum Standards (2026): screening/icc-nl-sanctions-compliance-minimum-standards.md
+    - AAEI — AI in Trade Compliance (2026): screening/aaei-ai-in-trade-compliance.md
   - Compliance Clinics:
     - Overview: scenarios/index.md
     - "01 — UAE affiliate + deemed exports": scenarios/2026-uae-affiliate-deemed-export.md

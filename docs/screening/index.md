@@ -1,5 +1,7 @@
 # Screening Methodology — Sanctions & Export Controls
 
+> **Practice guidance (Nov 2026):** see [ICC Netherlands — Sanctions Compliance Minimum Standards](icc-nl-sanctions-compliance-minimum-standards.md) for the EU bank/auditor expectation set, and [AAEI — AI in Trade Compliance](aaei-ai-in-trade-compliance.md) for the tiering and record-keeping standard applicable to AI-assisted screening and classification.
+
 > Risk-based screening and due diligence methodology for counterparties, end-users, and technology transfers in AI and energy contexts. Written to combine automated list screening with structured parallel research, on the premise that tool output is a starting point, not a conclusion.
 
 **Status:** Reference methodology · **Scope:** Third parties, vendors, customers, JV partners, and technology/end-use assessments · **Regimes covered:** US (OFAC/BIS EAR), EU, UK (OFSI), UN, and UAE (EOCN / Law 4/2022 and related instruments)
