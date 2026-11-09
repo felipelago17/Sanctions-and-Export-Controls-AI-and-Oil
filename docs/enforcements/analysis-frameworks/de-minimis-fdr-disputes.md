@@ -13,6 +13,7 @@ description: >
 ---
 
 !!! info "Cross-references"
+    For the customs and CBAM de minimis regimes and the 2025–26 US litigation (*Learning Resources*, *Axle of Dearborn*), see the [De Minimis Source Register](../../regulations/de-minimis-source-register.md).
     For the extraterritorial enforcement framework more broadly, see [Extraterritorial Enforcement](../../regulations/extraterritorial-enforcement.md).
     For China-specific FDPR application, see [China Export Control Architecture](../../regulations/china/china-export-control-architecture.md).
     For AI/semiconductor ECCN classifications, see [AI & Advanced Technology](../../regulations/ai-advanced-tech-export-controls.md).
