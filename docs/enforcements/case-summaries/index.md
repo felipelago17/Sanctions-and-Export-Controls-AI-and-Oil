@@ -14,6 +14,7 @@
 | [GPU Smuggling](gpu-smuggling/index.md) | See index | Unauthorised export / attempted export of AI accelerators and high-end GPUs to restricted end-users (primarily China, Russia) via transshipment networks |
 | [Semiconductor Manufacturing](semiconductor-manufacturing/index.md) | See index | Unauthorised export or reexport of WFE (wafer fabrication equipment), EDA software, and related technology controlled under ECCNs 3B001, 3D001, 3E001 |
 | [Subsidiary & Entity Shifting](subsidiary-entity-shifting/index.md) | See index | Establishment or use of third-country shells, subsidiaries, or nominees to transact with Entity List or SDN-listed parties; evasion under § 764.2(h) |
+| [Russia Transshipment & Straw Buyers](russia-transshipment/index.md) | 1 (US v. Pankov, Oct 2026) | US-based procurement intermediaries routing controlled goods to Russia via nominal buyers in Türkiye, Kazakhstan, Korea, UAE etc.; false EEI, § 554 smuggling, § 1001, § 1956(h) |
 
 ---
 
