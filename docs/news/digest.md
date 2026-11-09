@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-09
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[Federal Register]** [President's Military Spouse Commission; Notice of Federal Advisory Committee Meeting (2026-11-09)](https://www.federalregister.gov/documents/2026/11/09/2026-22834/presidents-military-spouse-commission-notice-of-federal-advisory-committee-meeting)
+- **[Federal Register]** [Television Broadcasting Services Odessa, Texas (2026-11-09)](https://www.federalregister.gov/documents/2026/11/09/2026-22833/television-broadcasting-services-odessa-texas)
+- **[Federal Register]** [Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA (2026-11-09)](https://www.federalregister.gov/documents/2026/11/09/2026-22831/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa)
+- **[Federal Register]** [Pecans Grown in the States of Alabama, Arkansas, Arizona, California, Florida, Georgia, Kansas, Louisiana, Missouri, Mississippi, North Carolina, New Mexico, Oklahoma, South Carolina, and Texas; Changes to Membership and Handling Requirements (2026-11-09)](https://www.federalregister.gov/documents/2026/11/09/2026-22826/pecans-grown-in-the-states-of-alabama-arkansas-arizona-california-florida-georgia-kansas-louisiana)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Why the Department of Defense Should Keep its Name](https://www.justsecurity.org/163694/department-of-defense-should-keep-its-name/?utm_source=rss&utm_medium=rss&utm_campaign=department-of-defense-should-keep-its-name)
+- **[Just Security]** [Early Edition: November 9, 2026](https://www.justsecurity.org/163775/early-edition-november-9-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-9-2026)
+- **[Atlantic Council]** [Piasecki’s research on Venezuela’s debt restructuring cited in a Congressional Research Service report](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-4/)
+- **[Atlantic Council]** [Lipsky quoted in a South China Morning Post article on how Democrats could push to rein in Trump’s tariffs and give Congress more control over trade policy](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-2/)
+- **[Atlantic Council]** [Why Belgrade’s new government should not let the Vertical Gas Corridor slip](https://www.atlanticcouncil.org/blogs/energysource/why-belgrades-new-government-should-not-let-the-vertical-gas-corridor-slip/)
+
+---
+
 ## 2026-11-09 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
