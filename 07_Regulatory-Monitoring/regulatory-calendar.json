@@ -223,5 +223,20 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-11-10-6903",
+    "date": "2026-11-10",
+    "event_name": "Membership of the Performance Review Boards",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "The Department of Commerce (DOC) announces the appointment of those individuals who have been selected to serve as members of the Office of the Secretary Performance Review Board, International Trade ",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22933/membership-of-the-performance-review-boards",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
