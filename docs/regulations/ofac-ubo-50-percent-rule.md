@@ -5,6 +5,8 @@ sanctions compliance. It extends SDN-equivalent restrictions to any entity owned
 (individually or in aggregate) by one or more SDN-listed parties — **even if that entity does
 not itself appear on the SDN List**.
 
+> **Comparison:** For a side-by-side of the OFAC and BIS 50 percent rules (scope, most-restrictive principle, Red Flag 29, removal procedures), see [Meshkat Law's comparison](uae/bis-affiliates-rule.md).
+
 > **See also:** Felipe Villasuso Lago, *"The Affiliate Trap: OFAC's 50% Rule and Aggregation
 > Risk in Joint Ventures"*, Oxford Business Law Blog (OBLB), 2026. The article analyses how
 > the aggregation mechanic creates hidden sanctions exposure in multi-party joint ventures and

@@ -77,6 +77,38 @@ Legal memorandum covering the rule's application to Unverified List (UVL) partie
 
 ---
 
+## Meshkat Law — OFAC vs. BIS: Comparing the 50 Percent Rules and Compliance Implications (Oct 2025; editor's note updated 6 Nov 2026)
+
+**URL:** <https://meshkatlaw.com/ofac-vs-bis-50-percent-rule/>
+
+**Author:** Kian Meshkat, Meshkat Law, P.C. First published 16 October 2025; updated 7 November 2025 and 7 October 2026; Editor's Note last updated 6 November 2026 to record the extension of the suspension to 10 January 2027.
+
+Side-by-side comparison of OFAC's 50 Percent Rule and the BIS Affiliates Rule (interim final rule of 29 September 2025). Useful as the single best "difference table" between the two regimes:
+
+| Dimension | OFAC 50 Percent Rule | BIS Affiliates Rule |
+|---|---|---|
+| **Scope** | Applies wherever OFAC extends it to a list or programme (SDN, plus "constructive" effects for lists such as SSI) | Entity List, MEU List and specified SDN (§ 744.8) licence requirements; per the author, the Unverified List and Denial Orders are excluded |
+| **Multiple listed owners** | Silent on which restriction prevails | Explicit "most restrictive" principle |
+| **Uncertain ownership** | Duty to verify implicit in strict liability; licence application available before proceeding | Explicit duty via Red Flag 29 (Supp. No. 3 to Part 732): resolve ownership, obtain a licence, or identify an exception; no formal procedure for seeking a determination |
+| **Entity List address** | No equivalent carve-out | Aggregation not applied to unlisted owners merely sharing a listed address (diversion risk remains) |
+| **Removal / modification** | No regulatory procedure for constructively blocked entities (31 C.F.R. § 501.807); relies on FAQs 1131, 1073, 1074 | Entity List / MEU List entries can be modified to remove unlisted owners |
+| **Control** | No control test; significant minority ownership and board overlap treated as red flags | Same — no control test; same red-flag approach |
+| **Maturity** | Long-established, with an enforcement history | New; interpretation and enforcement (including divestiture handling) uncertain |
+
+**Conclusion (per author):** BIS mirrors OFAC but adds two refinements OFAC could adopt — a clear most-restrictive principle and an explicit duty to verify uncertain ownership.
+
+**Conforming changes noted:** amendments to § 734.9 (FDP rules); new Supplement No. 8 to Part 744 (interpretive guidance modelled on OFAC's 2014 guidance); General Order No. 7 (temporary general licence for limited transactions with non-listed affiliates).
+
+**Suspension status (editor's note):** one-year suspension from 10 November 2025 as part of the US–China arrangement, extended by BIS final rule (effective 9 November 2026) to 10 January 2027; absent further action the rule becomes operative again when the suspension ends.
+
+**Practical takeaways listed by the author:** identify diversion-risk items and end-users/destinations; use ownership-mapping screening (the Consolidated Screening List alone no longer identifies constructively listed entities); collect ownership information from higher-risk counterparties and re-verify periodically; set escalation, transaction-suspension and documentation procedures; review OFAC 50% Rule enforcement history and watch BIS enforcement; train finance, procurement and logistics staff; test controls periodically.
+
+> **Source status:** Secondary analysis (law-firm commentary). Rule references are as reported by the author and should be checked against the Federal Register text. Note that the author's exclusion of the Unverified List differs from the description in the Sullivan & Cromwell entry above; verify against the rule text before relying on either.
+
+**See also:** [OFAC UBO Aggregation & 50% Rule](../ofac-ubo-50-percent-rule.md).
+
+---
+
 ## Phase 1 Suspension — Seed Sources (Oct – Nov 2025)
 
 The entries below reflect the one-year suspension period. They serve as the baseline corpus against which the daily monitoring workflow de-duplicates new items.
