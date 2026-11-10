@@ -73,7 +73,7 @@ Analysis of how the BIS Affiliates Rule interacts with the OFAC 50% Rule to crea
 
 **URL:** <https://www.sullcrom.com/insights/memo/2025/October/BIS-Establishes-50-Percent-Rule-Certain-Restricted-End-Users>
 
-Legal memorandum covering the rule's application to Unverified List (UVL) parties and Military Intelligence End-Users (MIEUs) in addition to Entity List and MEU List parties. Addresses transitional guidance for existing contracts and the licence application process for transactions caught by the rule.
+Legal memorandum on the rule's application to the covered lists — the Entity List, the Military End-User (MEU) List and § 744.8 (certain OFAC SDN programmes). The memo does not treat the Unverified List or Denial Orders as covered. Addresses transitional guidance for existing contracts and the licence application process for transactions caught by the rule.
 
 ---
 
@@ -87,7 +87,7 @@ Side-by-side comparison of OFAC's 50 Percent Rule and the BIS Affiliates Rule (i
 
 | Dimension | OFAC 50 Percent Rule | BIS Affiliates Rule |
 |---|---|---|
-| **Scope** | Applies wherever OFAC extends it to a list or programme (SDN, plus "constructive" effects for lists such as SSI) | Entity List, MEU List and specified SDN (§ 744.8) licence requirements; per the author, the Unverified List and Denial Orders are excluded |
+| **Scope** | Applies wherever OFAC extends it to a list or programme (SDN, plus "constructive" effects for lists such as SSI) | Entity List, MEU List and specified SDN (§ 744.8) licence requirements; Unverified List and Denial Orders expressly excluded (90 FR 47201) |
 | **Multiple listed owners** | Silent on which restriction prevails | Explicit "most restrictive" principle |
 | **Uncertain ownership** | Duty to verify implicit in strict liability; licence application available before proceeding | Explicit duty via Red Flag 29 (Supp. No. 3 to Part 732): resolve ownership, obtain a licence, or identify an exception; no formal procedure for seeking a determination |
 | **Entity List address** | No equivalent carve-out | Aggregation not applied to unlisted owners merely sharing a listed address (diversion risk remains) |
@@ -103,7 +103,7 @@ Side-by-side comparison of OFAC's 50 Percent Rule and the BIS Affiliates Rule (i
 
 **Practical takeaways listed by the author:** identify diversion-risk items and end-users/destinations; use ownership-mapping screening (the Consolidated Screening List alone no longer identifies constructively listed entities); collect ownership information from higher-risk counterparties and re-verify periodically; set escalation, transaction-suspension and documentation procedures; review OFAC 50% Rule enforcement history and watch BIS enforcement; train finance, procurement and logistics staff; test controls periodically.
 
-> **Source status:** Secondary analysis (law-firm commentary). Rule references are as reported by the author and should be checked against the Federal Register text. Note that the author's exclusion of the Unverified List differs from the description in the Sullivan & Cromwell entry above; verify against the rule text before relying on either.
+> **Source status:** Secondary analysis (law-firm commentary). The UVL / Denial Order exclusion matches the Federal Register text of the interim final rule (90 FR 47201, 30 Sep 2025): BIS did not extend the rule to the UVL (affiliates may not meet the § 744.15 standard) or to Denial Order parties (separate related-persons process under § 766.23), and invited comment on whether to do so. The later stay and suspension rules do not alter this. Rule references should still be checked against the Federal Register text.
 
 **See also:** [OFAC UBO Aggregation & 50% Rule](../ofac-ubo-50-percent-rule.md).
 
