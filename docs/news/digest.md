@@ -9,6 +9,40 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-10
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[Federal Register]** [Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global (2026-11-10)](https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global)
+- **[Federal Register]** [Foreign-Trade Zone (FTZ) 216; Authorization of Production Activity; Essex Laboratories LLC; (Mint Oil Blends); Chehalis, Washington (2026-11-10)](https://www.federalregister.gov/documents/2026/11/10/2026-22935/foreign-trade-zone-ftz-216-authorization-of-production-activity-essex-laboratories-llc-mint-oil)
+- **[Federal Register]** [Notice of Petition for Extension of Waiver of Compliance (2026-11-10)](https://www.federalregister.gov/documents/2026/11/10/2026-22929/notice-of-petition-for-extension-of-waiver-of-compliance)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The Nord Stream Prosecution: Immunity, Military Objectives, and Superior Orders](https://www.justsecurity.org/163881/germany-ukraine-nord-stream-prosecution/?utm_source=rss&utm_medium=rss&utm_campaign=germany-ukraine-nord-stream-prosecution)
+- **[Just Security]** [Early Edition: November 10, 2026](https://www.justsecurity.org/163937/early-edition-november-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-10-2026)
+- **[Just Security]** [Guantanamo Dispatches: Military Judge Accepts First U.S. Navy Officer on Jury in USS Cole Bombing Case](https://www.justsecurity.org/163847/judge-accepts-navy-officer-cole-bombing-case/?utm_source=rss&utm_medium=rss&utm_campaign=judge-accepts-navy-officer-cole-bombing-case)
+- **[Just Security]** [Why the Department of Defense Should Keep its Name](https://www.justsecurity.org/163694/department-of-defense-should-keep-its-name/?utm_source=rss&utm_medium=rss&utm_campaign=department-of-defense-should-keep-its-name)
+- **[Just Security]** [Early Edition: November 9, 2026](https://www.justsecurity.org/163775/early-edition-november-9-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-9-2026)
+- **[Atlantic Council]** [What students got right about the $6 billion Binance hack, and how they would prevent the next one](https://www.atlanticcouncil.org/dispatches/what-students-got-right-about-the-6-billion-binance-hack-and-how-they-would-prevent-the-next-one/)
+- **[Atlantic Council]** [Dispatch from Berlin: What Germans most want to know about the post-midterms United States](https://www.atlanticcouncil.org/dispatches/what-germans-most-want-to-know-about-the-post-midterms-united-states/)
+- **[Atlantic Council]** [Piasecki’s research on Venezuela’s debt restructuring cited in a Congressional Research Service report](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-4/)
+- **[Atlantic Council]** [Lipsky quoted in a South China Morning Post article on how Democrats could push to rein in Trump’s tariffs and give Congress more control over trade policy](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-2/)
+- **[Atlantic Council]** [Why Belgrade’s new government should not let the Vertical Gas Corridor slip](https://www.atlanticcouncil.org/blogs/energysource/why-belgrades-new-government-should-not-let-the-vertical-gas-corridor-slip/)
+
+---
+
 ## 2026-11-10 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
