@@ -200,7 +200,7 @@ These firms publish regular, substantive alerts on export controls and sanctions
 
 | Tool | Purpose | URL |
 |---|---|---|
-| OpenSanctions | Open-source sanctions data / API (see also §1 — Multilateral) | https://www.opensanctions.org/ |
+| OpenSanctions | Open-source sanctions data / API (see also §1 — Multilateral); [FtM data-model note](screening/opensanctions-open-data-model.md) | https://www.opensanctions.org/ |
 | OFAC SDN Search | Official list search | https://sanctionssearch.ofac.treas.gov/ |
 | Consolidated Screening List (CSL) | Cross-agency US list | https://www.trade.gov/consolidated-screening-list |
 | EU Financial Sanctions Files | Machine-readable EU sanctions | https://eeas.europa.eu/headquarters/headquarters-homepage/8442/consolidated-list-sanctions_en |

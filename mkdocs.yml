@@ -118,6 +118,7 @@ nav:
     - Analysis — EU Sanctions Compliance & ACW Controls in the South Caucasus (EUNPDC, Aug 2026): cases/2026-08-eunpdc-south-caucasus-acw-sanctions-compliance.md
     - CJEU — AG Ćapeta on the Meaning of "Dual-Use Items" (C-538/25, Sep 2026): cases/2026-09-cjeu-ag-opinion-c-538-25-dual-use-concept.md
     - Control Test — Russian Personal Foundations & Kesaev v Council (Kharon, Oct 2026): cases/2026-10-kharon-russian-personal-foundations.md
+    - Analysis — BIS Enforcement Turn & the Compliance Knowledge Gap (CSIS, Nov 2026): cases/2026-11-csis-mind-the-gap-bis-enforcement.md
   - AI Frontier:
     - ai-frontier/index.md
   - Energy Sector:
@@ -132,6 +133,7 @@ nav:
     - Screening Methodology: screening/index.md
     - ICC Netherlands — Sanctions Compliance Minimum Standards (2026): screening/icc-nl-sanctions-compliance-minimum-standards.md
     - AAEI — AI in Trade Compliance (2026): screening/aaei-ai-in-trade-compliance.md
+    - OpenSanctions — Open Data Model for New Sanctions Targets (Nov 2026): screening/opensanctions-open-data-model.md
   - Compliance Clinics:
     - Overview: scenarios/index.md
     - "01 — UAE affiliate + deemed exports": scenarios/2026-uae-affiliate-deemed-export.md
