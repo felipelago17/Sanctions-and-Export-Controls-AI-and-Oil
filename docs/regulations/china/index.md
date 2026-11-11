@@ -8,6 +8,7 @@ Resources on the People's Republic of China export control framework and PRC-rel
 |---|---|
 | [China Export Control Architecture](china-export-control-architecture.md) | PRC's Export Control Law, Unified Dual-Use List, critical minerals prohibitions, Article 49 extraterritorial controls, and US–China reciprocal control dynamics |
 | [PRC Critical Minerals (Africa)](prc-critical-minerals-africa.md) | PRC-nexus screening under US energy and minerals legislation; forced-labour and affiliate-aggregation risk in African mining supply chains |
+| [EU FSR vs China's Blocking Orders (case note)](../../cases/2026-11-freshfields-fsr-china-blocking-orders.md) | April 2026 counter-extraterritoriality Regulation and blocking orders in the Nuctech and JD.com FSR investigations |
 
 ---
 

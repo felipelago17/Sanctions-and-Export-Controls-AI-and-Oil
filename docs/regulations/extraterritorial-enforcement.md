@@ -195,6 +195,8 @@ end-users require a licence even for otherwise-NLR items, through a mechanism kn
 "is informed" letter (EAR § 744.22). Receipt of such a letter is not publicly disclosed but
 eliminates the good-faith NLR defence for that end-user.
 
+**For groups caught between conflicting sovereigns:** extraterritorial reach invites counter-measures. The EU Foreign Subsidies Regulation's information powers and China's 2026 blocking orders show the pattern: a request that must be answered in one jurisdiction may be prohibited in another. Build a documented conflict-of-laws protocol (who decides, on what advice, which permission routes are pursued) before the request arrives. See [EU FSR vs China's Blocking Orders](../cases/2026-11-freshfields-fsr-china-blocking-orders.md).
+
 ---
 
 ## Primary Sources

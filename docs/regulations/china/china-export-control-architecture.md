@@ -112,6 +112,16 @@ end-user may face Chinese enforcement action regardless of where the transfer oc
     precedent. See [Extraterritorial Enforcement](../extraterritorial-enforcement.md) for the
     FDPR framework.
 
+### C-bis. Blocking Orders Against Foreign Extraterritorial Measures (2026)
+
+The outbound controls above are matched by a defensive tool. In **April 2026** the State
+Council adopted the *Regulation Countering Unlawful Extra-Territorial Jurisdiction*, and the
+Ministry of Justice has since issued blocking orders (May 2026 in the EU *Nuctech* FSR
+investigation; a second in the *JD.com* investigation) barring compliance with the
+Commission's cross-border information measures. Exposure includes a "Malicious Entity List",
+private damages suits and, for serious cases, criminal liability. Case note:
+[EU FSR Investigations vs China's Blocking Orders](../../cases/2026-11-freshfields-fsr-china-blocking-orders.md).
+
 ### D. Implementation Challenges and Opacity
 
 !!! warning "Compliance friction and non-uniform application"
@@ -263,7 +273,7 @@ announced in 2025, suggests institutional maturation of the enforcement apparatu
 | **Phase 1 — Foundations** | 2020–2022 | Oct 2020: Export Control Law enacted. Oct 2022: US introduces ECCN 3A090/4A090 AI chip controls. China advances rare earth production quotas and environmental consolidation. |
 | **Phase 2 — Tightening** | 2023–2024 | Oct 2023: US expands semiconductor equipment controls; strengthens CFIUS review. Dec 2024: China prohibits gallium, germanium, antimony, superhard materials to US. Nov 2024: China's unified dual-use list enters force. |
 | **Phase 3 — Extraterritorial** | 2025–early 2026 | Apr 2025: China expands rare earth controls to 7 elements; includes separation technologies. Oct 2025: China introduces Article 49 extraterritorial controls. Late 2025: Suspension for one year (Trump–Xi). Jan 2026: Japan military end-user ban introduced. |
-| **Phase 4 — Calibration** | 2026+ | General licences for select EU, ASEAN, Global South entities. Continued securitisation of critical mineral supply chains. Further escalation contingent on Taiwan, SCS, or semiconductor breakthroughs. |
+| **Phase 4 — Calibration** | 2026+ | General licences for select EU, ASEAN, Global South entities. Continued securitisation of critical mineral supply chains. Apr–May 2026: counter-extraterritoriality Regulation and first blocking order (EU FSR / *Nuctech*). Further escalation contingent on Taiwan, SCS, or semiconductor breakthroughs. |
 
 ---
 

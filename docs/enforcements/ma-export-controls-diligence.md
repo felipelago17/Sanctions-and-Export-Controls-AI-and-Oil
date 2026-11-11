@@ -125,6 +125,7 @@ Interview the classification owner, head of logistics, top regional sales leads,
 2. **Representations and warranties:** compliance with export controls and sanctions; completeness of disclosure of prior violations, disclosures, and government inquiries; accuracy of classifications. Note: R&W insurance frequently excludes or sub-limits trade issues.
 3. **Conditions precedent:** required regulatory notifications/approvals; completion of specified remediation items; no new listing of the target or its key customers.
 4. **Bring-down diligence:** re-screen the customer and supplier base immediately before closing — the regulatory landscape may have moved since signing.
+5. **Conflicting-sovereign information risk:** where the target has Chinese financing, owners or China-held records, plan for regulators' information requests that a foreign blocking order may prohibit; use cooperation covenants and timing/remedy allocation (see [EU FSR vs China's Blocking Orders](../cases/2026-11-freshfields-fsr-china-blocking-orders.md)).
 
 ---
 
