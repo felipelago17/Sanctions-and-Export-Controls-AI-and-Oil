@@ -238,5 +238,20 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-11-12-1020",
+    "date": "2026-11-12",
+    "event_name": "Notice of OFAC Sanctions Actions",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/11/12/C1-2026-22802/notice-of-ofac-sanctions-actions",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
