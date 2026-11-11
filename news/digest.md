@@ -9,6 +9,37 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-11
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[Federal Register]** [Notice of OFAC Sanctions Actions (2026-11-12)](https://www.federalregister.gov/documents/2026/11/12/C1-2026-22802/notice-of-ofac-sanctions-actions)
+- **[Federal Register]** [Airworthiness Directives; Dassault Aviation Airplanes (2026-11-12)](https://www.federalregister.gov/documents/2026/11/12/2026-23074/airworthiness-directives-dassault-aviation-airplanes)
+- **[Federal Register]** [Western Pacific Fishery Management Council; Public Meetings (2026-11-12)](https://www.federalregister.gov/documents/2026/11/12/2026-23066/western-pacific-fishery-management-council-public-meetings)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [What a Democratic Congress is Likely to do on Foreign Policy](https://www.justsecurity.org/163835/democratic-congress-likely-do-foreign-policy/?utm_source=rss&utm_medium=rss&utm_campaign=democratic-congress-likely-do-foreign-policy)
+- **[Just Security]** [Early Edition: November 11, 2026](https://www.justsecurity.org/164111/early-edition-november-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-11-2026)
+- **[Just Security]** [Exclusive: Judge Bars DOJ Attorney from Appearing in Case: “Deliberate Attempt to Mislead the Court”](https://www.justsecurity.org/163989/judge-bars-doj-attorney-thomas-price/?utm_source=rss&utm_medium=rss&utm_campaign=judge-bars-doj-attorney-thomas-price)
+- **[Just Security]** [The Nord Stream Prosecution: Immunity, Military Objectives, and Superior Orders](https://www.justsecurity.org/163881/germany-ukraine-nord-stream-prosecution/?utm_source=rss&utm_medium=rss&utm_campaign=germany-ukraine-nord-stream-prosecution)
+- **[Atlantic Council]** [Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-new-drone-blitz-cuts-russian-oil-refining-capacity-by-30-percent/)
+- **[Atlantic Council]** [Europe sees surge in suspected Russian hybrid warfare incidents](https://www.atlanticcouncil.org/blogs/ukrainealert/europe-sees-surge-in-suspected-russian-hybrid-warfare-incidents/)
+- **[Atlantic Council]** [Materials matter: Managing critical commodities for the next-generation energy economy](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/materials-matter-managing-critical-commodities-for-the-next-generation-energy-economy/)
+
+---
+
 ## 2026-11-11 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
