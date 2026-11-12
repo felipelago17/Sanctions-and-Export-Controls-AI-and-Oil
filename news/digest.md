@@ -9,6 +9,36 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-12
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[Federal Register]** [Notice of OFAC Sanctions Actions (2026-11-12)](https://www.federalregister.gov/documents/2026/11/12/C1-2026-22802/notice-of-ofac-sanctions-actions)
+- **[Federal Register]** [Airworthiness Directives; Dassault Aviation Airplanes (2026-11-12)](https://www.federalregister.gov/documents/2026/11/12/2026-23074/airworthiness-directives-dassault-aviation-airplanes)
+- **[Federal Register]** [Western Pacific Fishery Management Council; Public Meetings (2026-11-12)](https://www.federalregister.gov/documents/2026/11/12/2026-23066/western-pacific-fishery-management-council-public-meetings)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [How Hegseth’s Ideological Transformation Has Damaged the U.S. Military](https://www.justsecurity.org/163967/hegseth-ideological-transformation-damaged-military/?utm_source=rss&utm_medium=rss&utm_campaign=hegseth-ideological-transformation-damaged-military)
+- **[Just Security]** [Early Edition: November 12, 2026](https://www.justsecurity.org/164226/early-edition-november-12-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-12-2026)
+- **[Just Security]** [Just Security’s Russia–Ukraine War Archive](https://www.justsecurity.org/82513/just-securitys-russia-ukraine-war-archive/?utm_source=rss&utm_medium=rss&utm_campaign=just-securitys-russia-ukraine-war-archive)
+- **[Just Security]** [What a Democratic Congress is Likely to Do on Foreign Policy](https://www.justsecurity.org/163835/democratic-congress-likely-do-foreign-policy/?utm_source=rss&utm_medium=rss&utm_campaign=democratic-congress-likely-do-foreign-policy)
+- **[Just Security]** [Early Edition: November 11, 2026](https://www.justsecurity.org/164111/early-edition-november-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-11-2026)
+- **[Atlantic Council]** [Where the Russia-Ukraine peace talks stand after Abu Dhabi](https://www.atlanticcouncil.org/content-series/fastthinking/where-the-russia-ukraine-peace-talks-stand-after-abu-dhabi/)
+
+---
+
 ## 2026-11-12 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
