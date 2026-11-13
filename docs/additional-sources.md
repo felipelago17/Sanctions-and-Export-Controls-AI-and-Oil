@@ -209,4 +209,14 @@ These firms publish regular, substantive alerts on export controls and sanctions
 
 ---
 
+## 9. Books (background literature)
+
+| Book | Relevance | Pages noted |
+|---|---|---|
+| N. Watson & A. Hessami, *Safer Agentic AI* (Kogan Page, 2026) | Inference scaling; inference data reused for training; distributed training as a way round chip embargoes | 243–244, 246, 248 |
+| S. Rosenberg, *Practical AI Governance* (Kogan Page, 2026) | The irreversibility trap; see the [analytical case](cases/2026-11-irreversibility-trap-fine-tuned-weights.md) | 274 |
+| B. Christian, *The Alignment Problem* (UK paperback; confirm publisher and year) | Learning from human feedback as a training channel | 262, 264 |
+
+---
+
 *Sources monitored by `.github/workflows/daily-update.yml` (07:00 UTC daily). See also the [Primary Regulations](./regulations/primary-sources.md) page for authoritative regulatory texts.*
