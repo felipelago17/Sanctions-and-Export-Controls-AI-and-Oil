@@ -253,5 +253,65 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-11-13-9736",
+    "date": "2026-11-13",
+    "event_name": "Publication of Iran-Related Web General Licenses EE and FF",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two Iran-related general licenses (GLs): GLs EE and FF, which were made available on OFAC's website at the time o",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23197/publication-of-iran-related-web-general-licenses-ee-and-ff",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
+  },
+  {
+    "event_id": "FR-2026-11-13-1020",
+    "date": "2026-11-13",
+    "event_name": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55F and 115D",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two general licenses (GLs) issued pursuant to the Russian Harmful Foreign Activities Sanctions Regulations: GLs 5",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23196/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55f-and",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
+  },
+  {
+    "event_id": "FR-2026-11-13-4896",
+    "date": "2026-11-13",
+    "event_name": "Publication of a Cuba Sanctions Regulations Web General License",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued in the Cuba Sanctions program: GL 1. This GL was previously made available on OFAC'",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23195/publication-of-a-cuba-sanctions-regulations-web-general-license",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
+  },
+  {
+    "event_id": "FR-2026-11-13-6545",
+    "date": "2026-11-13",
+    "event_name": "Publication of Iran-Related Web General License W",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing an Iran-related general license (GL): GL W. This GL was previously made available on OFAC's website.",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23193/publication-of-iran-related-web-general-license-w",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
