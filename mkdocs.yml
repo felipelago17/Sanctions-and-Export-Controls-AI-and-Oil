@@ -83,6 +83,7 @@ nav:
       - PRC Critical Minerals (Africa): regulations/china/prc-critical-minerals-africa.md
     - UAE:
       - regulations/uae/index.md
+      - UAE Non-Proliferation Regime: regulations/uae/uae-non-proliferation-regime.md
       - BIS Affiliates Rule: regulations/uae/bis-affiliates-rule.md
   - Designations Register:
     - Index: jurisdictions/index.md
@@ -109,6 +110,8 @@ nav:
     - Ingestion Workflow: enforcements/enforcement-ingestion-workflow.md
     - Monthly Digests: enforcements/monthly-digests/index.md
   - Cases:
+    - Irreversibility Trap — Fine-Tuned Weights & Controlled Technical Data (Nov 2026): cases/2026-11-irreversibility-trap-fine-tuned-weights.md
+    - AI Diffusion Rule & ECCN 4E091 — Status (Nov 2026): cases/2026-11-ai-diffusion-rule-4e091-status.md
     - Commerce H200 Licensing to China — Empty-Office Licensees & Vetting (NYT, Nov 2026): cases/2026-11-nyt-h200-china-licensees-vetting.md
     - BIS Deemed-Export — Anthropic Fable 5 / Mythos 5 (Jun 2026): cases/2026-06-anthropic-fable-mythos-deemed-export.md
     - OFAC — Lukoil Divestment, Boehly Securities Swap & GL 131K (Nov 2026): cases/2026-11-lukoil-boehly-securities-swap-ofac.md
@@ -141,6 +144,7 @@ nav:
     - Overview: scenarios/index.md
     - "01 — UAE affiliate + deemed exports": scenarios/2026-uae-affiliate-deemed-export.md
     - "02 — BIS snap-back: mixed UAE portfolio": scenarios/2026-bis-affiliates-snapback-prep.md
+    - "03 — UAE inference residency vs fine-tuned weights": scenarios/2026-uae-inference-residency-fine-tuning.md
   - News:
     - Daily Digest: news/digest.md
 

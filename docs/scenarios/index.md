@@ -51,6 +51,7 @@ Every clinic works through these steps in sequence. The workflow integrates EAR,
 |---|---|---|---|
 | [01](2026-uae-affiliate-deemed-export.md) | UAE affiliate + PRC / Iran deemed exports | Advanced | Affiliates Rule cascade; deemed-export bifurcation; OFAC Iran screening |
 | [02](2026-bis-affiliates-snapback-prep.md) | BIS Affiliates Rule snap-back — distributor with mixed UAE customer portfolio | Intermediate | Two-party aggregation to 50%+; snap-back is automatic; licence lead time; Phase 2 applies to EAR99 items |
+| [03](2026-uae-inference-residency-fine-tuning.md) | UAE inference residency vs fine-tuned weights | Intermediate | Access vs weights; residency is not an export answer; 4E091 rule-state; UAE and US in parallel |
 | — | *[Contribute a scenario](scenario-template.md)* | — | Copy the template; follow the house style |
 
 ---

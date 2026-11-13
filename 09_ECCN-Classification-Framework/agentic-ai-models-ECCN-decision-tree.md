@@ -2,6 +2,8 @@
 
 ## Overview
 
+> **Rule-state caveat (13 Nov 2026):** Node 2 relies on the January 2025 AI Diffusion Rule. Commerce announced in May 2025 that the rule would be rescinded and not enforced, but GAO (B-337935, 12 May 2026) states that it remains legally in effect until rescinded by rulemaking. Check the current CFR text and enforcement posture before using Nodes 2–4. See `docs/cases/2026-11-ai-diffusion-rule-4e091-status.md`.
+
 This decision tree guides export control classification of agentic AI models, model weights, APIs, and associated infrastructure under the Export Administration Regulations (EAR), 15 CFR Parts 730–774.
 
 **Jurisdiction note:** This tree applies only to EAR jurisdiction. Items subject to ITAR (22 CFR 120–130) or controlled solely for AT reasons require separate analysis.
