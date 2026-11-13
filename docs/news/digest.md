@@ -9,6 +9,50 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-13
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[OFAC]** [Treasury Targets Cartel del Noreste's Horse Racing Enterprise and Expansive Criminal Network](https://home.treasury.gov/news/press-releases/sb0656/)
+- **[Federal Register]** [Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012 (2026-11-13)](https://www.federalregister.gov/documents/2026/11/13/2026-23233/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization)
+- **[Federal Register]** [Publication of Iran-Related Web General Licenses EE and FF (2026-11-13)](https://www.federalregister.gov/documents/2026/11/13/2026-23197/publication-of-iran-related-web-general-licenses-ee-and-ff)
+- **[Federal Register]** [Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55F and 115D (2026-11-13)](https://www.federalregister.gov/documents/2026/11/13/2026-23196/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55f-and)
+- **[Federal Register]** [Publication of a Cuba Sanctions Regulations Web General License (2026-11-13)](https://www.federalregister.gov/documents/2026/11/13/2026-23195/publication-of-a-cuba-sanctions-regulations-web-general-license)
+- **[Federal Register]** [Publication of Iran-Related Web General License W (2026-11-13)](https://www.federalregister.gov/documents/2026/11/13/2026-23193/publication-of-iran-related-web-general-license-w)
+- **[Federal Register]** [Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Mandatory Shrimp Vessel and Gear Characterization Survey (2026-11-13)](https://www.federalregister.gov/documents/2026/11/13/2026-23191/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Gibson Dunn Advised Sponsors on TA’ZIZ Ammonia Project Financing](https://www.gibsondunn.com/gibson-dunn-advised-sponsors-on-taziz-ammonia-project-financing/)
+- **[Gibson Dunn]** [Hart Energy Reports on Comments Made by Rahul Vashi at A&D Strategies and Opportunities Conference](https://www.gibsondunn.com/hart-energy-reports-on-comments-made-by-rahul-vashi-at-ad-strategies-and-opportunities-conference/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: November 13, 2026](https://www.justsecurity.org/164357/early-edition-november-13-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-13-2026)
+- **[Just Security]** [Just the Docs: UK Leads 53 Signatories Calling on Israel’s Government to Expand Gaza Aid](https://www.justsecurity.org/164307/gaza-call-to-action-joint-statement-humanitarian-access/?utm_source=rss&utm_medium=rss&utm_campaign=gaza-call-to-action-joint-statement-humanitarian-access)
+- **[Just Security]** [How Hegseth’s Ideological Transformation Has Damaged the U.S. Military](https://www.justsecurity.org/163967/hegseth-ideological-transformation-damaged-military/?utm_source=rss&utm_medium=rss&utm_campaign=hegseth-ideological-transformation-damaged-military)
+- **[Just Security]** [Early Edition: November 12, 2026](https://www.justsecurity.org/164226/early-edition-november-12-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-12-2026)
+- **[Atlantic Council]** [Lichfield interviewed on Bloomberg TV to discuss Nvidia’s leadership crisis and the US – China AI competition](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-5/)
+- **[Atlantic Council]** [Lichfield and de Kruijf cited in a CNN on the dynamic between Russia and the Trump administration](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-4/)
+- **[Atlantic Council]** [Lichfield quoted in a Reuters on the midterm impact on the US support for Ukraine and policy towards Russia](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-3/)
+- **[Atlantic Council]** [Tuteja interviewed on Bloomberg Tech about the implications of the midterm elections for data center development and the AI regulation](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-2/)
+- **[Atlantic Council]** [Putin’s chief negotiator vows to return ‘every inch of Russian land’ in Ukraine](https://www.atlanticcouncil.org/blogs/ukrainealert/putins-chief-negotiator-vows-to-return-every-inch-of-russian-land-in-ukraine/)
+- **[Atlantic Council]** [Moldova cuts energy dependency on Russia with landmark new power line](https://www.atlanticcouncil.org/blogs/ukrainealert/moldova-cuts-energy-dependency-on-russia-with-landmark-new-power-line/)
+- **[Atlantic Council]** [What Jensen Huang’s Nvidia exit means for Washington, Wall Street, and Beijing](https://www.atlanticcouncil.org/content-series/fastthinking/what-jensen-huangs-nvidia-exit-means-for-washington-wall-street-and-beijing/)
+- **[Atlantic Council]** [Beyond the spy scandal: What the Nvidia-Megaspeed case reveals about export controls](https://www.atlanticcouncil.org/dispatches/beyond-the-spy-scandal-what-the-nvidia-megaspeed-case-reveals-about-export-controls/)
+
+---
+
 ## 2026-11-13 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
