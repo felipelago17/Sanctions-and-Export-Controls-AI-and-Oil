@@ -9,6 +9,41 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-14
+
+### Official & Regulatory
+
+- **[OFAC]** [Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0689/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[Federal Register]** [Safety Zone; Huron River, Huron, OH (2026-11-16)](https://www.federalregister.gov/documents/2026/11/16/2026-23304/safety-zone-huron-river-huron-oh)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Matt Axelrod Discusses U.S. Export Control Bills With Dow Jones Risk](https://www.gibsondunn.com/matt-axelrod-discusses-u-s-export-control-bills-with-dow-jones-risk/)
+- **[Gibson Dunn]** [Gibson Dunn Wins Best Law Firm of the Year and Two Additional Honors at American Lawyer Industry Awards](https://www.gibsondunn.com/gibson-dunn-wins-best-law-firm-of-the-year-and-two-additional-honors-at-american-lawyer-industry-awards/)
+- **[Gibson Dunn]** [SEC Announces Fiscal Year 2026 Enforcement Results: A Year in Transition and Pieces in Place for 2027](https://www.gibsondunn.com/sec-announces-fiscal-year-2026-enforcement-results-a-year-in-transition-and-pieces-in-place-for-2027/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Just the Docs: Treasury and State Department Designate Three Guatemalan Drug Trafficking Groups as Terrorists](https://www.justsecurity.org/164471/treasury-state-guatemala-cartels-terrorist-designations/?utm_source=rss&utm_medium=rss&utm_campaign=treasury-state-guatemala-cartels-terrorist-designations)
+- **[Just Security]** [Guantanamo Dispatches: Six Jurors Chosen, 14 More Needed For First Death Penalty Tribunal At Guantanamo Bay](https://www.justsecurity.org/164450/six-jurors-chosen-death-penalty-tribunal-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=six-jurors-chosen-death-penalty-tribunal-guantanamo)
+- **[Just Security]** [Early Edition: November 13, 2026](https://www.justsecurity.org/164357/early-edition-november-13-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-13-2026)
+- **[Atlantic Council]** [Lichfield interviewed on Bloomberg TV to discuss Nvidia’s leadership crisis and the US – China AI competition](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-5/)
+- **[Atlantic Council]** [Lichfield and de Kruijf cited in a CNN on the dynamic between Russia and the Trump administration](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-4/)
+- **[Atlantic Council]** [Lichfield quoted in a Reuters on the midterm impact on the US support for Ukraine and policy towards Russia](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-3/)
+- **[Atlantic Council]** [Tuteja interviewed on Bloomberg Tech about the implications of the midterm elections for data center development and the AI regulation](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-2/)
+
+---
+
 ## 2026-11-13
 
 ### Official & Regulatory
