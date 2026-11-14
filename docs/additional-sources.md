@@ -89,6 +89,7 @@ These firms publish regular, substantive alerts on export controls and sanctions
 | WilmerHale | Trade Controls & Sanctions | https://www.wilmerhale.com/en/insights/client-alerts |
 | Sidley Austin | Export Controls & Sanctions | https://www.sidley.com/en/insights/newsupdates |
 | Steptoe | International Compliance Blog | https://www.steptoeinternationallawblog.com/ |
+| Clif Burns | ExportLawBlog (EAR, OFAC, ITAR enforcement commentary) | https://www.exportlawblog.com/ |
 | White & Case | Trade | https://www.whitecase.com/insights/topics/trade |
 | Cleary Gottlieb | Publications | https://www.clearygottlieb.com/news-and-insights/publications |
 | Sullivan & Cromwell | Memos | https://www.sullcrom.com/insights/memos |

@@ -27,6 +27,7 @@ The enforcement scanner (`regwatch.py`) runs monthly on the 1st of each month vi
 | Firm | Feed | Category |
 |---|---|---|
 | Steptoe Int'l Compliance | `steptoeinternationallawblog.com/feed/` | Law Firm Analysis |
+| ExportLawBlog (Clif Burns) | `exportlawblog.com/feed/` | Law Firm Analysis |
 | Gibson Dunn | `gibsondunn.com/feed/` | Law Firm Analysis |
 | White & Case | `whitecase.com/feed/` | Law Firm Analysis |
 | Paul Hastings | `paulhastings.com/feed/` | Law Firm Analysis |

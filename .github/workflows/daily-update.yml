@@ -106,6 +106,7 @@ jobs:
               ("Brookings",                     "https://www.brookings.edu/feed/",                         "Think Tanks & Academic"),
               # Law firm blogs
               ("Steptoe Int'l Compliance",      "https://www.steptoeinternationallawblog.com/feed/",       "Law Firm Analysis"),
+              ("ExportLawBlog (Clif Burns)",    "https://www.exportlawblog.com/feed/",                     "Law Firm Analysis"),
               ("Cleary Gottlieb",               "https://www.clearygottlieb.com/rss/",                     "Law Firm Analysis"),
               ("Gibson Dunn",                   "https://www.gibsondunn.com/feed/",                        "Law Firm Analysis"),
               ("WilmerHale",                    "https://www.wilmerhale.com/en/insights/rss",              "Law Firm Analysis"),

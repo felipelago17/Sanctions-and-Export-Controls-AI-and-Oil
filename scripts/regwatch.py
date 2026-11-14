@@ -259,6 +259,7 @@ def scrape_rss_sources():
         ("WorldECR",            "https://www.worldecr.com/feed/"),
         ("Trade Compliance Corner", "https://tradecompliancecorner.com/feed/"),
         ("Steptoe Int'l",       "https://www.steptoeinternationallawblog.com/feed/"),
+        ("ExportLawBlog",       "https://www.exportlawblog.com/feed/"),
         ("Gibson Dunn",         "https://www.gibsondunn.com/feed/"),
         ("White & Case",        "https://www.whitecase.com/insights/rss/trade"),
         ("Paul Hastings",       "https://www.paulhastings.com/insights/client-alerts/rss"),
