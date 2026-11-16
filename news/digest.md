@@ -9,6 +9,33 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-16
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [Canada Announces Additional Sanctions Under Russia and Iran Regulations](https://sanctionsnews.bakermckenzie.com/canada-announces-additional-sanctions-under-russia-and-iran-regulations/)
+- **[OFAC]** [Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0689/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[Federal Register]** [Safety Zone; Huron River, Huron, OH (2026-11-16)](https://www.federalregister.gov/documents/2026/11/16/2026-23304/safety-zone-huron-river-huron-oh)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Chasing Yalta: Putin Reverts to Goal of Dividing Europe, as U.S. Appears to Open Door](https://www.justsecurity.org/164424/putin-goal-dividing-europe-us-open-door/?utm_source=rss&utm_medium=rss&utm_campaign=putin-goal-dividing-europe-us-open-door)
+- **[Just Security]** [Early Edition: November 16, 2026](https://www.justsecurity.org/164727/early-edition-november-16-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-16-2026)
+- **[Atlantic Council]** [The rising cost of ambition in Saudi Arabia’s Vision 2030](https://www.atlanticcouncil.org/blogs/menasource/the-rising-cost-of-ambition-in-saudi-arabias-vision-2030/)
+- **[Atlantic Council]** [A new vision for the Vertical Corridor: European energy security through infrastructure optimization](https://www.atlanticcouncil.org/in-depth-research-reports/report/a-new-vision-for-the-vertical-corridor-european-energy-security-through-infrastructure-optimization/)
+
+---
+
 ## 2026-11-16 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
