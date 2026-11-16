@@ -1,5 +1,7 @@
 # AI Diffusion Rule & ECCN 4E091 — "Rescinded" but Still in the CFR (status at Nov 2026)
 
+> **Update (16 Nov 2026):** BIS released an interim final rule (RIN 0694-AK50) whose display copy, a pre-publication draft, would **formally rescind the AI Diffusion Rule** — removing ECCN 4E091, the model-weights FDP rule (§ 734.9(l)), Red Flag 28, the country tiers and Data Center VEU, and License Exceptions AIA and LPP. Until it is published in the Federal Register and takes effect, the status described below stands. See [BIS Remote-Access IFR](2026-11-bis-remote-access-ifr-744-24.md).
+
 Whether US export controls on AI model weights exist depends on which document is read. A May 2025 press release announced that the January 2025 AI Diffusion Rule was being rescinded and would not be enforced. No Federal Register document has removed the rule's text. In May 2026 the Government Accountability Office (GAO) said the rule remains legally in effect until Commerce completes a rulemaking. This page records the sequence and what it means for classification work.
 
 > **Source status:** GAO decision B-337935 was read directly. The other points rest on law-firm commentary (Akin, Baker McKenzie, Kirkland, Morrison Foerster, Sheppard Mullin). The current text of the EAR was not checked; do that at the determination date. Not legal advice.

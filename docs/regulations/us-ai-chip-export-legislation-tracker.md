@@ -2,7 +2,7 @@
 
 > **Status as of 8 November 2026.** None of the four bills is law. Three (MATCH, Chip Security, AI OVERWATCH) are carried in the **Senate FY2027 NDAA manager's amendment**; the Remote Access Security Act has passed the House and is a candidate NDAA rider. The FY2027 NDAA is headed to **conference in the lame-duck session**; the House passed its bill on 22 July 2026 and a Senate cloture vote failed on 14 July 2026. The FY2026 NDAA (signed 18 Dec 2025) dropped comparable chip provisions in conference, so survival is not assured. Anything not enacted dies sine die on **3 January 2027**.
 
-> **Update (12 Nov 2026) — administrative track:** The Information reports that Commerce is **finalising a rule** to stop Chinese AI firms remotely accessing advanced AI chips in third-country data centres. If issued, it would be the regulatory route to the same gap RASA addresses by statute. See [BIS remote-access rule](#bis-remote-access-rule-reported-nov-2026) below.
+> **Update (16 Nov 2026) — administrative track:** BIS has **released the remote-access interim final rule** (RIN 0694-AK50), adding a knowledge-based end-use control at new § 744.24 for data centres serving Macau/D:5-headquartered customers above 12,000,000 aggregate TPP, and a licence requirement for five hub countries. It is the regulatory route to the gap RASA addresses by statute. Text reviewed is a pre-publication draft; see the [case note](../cases/2026-11-bis-remote-access-ifr-744-24.md) and [BIS remote-access rule](#bis-remote-access-rule-released-16-nov-2026) below. (Earlier, 12 Nov: The Information reported Commerce was finalising the rule.)
 
 This page consolidates the four AI-hardware export-control bills that recur in the FY2027 NDAA debate, with bill numbers, committee votes and the mechanism each would add to the Export Control Reform Act (ECRA). It replaces the scattered references in [AI & Advanced Technology](ai-advanced-tech-export-controls.md) and [Chip Security Act (PBLV)](chip-security-act.md) as the single status page; those pages hold the substantive analysis.
 
@@ -92,10 +92,16 @@ Covered in depth at [Chip Security Act (PBLV)](chip-security-act.md). Key point 
 
 ---
 
+## BIS remote-access rule (released 16 Nov 2026)
+
+BIS released IFR RIN 0694-AK50 on 16 November 2026, written by and at the direction of Treasury and the National Security Council per the BIS press release. Per the display copy (pre-publication draft; provisional): new § 744.24 requires a licence where there is knowledge that items go to a data centre giving more than 12,000,000 aggregate TPP (including linked data centres) to Macau/D:5-headquartered companies; a licence is required for Indonesia, Malaysia, Singapore, Thailand and Brazil (US-headquartered end users excluded subject to § 743.10 reporting); the January 2025 AI Diffusion Rule is formally rescinded. Effect on this tracker: RASA's statutory fix is no longer the only route, but a statute would remove the dependence on BIS discretion and extend to all remote access. Full detail: [BIS Remote-Access IFR case note](../cases/2026-11-bis-remote-access-ifr-744-24.md).
+
+---
+
 ## What to Watch
 
 1. **Conference text.** Whether all three Senate-amendment bills survive, and whether RASA is attached. Past conferences stripped similar language.
-2. **BIS remote-access rule.** Publication form (interim final rule vs NPRM), scope, KYC/provider obligations, any licence exception for allied hosts, and the statutory-authority basis. Is-informed letters or Entity List action on Megaspeed remain fallback administrative steps.
+2. **BIS remote-access rule.** Federal Register publication (effective date, 60-day comment deadline), final section numbering, resolution of the draft's inconsistencies (KYC party; recommender carve-out), UAE carve-out scope, and whether Congress still pursues RASA. Is-informed letters or Entity List action on Megaspeed remain further administrative steps.
 3. **120th Congress reintroduction.** With Democratic majorities from January 2027, expect reintroduction of RASA and OVERWATCH with oversight-heavy framing; filibuster arithmetic is unchanged.
 4. **Allied response to MATCH.** Dutch and Japanese government statements; any ASML guidance on China servicing.
 
@@ -108,6 +114,7 @@ Covered in depth at [Chip Security Act (PBLV)](chip-security-act.md). Key point 
 - MATCH Act texts: House introduced text (Goodlander office PDF, Apr 2026); Senate discussion draft HLA26393 (Ricketts office)
 - Crowell & Moring via Mondaq, "House Passes Remote Access Security Act", 19 Jan 2026; H.R. 2683 engrossed text (govinfo)
 - Office of Sen. Jim Banks, "Sen. Banks secures AI OVERWATCH Act in Senate NDAA", 15 Jul 2026
+- BIS, press release "BIS Issues Rule Addressing Remote Access to American Super Intelligence Technology", 16 Nov 2026; BIS display copy of IFR RIN 0694-AK50 (bis.gov/media/documents/rin-0694-ak50.pdf)
 - Leo Schwartz, "Commerce Department Finalizing Long-Awaited AI Remote Access Rule", *The Information*, Nov 2026 (paywalled; summary only) — https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule
 - Tom's Hardware, "New US export controls reportedly target Chinese access to remote AI servers" (28 Aug 2026), relaying *The Information*'s August report
 - Foundation for American Innovation, "Strengthening the U.S. Export Control Regime" (coalition letter to House leadership)
