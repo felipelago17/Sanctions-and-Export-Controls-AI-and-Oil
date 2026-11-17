@@ -110,6 +110,7 @@ nav:
     - Ingestion Workflow: enforcements/enforcement-ingestion-workflow.md
     - Monthly Digests: enforcements/monthly-digests/index.md
   - Cases:
+    - Commerce–DOJ Joint Statement on Megaspeed Investigation (Nov 2026): cases/2026-11-commerce-doj-megaspeed-joint-statement.md
     - Irreversibility Trap — Fine-Tuned Weights & Controlled Technical Data (Nov 2026): cases/2026-11-irreversibility-trap-fine-tuned-weights.md
     - AI Diffusion Rule & ECCN 4E091 — Status (Nov 2026): cases/2026-11-ai-diffusion-rule-4e091-status.md
     - Analysis — US Export Controls May Expand via New Laws & Enforcement (Dow Jones Risk & Compliance, Nov 2026): cases/2026-11-dow-jones-export-controls-expansion.md
