@@ -135,4 +135,4 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: weekly digest update $(date -u +%Y-%m-%d)"
 
       - name: Push changes
-        run: git push
+        run: git pull --rebase origin main && git push

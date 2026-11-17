@@ -276,4 +276,4 @@ jobs:
           git add news/digest.md docs/news/digest.md
           git diff --cached --quiet && echo "No changes to commit" || \
             git commit -m "chore: daily digest update $(date -u +%Y-%m-%d)"
-          git push
+          git pull --rebase origin main && git push

@@ -52,7 +52,7 @@ jobs:
           git add news/digest.md docs/news/digest.md
           git diff --cached --quiet && echo "No changes to commit" || \
             git commit -m "chore: BIS affiliates monitor $(date -u +%Y-%m-%d)"
-          git push
+          git pull --rebase origin main && git push
 
   # ─────────────────────────────────────────────────────────────────────────────
   # JOB 2: Weekly synthesis (Monday only)
@@ -94,4 +94,4 @@ jobs:
           git add news/digest.md docs/news/digest.md
           git diff --cached --quiet && echo "No changes to commit" || \
             git commit -m "chore: BIS affiliates weekly brief $(date -u +%Y-%m-%d)"
-          git push
+          git pull --rebase origin main && git push

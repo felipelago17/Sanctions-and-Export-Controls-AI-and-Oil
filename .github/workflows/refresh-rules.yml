@@ -31,4 +31,4 @@ jobs:
           git add docs/tools/eccn-classifier/data/
           git diff --cached --quiet && echo "No changes to commit" || \
             git commit -m "chore(data): refresh ECCN/EAR snapshot $(date -u +%Y-%m-%d)"
-          git push
+          git pull --rebase origin main && git push

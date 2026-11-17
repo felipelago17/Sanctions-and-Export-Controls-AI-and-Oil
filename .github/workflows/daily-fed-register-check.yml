@@ -173,4 +173,4 @@ jobs:
           git add 07_Regulatory-Monitoring/regulatory-calendar.json
           git diff --cached --quiet && echo "No changes" || \
             git commit -m "chore: FR regulatory calendar update $(date -u +%Y-%m-%d)"
-          git push
+          git pull --rebase origin main && git push

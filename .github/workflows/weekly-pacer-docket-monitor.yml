@@ -159,4 +159,4 @@ jobs:
           git add 11_Case-Law-PACER-Tracking/pacer-tracker.json
           git diff --cached --quiet && echo "No changes" || \
             git commit -m "chore: PACER tracker update $(date -u +%Y-%m-%d)"
-          git push
+          git pull --rebase origin main && git push
