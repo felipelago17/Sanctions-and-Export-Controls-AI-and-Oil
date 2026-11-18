@@ -4,7 +4,7 @@ On **16 November 2026** the Bureau of Industry and Security (BIS) released an in
 
 This is the rule the repository has been anticipating: it converts the "access as the export" thesis into EAR text. It adds an **end-use control on data-centre compute** serving China- and D:5-headquartered customers, imposes a **destination-based licence requirement for five Southeast Asian and Latin American hubs**, and **formally rescinds the January 2025 AI Diffusion Rule**.
 
-> **Source and verification status:** The press release (BIS, 16 Nov 2026) is a primary source. The rule detail below is taken from the BIS "display copy" of the IFR (`rin-0694-ak50.pdf`), which on its face is a **pre-publication draft**: it has no Federal Register citation, and effective-date, comment-date and docket fields are placeholders. The draft contains internal inconsistencies (see below) and the portion reviewed for this note was the first part of a longer document. Treat section numbers, thresholds and dates as **provisional until the Federal Register text is published**. Some secondary outlets date the release 15 November; the BIS press release itself is dated 16 November.
+> **Source and verification status:** The press release (BIS, 16 Nov 2026) is a primary source. The rule detail below is taken from the BIS "display copy" of the IFR (`rin-0694-ak50.pdf`), which on its face is a **pre-publication draft**: it has no Federal Register citation, and effective-date, comment-date and docket fields are placeholders. The draft contains internal inconsistencies (see below) and the portion reviewed for this note was the first part of a longer document. Treat section numbers, thresholds and dates as **provisional until the Federal Register text is published**. Some secondary outlets date the release 15 November; the BIS press release itself is dated 16 November. *Update 18 Nov 2026:* a Paul Hastings client alert (17 Nov) says Federal Register publication was expected on **19 November 2026**, with the rule effective on publication; section numbers and dates below should be re-checked against that text. The alert is secondary commentary (see the practitioner-commentary section).
 
 ---
 
@@ -55,12 +55,42 @@ The draft removes ECCN **4E091** and the model-weights FDP rule (§ 734.9(l)), R
 
 ---
 
+## Practitioner commentary — Paul Hastings client alert (17 November 2026)
+
+Paul Hastings LLP (Ghavi, Gonzalez, Kleiner, Dang, Hutchison), "US Department of Commerce Issues Regulations to Restrict Remote Cloud Access", reads the same IFR (described as a 131-page rule). It is **secondary commentary**, not a primary source; its points are recorded as the firm's reading, and where it adds to or sharpens the display-copy summary above:
+
+| Point | Paul Hastings reading |
+|---|---|
+| Timing | Effective immediately on Federal Register publication, expected 19 Nov 2026; 60-day comment period; en-route shipments exempt if completed within 30 days of publication |
+| Threshold scale | The firm estimates 12,000,000 aggregate TPP is roughly **98 GB300 GPUs**; applies whether the compute sits in one data centre or in linked sites |
+| Reach | Because the control depends on an export, it effectively reaches **overseas data centres only**, not US-based ones |
+| "Running" models | The control covers compute used to train or "run" models; the IFR does not define "running" or say whether **token/API services** count |
+| "For an entity" | Read broadly: transactions on behalf of a D:5 entity, including where it is purchaser or primary remote user (>50 % of compute); also non-D:5 customers (e.g. a European company) training or supplying models to a D:5 company |
+| Commercial recommender exception | Allowed only after a submission to the **End User Review Committee** describing the company, the compute and diligence showing exclusive recommender use (reads the text as conditional) |
+| KYC | Applies to data centres, **foreign foundries and chip exporters**; refusal or inability to provide ownership information is a red flag that presumptively establishes knowledge unless resolved before the transaction |
+| Is-informed | BIS may notify specific persons, or publish in the Federal Register, that a licence is required for diversion risk, including military-intelligence end uses or users in China, Russia and other countries; State and the National Security Advisor may flag high-risk destinations, which the firm sees as bringing other agencies into a Commerce-run process |
+| Five-country licensing | Indonesia, Malaysia, Singapore, Thailand and Brazil, plus any country the Secretary designates; case-by-case, weighing the destination's export-control regime and enforcement cooperation with BIS |
+| US-headquartered exemption | Conditioned on a monthly report by the first business day of the following month, with party details and roles, ultimate destinations, and ECCN, SKU, TPP and quantity |
+| Enforcement posture | Violators are encouraged to consider a **voluntary self-disclosure** |
+| Existing operators | Data centres already serving D:5 customers above the threshold need a licence within 90 days of the effective date or risk losing the ability to procure advanced computing items |
+| Terminology | The IFR uses "super intelligence" (SI) in place of "AI", consistent with Executive Order 14434; D:5 is described as 22 arms-embargoed countries including China |
+
+**Who the firm says is affected:** data-centre operators (including in Europe and Asia), cloud and neocloud providers and hyperscalers, Chinese customers, Southeast Asian operators hosting Chinese-headquartered customers, investment funds with data-centre exposure, financial institutions and AI developers.
+
+**Practical takeaways (firm's):** (1) US data centres are not directly covered but may tighten policies toward Chinese customers; (2) overseas operators above the threshold should assess licensing and consider early engagement with regulators; (3) review offtake and capacity contracts for whether the rule is a regulatory-change event; (4) strengthen KYC on ownership and control, especially where restructuring might be used to avoid the rule; (5) watch for further licence requirements or is-informed notices.
+
+**Reading against this note:** the alert is consistent with the display-copy summary on the thresholds, KYC presumption, five-country list and transition periods. It resolves the commercial-recommender point toward "conditional on submission" and flags two gaps the draft leaves open ("running" and API services). It does not address the KYC-obligation-holder inconsistency noted below.
+
+---
+
 ## Contested and Unverified Items
 
 - **Draft status:** The display copy is a pre-publication draft; final text, section numbers and dates may differ.
 - **Internal inconsistencies flagged in the draft:** (i) whether the § 744.24(e) KYC obligation falls on the transferor (regulatory text) or the recipient (preamble); (ii) whether the commercial-recommender carve-out is a true exclusion (preamble) or conditional on a BIS submission (text); (iii) the press release's "significant volume" language versus the specific 12,000,000 aggregate TPP test.
 - **Undefined terms:** "Remote access" and "knowledge" are not defined in the portion reviewed; the "Super Intelligence" terminology replaces "AI" in the draft.
 - **Release date:** BIS press release dated 16 Nov 2026; some secondary sources say 15 Nov.
+- **"Running" and API services:** per Paul Hastings, the IFR does not define "running" a model or say whether token/API access is covered; unresolved until Federal Register text and any BIS FAQs.
+- **Federal Register date:** publication expected 19 Nov 2026 per Paul Hastings; not yet confirmed from the Federal Register.
 - **Secondary commentary:** Press characterisations (e.g. of motivations or political context) are not relied on here.
 
 ---
@@ -70,6 +100,7 @@ The draft removes ECCN **4E091** and the model-weights FDP rule (§ 734.9(l)), R
 - BIS, "BIS Issues Rule Addressing Remote Access to American Super Intelligence Technology", press release, 16 Nov 2026 (Office of Congressional and Public Affairs): <https://media.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology>
 - BIS, display copy of the interim final rule "Addressing Remote Access to Advanced Semiconductors", RIN 0694-AK50: <https://www.bis.gov/media/documents/rin-0694-ak50.pdf>
 - Secondary summaries cross-checked against the rule text: FourWeekMBA; shiftdelete.net; ai-tldr.dev; MLQ.ai (Nov 2026)
+- Paul Hastings LLP, "US Department of Commerce Issues Regulations to Restrict Remote Cloud Access", client alert, 17 Nov 2026: <https://www.paulhastings.com/thought-leadership/us-department-of-commerce-issues-regulations> (secondary; read via a fetch summary, not line by line)
 
 **Related pages in this repository**
 
@@ -81,4 +112,4 @@ The draft removes ECCN **4E091** and the model-weights FDP rule (§ 734.9(l)), R
 
 ---
 
-*Case note prepared 16 November 2026 from the BIS press release and display copy. Informational only; not legal advice. Update on Federal Register publication (effective date, comment deadline, final section numbering), any BIS FAQs, and UAE-specific guidance.*
+*Case note prepared 16 November 2026 from the BIS press release and display copy; Paul Hastings commentary added 18 November 2026. Informational only; not legal advice. Update on Federal Register publication (effective date, comment deadline, final section numbering), any BIS FAQs, and UAE-specific guidance.*
