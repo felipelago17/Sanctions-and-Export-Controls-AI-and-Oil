@@ -4,7 +4,7 @@ On **16 November 2026** the Bureau of Industry and Security (BIS) released an in
 
 This is the rule the repository has been anticipating: it converts the "access as the export" thesis into EAR text. It adds an **end-use control on data-centre compute** serving China- and D:5-headquartered customers, imposes a **destination-based licence requirement for five Southeast Asian and Latin American hubs**, and **formally rescinds the January 2025 AI Diffusion Rule**.
 
-> **Source and verification status:** The press release (BIS, 16 Nov 2026) is a primary source. The rule detail below is taken from the BIS "display copy" of the IFR (`rin-0694-ak50.pdf`), which on its face is a **pre-publication draft**: it has no Federal Register citation, and effective-date, comment-date and docket fields are placeholders. The draft contains internal inconsistencies (see below) and the portion reviewed for this note was the first part of a longer document. Treat section numbers, thresholds and dates as **provisional until the Federal Register text is published**. Some secondary outlets date the release 15 November; the BIS press release itself is dated 16 November. *Update 18 Nov 2026:* a Paul Hastings client alert (17 Nov) says Federal Register publication was expected on **19 November 2026**, with the rule effective on publication; section numbers and dates below should be re-checked against that text. The alert is secondary commentary (see the practitioner-commentary section).
+> **Source and verification status:** The press release (BIS, 16 Nov 2026) is a primary source. The rule detail below is taken from the BIS "display copy" of the IFR (`rin-0694-ak50.pdf`), which on its face is a **pre-publication draft**: it has no Federal Register citation, and effective-date, comment-date and docket fields are placeholders. The draft contains internal inconsistencies (see below) and the portion reviewed for this note was the first part of a longer document. Treat section numbers, thresholds and dates as **provisional until the Federal Register text is published**. Some secondary outlets date the release 15 November; the BIS press release itself is dated 16 November. *Update 18 Nov 2026:* a Paul Hastings client alert (17 Nov) says Federal Register publication was expected on **19 November 2026**, with the rule effective on publication; section numbers and dates below should be re-checked against that text. The alert is secondary commentary (see the practitioner-commentary section). A second alert (Ashurst Perkins Coie, 17 Nov) links the Federal Register **public-inspection document 2026-23529** and confirms publication was scheduled for 19 November; no volume or page citation had been given.
 
 ---
 
@@ -83,6 +83,33 @@ Paul Hastings LLP (Ghavi, Gonzalez, Kleiner, Dang, Hutchison), "US Department of
 
 ---
 
+## Practitioner commentary — Ashurst Perkins Coie client alert (17 November 2026)
+
+Ashurst Perkins Coie (Caridas, Herrera, Ji), "BIS issues Interim Final Rule restricting remote access to advanced US AI chips", is a second **secondary** reading of the IFR, apparently based on the public-inspection version (document 2026-23529, "Addressing Remote Access to Advanced Semiconductors"). It agrees with the display-copy summary and the Paul Hastings alert on the core structure (§ 744.24 at 12,000,000 aggregate TPP, five-country licensing, US-headquartered monthly-report exemption, 30-day and 90-day transitions, rescission of the AI Diffusion Rule). Points it adds or sharpens:
+
+| Point | Ashurst Perkins Coie reading |
+|---|---|
+| Terminology | Defines "Target Countries" as Country Group D:5 plus Macau, and the control as applying to "Target Country Companies" |
+| Threshold scale | 12,000,000 aggregate TPP is roughly **750 Nvidia H100s or 330 B200s**, aggregated across physically or digitally linked data centres (Paul Hastings gave a different GPU-equivalent estimate, ~98 GB300s; see below) |
+| Knowledge | Includes awareness of a high probability and wilful ignorance |
+| Reach | Indirect access (intermediaries training or supplying models for a Target Country Company); both **cloud and colocation** providers; no licence exceptions; case-by-case review |
+| KYC | Chip and server **suppliers** must be able to obtain and produce KYC on a data centre's customers, including direct and indirect owners; failure presumes knowledge; de minimis gives no relief for foreign-made items containing US-origin covered items |
+| Downstream notice | Exporters making unlicensed shipments must notify recipients that the items remain covered; the control binds later purchasers |
+| Five-country licensing | Applies to all covered items going to or within Indonesia, Malaysia, Singapore, Thailand and Brazil **whether or not** a data centre or Target Country Company is involved; only a short list of exceptions remains; BIS may add countries or impose countrywide restrictions on countries tolerating evasion |
+| US-headquartered exemption | Operators still need a § 744.24 licence if they serve Target Country Companies above the threshold |
+| Recommender exception | Conditioned on reporting to BIS; excludes any system including generative AI |
+| Foundries and OSATs | Licence needed for certain 3A090.a chips designed by non-approved, non-"authorized" designers; designers in Taiwan or Country Groups A:1/A:5 can obtain temporary authorization before **31 Dec 2026**, after which authorization needs a pending application for approved status and lapses 180 days after filing; advanced logic (16/14nm or below, or nonplanar) presumed controlled; transistor-count rebuttal unavailable for D:1/D:4/D:5 and five-country designers |
+| AI Diffusion rescission | Removes tiers, License Exceptions AIA and LPP, the Data Center VEU and model-weight controls; retains the Target Country Company requirement, the foreign-made-chip jurisdiction and License Exception ACM; BIS says model-weight risk will be addressed through destination- and end-use-based controls |
+| Existing operators | Those serving Target Country Companies at "significant volume" must have **obtained** (not merely applied for) a licence within 90 days of publication or face "future export restrictions"; the alert notes "significant volume" may not equal the 12,000,000 TPP test |
+| Agency posture | Says BIS's accompanying notice distances the agency from the rule's drafting, which may make BIS receptive to comment |
+| Drafting error | Points to an error in § 744.24(b)(1) |
+| Open comment issues | Measuring TPP; KYC burden against customer-confidentiality terms; meaning of "significant volume"; who holds the licence when the operator does not own the chips; treatment of AI model developers; whether certain exceptions still apply to the five countries; privacy of owner data used in KYC |
+| Context | RASA (H.R. 2683, House-passed 369–22 on 12 Jan 2026; in Senate Banking) would let BIS regulate cloud services directly and reach US-located capacity the IFR does not; the **Affiliates Rule is suspended until 10 Jan 2027**; watch items include more country designations, is-informed notices, and Entity List action against third-country compute providers |
+
+**Firm's practical takeaways:** map overseas data centres hosting covered chips and serving Target Country Companies (aggregating linked sites) and calendar deadlines; prepare licence applications now; extend KYC to ultimate parents with contractual rights to share data with suppliers and BIS, and do not use vendor percentage caps as a proxy for the threshold; update sales, ownership-change, remote-access, audit, cloud and colocation terms and allocate licence responsibility; set up monthly reporting for US-headquartered customers in the five countries; review foundry and packaging orders for designer status; complete in-transit shipments within 30 days, consider voluntary self-disclosure, and file comments in the 60-day window.
+
+---
+
 ## Contested and Unverified Items
 
 - **Draft status:** The display copy is a pre-publication draft; final text, section numbers and dates may differ.
@@ -91,6 +118,11 @@ Paul Hastings LLP (Ghavi, Gonzalez, Kleiner, Dang, Hutchison), "US Department of
 - **Release date:** BIS press release dated 16 Nov 2026; some secondary sources say 15 Nov.
 - **"Running" and API services:** per Paul Hastings, the IFR does not define "running" a model or say whether token/API access is covered; unresolved until Federal Register text and any BIS FAQs.
 - **Federal Register date:** publication expected 19 Nov 2026 per Paul Hastings; not yet confirmed from the Federal Register.
+- **GPU-equivalent estimates differ:** Ashurst Perkins Coie puts 12,000,000 TPP at roughly 750 H100s or 330 B200s; Paul Hastings at roughly 98 GB300s. Both are secondary arithmetic, not rule text; use TPP, not GPU counts, for compliance.
+- **Drafting error:** Ashurst Perkins Coie flags an error in § 744.24(b)(1); not independently verified.
+- **"Significant volume":** the 90-day licence trigger for existing operators uses this phrase, which the alert says may not equal the 12,000,000 TPP test.
+- **"Headquartered" vs "based in":** the display-copy summary above uses headquarters wording; one alert reading describes Target Country Companies more loosely (and as including subsidiaries elsewhere). Resolve against the Federal Register text.
+- **Foundry/OSAT dates:** the 31 Dec 2026 designer-authorization deadline and 180-day lapse rest on the Ashurst alert only.
 - **Secondary commentary:** Press characterisations (e.g. of motivations or political context) are not relied on here.
 
 ---
@@ -101,6 +133,7 @@ Paul Hastings LLP (Ghavi, Gonzalez, Kleiner, Dang, Hutchison), "US Department of
 - BIS, display copy of the interim final rule "Addressing Remote Access to Advanced Semiconductors", RIN 0694-AK50: <https://www.bis.gov/media/documents/rin-0694-ak50.pdf>
 - Secondary summaries cross-checked against the rule text: FourWeekMBA; shiftdelete.net; ai-tldr.dev; MLQ.ai (Nov 2026)
 - Paul Hastings LLP, "US Department of Commerce Issues Regulations to Restrict Remote Cloud Access", client alert, 17 Nov 2026: <https://www.paulhastings.com/thought-leadership/us-department-of-commerce-issues-regulations> (secondary; read via a fetch summary, not line by line)
+- Ashurst Perkins Coie, "BIS issues Interim Final Rule restricting remote access to advanced US AI chips", client alert, 17 Nov 2026: <https://www.ashurstperkinscoie.com/en/insights/bis-issues-interim-final-rule-restricting-remote-access-to-advanced-us-ai-chips/> (secondary; fetch summary only; links Federal Register public-inspection document 2026-23529)
 
 **Related pages in this repository**
 
@@ -112,4 +145,4 @@ Paul Hastings LLP (Ghavi, Gonzalez, Kleiner, Dang, Hutchison), "US Department of
 
 ---
 
-*Case note prepared 16 November 2026 from the BIS press release and display copy; Paul Hastings commentary added 18 November 2026. Informational only; not legal advice. Update on Federal Register publication (effective date, comment deadline, final section numbering), any BIS FAQs, and UAE-specific guidance.*
+*Case note prepared 16 November 2026 from the BIS press release and display copy; Paul Hastings and Ashurst Perkins Coie commentary added 18 November 2026. Informational only; not legal advice. Update on Federal Register publication (effective date, comment deadline, final section numbering), any BIS FAQs, and UAE-specific guidance.*
