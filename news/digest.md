@@ -9,6 +9,49 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-18
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [OFAC Issues General License for Russian-Origin Diesel Fuel and Extends GL 13 Payments Authorization](https://sanctionsnews.bakermckenzie.com/ofac-issues-general-license-for-russian-origin-diesel-fuel-and-extends-gl-13-payments-authorization/)
+- **[OFAC]** [Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0689/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture](https://home.treasury.gov/news/press-releases/sb0660/)
+- **[OFAC]** [Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks](https://home.treasury.gov/news/press-releases/sb0661/)
+- **[OFAC]** [U.S. Treasury Announces Record Enforcement Actions Against Bank of America](https://home.treasury.gov/news/press-releases/sb0657/)
+- **[Federal Register]** [Accepted Means of Compliance; Airworthiness Standards: Normal Category Airplanes (2026-11-18)](https://www.federalregister.gov/documents/2026/11/18/2026-23525/accepted-means-of-compliance-airworthiness-standards-normal-category-airplanes)
+- **[Federal Register]** [Protecting Consumers From SIM-Swap and Port-Out Fraud (2026-11-18)](https://www.federalregister.gov/documents/2026/11/18/2026-23522/protecting-consumers-from-sim-swap-and-port-out-fraud)
+- **[Federal Register]** [Air Plan Approval; Texas; Collin County Second 10-Year Maintenance Plan for the 2008 Lead Standard (2026-11-18)](https://www.federalregister.gov/documents/2026/11/18/2026-23519/air-plan-approval-texas-collin-county-second-10-year-maintenance-plan-for-the-2008-lead-standard)
+- **[Federal Register]** [Potassium Phosphate Salts From China; Scheduling of Expedited Five-Year Reviews (2026-11-18)](https://www.federalregister.gov/documents/2026/11/18/2026-23507/potassium-phosphate-salts-from-china-scheduling-of-expedited-five-year-reviews)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [SEC Division of Examinations Releases its List of What’s Hot & What’s Not for 2026](https://www.gibsondunn.com/sec-division-of-examinations-releases-its-list-of-whats-hot-whats-not-for-2026/)
+- **[Gibson Dunn]** [What Investment Advisers Should Expect from SEC Enforcement Post-Shutdown](https://www.gibsondunn.com/what-investment-advisers-should-expect-from-sec-enforcement-post-shutdown/)
+- **[Gibson Dunn]** [SEC Enforcement Director’s First Public Remarks Focus on Ensuring the Division Remains the Gold Standard in Securities Law Enforcement](https://www.gibsondunn.com/sec-enforcement-directors-first-public-remarks-focus-on-ensuring-the-division-remains-the-gold-standard-in-securities-law-enforcement/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The United States’ Missile Strike on Minab’s Shajareh Tayyebeh Elementary School Part II](https://www.justsecurity.org/160620/us-iran-school-missile-strike-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=us-iran-school-missile-strike-accountability)
+- **[Just Security]** [Russia’s Strikes on Ukraine’s Energy Infrastructure as a Crime Against Humanity](https://www.justsecurity.org/164565/russias-strikes-ukraines-energy-infrastructure-crime-against-humanity/?utm_source=rss&utm_medium=rss&utm_campaign=russias-strikes-ukraines-energy-infrastructure-crime-against-humanity)
+- **[Just Security]** [Early Edition: November 18, 2026](https://www.justsecurity.org/165038/early-edition-november-18-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-18-2026)
+- **[Just Security]** [The United States’ Missile Strike on Minab’s Shajareh Tayyebeh Elementary School: Part I](https://www.justsecurity.org/160956/us-missile-strike-minab-ihl-part-i/?utm_source=rss&utm_medium=rss&utm_campaign=us-missile-strike-minab-ihl-part-i)
+- **[Just Security]** [Early Edition: November 17, 2026](https://www.justsecurity.org/164914/early-edition-november-17-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-17-2026)
+- **[Atlantic Council]** [In Shenzhen, weakened giants navigate a dangerous, disorderly world](https://www.atlanticcouncil.org/content-series/inflection-points/in-shenzhen-weakened-giants-navigate-a-dangerous-disorderly-world/)
+- **[Atlantic Council]** [Russia’s colossal losses in Ukraine will not push Putin toward peace](https://www.atlanticcouncil.org/blogs/ukrainealert/russias-colossal-losses-in-ukraine-will-not-push-putin-toward-peace/)
+- **[Atlantic Council]** [Ukraine’s Crimean Bridge attack is a very personal humiliation for Putin](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-crimean-bridge-attack-is-a-very-personal-humiliation-for-putin/)
+- **[Atlantic Council]** [Positive economic statecraft in a fractured world: Development finance and cooperation as geoeconomic instruments—ASEAN in focus](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/positive-economic-statecraft-in-a-fractured-world/)
+- **[Atlantic Council]** [As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths](https://www.atlanticcouncil.org/blogs/econographics/as-the-nvidia-scandal-threatens-to-reignite-trade-tensions-at-trump-xi-talks-beijing-still-holds-the-rare-earths/)
+- **[Atlantic Council]** [What Trump, Putin, and Xi want from their meeting in Shenzhen](https://www.atlanticcouncil.org/dispatches/what-trump-putin-and-xi-want-from-their-meeting-in-shenzhen/)
+
+---
+
 ## 2026-11-18 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
