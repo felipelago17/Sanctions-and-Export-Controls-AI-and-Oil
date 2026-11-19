@@ -110,6 +110,7 @@ nav:
     - Ingestion Workflow: enforcements/enforcement-ingestion-workflow.md
     - Monthly Digests: enforcements/monthly-digests/index.md
   - Cases:
+    - SIPRI on China–USA Talks on AI (Nov 2026): cases/2026-11-sipri-china-usa-ai-talks.md
     - Dutch Government Rejects MATCH Act Extraterritorial Reach over ASML (Nov 2026): cases/2026-11-dutch-pushback-match-act-asml.md
     - Commerce–DOJ Joint Statement on Megaspeed Investigation (Nov 2026): cases/2026-11-commerce-doj-megaspeed-joint-statement.md
     - Irreversibility Trap — Fine-Tuned Weights & Controlled Technical Data (Nov 2026): cases/2026-11-irreversibility-trap-fine-tuned-weights.md
