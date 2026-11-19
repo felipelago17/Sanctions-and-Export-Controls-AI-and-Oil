@@ -9,6 +9,47 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-19
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [BIS Restricts Remote Access to Advanced AI Chips and Formally Rescinds the AI Diffusion Rule](https://sanctionsnews.bakermckenzie.com/bis-restricts-remote-access-to-advanced-ai-chips-and-formally-rescinds-the-ai-diffusion-rule/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Proxy Networks](https://home.treasury.gov/news/press-releases/sb0692/)
+- **[OFAC]** [Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0689/)
+- **[OFAC]** [Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0696/)
+- **[OFAC]** [Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia](https://home.treasury.gov/news/press-releases/sb0695/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[Federal Register]** [Privacy Act of 1974; Matching Program (2026-11-19)](https://www.federalregister.gov/documents/2026/11/19/2026-23616/privacy-act-of-1974-matching-program)
+- **[Federal Register]** [Freeport LNG Development, L.P., FLNG Liquefaction, LLC, FLNG Liquefaction 2, LLC, FLNG Liquefaction 3, LLC, FLNG Liquefaction 4, LLC; Notice of Application and Establishing Intervention Deadline (2026-11-19)](https://www.federalregister.gov/documents/2026/11/19/2026-23609/freeport-lng-development-lp-flng-liquefaction-llc-flng-liquefaction-2-llc-flng-liquefaction-3-llc)
+- **[Federal Register]** [Agency Information Collection Activity Under OMB Review: Mandatory Verification of Dependents (2026-11-19)](https://www.federalregister.gov/documents/2026/11/19/2026-23606/agency-information-collection-activity-under-omb-review-mandatory-verification-of-dependents)
+- **[Federal Register]** [Medicare Program; CY 2027 Part A Premiums for the Uninsured Aged and for Certain Disabled Individuals Who Have Exhausted Other Entitlement (2026-11-19)](https://www.federalregister.gov/documents/2026/11/19/2026-23604/medicare-program-cy-2027-part-a-premiums-for-the-uninsured-aged-and-for-certain-disabled-individuals)
+- **[Federal Register]** [Medicare Program; CY 2027 Inpatient Hospital Deductible and Hospital and Extended Care Services Coinsurance Amounts (2026-11-19)](https://www.federalregister.gov/documents/2026/11/19/2026-23603/medicare-program-cy-2027-inpatient-hospital-deductible-and-hospital-and-extended-care-services)
+- **[Federal Register]** [Medicare Program; Medicare Part B Monthly Actuarial Rates, Premium Rates, and Annual Deductible Beginning January 1, 2027 (2026-11-19)](https://www.federalregister.gov/documents/2026/11/19/2026-23601/medicare-program-medicare-part-b-monthly-actuarial-rates-premium-rates-and-annual-deductible)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [BIS Expands Advanced Computing Controls to Address Data Center Remote Access and Third Country Diversion](https://www.gibsondunn.com/bis-expands-advanced-computing-controls-to-address-data-center-remote-access-and-third-country-diversion/)
+- **[Gibson Dunn]** [Media Highlight Gibson Dunn’s Addition of “Marquee Dealmaker” Clay Brett in Houston](https://www.gibsondunn.com/media-highlight-gibson-dunns-addition-of-marquee-dealmaker-clay-brett-in-houston/)
+- **[Gibson Dunn]** [Media Report Gibson Dunn Adds ‘Firepower’ to Energy and Infrastructure Practice Group With Arrival of Gianluca Bacchiocchi](https://www.gibsondunn.com/media-report-gibson-dunn-adds-firepower-to-energy-and-infrastructure-practice-group-with-arrival-of-gianluca-bacchiocchi/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: November 19, 2026](https://www.justsecurity.org/165250/early-edition-november-19-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-19-2026)
+- **[Atlantic Council]** [Toplines: Why and how the United States and its allies should prepare for a limited nuclear attack](https://www.atlanticcouncil.org/in-depth-research-reports/toplines-why-and-how-the-united-states-and-its-allies-should-prepare-for-a-limited-nuclear-attack/)
+- **[Atlantic Council]** [Donald Tusk, Chris Wright, and Miłosz Motyka on the mindset shift needed across the energy system](https://www.atlanticcouncil.org/commentary/event-recap/donald-tusk-chris-wright-and-milosz-motyka-on-the-mindset-shift-needed-across-the-energy-system/)
+- **[Atlantic Council]** [Dispatch from Kyiv: Let Ukraine strike Russia’s missile launchers at the source](https://www.atlanticcouncil.org/dispatches/dispatch-from-kyiv-let-ukraine-strike-russias-missile-launchers-at-the-source/)
+- **[Atlantic Council]** [Lichfield cited in a The Diplomatic Insight article on Trump’s Russian diesel deal and congressional opposition](https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-6/)
+- **[Atlantic Council]** [Lichfield quoted in CNN on the impact of the Russian sanctions waiver on US importers](https://www.atlanticcouncil.org/insight-impact/in-the-news/lichfield-quoted-in-cnn-on-the-impact-of-the-russian-sanctions-waiver-on-us-importers/)
+- **[Atlantic Council]** [In Shenzhen, weakened giants navigate a dangerous, disorderly world](https://www.atlanticcouncil.org/content-series/inflection-points/in-shenzhen-weakened-giants-navigate-a-dangerous-disorderly-world/)
+
+---
+
 ## 2026-11-19 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
