@@ -110,6 +110,30 @@ Ashurst Perkins Coie (Caridas, Herrera, Ji), "BIS issues Interim Final Rule rest
 
 ---
 
+## Policy analysis — CSIS "Critical Questions" (18 November 2026)
+
+Kate Koren and Kevin Kurland (CSIS Economics Program), "New Export Controls on Remote Access: The Implications for Industry and Competition with China", is a **secondary** think-tank analysis (read via a fetch summary, not line by line). It is more evaluative than the law-firm alerts. Points it adds:
+
+| Point | CSIS reading |
+|---|---|
+| Legal theory | Past BIS advisory opinions held cloud services are not "exports"; the IFR instead controls the **end use of exported hardware** |
+| Prior coverage | Item-based licensing previously covered 45 country-group countries (D:1, D:4, D:5) and D:5-headquartered companies, but not Southeast Asian transshipment hubs |
+| Retroactivity | Applies to **previously exported hardware**; existing data centres serving restricted users have 90 days to stop or obtain a licence; shifting compute allocation above the threshold to restricted users without a licence counts as an export violation |
+| Past exposure | The rule says licence requirements have always applied to sales "on behalf of" restricted-country-headquartered companies, so exporters who knowingly sent chips to Southeast Asian data centres for Chinese customers may face enforcement exposure; the authors point to voluntary self-disclosure to BIS Export Enforcement |
+| Threshold scale | 12 million TPP is roughly **750 H200 GPUs or about 42 Vera Rubin systems**; the authors call it low by data-centre standards |
+| KYC | "Sufficient" KYC information is undefined; expect **over-compliance** (firms restricting sales to avoid risk) |
+| Licensing capacity | The low threshold could delay data-centre build-outs while applications wait in an already overburdened licensing system (citing CSIS survey findings) |
+| Singapore | Stands out for existing strategic-goods controls and an enforcement record; licensing criteria on destination export-control effectiveness may push hubs to strengthen regimes and cooperation with BIS |
+| Effectiveness | Likely to slow Chinese frontier-AI development at least in the short term by adding time, cost and friction to diversion networks; state-funded procurement networks will likely reroute; sustaining effect needs continued diligence, willingness to add high-risk countries and to remove those that act on diversion |
+| Recommender loophole | The exception may be exploited; exclusivity is hard for data centres to verify; CSIS describes it as requiring **documentation but no prior approval** |
+| 1260H list | The rule does not reference the Pentagon's 1260H list of Chinese military companies, so listed firms (the authors cite Alibaba) could presumably use the recommender exception |
+| Discretion | Case-by-case review leaves BIS room to adjust strictness and will likely generate interagency debate over approvals and denials |
+| Politics | Issued days before a Trump–Xi meeting in Shenzhen (19 Nov, the effective date); a Chinese response is expected; congressional, Treasury and State pressure for tighter controls has grown, but the President has so far backed the Commerce Secretary |
+
+**Open questions the authors raise:** what counts as sufficient KYC; how the recommender exception will be verified; whether 1260H status will matter; how BIS will handle the licence backlog and what standards apply; how firmly the hub-country list will be enforced and how countries can be removed.
+
+---
+
 ## Contested and Unverified Items
 
 - **Draft status:** The display copy is a pre-publication draft; final text, section numbers and dates may differ.
@@ -123,6 +147,10 @@ Ashurst Perkins Coie (Caridas, Herrera, Ji), "BIS issues Interim Final Rule rest
 - **"Significant volume":** the 90-day licence trigger for existing operators uses this phrase, which the alert says may not equal the 12,000,000 TPP test.
 - **"Headquartered" vs "based in":** the display-copy summary above uses headquarters wording; one alert reading describes Target Country Companies more loosely (and as including subsidiaries elsewhere). Resolve against the Federal Register text.
 - **Foundry/OSAT dates:** the 31 Dec 2026 designer-authorization deadline and 180-day lapse rest on the Ashurst alert only.
+- **Third GPU-equivalent estimate:** CSIS puts 12 million TPP at roughly 750 H200s or about 42 Vera Rubin systems, alongside Ashurst (750 H100s / 330 B200s) and Paul Hastings (~98 GB300s). The H100/H200 figures coincide but name different chips. Treat all as secondary arithmetic; use TPP.
+- **Recommender exception, three readings:** Paul Hastings says access is allowed only after a submission to the End User Review Committee; Ashurst says it is conditioned on reporting to BIS; CSIS says it needs documentation but no prior approval. The draft itself was already flagged as internally inconsistent on this point. **Unresolved until the Federal Register text is read.**
+- **Retroactive effect:** CSIS reads the rule as applying to hardware already exported (90-day window); the law-firm alerts frame the 90 days as a licence deadline for existing operators. Consistent in effect, but CSIS's "retroactive" label and its statement about past "on behalf of" exposure are the authors' characterisation, not rule text I have read.
+- **Effective date:** CSIS gives 19 Nov 2026 as the effective date; not yet confirmed from the Federal Register.
 - **Secondary commentary:** Press characterisations (e.g. of motivations or political context) are not relied on here.
 
 ---
@@ -134,6 +162,7 @@ Ashurst Perkins Coie (Caridas, Herrera, Ji), "BIS issues Interim Final Rule rest
 - Secondary summaries cross-checked against the rule text: FourWeekMBA; shiftdelete.net; ai-tldr.dev; MLQ.ai (Nov 2026)
 - Paul Hastings LLP, "US Department of Commerce Issues Regulations to Restrict Remote Cloud Access", client alert, 17 Nov 2026: <https://www.paulhastings.com/thought-leadership/us-department-of-commerce-issues-regulations> (secondary; read via a fetch summary, not line by line)
 - Ashurst Perkins Coie, "BIS issues Interim Final Rule restricting remote access to advanced US AI chips", client alert, 17 Nov 2026: <https://www.ashurstperkinscoie.com/en/insights/bis-issues-interim-final-rule-restricting-remote-access-to-advanced-us-ai-chips/> (secondary; fetch summary only; links Federal Register public-inspection document 2026-23529)
+- Kate Koren and Kevin Kurland, "New Export Controls on Remote Access: The Implications for Industry and Competition with China", CSIS Critical Questions, 18 Nov 2026: <https://www.csis.org/analysis/new-export-controls-remote-access-implications-industry-and-competition-china> (secondary; think-tank analysis; fetch summary only)
 
 **Related pages in this repository**
 
@@ -145,4 +174,4 @@ Ashurst Perkins Coie (Caridas, Herrera, Ji), "BIS issues Interim Final Rule rest
 
 ---
 
-*Case note prepared 16 November 2026 from the BIS press release and display copy; Paul Hastings and Ashurst Perkins Coie commentary added 18 November 2026. Informational only; not legal advice. Update on Federal Register publication (effective date, comment deadline, final section numbering), any BIS FAQs, and UAE-specific guidance.*
+*Case note prepared 16 November 2026 from the BIS press release and display copy; Paul Hastings and Ashurst Perkins Coie commentary added 18 November 2026; CSIS analysis added 19 November 2026. Informational only; not legal advice. Update on Federal Register publication (effective date, comment deadline, final section numbering), any BIS FAQs, and UAE-specific guidance.*
