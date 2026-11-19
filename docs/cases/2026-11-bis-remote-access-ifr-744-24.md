@@ -134,6 +134,40 @@ Kate Koren and Kevin Kurland (CSIS Economics Program), "New Export Controls on R
 
 ---
 
+## Practitioner commentary — Gibson Dunn client alert (18 November 2026)
+
+Gibson Dunn (Timura, Bhavsar, Chae, Holmberg, Axelrod), "BIS Expands Advanced Computing Controls to Address Data Center Remote Access and Third Country Diversion", is the most section-by-section **secondary** reading so far (PDF read via a fetch summary, not line by line). It is consistent with the other alerts on the core structure and answers several open points. Points it adds or settles:
+
+| Point | Gibson Dunn reading |
+|---|---|
+| Status | Effective on Federal Register publication; as of 17 Nov the public-inspection version was scheduled for 19 Nov, and the alert does not confirm the final date; comments due 60 days after publication; rollout described as unusually rushed (the first public version carried internal confidentiality markers) |
+| Covered companies | Companies **headquartered in, or whose ultimate parent is headquartered in**, Macau or a Country Group D:5 destination; the alert does **not** use a defined "Target Country" term |
+| Item-based control | § 744.24 regulates **items, not remote access as such**; a change in end use at an existing overseas facility can be an in-country transfer needing a licence |
+| Threshold scale | 12,000,000 aggregate TPP across one or **digitally linked** data centres, which the alert puts at roughly **200 of one GPU maker's top chips**, so smaller deployments can be covered |
+| Knowledge and KYC | Knowledge includes awareness of a high probability and conscious disregard; exporters should obtain sufficient information on the data centre's own KYC, including D:5 or Macau ownership or control; refusal is a presumptive red flag unless resolved before the transaction; the diligence scope ("located in") is **broader than the licence trigger ("headquartered in")** |
+| Five-country licensing | Indonesia, Malaysia, Singapore, Thailand and Brazil need licences for advanced computing items, including in-country transfers; case-by-case; limited exceptions remain (TMP, NAC/ACA, RPL, GOV, TSU, HBM, ACM) |
+| US-headquartered exemption | No licence for recipients headquartered in, or with an ultimate parent in, the US, conditioned on **monthly § 743.10 reports** due the first business day of the next month; missed or deficient reports put it at risk; it does **not** cover the end-use controls in §§ 744.23 and 744.24 |
+| Recommender exclusion | Applies only to § 744.24 (not § 744.23) and only where access is solely for a "commercial recommender system" exclusively designed and used to rank, filter or suggest commercial products, services or content; requires a **submission to BIS** naming the covered company, aggregate TPP and diligence, shared with the End-User Review Committee; systems that generate novel content, or incorporate such a model, are excluded |
+| § 744.23(a)(3) "for" reading | BIS states the control has always reached transactions where a covered company was the purchaser (directly or indirectly) or the exclusive or primary remote user (**preamble cites more than 50 % of compute**); no volume threshold; presumption of denial subject to § 744.23(d); BIS invites voluntary self-disclosure |
+| Foundries and OSATs | New § 744.23(a)(3)(i)(C): licence for certain 3A090.a ICs designed by a company that is neither an approved nor an authorized designer; transistor-count attestation unavailable for designers headquartered in D:1, D:4, D:5 or the five countries; under a **separate April 2026 rule**, after **31 Dec 2026** authorized designers must apply for approved status, and authorized status expires 180 days after application |
+| AI Diffusion rescission | Removes ECCN 4E091, the model-weight FDP rule, License Exceptions AIA and LPP, the Supplement No. 5 favoured-destination list and the Data Center VEU; keeps the advanced-computing FDP rule, License Exception ACM and the VEU for listed end users in China and India |
+| Transitions | 90 days for existing operators serving covered companies at significant volume, who must **obtain** a licence (not merely apply); licences with a China nexus are rarely processed in 90 days and BIS may clarify or extend; the rule does not address pending applications at expiry; 30 days for shipments en route on publication under actual orders, which the alert says offers little comfort to newly covered companies |
+| Review policy | § 744.24 case-by-case; § 744.23 presumption of denial; revised § 742.6 presumption of denial with an overlapping policy-priority clause; five countries case-by-case, weighing export-control effectiveness and enforcement cooperation |
+
+**The firm's analysis:**
+
+- BIS's reading of § 744.23(a)(3) as **existing law** could create civil-penalty exposure for past transactions, especially purpose-built facilities for a specific PRC customer; multi-tenant facilities are harder.
+- The 50 % figure appears only in the preamble, so it may **not** be a safe harbour.
+- The rule was issued **without notice and comment**; further guidance is expected.
+- Remote access to hardware **located in the US** does not appear to be covered, though other restrictions may apply.
+- Open questions: how the threshold is measured (per company or across all covered companies; installed, contracted or used capacity; over what period); the meaning of "headquartered" and "control"; treatment of model developers serving Chinese customers; BIS's enforcement appetite.
+- The Remote Access Security Act (H.R. 2683; House-passed January 2026; pending in the Senate) would give BIS direct authority over remote access.
+- The alert notes the commercial-recommender text is internally inconsistent: § 744.24(b)(2) sets no time limit, but the 90-day provision in the same paragraph and a preamble statement suggest the exclusion may be temporary; the firm reads the preamble statement as referring to § 744.23, which has no such exclusion, and flags it for BIS.
+
+**Firm's practical takeaways:** exporters should update end-use certifications, treat customer refusals as red flags and include the § 744.24 notice in sales documents; data-centre operators should map customers against headquarters and ownership/control tests, aggregate TPP across linked sites and assess licence or recommender needs within the 90-day window; operators with past third-country arrangements should assess exposure and consider voluntary self-disclosure; operators in the five countries should determine licence needs, confirm the US-headquartered exemption and set up reporting; foundries and packagers should confirm designer status and review custom-chip programmes; investors and lenders should assess contracted capacity serving covered companies and what happens to revenue if it cannot lawfully be delivered.
+
+---
+
 ## Contested and Unverified Items
 
 - **Draft status:** The display copy is a pre-publication draft; final text, section numbers and dates may differ.
@@ -151,6 +185,11 @@ Kate Koren and Kevin Kurland (CSIS Economics Program), "New Export Controls on R
 - **Recommender exception, three readings:** Paul Hastings says access is allowed only after a submission to the End User Review Committee; Ashurst says it is conditioned on reporting to BIS; CSIS says it needs documentation but no prior approval. The draft itself was already flagged as internally inconsistent on this point. **Unresolved until the Federal Register text is read.**
 - **Retroactive effect:** CSIS reads the rule as applying to hardware already exported (90-day window); the law-firm alerts frame the 90 days as a licence deadline for existing operators. Consistent in effect, but CSIS's "retroactive" label and its statement about past "on behalf of" exposure are the authors' characterisation, not rule text I have read.
 - **Effective date:** CSIS gives 19 Nov 2026 as the effective date; not yet confirmed from the Federal Register.
+- **Fourth GPU-equivalent estimate:** Gibson Dunn puts 12,000,000 TPP at roughly 200 of one GPU maker's top chips, against CSIS (750 H200s / ~42 Vera Rubin systems), Ashurst (750 H100s / 330 B200s) and Paul Hastings (~98 GB300s). Estimates differ by chip generation and method; use TPP, not GPU counts.
+- **Recommender exclusion, now four readings:** Gibson Dunn's description (BIS submission naming the covered company, aggregate TPP and diligence, shared with the End-User Review Committee; exclusive ranking/filtering/suggesting use; generative-AI systems excluded) matches Paul Hastings and is closest to the draft's "conditional on a submission" reading. Ashurst ("reporting to BIS") and CSIS ("documentation but no prior approval") differ in emphasis. Gibson Dunn also flags a possible temporal limit (§ 744.24(b)(2) vs the 90-day provision and a preamble statement). **Still unresolved until the Federal Register text is read.**
+- **"Headquartered" and "Target Country":** Gibson Dunn defines covered companies as those headquartered in, or with an ultimate parent headquartered in, Macau or Country Group D:5, and does not use a "Target Country" term (Ashurst does; likely the firm's own label). Gibson Dunn notes KYC scope ("located in") is broader than the licence trigger ("headquartered in"). Confirm against the Federal Register text.
+- **Foundry/OSAT dates, corroborated:** Gibson Dunn also gives 31 Dec 2026 and the 180-day lapse, attributing them to a separate April 2026 rule; the underlying rule has not been read here.
+- **Federal Register publication:** scheduled for 19 Nov 2026 per Gibson Dunn (as of 17 Nov) and others; a search on 19–20 Nov found **no Federal Register confirmation**. Treat the date as unconfirmed.
 - **Secondary commentary:** Press characterisations (e.g. of motivations or political context) are not relied on here.
 
 ---
@@ -163,6 +202,7 @@ Kate Koren and Kevin Kurland (CSIS Economics Program), "New Export Controls on R
 - Paul Hastings LLP, "US Department of Commerce Issues Regulations to Restrict Remote Cloud Access", client alert, 17 Nov 2026: <https://www.paulhastings.com/thought-leadership/us-department-of-commerce-issues-regulations> (secondary; read via a fetch summary, not line by line)
 - Ashurst Perkins Coie, "BIS issues Interim Final Rule restricting remote access to advanced US AI chips", client alert, 17 Nov 2026: <https://www.ashurstperkinscoie.com/en/insights/bis-issues-interim-final-rule-restricting-remote-access-to-advanced-us-ai-chips/> (secondary; fetch summary only; links Federal Register public-inspection document 2026-23529)
 - Kate Koren and Kevin Kurland, "New Export Controls on Remote Access: The Implications for Industry and Competition with China", CSIS Critical Questions, 18 Nov 2026: <https://www.csis.org/analysis/new-export-controls-remote-access-implications-industry-and-competition-china> (secondary; think-tank analysis; fetch summary only)
+- Chris Timura, Dharak Bhavsar, Soo-Min Chae, Erika Holmberg and Matt Axelrod, "BIS Expands Advanced Computing Controls to Address Data Center Remote Access and Third Country Diversion", Gibson Dunn client alert, 18 Nov 2026: <https://www.gibsondunn.com/wp-content/uploads/2026/11/bis-expands-advanced-computing-controls-to-address-data-center-remote-access-and-third-country-diversion.pdf> (secondary; fetch summary only)
 
 **Related pages in this repository**
 
@@ -174,4 +214,4 @@ Kate Koren and Kevin Kurland (CSIS Economics Program), "New Export Controls on R
 
 ---
 
-*Case note prepared 16 November 2026 from the BIS press release and display copy; Paul Hastings and Ashurst Perkins Coie commentary added 18 November 2026; CSIS analysis added 19 November 2026. Informational only; not legal advice. Update on Federal Register publication (effective date, comment deadline, final section numbering), any BIS FAQs, and UAE-specific guidance.*
+*Case note prepared 16 November 2026 from the BIS press release and display copy; Paul Hastings and Ashurst Perkins Coie commentary added 18 November 2026; CSIS analysis added 19 November 2026; Gibson Dunn alert added 20 November 2026. Informational only; not legal advice. Update on Federal Register publication (effective date, comment deadline, final section numbering), any BIS FAQs, and UAE-specific guidance.*
