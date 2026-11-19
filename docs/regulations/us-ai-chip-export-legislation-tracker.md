@@ -19,6 +19,8 @@ This page consolidates the four AI-hardware export-control bills that recur in t
 
 Bill numbers for MATCH, OVERWATCH, Chip Security and RASA are as stated in the FDD Action coalition letter of 17 June 2026; confirm on Congress.gov before citing in filings.
 
+*Update 19 Nov 2026:* the Dutch Foreign Ministry publicly rejected the MATCH Act's extraterritorial reach on 18 Nov (reported by Politico Europe; secondary sources only); see [the case note](../cases/2026-11-dutch-pushback-match-act-asml.md).
+
 ---
 
 ## What Each Bill Changes — Compliance View
