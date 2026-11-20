@@ -1,8 +1,8 @@
 # House China Committee Opens a Bipartisan Inquiry into Mercedes-Benz's Chinese Shareholders (Letter of 16 November 2026)
 
-The chair and the ranking member of the **House Select Committee on China** (Rep. John Moolenaar, R-Michigan, and Rep. Ro Khanna, D-California) wrote to **Mercedes-Benz** in a letter dated **16 November 2026** and released on **17 November**, asking detailed questions about its Chinese shareholders, their influence, and its technology partnerships in China. The letter is addressed to Mercedes-Benz North America's CEO and to the group chairman and CEO, and sets a **1 December 2026** deadline (per VOA). It is relevant to this repository as an example of **ownership-and-influence scrutiny of a non-US multinational by Congress**, running beside the sanctions and export-control rules that look through ownership.
+The chair and ranking member of the **House Select Committee on China** (Rep. John Moolenaar, R-Michigan, and Rep. Ro Khanna, D-California) asked **Mercedes-Benz** for answers to about two dozen questions on its Chinese shareholders, their influence and its technology partnerships in China, in a letter **first reported by Reuters on 17 November 2026** (VOA dates the letter 16 November). **Answers and documents are due 1 December 2026**, and the committee also wants to meet Mercedes-Benz North America CEO Jason Hoff. The inquiry comes while Congress weighs legislation that would bar Chinese-linked vehicles from the US market, and a senator quoted by Reuters says the final bill will not ban Mercedes-Benz. It is relevant here as **ownership-and-influence scrutiny of a non-US multinational by Congress**, running beside the sanctions and export-control rules that look through ownership.
 
-> **Source and verification status:** The Reuters report (David Shepardson, 17 Nov 2026) could not be opened (the site is blocked for the fetch tool, and no mirror or syndicated copy was used); only headline and lede excerpts from search results were seen. The detailed account below rests on **Voice of America's report (19 Nov 2026)**, read in full via a fetch summary. The letter itself was **not** read. Press accounts differ on the date and deadline (see below). Nothing here is a finding of wrongdoing; Mercedes-Benz disputes any suggestion that it is a security risk. Not legal advice.
+> **Source and verification status:** The full text of the Reuters report (David Shepardson, 17 Nov 2026) was supplied by the user and read in full; Reuters was not fetched directly. Voice of America's report (19 Nov 2026) was read as a fetch summary. The letter itself was **not** read; its wording is known only through Reuters's quotations. Nothing here is a finding of wrongdoing; Mercedes-Benz says any suggestion that it opposes US national-security objectives is incorrect. Not legal advice.
 
 ---
 
@@ -10,21 +10,24 @@ The chair and the ranking member of the **House Select Committee on China** (Rep
 
 | Item | Reported content |
 |---|---|
-| Letter | Dated 16 Nov 2026 and released 17 Nov; signed by the Select Committee's Republican chair and ranking Democrat; recipients are the CEO of Mercedes-Benz North America and the chairman and CEO of Mercedes-Benz Group |
-| Concern | Chinese shareholders, including **BAIC (Beijing Automotive Group)** and entities linked to **Geely's founder**, reportedly hold about **20 %** of Mercedes-Benz; their voting power at shareholder meetings may be higher; the committee wants to know their influence and whether they could reach sensitive information (Reuters's excerpt quotes the letter as calling the ownership a significant risk, compounded by who the shareholders are and the operational influence they appear to exert) |
-| Information requested | Relationships with BAIC, Geely's founder and other Chinese firms; how Beijing may influence strategic decisions; what technology is shared with Chinese partners and whether they can access proprietary R&D; partnerships with lidar maker **Hesai**, **Tencent** and autonomous-driving start-up **Momenta**; Chinese-made components in vehicles made or sold in the US; contacts with Chinese government officials |
-| Deadline | Records and responses due **1 December 2026**, with a document-preservation request (VOA); one aggregator gives 6 December, which looks like an error |
-| Purpose | Supports the committee's oversight of national-security and supply-chain risks and informs legislation on Chinese cars in the US |
-| Company response | Mercedes-Benz says it received the letter and will cooperate, operates independently under its board of management, has long supported US national-security efforts, and that its shareholders have no management-board seats or management authority |
-| Legislative context | The **Connected Vehicle Security Act**, a bipartisan Senate bill, would ban import, manufacture and sale of internet-connected vehicles and related software and hardware linked to China and other US-defined foreign adversaries, and bar automakers **more than 15 % owned** by such entities; reported to have cleared the Senate Commerce Committee in July and made little progress since; a similar House bill has been introduced; the auto industry's trade group urged passage before year-end (September) |
+| Letter | Described by Reuters as "previously unreported" and seen by it; Reuters says the committee asked "on Wednesday" under a 17 Nov dateline, VOA says the letter is dated 16 Nov. The date is unresolved |
+| Concern | The roughly **20 %** Chinese stake presents significant risks; the letter says the concern is compounded by the nature of the shareholders and the operational influence they appear to exert over the company |
+| Holders | Per Reuters, state-owned **BAIC Group** holds nearly 10 %, and so does **Li Shufu**, chair of **Geely**; Geely had not commented |
+| Information requested | About two dozen questions and documents: relationships with BAIC, Geely's founder and other Chinese firms; how Beijing may influence strategy; what technology is shared and whether Chinese partners can reach proprietary R&D; partnerships with **Hesai**, **Tencent** and **Momenta**; Chinese-made components in US vehicles; contacts with Chinese officials; document preservation (VOA) |
+| Deadline | **1 December 2026** (Reuters and VOA agree); the committee also wants a meeting with Jason Hoff |
+| Stated purpose | Answers would help Congress as it considers legislation "to mitigate the profound threat" from Chinese cars in the US market |
+| Company response | Mercedes-Benz will cooperate; it operates independently under its board of management; its shareholders have no management-board seats or management authority |
+| Legislation | Legislation approved by the **Senate Commerce Committee in July** would bar companies more than **15 %** owned by Chinese entities from selling vehicles in the US (Reuters); VOA calls it the Connected Vehicle Security Act and says it has made little progress |
+| Senator's statement | Sen. Bernie Moreno (R) said the final legislation will ensure Mercedes-Benz is not banned, hoped for action "as soon as this week", and said there were talks on keeping Volvo Cars (majority-owned by Geely) selling in the US |
+| Wider context | President Trump said in September he would accept Chinese carmakers building cars in the US, alarming automakers, suppliers and dealers, who urged him to keep the door shut; a Biden-era regulation from early 2025 effectively bars Chinese automakers from selling or building passenger vehicles in the US over driver-data risk; US tariffs on Chinese EVs exceed 100 % |
 
-**Date discrepancy:** the Reuters excerpts say the committee asked "on Wednesday" under a 17 Nov dateline, while VOA says the letter was dated 16 Nov and released Tuesday (17 Nov). The VOA account is used here.
+---
 
 ---
 
 ## Why it matters for sanctions and export-control practice
 
-1. **Ownership and influence tests.** The inquiry tests how much a minority holder with a significant stake can influence strategy and access information, the same question that drives the [OFAC 50 % rule](../regulations/ofac-ubo-50-percent-rule.md) and the [BIS Affiliates Rule](../regulations/uae/bis-affiliates-rule.md). A bill with a **15 % ownership threshold** would set a lower line than either, and not tied to listed persons.
+1. **Ownership and influence tests.** The inquiry tests how much a minority holder with a significant stake can influence strategy and access information, the same question that drives the [OFAC 50 % rule](../regulations/ofac-ubo-50-percent-rule.md) and the [BIS Affiliates Rule](../regulations/uae/bis-affiliates-rule.md). A bill with a **15 % ownership threshold** would set a lower line than either and is not tied to listed persons, although its sponsor says Mercedes-Benz would be spared in the final text.
 2. **Technology-sharing questions.** The request about what technology partners can access and about specific partnerships (lidar, cloud, autonomous driving) is the diligence an export-control programme performs on joint ventures and licensing arrangements.
 3. **Congressional inquiry as a precursor.** A committee letter with a preservation request can precede hearings, legislation or agency referral; companies with Chinese shareholders or partners should expect similar requests.
 4. **Compliance posture.** Mercedes-Benz's public line (no board seats, no management authority) is the kind of governance evidence such inquiries focus on.
@@ -39,16 +42,17 @@ The chair and the ranking member of the **House Select Committee on China** (Rep
 ## Contested and unverified items
 
 - The letter text: not read; contents are from VOA's summary and Reuters excerpts.
-- The percentage and composition of Chinese holdings (about 20 %, "reportedly" per VOA) and shareholders' voting power.
-- The deadline (1 Dec per VOA; 6 Dec per one aggregator).
-- The status of the Connected Vehicle Security Act after July; no later committee or floor action was found in the sources read.
+- The letter's date (16 Nov per VOA; Reuters says Wednesday under a 17 Nov dateline) and whether the committee published it.
+- Voting power of the Chinese holders at shareholder meetings (not stated by Reuters).
+- How a Mercedes-Benz carve-out or a Volvo arrangement would be drafted; only a senator's statement supports it.
+- Whether the bill moves in the final weeks of the Congress; no floor action was found.
 - Any link between this letter and any agency action: none shown.
 
 ---
 
 ## Sources
 
-- David Shepardson, "US lawmakers want Mercedes-Benz to disclose details of Chinese ties", Reuters, 17 Nov 2026: <https://www.reuters.com/business/autos-transportation/us-lawmakers-want-mercedes-benz-disclose-details-chinese-ties-2026-11-17/> (**not read directly**; blocked; lede excerpts only)
+- David Shepardson, "US lawmakers want Mercedes-Benz to disclose details of Chinese ties", Reuters, 17 Nov 2026: <https://www.reuters.com/business/autos-transportation/us-lawmakers-want-mercedes-benz-disclose-details-chinese-ties-2026-11-17/> (full text supplied by the user; not fetched directly)
 - Voice of America, "Bipartisan House probe targets Mercedes-Benz's Chinese business ties", 19 Nov 2026: <https://www.voanews.com/a/bipartisan-house-probe-targets-mercedes-benz-s-chinese-business-ties-20261119/8225742.html> (secondary; fetch summary)
 
 *Case note prepared 20 November 2026. Informational only; not legal advice. Update after the 1 December deadline or on any committee release.*
