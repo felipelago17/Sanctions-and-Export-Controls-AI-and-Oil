@@ -9,6 +9,50 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-20
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Proxy Networks](https://home.treasury.gov/news/press-releases/sb0692/)
+- **[OFAC]** [Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0689/)
+- **[OFAC]** [Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0696/)
+- **[OFAC]** [Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia](https://home.treasury.gov/news/press-releases/sb0695/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Shadow Fleet Networks](https://home.treasury.gov/news/press-releases/sb0664/)
+- **[Federal Register]** [FLSA Claims and Compliance (2026-11-20)](https://www.federalregister.gov/documents/2026/11/20/2026-23730/flsa-claims-and-compliance)
+- **[Federal Register]** [Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Military Readiness Activities in the Northwest Training and Testing Study Area (2026-11-20)](https://www.federalregister.gov/documents/2026/11/20/2026-23728/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-military-readiness)
+- **[Federal Register]** [Hours of Service (HOS) of Drivers; American Pyrotechnics Association (APA); Request To Include an Additional Member Company to Current APA HOS Exemptions (2026-11-20)](https://www.federalregister.gov/documents/2026/11/20/2026-23715/hours-of-service-hos-of-drivers-american-pyrotechnics-association-apa-request-to-include-an)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[ExportLawBlog (Clif Burns)]** [All Your Data Center Are Belong To Us](https://www.exportlawblog.com/archives/9674)
+- **[Gibson Dunn]** [Adam Smith Quoted by The Economist on Sanctions Against Russia](https://www.gibsondunn.com/adam-smith-quoted-by-the-economist-on-sanctions-against-russia/)
+- **[Gibson Dunn]** [Gibson Dunn Advises Buckhorn Minerals on Sale to Viper Energy](https://www.gibsondunn.com/gibson-dunn-advises-buckhorn-minerals-on-sale-to-viper-energy/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The Iran War: A Case Study in (Likely) Strategic Defeat](https://www.justsecurity.org/165342/iran-war-case-study-likely-strategic-defeat/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-case-study-likely-strategic-defeat)
+- **[Just Security]** [Early Edition: November 20, 2026](https://www.justsecurity.org/165471/early-edition-november-20-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-20-2026)
+- **[Just Security]** [What Can Congress Do to Stop the Iran War?](https://www.justsecurity.org/165403/what-can-congress-do-stop-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=what-can-congress-do-stop-iran-war)
+- **[Just Security]** [Collection: The Iran War](https://www.justsecurity.org/114556/collection-israel-iran-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=collection-israel-iran-conflict)
+- **[Atlantic Council]** [Nikoladze and De Kruijf cited in Challenges on Nvidia’s pressure on Washington to preserve their access to the Chinese market](https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-and-de-kruijf-cited-in-challenges-on-nvidias-pressure-on-washington-to-preserve-their-access-to-the-chinese-market/)
+- **[Atlantic Council]** [Nikoladze and de Kruijf cited in Journal of Law & Cyber Warfare on US chips and Nvidia’s influence](https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-and-de-kruijf-cited-in-journal-of-law-cyber-warfare-on-us-chips-and-nvidias-influence/)
+- **[Atlantic Council]** [Nikoladze interviewed by Malaysian Business FM on the Nvidia scandal and implications for export controls](https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-interviewed-by-malaysian-business-fm-on-the-nvidia-scandal-and-implications-for-export-controls/)
+- **[Atlantic Council]** [Dispatch from Manama: The Iran war is not over for Bahrain](https://www.atlanticcouncil.org/dispatches/dispatch-from-manama-the-most-underappreciated-us-ally-in-the-gulf/)
+- **[Atlantic Council]** [Kyiv’s partners should prioritize Ukraine’s domestic drone production](https://www.atlanticcouncil.org/blogs/ukrainealert/kyivs-partners-should-prioritize-ukraines-domestic-drone-production/)
+- **[Atlantic Council]** [US Energy Secretary Chris Wright and Polish Energy Minister Miłosz Motyka on why Europe’s security depends on its energy supply](https://www.atlanticcouncil.org/news/transcripts/us-energy-secretary-chris-wright-and-polish-energy-minister-milosz-motyka-on-why-europes-security-depends-on-its-energy-supply/)
+- **[Atlantic Council]** [Five European ministers on why they won’t go back to business with Russia](https://www.atlanticcouncil.org/commentary/event-recap/five-european-ministers-on-why-they-wont-go-back-to-business-with-russia/)
+- **[Atlantic Council]** [The foresight brief: Chokepoints past, present, and future](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-foresight-brief-chokepoints-past-present-and-future/)
+- **[Atlantic Council]** [Mercenaries, apps, and crypto: Russia’s hybrid war on Europe](https://www.atlanticcouncil.org/commentary/podcast/mercenaries-apps-and-crypto-russias-hybrid-war-on-europe/)
+- **[Atlantic Council]** [Toplines: Why and how the United States and its allies should prepare for a limited nuclear attack](https://www.atlanticcouncil.org/in-depth-research-reports/toplines-why-and-how-the-united-states-and-its-allies-should-prepare-for-a-limited-nuclear-attack/)
+
+---
+
 ## 2026-11-20 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
