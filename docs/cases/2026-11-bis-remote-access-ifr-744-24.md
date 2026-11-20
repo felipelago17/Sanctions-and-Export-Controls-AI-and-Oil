@@ -168,6 +168,28 @@ Gibson Dunn (Timura, Bhavsar, Chae, Holmberg, Axelrod), "BIS Expands Advanced Co
 
 ---
 
+## Practitioner commentary — Wiley client alert (19 November 2026)
+
+*Source: Wiley Rein, "BIS Issues Interim Final Rule on Remote Access to Supercomputing Capabilities", 19 Nov 2026 (national security team alert). Full text supplied by the user and read; not fetched directly. Secondary; paraphrased.*
+
+- **Baseline the rule departs from.** BIS advisory opinions of January 2009 (reaffirmed 2014) treated providing computational capacity through grid or cloud computing as not subject to the EAR, and BIS has long held that hosting software on a US server for remote use is not an "export" absent download, code, keys or controlled technology. The firm reads the rule as **materially narrowing that carve-out, not entirely overturning it**.
+- **Direction.** The alert repeats that BIS issued the rule at the direction of Treasury and the National Security Council, and that the aim is to align remote-access protection with physical-shipment controls.
+- **End-use control.** Licence needed where the exporter, reexporter or transferor has "knowledge" that items will go to a data centre supplying more than 12,000,000 aggregate TPP to an entity headquartered, or with an ultimate parent headquartered, in Macau or Country Group D:5. The alert lists the covered ECCNs (3A001.z; 3A090 except .c; 4A003.z, 4A004.z, 4A005.z, 4A090; 5A002.z, 5A004.z, 5A992.z; related 3D/3E, 4D/4E, 5D/5E software and technology entries).
+- **Linked sites and de minimis.** The threshold applies to individual and "linked" data centres (networked facilities sharing resources, balancing workloads and replicating data as a whole), so splitting capacity does not avoid it; the de minimis rules cannot be used to escape the control.
+- **Knowledge standard.** Exporters must obtain, and be able to produce, information on the foreign data centre's KYC, including diligence on direct or indirect ownership or control by persons located or headquartered in Macau or D:5 countries. A data centre's refusal or inability to give enough information is a **red flag that presumptively supplies knowledge** unless resolved before proceeding.
+- **Existing operators and monitoring.** Existing data centres have **90 days** from the effective date to obtain a licence. A later change of end-use at an overseas centre counts as a **transfer (in-country)** and may require notification and authorisation.
+- **Recommender exception.** Available only where access is used exclusively for a commercial recommender system (ranking, filtering or suggesting products, services or content from user behaviour, history or item attributes); use **requires reporting to BIS**.
+- **Destination-based licence.** Items in ECCNs 3A090, 4A090 and the related ".z" paragraphs need a licence for Indonesia, Malaysia, Singapore, Thailand and Brazil, plus any country later designated. BIS says it is pursuing further consequences for countries and entities that evade the rule: additional import and licensing restrictions, downgraded standing in the export-control regime and possible Entity List placement. The requirement does not apply where the ultimate consignee or end user is headquartered in, or has an ultimate parent in, the United States, if reporting to BIS on items, TPP, parties and destination is made.
+- **Foundries and OSATs.** Licence requirements continue; designers that are, or have a parent in, a D:1, D:4 or D:5 destination and are not "Authorized" or "Approved" can no longer use the earlier ways to rebut the presumption that output is for data centres.
+- **AI Diffusion rescission.** Formally revokes the model-weight controls, the worldwide Regional Stability licensing regime, licence exceptions AIA and LPP, and the Data Center Validated End User authorisation. **Retained:** licence exception ACM (§ 740.28), the advanced-computing foreign direct product rule (§ 734.9(h)), and a revised § 744.23 end-use control.
+- **"Is informed" process.** The rule widens BIS's ability to tell specific parties that a licence is required because of an unacceptable risk of diversion to the covered data-centre end uses and users.
+- **Timing and comments.** Effective on Federal Register publication; **comments due 60 days after publication**. The alert, dated 19 Nov, does not give a Federal Register citation.
+- **RASA.** The alert notes the rule addresses concerns behind H.R. 2683, the Remote Access Security Act (passed the House in January 2026), and says it is unclear how the two would be reconciled or whether RASA could authorise broader controls.
+
+**Firm's practical takeaway:** data-centre operators, exporters of advanced computing components and fabricators should update export-compliance procedures.
+
+---
+
 ## Contested and Unverified Items
 
 - **Draft status:** The display copy is a pre-publication draft; final text, section numbers and dates may differ.
@@ -190,6 +212,7 @@ Gibson Dunn (Timura, Bhavsar, Chae, Holmberg, Axelrod), "BIS Expands Advanced Co
 - **"Headquartered" and "Target Country":** Gibson Dunn defines covered companies as those headquartered in, or with an ultimate parent headquartered in, Macau or Country Group D:5, and does not use a "Target Country" term (Ashurst does; likely the firm's own label). Gibson Dunn notes KYC scope ("located in") is broader than the licence trigger ("headquartered in"). Confirm against the Federal Register text.
 - **Foundry/OSAT dates, corroborated:** Gibson Dunn also gives 31 Dec 2026 and the 180-day lapse, attributing them to a separate April 2026 rule; the underlying rule has not been read here.
 - **Federal Register publication:** scheduled for 19 Nov 2026 per Gibson Dunn (as of 17 Nov) and others; a search on 19–20 Nov found **no Federal Register confirmation**. Treat the date as unconfirmed.
+- **Wiley alert (19 Nov):** consistent with the other alerts on the 12,000,000 TPP test, the 90-day window, the five-country licence and the recommender reporting requirement. It speaks of reporting to BIS (like Ashurst). It adds a "red flag" presumption of knowledge on a data centre's refusal to give KYC information and a US-headquartered exemption conditioned on reporting; neither is checked against rule text. Its "60 days" comment period is also unverified. It still treats the rule as effective "upon publication" and gives no Federal Register citation, so **publication remains unconfirmed from the alert itself**.
 - **Secondary commentary:** Press characterisations (e.g. of motivations or political context) are not relied on here.
 
 ---
@@ -203,6 +226,7 @@ Gibson Dunn (Timura, Bhavsar, Chae, Holmberg, Axelrod), "BIS Expands Advanced Co
 - Ashurst Perkins Coie, "BIS issues Interim Final Rule restricting remote access to advanced US AI chips", client alert, 17 Nov 2026: <https://www.ashurstperkinscoie.com/en/insights/bis-issues-interim-final-rule-restricting-remote-access-to-advanced-us-ai-chips/> (secondary; fetch summary only; links Federal Register public-inspection document 2026-23529)
 - Kate Koren and Kevin Kurland, "New Export Controls on Remote Access: The Implications for Industry and Competition with China", CSIS Critical Questions, 18 Nov 2026: <https://www.csis.org/analysis/new-export-controls-remote-access-implications-industry-and-competition-china> (secondary; think-tank analysis; fetch summary only)
 - Chris Timura, Dharak Bhavsar, Soo-Min Chae, Erika Holmberg and Matt Axelrod, "BIS Expands Advanced Computing Controls to Address Data Center Remote Access and Third Country Diversion", Gibson Dunn client alert, 18 Nov 2026: <https://www.gibsondunn.com/wp-content/uploads/2026/11/bis-expands-advanced-computing-controls-to-address-data-center-remote-access-and-third-country-diversion.pdf> (secondary; fetch summary only)
+- Wiley Rein, "BIS Issues Interim Final Rule on Remote Access to Supercomputing Capabilities", client alert, 19 Nov 2026: <https://www.wiley.law/alert-BIS-Issues-Interim-Final-Rule-on-Remote-Access-to-Supercomputing-Capabilities> (secondary; full text supplied by the user, not fetched directly)
 
 **Related pages in this repository**
 
