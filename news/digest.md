@@ -9,6 +9,42 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-21
+
+### Official & Regulatory
+
+- **[OFAC]** [Operation Economic Outcast Targets Corrupt Regime Insiders Exploiting Iran's Oil Sector for Personal Gain](https://home.treasury.gov/news/press-releases/sb0697/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Proxy Networks](https://home.treasury.gov/news/press-releases/sb0692/)
+- **[OFAC]** [Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0689/)
+- **[OFAC]** [Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0696/)
+- **[OFAC]** [Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia](https://home.treasury.gov/news/press-releases/sb0695/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[OFAC]** [Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses](https://home.treasury.gov/news/press-releases/sb0669/)
+- **[Federal Register]** [Amendment of Class E Airspace; Del Rio, TX (2026-11-23)](https://www.federalregister.gov/documents/2026/11/23/2026-23836/amendment-of-class-e-airspace-del-rio-tx)
+- **[Federal Register]** [Magnesia Carbon Bricks From China and Mexico; Scheduling of Expedited Five-Year Reviews (2026-11-23)](https://www.federalregister.gov/documents/2026/11/23/2026-23810/magnesia-carbon-bricks-from-china-and-mexico-scheduling-of-expedited-five-year-reviews)
+- **[Federal Register]** [Foreign-Trade Zone 18; Application for Subzone Expansion; Energy Recovery, Inc.; Tracy, California (2026-11-23)](https://www.federalregister.gov/documents/2026/11/23/2026-23808/foreign-trade-zone-18-application-for-subzone-expansion-energy-recovery-inc-tracy-california)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Media Highlight Energy and Infrastructure Dealmaker Omar Samji’s Return to Gibson Dunn’s Houston Office](https://www.gibsondunn.com/media-highlight-energy-and-infrastructure-dealmaker-omar-samjis-return-to-gibson-dunns-houston-office/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [The Iran War: A Case Study in (Likely) Strategic Defeat](https://www.justsecurity.org/165342/iran-war-case-study-likely-strategic-defeat/?utm_source=rss&utm_medium=rss&utm_campaign=iran-war-case-study-likely-strategic-defeat)
+- **[Just Security]** [Early Edition: November 20, 2026](https://www.justsecurity.org/165471/early-edition-november-20-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-20-2026)
+- **[Just Security]** [What Can Congress Do to Stop the Iran War?](https://www.justsecurity.org/165403/what-can-congress-do-stop-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=what-can-congress-do-stop-iran-war)
+- **[Just Security]** [Collection: The Iran War](https://www.justsecurity.org/114556/collection-israel-iran-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=collection-israel-iran-conflict)
+- **[Atlantic Council]** [Will Putin achieve by guile what Stalin achieved with millions of troops?](https://www.atlanticcouncil.org/blogs/ukrainealert/will-putin-achieve-by-guile-what-stalin-achieved-with-millions-of-troops/)
+- **[Atlantic Council]** [Nikoladze and De Kruijf cited in Challenges on Nvidia’s pressure on Washington to preserve their access to the Chinese market](https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-and-de-kruijf-cited-in-challenges-on-nvidias-pressure-on-washington-to-preserve-their-access-to-the-chinese-market/)
+- **[Atlantic Council]** [Nikoladze and de Kruijf cited in Journal of Law & Cyber Warfare on US chips and Nvidia’s influence](https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-and-de-kruijf-cited-in-journal-of-law-cyber-warfare-on-us-chips-and-nvidias-influence/)
+- **[Atlantic Council]** [Nikoladze interviewed by Malaysian Business FM on the Nvidia scandal and implications for export controls](https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-interviewed-by-malaysian-business-fm-on-the-nvidia-scandal-and-implications-for-export-controls/)
+
+---
+
 ## 2026-11-20
 
 ### Official & Regulatory
