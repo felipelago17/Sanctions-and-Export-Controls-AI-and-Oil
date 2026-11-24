@@ -343,5 +343,20 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-11-24-8639",
+    "date": "2026-11-24",
+    "event_name": "National Institute of Dental & Craniofacial Research; Notice of Meeting",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23934/national-institute-of-dental-and-craniofacial-research-notice-of-meeting",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
