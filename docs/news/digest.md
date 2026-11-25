@@ -9,6 +9,49 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-25
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [UK: ECJU Proposes Export Control (Amendment) Regulations 2026 (SI 2026/1150)](https://sanctionsnews.bakermckenzie.com/proposed-uk-export-control-changes/)
+- **[Baker McKenzie Sanctions]** [China: Suspension of 24% additional tariff on US-origin goods and related retaliatory measures extended for two months](https://sanctionsnews.bakermckenzie.com/china-suspension-of-24-additional-tariff-on-us-origin-goods-and-related-retaliatory-measures-extended-for-two-months/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Iran's Global Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0699/)
+- **[OFAC]** [Operation Economic Outcast Targets Corrupt Regime Insiders Exploiting Iran's Oil Sector for Personal Gain](https://home.treasury.gov/news/press-releases/sb0697/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Proxy Networks](https://home.treasury.gov/news/press-releases/sb0692/)
+- **[OFAC]** [Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0689/)
+- **[OFAC]** [Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0696/)
+- **[OFAC]** [Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia](https://home.treasury.gov/news/press-releases/sb0695/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[Federal Register]** [Agency Information Collection Activities; Proposed Collection; Comment Request; Coronavirus Capital Projects Fund Reporting & Recordkeeping (2026-11-25)](https://www.federalregister.gov/documents/2026/11/25/2026-24020/agency-information-collection-activities-proposed-collection-comment-request-coronavirus-capital)
+- **[Federal Register]** [Orano Enrichment USA, LLC; Uranium Enrichment Facility; Draft Environmental Impact Statement (2026-11-25)](https://www.federalregister.gov/documents/2026/11/25/2026-24019/orano-enrichment-usa-llc-uranium-enrichment-facility-draft-environmental-impact-statement)
+- **[Federal Register]** [Safety Zone; Brownsville Ship Channel, Brownsville, TX (2026-11-25)](https://www.federalregister.gov/documents/2026/11/25/2026-24010/safety-zone-brownsville-ship-channel-brownsville-tx)
+- **[Federal Register]** [Commission Information Collection Activities (FERC-549C); Comment Request; Extension (2026-11-25)](https://www.federalregister.gov/documents/2026/11/25/2026-24006/commission-information-collection-activities-ferc-549c-comment-request-extension)
+- **[Federal Register]** [Commission Information Collection Activities (FERC-153); Comment Request; Extension (2026-11-25)](https://www.federalregister.gov/documents/2026/11/25/2026-24005/commission-information-collection-activities-ferc-153-comment-request-extension)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+### Law Firm Analysis
+
+- **[Gibson Dunn]** [Law360 Energy MVP Tory Lauterbach Discusses Recent Deals, Advice to Young Lawyers](https://www.gibsondunn.com/law360-energy-mvp-tory-lauterbach-discusses-recent-deals-advice-to-young-lawyers/)
+- **[Gibson Dunn]** [Gibson Dunn Team Obtains Verdict for Energy Transfer and Sea Robin Pipeline in Breach of Contract Case, Prevailing on Every Claim](https://www.gibsondunn.com/gibson-dunn-team-obtains-verdict-for-energy-transfer-and-sea-robin-pipeline-in-breach-of-contract-case-prevailing-on-every-claim/)
+
+### Think Tanks & Academic
+
+- **[Just Security]** [Early Edition: November 25, 2026](https://www.justsecurity.org/165910/early-edition-november-25-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-25-2026)
+- **[Just Security]** [Europe’s Courts Become Last Resort for Protecting Those Who Help Migrants](https://www.justsecurity.org/165674/europe-courts-protect-aid-to-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=europe-courts-protect-aid-to-migrants)
+- **[Just Security]** [The Big Disconnect in Kushner’s “Article 5-Like” Security Offer for Ukraine in Russia Talks](https://www.justsecurity.org/165704/ukraine-russia-kushner-security-offer/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-russia-kushner-security-offer)
+- **[Atlantic Council]** [What it will take for nuclear energy to take off across Europe](https://www.atlanticcouncil.org/commentary/event-recap/what-it-will-take-for-nuclear-energy-to-take-off-across-europe/)
+- **[Atlantic Council]** [China’s conspicuous absence in Asian energy security plans](https://www.atlanticcouncil.org/blogs/energysource/chinas-conspicuous-absence-in-asian-energy-security-plans/)
+- **[Atlantic Council]** [Huang is back at Nvidia. But the fight over who controls chip exports is just beginning.](https://www.atlanticcouncil.org/dispatches/huang-is-back-at-nvidia-but-the-fight-over-who-controls-chip-exports-is-just-beginning/)
+- **[Atlantic Council]** [Ukraine is now a drone superpower at sea, on land, and in the air](https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-is-now-a-drone-superpower-at-sea-on-land-and-in-the-air/)
+- **[Atlantic Council]** [The president and Congress must forge a common US strategy on Ukraine](https://www.atlanticcouncil.org/blogs/ukrainealert/president-and-congress-must-forge-a-common-us-strategy-on-ukraine/)
+- **[Atlantic Council]** [What Congress can do about China’s support for Russia’s war](https://www.atlanticcouncil.org/dispatches/what-congress-can-do-about-chinas-support-for-russias-war/)
+- **[Atlantic Council]** [Governor Josh Shapiro on Trump, Iran, and the future of US foreign policy](https://www.atlanticcouncil.org/inflection-points-with-frederick-kempe/governor-josh-shapiro-on-trump-iran-and-the-future-of-us-foreign-policy/)
+
+---
+
 ## 2026-11-25 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
