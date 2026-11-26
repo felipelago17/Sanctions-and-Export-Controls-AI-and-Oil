@@ -358,5 +358,20 @@
       "EAR",
       "OFAC"
     ]
+  },
+  {
+    "event_id": "FR-2026-11-27-2045",
+    "date": "2026-11-27",
+    "event_name": "Heightened Import Disclosures for Supply Chain Visibility; Extension of Comment Period",
+    "jurisdiction": "US",
+    "regulation": "Federal Register",
+    "status": "Final rule",
+    "enforcement_likelihood": "Medium",
+    "impact_assessment": "This document announces that U.S. Customs and Border Protection (CBP) will extend the comment period for an additional 45 days for interested parties to submit comments on the advance notice of propos",
+    "tracking_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24149/heightened-import-disclosures-for-supply-chain-visibility-extension-of-comment-period",
+    "topics": [
+      "EAR",
+      "OFAC"
+    ]
   }
 ]
