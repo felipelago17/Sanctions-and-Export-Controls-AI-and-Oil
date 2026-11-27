@@ -9,6 +9,30 @@ See [Additional Sources & Literature](../additional-sources.md) for the full sou
 ---
 
 <!-- DIGEST_START -->
+## 2026-11-27
+
+### Official & Regulatory
+
+- **[Baker McKenzie Sanctions]** [Sanctions update: EU proposes 22nd Russia package](https://sanctionsnews.bakermckenzie.com/sanctions-update-eu-proposes-22nd-russia-package/)
+- **[OFAC]** [Operation Economic Outcast Disrupts Iran's Global Shadow Banking Networks](https://home.treasury.gov/news/press-releases/sb0699/)
+- **[OFAC]** [Operation Economic Outcast Targets Corrupt Regime Insiders Exploiting Iran's Oil Sector for Personal Gain](https://home.treasury.gov/news/press-releases/sb0697/)
+- **[OFAC]** [Operation Economic Outcast Targets Iran's Proxy Networks](https://home.treasury.gov/news/press-releases/sb0692/)
+- **[OFAC]** [Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0689/)
+- **[OFAC]** [Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels](https://home.treasury.gov/news/press-releases/sb0696/)
+- **[OFAC]** [Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia](https://home.treasury.gov/news/press-releases/sb0695/)
+- **[OFAC]** [Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime](https://home.treasury.gov/news/press-releases/sb0686/)
+- **[OFAC]** [Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them](https://home.treasury.gov/news/press-releases/sb0683/)
+- **[OFAC]** [Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime](https://home.treasury.gov/news/press-releases/sb0681/)
+- **[OFAC]** [Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23](https://home.treasury.gov/news/press-releases/sb0668/)
+- **[Federal Register]** [Permits; Foreign Fishing (2026-11-27)](https://www.federalregister.gov/documents/2026/11/27/2026-24164/permits-foreign-fishing)
+- **[Federal Register]** [Notice of Proposed Information Collection Requests: IMLS Grants to States Five-Year State Plan Guidelines for State Library Administrative Agencies for Fiscal Years 2028-2032 (2026-11-27)](https://www.federalregister.gov/documents/2026/11/27/2026-24163/notice-of-proposed-information-collection-requests-imls-grants-to-states-five-year-state-plan)
+- **[Federal Register]** [Information Collection: Suspicious Activity Reporting Using the Protective Web Server (2026-11-27)](https://www.federalregister.gov/documents/2026/11/27/2026-24158/information-collection-suspicious-activity-reporting-using-the-protective-web-server)
+- **[Federal Register]** [Polytetramethylene Ether Glycol (PTMEG) From China, South Korea, Taiwan, and Vietnam; Scheduling of the Final Phase of Antidumping Duty Investigations; Correction (2026-11-27)](https://www.federalregister.gov/documents/2026/11/27/2026-24155/polytetramethylene-ether-glycol-ptmeg-from-china-south-korea-taiwan-and-vietnam-scheduling-of-the)
+- **[Federal Register]** [Civil Penalties; Notice of Adjusted Maximum Amounts (2026-11-27)](https://www.federalregister.gov/documents/2026/11/27/2026-24153/civil-penalties-notice-of-adjusted-maximum-amounts)
+- **[DOJ NSD]** [Press Releases](https://www.justice.gov/news/press-releases)
+
+---
+
 ## 2026-11-27 - BIS Affiliates Rule Monitor *(auto)*
 
 *Anthropic API error - raw Federal Register items logged below.*
