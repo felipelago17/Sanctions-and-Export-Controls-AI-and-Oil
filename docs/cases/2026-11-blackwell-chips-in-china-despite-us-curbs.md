@@ -33,7 +33,7 @@ On 27 November 2026 Bloomberg reported that Chinese firms had installed an **Nvi
 | 16 Nov 2026 | **Commerce and DOJ** joint statement: Megaspeed investigation (opened 2024), DOJ leading a criminal probe; Nvidia put Megaspeed on its no-sell list in June 2025 | Tier 2 via SCMP, Mothership (see the [joint-statement note](2026-11-commerce-doj-megaspeed-joint-statement.md)) |
 | 27 Nov 2026 | Bloomberg: GB300 rack at the Shanghai site (section 1) | Bloomberg via aggregators |
 
-**Conflict to note:** one aggregator (Talkesport, 27 Nov) says the US placed Megaspeed on its trade blacklist "this week". Earlier reporting (FT, 10 Nov; Bessent, 13 Nov) says Commerce had **not** added it to the Entity List. **No Entity List action on Megaspeed was confirmed in the sources read**; treat the "blacklist" claim as unverified until the Federal Register or a BIS release is checked.
+**Update (23 Nov 2026): Entity List action.** Secondary reporting (Unite.ai, Sentisight and others) says BIS filed a final rule (Federal Register document 2026-23999) on public inspection on 23 Nov, scheduled for publication on 25 Nov, adding Megaspeed International Pte. Ltd. and six affiliates in Singapore, Malaysia and Thailand to the Entity List. Reported terms: licence required for all items subject to the EAR; presumption of denial; a 30-day savings clause for shipments already en route. This supersedes the earlier FT (10 Nov) and Bessent (13 Nov) reports that Commerce had not listed it. **The Federal Register or BIS text was not read**; confirm before relying on it. Megaspeed denies wrongdoing.
 
 ## 3. Diversion typologies shown
 
@@ -63,7 +63,7 @@ On 27 November 2026 Bloomberg reported that Chinese firms had installed an **Nvi
 
 - Bloomberg's original was not read; details come from aggregators and may be imprecise (figures: 96m yuan, about $14m; unit price about $264,000).
 - Whether Megaspeed, its affiliates or others diverted the Shanghai hardware: **unestablished**.
-- The Entity List status of Megaspeed: conflicting aggregator claim; unconfirmed.
+- The Entity List action on Megaspeed (23 Nov, document 2026-23999): consistent across secondary sources; primary text not read.
 - The 17,544 GB300 import figure and the 50,000-unit shortfall: reported by Bloomberg via TNW, unverified.
 - The forensic "signature" analysis: authors state it shows access to hardware, not its location or any violation.
 - Moonshot, Gigabyte, Super Micro, Asus and the lenders each deny or have not commented as noted; none is shown to have breached law.
